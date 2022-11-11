@@ -1,6 +1,3 @@
-// Some learnset entries have a weird level value, such as -3. This may indicate "learn on evolution"?
-
-
 Charmander - 39/52/43/60/50/65 (Total: 309) - Fire/Fire - Blaze/Blaze/Solar Power
 Evolutions:
     Level: 16
