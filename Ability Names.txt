@@ -1,0 +1,299 @@
+000: —
+001: Stench
+002: Drizzle
+003: Speed Boost
+004: Battle Armor
+005: Sturdy
+006: Damp
+007: Limber
+008: Sand Veil
+009: Static
+010: Volt Absorb
+011: Water Absorb
+012: Oblivious
+013: Cloud Nine
+014: Compound Eyes
+015: Insomnia
+016: Color Change
+017: Immunity
+018: Flash Fire
+019: Shield Dust
+020: Own Tempo
+021: Suction Cups
+022: Intimidate
+023: Shadow Tag
+024: Rough Skin
+025: Wonder Guard
+026: Levitate
+027: Effect Spore
+028: Synchronize
+029: Clear Body
+030: Natural Cure
+031: Lightning Rod
+032: Serene Grace
+033: Swift Swim
+034: Chlorophyll
+035: Illuminate
+036: Trace
+037: Huge Power
+038: Poison Point
+039: Inner Focus
+040: Magma Armor
+041: Water Veil
+042: Magnet Pull
+043: Soundproof
+044: Rain Dish
+045: Sand Stream
+046: Pressure
+047: Thick Fat
+048: Early Bird
+049: Flame Body
+050: Run Away
+051: Keen Eye
+052: Hyper Cutter
+053: Pickup
+054: Truant
+055: Hustle
+056: Cute Charm
+057: Plus
+058: Minus
+059: Forecast
+060: Sticky Hold
+061: Shed Skin
+062: Guts
+063: Marvel Scale
+064: Liquid Ooze
+065: Overgrow
+066: Blaze
+067: Torrent
+068: Swarm
+069: Rock Head
+070: Drought
+071: Arena Trap
+072: Vital Spirit
+073: White Smoke
+074: Pure Power
+075: Shell Armor
+076: Air Lock
+077: Tangled Feet
+078: Motor Drive
+079: Rivalry
+080: Steadfast
+081: Snow Cloak
+082: Gluttony
+083: Anger Point
+084: Unburden
+085: Heatproof
+086: Simple
+087: Dry Skin
+088: Download
+089: Iron Fist
+090: Poison Heal
+091: Adaptability
+092: Skill Link
+093: Hydration
+094: Solar Power
+095: Quick Feet
+096: Normalize
+097: Sniper
+098: Magic Guard
+099: No Guard
+100: Stall
+101: Technician
+102: Leaf Guard
+103: Klutz
+104: Mold Breaker
+105: Super Luck
+106: Aftermath
+107: Anticipation
+108: Forewarn
+109: Unaware
+110: Tinted Lens
+111: Filter
+112: Slow Start
+113: Scrappy
+114: Storm Drain
+115: Ice Body
+116: Solid Rock
+117: Snow Warning
+118: Honey Gather
+119: Frisk
+120: Reckless
+121: Multitype
+122: Flower Gift
+123: Bad Dreams
+124: Pickpocket
+125: Sheer Force
+126: Contrary
+127: Unnerve
+128: Defiant
+129: Defeatist
+130: Cursed Body
+131: Healer
+132: Friend Guard
+133: Weak Armor
+134: Heavy Metal
+135: Light Metal
+136: Multiscale
+137: Toxic Boost
+138: Flare Boost
+139: Harvest
+140: Telepathy
+141: Moody
+142: Overcoat
+143: Poison Touch
+144: Regenerator
+145: Big Pecks
+146: Sand Rush
+147: Wonder Skin
+148: Analytic
+149: Illusion
+150: Imposter
+151: Infiltrator
+152: Mummy
+153: Moxie
+154: Justified
+155: Rattled
+156: Magic Bounce
+157: Sap Sipper
+158: Prankster
+159: Sand Force
+160: Iron Barbs
+161: Zen Mode
+162: Victory Star
+163: Turboblaze
+164: Teravolt
+165: Aroma Veil
+166: Flower Veil
+167: Cheek Pouch
+168: Protean
+169: Fur Coat
+170: Magician
+171: Bulletproof
+172: Competitive
+173: Strong Jaw
+174: Refrigerate
+175: Sweet Veil
+176: Stance Change
+177: Gale Wings
+178: Mega Launcher
+179: Grass Pelt
+180: Symbiosis
+181: Tough Claws
+182: Pixilate
+183: Gooey
+184: Aerilate
+185: Parental Bond
+186: Dark Aura
+187: Fairy Aura
+188: Aura Break
+189: Primordial Sea
+190: Desolate Land
+191: Delta Stream
+192: Stamina
+193: Wimp Out
+194: Emergency Exit
+195: Water Compaction
+196: Merciless
+197: Shields Down
+198: Stakeout
+199: Water Bubble
+200: Steelworker
+201: Berserk
+202: Slush Rush
+203: Long Reach
+204: Liquid Voice
+205: Triage
+206: Galvanize
+207: Surge Surfer
+208: Schooling
+209: Disguise
+210: Battle Bond
+211: Power Construct
+212: Corrosion
+213: Comatose
+214: Queenly Majesty
+215: Innards Out
+216: Dancer
+217: Battery
+218: Fluffy
+219: Dazzling
+220: Soul-Heart
+221: Tangling Hair
+222: Receiver
+223: Power of Alchemy
+224: Beast Boost
+225: RKS System
+226: Electric Surge
+227: Psychic Surge
+228: Misty Surge
+229: Grassy Surge
+230: Full Metal Body
+231: Shadow Shield
+232: Prism Armor
+233: Neuroforce
+234: Intrepid Sword
+235: Dauntless Shield
+236: Libero
+237: Ball Fetch
+238: Cotton Down
+239: Propeller Tail
+240: Mirror Armor
+241: Gulp Missile
+242: Stalwart
+243: Steam Engine
+244: Punk Rock
+245: Sand Spit
+246: Ice Scales
+247: Ripen
+248: Ice Face
+249: Power Spot
+250: Mimicry
+251: Screen Cleaner
+252: Steely Spirit
+253: Perish Body
+254: Wandering Spirit
+255: Gorilla Tactics
+256: Neutralizing Gas
+257: Pastel Veil
+258: Hunger Switch
+259: Quick Draw
+260: Unseen Fist
+261: Curious Medicine
+262: Transistor
+263: Dragon’s Maw
+264: Chilling Neigh
+265: Grim Neigh
+266: As One
+267: As One
+268: Lingering Aroma
+269: Seed Sower
+270: Thermal Exchange
+271: Anger Shell
+272: Purifying Salt
+273: Well-Baked Body
+274: Wind Rider
+275: Guard Dog
+276: Rocky Payload
+277: Wind Power
+278: Zero to Hero
+279: Commander
+280: Electromorphosis
+281: Protosynthesis
+282: Quark Drive
+283: Good as Gold
+284: Vessel of Ruin
+285: Sword of Ruin
+286: Tablets of Ruin
+287: Beads of Ruin
+288: Orichalcum Pulse
+289: Hadron Engine
+290: Opportunist
+291: Cud Chew
+292: Sharpness
+293: Supreme Overlord
+294: Costar
+295: Toxic Debris
+296: Armor Tail
+297: Earth Eater
+298: Mycelium Might
