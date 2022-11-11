@@ -1,0 +1,171 @@
+001	Take Down	猛撞
+002	Charm	撒娇
+003	Fake Tears	假哭
+004	Agility	高速移动
+005	Mud-Slap	掷泥
+006	Scary Face	鬼面
+007	Protect	守住
+008	Fire Fang	火焰牙
+009	Thunder Fang	雷电牙
+010	Ice Fang	冰冻牙
+011	Water Pulse	水之波动
+012	Low Kick	踢倒
+013	Acid Spray	酸液炸弹
+014	Acrobatics	杂技
+015	Struggle Bug	虫之抵抗
+016	Psybeam	幻象光线
+017	Confuse Ray	奇异之光
+018	Thief	小偷
+019	Disarming Voice	魅惑之声
+020	Trailblaze	起草
+021	Pounce	#N/A
+022	Chilling Water	#N/A
+023	Charge Beam	充电光束
+024	Fire Spin	火焰旋涡
+025	Facade	硬撑
+026	Poison Tail	毒尾
+027	Aerial Ace	燕返
+028	Bulldoze	重踏
+029	Hex	祸不单行
+030	Snarl	大声咆哮
+031	Metal Claw	金属爪
+032	Swift	高速星星
+033	Magical Leaf	魔法叶
+034	Icy Wind	冰冻之风
+035	Mud Shot	泥巴射击
+036	Rock Tomb	岩石封锁
+037	Draining Kiss	吸取之吻
+038	Flame Charge	蓄能焰袭
+039	Low Sweep	下盘踢
+040	Air Cutter	空气利刃
+041	Stored Power	辅助力量
+042	Night Shade	黑夜魔影
+043	Fling	投掷
+044	Dragon Tail	龙尾
+045	Venoshock	毒液冲击
+046	Avalanche	雪崩
+047	Endure	挺住
+048	Volt Switch	伏特替换
+049	Sunny Day	大晴天
+050	Rain Dance	求雨
+051	Sandstorm	沙暴
+052	Snowscape	#N/A
+053	Smart Strike	修长之角
+054	Psyshock	精神冲击
+055	Dig	挖洞
+056	Bullet Seed	种子机关枪
+057	False Swipe	点到为止
+058	Brick Break	劈瓦
+059	Zen Headbutt	意念头锤
+060	U-turn	急速折返
+061	Shadow Claw	暗影爪
+062	Foul Play	欺诈
+063	Psychic Fangs	精神之牙
+064	Bulk Up	健美
+065	Air Slash	空气斩
+066	Body Slam	泰山压顶
+067	Fire Punch	火焰拳
+068	Thunder Punch	雷电拳
+069	Ice Punch	冰冻拳
+070	Sleep Talk	梦话
+071	Seed Bomb	种子炸弹
+072	Electro Ball	电球
+073	Drain Punch	吸取拳
+074	Reflect	反射壁
+075	Light Screen	光墙
+076	Rock Blast	岩石爆击
+077	Waterfall	攀瀑
+078	Dragon Claw	龙爪
+079	Dazzling Gleam	魔法闪耀
+080	Metronome	挥指
+081	Grass Knot	打草结
+082	Thunder Wave	电磁波
+083	Poison Jab	毒击
+084	Stomping Tantrum	跺脚
+085	Rest	睡觉
+086	Rock Slide	岩崩
+087	Taunt	挑衅
+088	Swords Dance	剑舞
+089	Body Press	扑击
+090	Spikes	撒菱
+091	Toxic Spikes	毒菱
+092	Imprison	封印
+093	Flash Cannon	加农光炮
+094	Dark Pulse	恶之波动
+095	Leech Life	吸血
+396	Eerie Impulse	怪异电波
+097	Fly	飞翔
+098	Skill Swap	特性互换
+099	Iron Head	铁头
+100	Dragon Dance	龙之舞
+101	Power Gem	力量宝石
+102	Gunk Shot	垃圾射击
+103	Substitute	替身
+104	Iron Defense	铁壁
+105	X-Scissor	十字剪
+106	Drill Run	直冲钻
+107	Will-O-Wisp	鬼火
+108	Crunch	咬碎
+109	Trick	戏法
+110	Liquidation	水流裂破
+111	Giga Drain	终极吸取
+112	Aura Sphere	波导弹
+113	Tailwind	顺风
+114	Shadow Ball	暗影球
+115	Dragon Pulse	龙之波动
+116	Stealth Rock	隐形岩
+117	Hyper Voice	巨声
+118	Heat Wave	热风
+119	Energy Ball	能量球
+120	Psychic	精神强念
+121	Heavy Slam	重磅冲撞
+122	Encore	再来一次
+123	Surf	冲浪
+124	Ice Spinner	#N/A
+125	Flamethrower	喷射火焰
+126	Thunderbolt	十万伏特
+127	Play Rough	嬉闹
+128	Amnesia	瞬间失忆
+129	Calm Mind	冥想
+130	Helping Hand	帮助
+131	Pollen Puff	花粉团
+132	Baton Pass	接棒
+133	Earth Power	大地之力
+134	Reversal	起死回生
+135	Ice Beam	冰冻光束
+136	Electric Terrain	电气场地
+137	Grassy Terrain	青草场地
+138	Psychic Terrain	精神场地
+139	Misty Terrain	薄雾场地
+140	Nasty Plot	诡计
+141	Fire Blast	大字爆炎
+142	Hydro Pump	水炮
+143	Blizzard	暴风雪
+144	Fire Pledge	火之誓约
+145	Water Pledge	水之誓约
+146	Grass Pledge	草之誓约
+147	Wild Charge	疯狂伏特
+148	Sludge Bomb	污泥炸弹
+149	Earthquake	地震
+150	Stone Edge	尖石攻击
+151	Phantom Force	潜灵奇袭
+152	Giga Impact	终极冲击
+153	Blast Burn	爆炸烈焰
+154	Hydro Cannon	加农水炮
+155	Frenzy Plant	疯狂植物
+156	Outrage	逆鳞
+157	Overheat	过热
+158	Focus Blast	真气弹
+159	Leaf Storm	飞叶风暴
+160	Hurricane	暴风
+161	Trick Room	戏法空间
+162	Bug Buzz	虫鸣
+163	Hyper Beam	破坏光线
+164	Brave Bird	勇鸟猛攻
+165	Flare Blitz	闪焰冲锋
+166	Thunder	打雷
+167	Close Combat	近身战
+168	Solar Beam	日光束
+169	Draco Meteor	流星群
+170	Steel Beam	铁蹄光线
+171	Tera Blast	#N/A
