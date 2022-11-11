@@ -1,299 +1,299 @@
-000: —
-001: Stench
-002: Drizzle
-003: Speed Boost
-004: Battle Armor
-005: Sturdy
-006: Damp
-007: Limber
-008: Sand Veil
-009: Static
-010: Volt Absorb
-011: Water Absorb
-012: Oblivious
-013: Cloud Nine
-014: Compound Eyes
-015: Insomnia
-016: Color Change
-017: Immunity
-018: Flash Fire
-019: Shield Dust
-020: Own Tempo
-021: Suction Cups
-022: Intimidate
-023: Shadow Tag
-024: Rough Skin
-025: Wonder Guard
-026: Levitate
-027: Effect Spore
-028: Synchronize
-029: Clear Body
-030: Natural Cure
-031: Lightning Rod
-032: Serene Grace
-033: Swift Swim
-034: Chlorophyll
-035: Illuminate
-036: Trace
-037: Huge Power
-038: Poison Point
-039: Inner Focus
-040: Magma Armor
-041: Water Veil
-042: Magnet Pull
-043: Soundproof
-044: Rain Dish
-045: Sand Stream
-046: Pressure
-047: Thick Fat
-048: Early Bird
-049: Flame Body
-050: Run Away
-051: Keen Eye
-052: Hyper Cutter
-053: Pickup
-054: Truant
-055: Hustle
-056: Cute Charm
-057: Plus
-058: Minus
-059: Forecast
-060: Sticky Hold
-061: Shed Skin
-062: Guts
-063: Marvel Scale
-064: Liquid Ooze
-065: Overgrow
-066: Blaze
-067: Torrent
-068: Swarm
-069: Rock Head
-070: Drought
-071: Arena Trap
-072: Vital Spirit
-073: White Smoke
-074: Pure Power
-075: Shell Armor
-076: Air Lock
-077: Tangled Feet
-078: Motor Drive
-079: Rivalry
-080: Steadfast
-081: Snow Cloak
-082: Gluttony
-083: Anger Point
-084: Unburden
-085: Heatproof
-086: Simple
-087: Dry Skin
-088: Download
-089: Iron Fist
-090: Poison Heal
-091: Adaptability
-092: Skill Link
-093: Hydration
-094: Solar Power
-095: Quick Feet
-096: Normalize
-097: Sniper
-098: Magic Guard
-099: No Guard
-100: Stall
-101: Technician
-102: Leaf Guard
-103: Klutz
-104: Mold Breaker
-105: Super Luck
-106: Aftermath
-107: Anticipation
-108: Forewarn
-109: Unaware
-110: Tinted Lens
-111: Filter
-112: Slow Start
-113: Scrappy
-114: Storm Drain
-115: Ice Body
-116: Solid Rock
-117: Snow Warning
-118: Honey Gather
-119: Frisk
-120: Reckless
-121: Multitype
-122: Flower Gift
-123: Bad Dreams
-124: Pickpocket
-125: Sheer Force
-126: Contrary
-127: Unnerve
-128: Defiant
-129: Defeatist
-130: Cursed Body
-131: Healer
-132: Friend Guard
-133: Weak Armor
-134: Heavy Metal
-135: Light Metal
-136: Multiscale
-137: Toxic Boost
-138: Flare Boost
-139: Harvest
-140: Telepathy
-141: Moody
-142: Overcoat
-143: Poison Touch
-144: Regenerator
-145: Big Pecks
-146: Sand Rush
-147: Wonder Skin
-148: Analytic
-149: Illusion
-150: Imposter
-151: Infiltrator
-152: Mummy
-153: Moxie
-154: Justified
-155: Rattled
-156: Magic Bounce
-157: Sap Sipper
-158: Prankster
-159: Sand Force
-160: Iron Barbs
-161: Zen Mode
-162: Victory Star
-163: Turboblaze
-164: Teravolt
-165: Aroma Veil
-166: Flower Veil
-167: Cheek Pouch
-168: Protean
-169: Fur Coat
-170: Magician
-171: Bulletproof
-172: Competitive
-173: Strong Jaw
-174: Refrigerate
-175: Sweet Veil
-176: Stance Change
-177: Gale Wings
-178: Mega Launcher
-179: Grass Pelt
-180: Symbiosis
-181: Tough Claws
-182: Pixilate
-183: Gooey
-184: Aerilate
-185: Parental Bond
-186: Dark Aura
-187: Fairy Aura
-188: Aura Break
-189: Primordial Sea
-190: Desolate Land
-191: Delta Stream
-192: Stamina
-193: Wimp Out
-194: Emergency Exit
-195: Water Compaction
-196: Merciless
-197: Shields Down
-198: Stakeout
-199: Water Bubble
-200: Steelworker
-201: Berserk
-202: Slush Rush
-203: Long Reach
-204: Liquid Voice
-205: Triage
-206: Galvanize
-207: Surge Surfer
-208: Schooling
-209: Disguise
-210: Battle Bond
-211: Power Construct
-212: Corrosion
-213: Comatose
-214: Queenly Majesty
-215: Innards Out
-216: Dancer
-217: Battery
-218: Fluffy
-219: Dazzling
-220: Soul-Heart
-221: Tangling Hair
-222: Receiver
-223: Power of Alchemy
-224: Beast Boost
-225: RKS System
-226: Electric Surge
-227: Psychic Surge
-228: Misty Surge
-229: Grassy Surge
-230: Full Metal Body
-231: Shadow Shield
-232: Prism Armor
-233: Neuroforce
-234: Intrepid Sword
-235: Dauntless Shield
-236: Libero
-237: Ball Fetch
-238: Cotton Down
-239: Propeller Tail
-240: Mirror Armor
-241: Gulp Missile
-242: Stalwart
-243: Steam Engine
-244: Punk Rock
-245: Sand Spit
-246: Ice Scales
-247: Ripen
-248: Ice Face
-249: Power Spot
-250: Mimicry
-251: Screen Cleaner
-252: Steely Spirit
-253: Perish Body
-254: Wandering Spirit
-255: Gorilla Tactics
-256: Neutralizing Gas
-257: Pastel Veil
-258: Hunger Switch
-259: Quick Draw
-260: Unseen Fist
-261: Curious Medicine
-262: Transistor
-263: Dragon’s Maw
-264: Chilling Neigh
-265: Grim Neigh
-266: As One
-267: As One
-268: Lingering Aroma
-269: Seed Sower
-270: Thermal Exchange
-271: Anger Shell
-272: Purifying Salt
-273: Well-Baked Body
-274: Wind Rider
-275: Guard Dog
-276: Rocky Payload
-277: Wind Power
-278: Zero to Hero
-279: Commander
-280: Electromorphosis
-281: Protosynthesis
-282: Quark Drive
-283: Good as Gold
-284: Vessel of Ruin
-285: Sword of Ruin
-286: Tablets of Ruin
-287: Beads of Ruin
-288: Orichalcum Pulse
-289: Hadron Engine
-290: Opportunist
-291: Cud Chew
-292: Sharpness
-293: Supreme Overlord
-294: Costar
-295: Toxic Debris
-296: Armor Tail
-297: Earth Eater
-298: Mycelium Might
+000	—	—	—
+001	Stench	恶臭	あくしゅう
+002	Drizzle	降雨	あめふらし
+003	Speed Boost	加速	かそく
+004	Battle Armor	战斗盔甲	カブトアーマー
+005	Sturdy	结实	がんじょう
+006	Damp	湿气	しめりけ
+007	Limber	柔软	じゅうなん
+008	Sand Veil	沙隐	すながくれ
+009	Static	静电	せいでんき
+010	Volt Absorb	蓄电	ちくでん
+011	Water Absorb	储水	ちょすい
+012	Oblivious	迟钝	どんかん
+013	Cloud Nine	无关天气	ノーてんき
+014	Compound Eyes	复眼	ふくがん
+015	Insomnia	不眠	ふみん
+016	Color Change	变色	へんしょく
+017	Immunity	免疫	めんえき
+018	Flash Fire	引火	もらいび
+019	Shield Dust	鳞粉	りんぷん
+020	Own Tempo	我行我素	マイペース
+021	Suction Cups	吸盘	きゅうばん
+022	Intimidate	威吓	いかく
+023	Shadow Tag	踩影	かげふみ
+024	Rough Skin	粗糙皮肤	さめはだ
+025	Wonder Guard	神奇守护	ふしぎなまもり
+026	Levitate	飘浮	ふゆう
+027	Effect Spore	孢子	ほうし
+028	Synchronize	同步	シンクロ
+029	Clear Body	恒净之躯	クリアボディ
+030	Natural Cure	自然回复	しぜんかいふく
+031	Lightning Rod	避雷针	ひらいしん
+032	Serene Grace	天恩	てんのめぐみ
+033	Swift Swim	悠游自如	すいすい
+034	Chlorophyll	叶绿素	ようりょくそ
+035	Illuminate	发光	はっこう
+036	Trace	复制	トレース
+037	Huge Power	大力士	ちからもち
+038	Poison Point	毒刺	どくのトゲ
+039	Inner Focus	精神力	せいしんりょく
+040	Magma Armor	熔岩铠甲	マグマのよろい
+041	Water Veil	水幕	みずのベール
+042	Magnet Pull	磁力	じりょく
+043	Soundproof	隔音	ぼうおん
+044	Rain Dish	雨盘	あめうけざら
+045	Sand Stream	扬沙	すなおこし
+046	Pressure	压迫感	プレッシャー
+047	Thick Fat	厚脂肪	あついしぼう
+048	Early Bird	早起	はやおき
+049	Flame Body	火焰之躯	ほのおのからだ
+050	Run Away	逃跑	にげあし
+051	Keen Eye	锐利目光	するどいめ
+052	Hyper Cutter	怪力钳	かいりきバサミ
+053	Pickup	捡拾	ものひろい
+054	Truant	懒惰	なまけ
+055	Hustle	活力	はりきり
+056	Cute Charm	迷人之躯	メロメロボディ
+057	Plus	正电	プラス
+058	Minus	负电	マイナス
+059	Forecast	阴晴不定	てんきや
+060	Sticky Hold	黏着	ねんちゃく
+061	Shed Skin	蜕皮	だっぴ
+062	Guts	毅力	こんじょう
+063	Marvel Scale	神奇鳞片	ふしぎなうろこ
+064	Liquid Ooze	污泥浆	ヘドロえき
+065	Overgrow	茂盛	しんりょく
+066	Blaze	猛火	もうか
+067	Torrent	激流	げきりゅう
+068	Swarm	虫之预感	むしのしらせ
+069	Rock Head	坚硬脑袋	いしあたま
+070	Drought	日照	ひでり
+071	Arena Trap	沙穴	ありじごく
+072	Vital Spirit	干劲	やるき
+073	White Smoke	白色烟雾	しろいけむり
+074	Pure Power	瑜伽之力	ヨガパワー
+075	Shell Armor	硬壳盔甲	シェルアーマー
+076	Air Lock	气闸	エアロック
+077	Tangled Feet	蹒跚	ちどりあし
+078	Motor Drive	电气引擎	でんきエンジン
+079	Rivalry	斗争心	とうそうしん
+080	Steadfast	不屈之心	ふくつのこころ
+081	Snow Cloak	雪隐	ゆきがくれ
+082	Gluttony	贪吃鬼	くいしんぼう
+083	Anger Point	愤怒穴位	いかりのつぼ
+084	Unburden	轻装	かるわざ
+085	Heatproof	耐热	たいねつ
+086	Simple	单纯	たんじゅん
+087	Dry Skin	干燥皮肤	かんそうはだ
+088	Download	下载	ダウンロード
+089	Iron Fist	铁拳	てつのこぶし
+090	Poison Heal	毒疗	ポイズンヒール
+091	Adaptability	适应力	てきおうりょく
+092	Skill Link	连续攻击	スキルリンク
+093	Hydration	湿润之躯	うるおいボディ
+094	Solar Power	太阳之力	サンパワー
+095	Quick Feet	飞毛腿	はやあし
+096	Normalize	一般皮肤	ノーマルスキン
+097	Sniper	狙击手	スナイパー
+098	Magic Guard	魔法防守	マジックガード
+099	No Guard	无防守	ノーガード
+100	Stall	慢出	あとだし
+101	Technician	技术高手	テクニシャン
+102	Leaf Guard	叶子防守	リーフガード
+103	Klutz	笨拙	ぶきよう
+104	Mold Breaker	破格	かたやぶり
+105	Super Luck	超幸运	きょううん
+106	Aftermath	引爆	ゆうばく
+107	Anticipation	危险预知	きけんよち
+108	Forewarn	预知梦	よちむ
+109	Unaware	纯朴	てんねん
+110	Tinted Lens	有色眼镜	いろめがね
+111	Filter	过滤	フィルター
+112	Slow Start	慢启动	スロースタート
+113	Scrappy	胆量	きもったま
+114	Storm Drain	引水	よびみず
+115	Ice Body	冰冻之躯	アイスボディ
+116	Solid Rock	坚硬岩石	ハードロック
+117	Snow Warning	降雪	ゆきふらし
+118	Honey Gather	采蜜	みつあつめ
+119	Frisk	察觉	おみとおし
+120	Reckless	舍身	すてみ
+121	Multitype	多属性	マルチタイプ
+122	Flower Gift	花之礼	フラワーギフト
+123	Bad Dreams	梦魇	ナイトメア
+124	Pickpocket	顺手牵羊	わるいてぐせ
+125	Sheer Force	强行	ちからずく
+126	Contrary	唱反调	あまのじゃく
+127	Unnerve	紧张感	きんちょうかん
+128	Defiant	不服输	まけんき
+129	Defeatist	软弱	よわき
+130	Cursed Body	诅咒之躯	のろわれボディ
+131	Healer	治愈之心	いやしのこころ
+132	Friend Guard	友情防守	フレンドガード
+133	Weak Armor	碎裂铠甲	くだけるよろい
+134	Heavy Metal	重金属	ヘヴィメタル
+135	Light Metal	轻金属	ライトメタル
+136	Multiscale	多重鳞片	マルチスケイル
+137	Toxic Boost	中毒激升	どくぼうそう
+138	Flare Boost	受热激升	ねつぼうそう
+139	Harvest	收获	しゅうかく
+140	Telepathy	心灵感应	テレパシー
+141	Moody	心情不定	ムラっけ
+142	Overcoat	防尘	ぼうじん
+143	Poison Touch	毒手	どくしゅ
+144	Regenerator	再生力	さいせいりょく
+145	Big Pecks	健壮胸肌	はとむね
+146	Sand Rush	拨沙	すなかき
+147	Wonder Skin	奇迹皮肤	ミラクルスキン
+148	Analytic	分析	アナライズ
+149	Illusion	幻觉	イリュージョン
+150	Imposter	变身者	かわりもの
+151	Infiltrator	穿透	すりぬけ
+152	Mummy	木乃伊	ミイラ
+153	Moxie	自信过度	じしんかじょう
+154	Justified	正义之心	せいぎのこころ
+155	Rattled	胆怯	びびり
+156	Magic Bounce	魔法镜	マジックミラー
+157	Sap Sipper	食草	そうしょく
+158	Prankster	恶作剧之心	いたずらごころ
+159	Sand Force	沙之力	すなのちから
+160	Iron Barbs	铁刺	てつのトゲ
+161	Zen Mode	达摩模式	ダルマモード
+162	Victory Star	胜利之星	しょうりのほし
+163	Turboblaze	涡轮火焰	ターボブレイズ
+164	Teravolt	兆级电压	テラボルテージ
+165	Aroma Veil	芳香幕	アロマベール
+166	Flower Veil	花幕	フラワーベール
+167	Cheek Pouch	颊囊	ほおぶくろ
+168	Protean	变幻自如	へんげんじざい
+169	Fur Coat	毛皮大衣	ファーコート
+170	Magician	魔术师	マジシャン
+171	Bulletproof	防弹	ぼうだん
+172	Competitive	好胜	かちき
+173	Strong Jaw	强壮之颚	がんじょうあご
+174	Refrigerate	冰冻皮肤	フリーズスキン
+175	Sweet Veil	甜幕	スイートベール
+176	Stance Change	战斗切换	バトルスイッチ
+177	Gale Wings	疾风之翼	はやてのつばさ
+178	Mega Launcher	超级发射器	メガランチャー
+179	Grass Pelt	草之毛皮	くさのけがわ
+180	Symbiosis	共生	きょうせい
+181	Tough Claws	硬爪	かたいツメ
+182	Pixilate	妖精皮肤	フェアリースキン
+183	Gooey	黏滑	ぬめぬめ
+184	Aerilate	飞行皮肤	スカイスキン
+185	Parental Bond	亲子爱	おやこあい
+186	Dark Aura	暗黑气场	ダークオーラ
+187	Fairy Aura	妖精气场	フェアリーオーラ
+188	Aura Break	气场破坏	オーラブレイク
+189	Primordial Sea	始源之海	はじまりのうみ
+190	Desolate Land	终结之地	おわりのだいち
+191	Delta Stream	德尔塔气流	デルタストリーム
+192	Stamina	持久力	じきゅうりょく
+193	Wimp Out	跃跃欲逃	にげごし
+194	Emergency Exit	危险回避	ききかいひ
+195	Water Compaction	遇水凝固	みずがため
+196	Merciless	不仁不义	ひとでなし
+197	Shields Down	界限盾壳	リミットシールド
+198	Stakeout	蹲守	はりこみ
+199	Water Bubble	水泡	すいほう
+200	Steelworker	钢能力者	はがねつかい
+201	Berserk	怒火冲天	ぎゃくじょう
+202	Slush Rush	拨雪	ゆきかき
+203	Long Reach	远隔	えんかく
+204	Liquid Voice	湿润之声	うるおいボイス
+205	Triage	先行治疗	ヒーリングシフト
+206	Galvanize	电气皮肤	エレキスキン
+207	Surge Surfer	冲浪之尾	サーフテール
+208	Schooling	鱼群	ぎょぐん
+209	Disguise	画皮	ばけのかわ
+210	Battle Bond	牵绊变身	きずなへんげ
+211	Power Construct	群聚变形	スワームチェンジ
+212	Corrosion	腐蚀	ふしょく
+213	Comatose	绝对睡眠	ぜったいねむり
+214	Queenly Majesty	女王的威严	じょおうのいげん
+215	Innards Out	飞出的内在物	とびだすなかみ
+216	Dancer	舞者	おどりこ
+217	Battery	蓄电池	バッテリー
+218	Fluffy	毛茸茸	もふもふ
+219	Dazzling	鲜艳之躯	ビビッドボディ
+220	Soul-Heart	魂心	ソウルハート
+221	Tangling Hair	卷发	カーリーヘアー
+222	Receiver	接球手	レシーバー
+223	Power of Alchemy	化学之力	かがくのちから
+224	Beast Boost	异兽提升	ビーストブースト
+225	RKS System	ＡＲ系统	ＡＲシステム
+226	Electric Surge	电气制造者	エレキメイカー
+227	Psychic Surge	精神制造者	サイコメイカー
+228	Misty Surge	薄雾制造者	ミストメイカー
+229	Grassy Surge	青草制造者	グラスメイカー
+230	Full Metal Body	金属防护	メタルプロテクト
+231	Shadow Shield	幻影防守	ファントムガード
+232	Prism Armor	棱镜装甲	プリズムアーマー
+233	Neuroforce	脑核之力	ブレインフォース
+234	Intrepid Sword	不挠之剑	ふとうのけん
+235	Dauntless Shield	不屈之盾	ふくつのたて
+236	Libero	自由者	リベロ
+237	Ball Fetch	捡球	たまひろい
+238	Cotton Down	棉絮	わたげ
+239	Propeller Tail	螺旋尾鳍	スクリューおびれ
+240	Mirror Armor	镜甲	ミラーアーマー
+241	Gulp Missile	一口导弹	うのミサイル
+242	Stalwart	坚毅	すじがねいり
+243	Steam Engine	蒸汽机	じょうききかん
+244	Punk Rock	庞克摇滚	パンクロック
+245	Sand Spit	吐沙	すなはき
+246	Ice Scales	冰鳞粉	こおりのりんぷん
+247	Ripen	熟成	じゅくせい
+248	Ice Face	结冻头	アイスフェイス
+249	Power Spot	能量点	パワースポット
+250	Mimicry	拟态	ぎたい
+251	Screen Cleaner	除障	バリアフリー
+252	Steely Spirit	钢之意志	はがねのせいしん
+253	Perish Body	灭亡之躯	ほろびのボディ
+254	Wandering Spirit	游魂	さまようたましい
+255	Gorilla Tactics	一猩一意	ごりむちゅう
+256	Neutralizing Gas	化学变化气体	かがくへんかガス
+257	Pastel Veil	粉彩护幕	パステルベール
+258	Hunger Switch	饱了又饿	はらぺこスイッチ
+259	Quick Draw	速击	クイックドロウ
+260	Unseen Fist	无形拳	ふかしのこぶし
+261	Curious Medicine	怪药	きみょうなくすり
+262	Transistor	电晶体	トランジスタ
+263	Dragon's Maw	龙颚	りゅうのあぎと
+264	Chilling Neigh	苍白嘶鸣	しろのいななき
+265	Grim Neigh	漆黑嘶鸣	くろのいななき
+266	As One	人马一体	じんばいったい
+267	As One	人马一体	じんばいったい
+268	Lingering Aroma	#N/A	#N/A
+269	Seed Sower	#N/A	#N/A
+270	Thermal Exchange	#N/A	#N/A
+271	Anger Shell	#N/A	#N/A
+272	Purifying Salt	#N/A	#N/A
+273	Well-Baked Body	#N/A	#N/A
+274	Wind Rider	#N/A	#N/A
+275	Guard Dog	#N/A	#N/A
+276	Rocky Payload	#N/A	#N/A
+277	Wind Power	#N/A	#N/A
+278	Zero to Hero	#N/A	#N/A
+279	Commander	#N/A	#N/A
+280	Electromorphosis	#N/A	#N/A
+281	Protosynthesis	#N/A	#N/A
+282	Quark Drive	#N/A	#N/A
+283	Good as Gold	#N/A	#N/A
+284	Vessel of Ruin	#N/A	#N/A
+285	Sword of Ruin	#N/A	#N/A
+286	Tablets of Ruin	#N/A	#N/A
+287	Beads of Ruin	#N/A	#N/A
+288	Orichalcum Pulse	#N/A	#N/A
+289	Hadron Engine	#N/A	#N/A
+290	Opportunist	#N/A	#N/A
+291	Cud Chew	#N/A	#N/A
+292	Sharpness	#N/A	#N/A
+293	Supreme Overlord	#N/A	#N/A
+294	Costar	#N/A	#N/A
+295	Toxic Debris	#N/A	#N/A
+296	Armor Tail	#N/A	#N/A
+297	Earth Eater	#N/A	#N/A
+298	Mycelium Might	#N/A	#N/A
