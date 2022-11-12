@@ -1,0 +1,5103 @@
+Pound:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 35
+    Priority: 0
+
+Mega Punch:
+    Type: Normal
+    Category: Physical
+    Power: 80
+    Accuracy: 85
+    PP: 20
+    Priority: 0
+
+Pay Day:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Fire Punch:
+    Type: Fire
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Ice Punch:
+    Type: Ice
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Thunder Punch:
+    Type: Electric
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Scratch:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 35
+    Priority: 0
+
+Vise Grip:
+    Type: Normal
+    Category: Physical
+    Power: 55
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Guillotine:
+    Type: Normal
+    Category: Physical
+    Power: 1
+    Accuracy: 30
+    PP: 5
+    Priority: 0
+
+Swords Dance:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Cut:
+    Type: Normal
+    Category: Physical
+    Power: 50
+    Accuracy: 95
+    PP: 30
+    Priority: 0
+
+Gust:
+    Type: Flying
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 35
+    Priority: 0
+
+Wing Attack:
+    Type: Flying
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 35
+    Priority: 0
+
+Whirlwind:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: -6
+
+Fly:
+    Type: Flying
+    Category: Physical
+    Power: 90
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+Bind:
+    Type: Normal
+    Category: Physical
+    Power: 15
+    Accuracy: 85
+    PP: 20
+    Priority: 0
+
+Slam:
+    Type: Normal
+    Category: Physical
+    Power: 80
+    Accuracy: 75
+    PP: 20
+    Priority: 0
+
+Vine Whip:
+    Type: Grass
+    Category: Physical
+    Power: 45
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Stomp:
+    Type: Normal
+    Category: Physical
+    Power: 65
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Double Kick:
+    Type: Fighting
+    Category: Physical
+    Power: 30
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Mega Kick:
+    Type: Normal
+    Category: Physical
+    Power: 120
+    Accuracy: 75
+    PP: 5
+    Priority: 0
+
+Sand Attack:
+    Type: Ground
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Headbutt:
+    Type: Normal
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Horn Attack:
+    Type: Normal
+    Category: Physical
+    Power: 65
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Fury Attack:
+    Type: Normal
+    Category: Physical
+    Power: 15
+    Accuracy: 85
+    PP: 20
+    Priority: 0
+
+Horn Drill:
+    Type: Normal
+    Category: Physical
+    Power: 1
+    Accuracy: 30
+    PP: 5
+    Priority: 0
+
+Tackle:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 35
+    Priority: 0
+
+Body Slam:
+    Type: Normal
+    Category: Physical
+    Power: 85
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Wrap:
+    Type: Normal
+    Category: Physical
+    Power: 15
+    Accuracy: 90
+    PP: 20
+    Priority: 0
+
+Take Down:
+    Type: Normal
+    Category: Physical
+    Power: 90
+    Accuracy: 85
+    PP: 20
+    Priority: 0
+
+Thrash:
+    Type: Normal
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Double-Edge:
+    Type: Normal
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Tail Whip:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Poison Sting:
+    Type: Poison
+    Category: Physical
+    Power: 15
+    Accuracy: 100
+    PP: 35
+    Priority: 0
+
+Pin Missile:
+    Type: Bug
+    Category: Physical
+    Power: 25
+    Accuracy: 95
+    PP: 20
+    Priority: 0
+
+Leer:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Bite:
+    Type: Dark
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Growl:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 40
+    Priority: 0
+
+Roar:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: -6
+
+Sing:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 55
+    PP: 15
+    Priority: 0
+
+Supersonic:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 55
+    PP: 20
+    Priority: 0
+
+Disable:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Acid:
+    Type: Poison
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Ember:
+    Type: Fire
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Flamethrower:
+    Type: Fire
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Mist:
+    Type: Ice
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 30
+    Priority: 0
+
+Water Gun:
+    Type: Water
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Hydro Pump:
+    Type: Water
+    Category: Special
+    Power: 110
+    Accuracy: 80
+    PP: 5
+    Priority: 0
+
+Surf:
+    Type: Water
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Ice Beam:
+    Type: Ice
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Blizzard:
+    Type: Ice
+    Category: Special
+    Power: 110
+    Accuracy: 70
+    PP: 5
+    Priority: 0
+
+Psybeam:
+    Type: Psychic
+    Category: Special
+    Power: 65
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Bubble Beam:
+    Type: Water
+    Category: Special
+    Power: 65
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Aurora Beam:
+    Type: Ice
+    Category: Special
+    Power: 65
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Hyper Beam:
+    Type: Normal
+    Category: Special
+    Power: 150
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Peck:
+    Type: Flying
+    Category: Physical
+    Power: 35
+    Accuracy: 100
+    PP: 35
+    Priority: 0
+
+Drill Peck:
+    Type: Flying
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Low Kick:
+    Type: Fighting
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Counter:
+    Type: Fighting
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 20
+    Priority: -5
+
+Seismic Toss:
+    Type: Fighting
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Strength:
+    Type: Normal
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Absorb:
+    Type: Grass
+    Category: Special
+    Power: 20
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Mega Drain:
+    Type: Grass
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Leech Seed:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Growth:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Razor Leaf:
+    Type: Grass
+    Category: Physical
+    Power: 55
+    Accuracy: 95
+    PP: 25
+    Priority: 0
+
+Solar Beam:
+    Type: Grass
+    Category: Special
+    Power: 120
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Poison Powder:
+    Type: Poison
+    Category: Status
+    Power: 0
+    Accuracy: 75
+    PP: 35
+    Priority: 0
+
+Stun Spore:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 75
+    PP: 30
+    Priority: 0
+
+Sleep Powder:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 75
+    PP: 15
+    Priority: 0
+
+Petal Dance:
+    Type: Grass
+    Category: Special
+    Power: 120
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+String Shot:
+    Type: Bug
+    Category: Status
+    Power: 0
+    Accuracy: 95
+    PP: 40
+    Priority: 0
+
+Fire Spin:
+    Type: Fire
+    Category: Special
+    Power: 35
+    Accuracy: 85
+    PP: 15
+    Priority: 0
+
+Thunder Shock:
+    Type: Electric
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Thunderbolt:
+    Type: Electric
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Thunder Wave:
+    Type: Electric
+    Category: Status
+    Power: 0
+    Accuracy: 90
+    PP: 20
+    Priority: 0
+
+Thunder:
+    Type: Electric
+    Category: Special
+    Power: 110
+    Accuracy: 70
+    PP: 10
+    Priority: 0
+
+Rock Throw:
+    Type: Rock
+    Category: Physical
+    Power: 50
+    Accuracy: 90
+    PP: 15
+    Priority: 0
+
+Earthquake:
+    Type: Ground
+    Category: Physical
+    Power: 100
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Fissure:
+    Type: Ground
+    Category: Physical
+    Power: 1
+    Accuracy: 30
+    PP: 5
+    Priority: 0
+
+Dig:
+    Type: Ground
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Toxic:
+    Type: Poison
+    Category: Status
+    Power: 0
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Confusion:
+    Type: Psychic
+    Category: Special
+    Power: 50
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Psychic:
+    Type: Psychic
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Hypnosis:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 60
+    PP: 20
+    Priority: 0
+
+Agility:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 30
+    Priority: 0
+
+Quick Attack:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 30
+    Priority: 1
+
+Teleport:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: -6
+
+Night Shade:
+    Type: Ghost
+    Category: Special
+    Power: 1
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Mimic:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Screech:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 85
+    PP: 40
+    Priority: 0
+
+Double Team:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Recover:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Harden:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 30
+    Priority: 0
+
+Minimize:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Smokescreen:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Confuse Ray:
+    Type: Ghost
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Withdraw:
+    Type: Water
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 40
+    Priority: 0
+
+Defense Curl:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 40
+    Priority: 0
+
+Light Screen:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 30
+    Priority: 0
+
+Haze:
+    Type: Ice
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 30
+    Priority: 0
+
+Reflect:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Focus Energy:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 30
+    Priority: 0
+
+Metronome:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Self-Destruct:
+    Type: Normal
+    Category: Physical
+    Power: 200
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Lick:
+    Type: Ghost
+    Category: Physical
+    Power: 30
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Smog:
+    Type: Poison
+    Category: Special
+    Power: 30
+    Accuracy: 70
+    PP: 20
+    Priority: 0
+
+Sludge:
+    Type: Poison
+    Category: Special
+    Power: 65
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Fire Blast:
+    Type: Fire
+    Category: Special
+    Power: 110
+    Accuracy: 85
+    PP: 5
+    Priority: 0
+
+Waterfall:
+    Type: Water
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Swift:
+    Type: Normal
+    Category: Special
+    Power: 60
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Amnesia:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Soft-Boiled:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+High Jump Kick:
+    Type: Fighting
+    Category: Physical
+    Power: 130
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Glare:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Dream Eater:
+    Type: Psychic
+    Category: Special
+    Power: 100
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Poison Gas:
+    Type: Poison
+    Category: Status
+    Power: 0
+    Accuracy: 90
+    PP: 40
+    Priority: 0
+
+Leech Life:
+    Type: Bug
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Sky Attack:
+    Type: Flying
+    Category: Physical
+    Power: 140
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Transform:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Spore:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Splash:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 40
+    Priority: 0
+
+Acid Armor:
+    Type: Poison
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Crabhammer:
+    Type: Water
+    Category: Physical
+    Power: 100
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Explosion:
+    Type: Normal
+    Category: Physical
+    Power: 250
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Fury Swipes:
+    Type: Normal
+    Category: Physical
+    Power: 18
+    Accuracy: 80
+    PP: 15
+    Priority: 0
+
+Rest:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Rock Slide:
+    Type: Rock
+    Category: Physical
+    Power: 75
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Tri Attack:
+    Type: Normal
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Super Fang:
+    Type: Normal
+    Category: Physical
+    Power: 1
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Slash:
+    Type: Normal
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Substitute:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Struggle:
+    Type: Normal
+    Category: Physical
+    Power: 50
+    Accuracy: 101
+    PP: 1
+    Priority: 0
+
+Thief:
+    Type: Dark
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Flame Wheel:
+    Type: Fire
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Snore:
+    Type: Normal
+    Category: Special
+    Power: 50
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Curse:
+    Type: Ghost
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Flail:
+    Type: Normal
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Cotton Spore:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 40
+    Priority: 0
+
+Reversal:
+    Type: Fighting
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Spite:
+    Type: Ghost
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Powder Snow:
+    Type: Ice
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Protect:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 4
+
+Mach Punch:
+    Type: Fighting
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 30
+    Priority: 1
+
+Scary Face:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Sweet Kiss:
+    Type: Fairy
+    Category: Status
+    Power: 0
+    Accuracy: 75
+    PP: 10
+    Priority: 0
+
+Belly Drum:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Sludge Bomb:
+    Type: Poison
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Mud-Slap:
+    Type: Ground
+    Category: Special
+    Power: 20
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Spikes:
+    Type: Ground
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Zap Cannon:
+    Type: Electric
+    Category: Special
+    Power: 120
+    Accuracy: 50
+    PP: 5
+    Priority: 0
+
+Destiny Bond:
+    Type: Ghost
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Perish Song:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Icy Wind:
+    Type: Ice
+    Category: Special
+    Power: 55
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+Detect:
+    Type: Fighting
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 4
+
+Bone Rush:
+    Type: Ground
+    Category: Physical
+    Power: 25
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Lock-On:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Outrage:
+    Type: Dragon
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Sandstorm:
+    Type: Rock
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Giga Drain:
+    Type: Grass
+    Category: Special
+    Power: 75
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Endure:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 4
+
+Charm:
+    Type: Fairy
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Rollout:
+    Type: Rock
+    Category: Physical
+    Power: 30
+    Accuracy: 90
+    PP: 20
+    Priority: 0
+
+False Swipe:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 40
+    Priority: 0
+
+Swagger:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 85
+    PP: 15
+    Priority: 0
+
+Milk Drink:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Spark:
+    Type: Electric
+    Category: Physical
+    Power: 65
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Fury Cutter:
+    Type: Bug
+    Category: Physical
+    Power: 40
+    Accuracy: 95
+    PP: 20
+    Priority: 0
+
+Steel Wing:
+    Type: Steel
+    Category: Physical
+    Power: 70
+    Accuracy: 90
+    PP: 25
+    Priority: 0
+
+Mean Look:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Attract:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Sleep Talk:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Heal Bell:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Present:
+    Type: Normal
+    Category: Physical
+    Power: 1
+    Accuracy: 90
+    PP: 15
+    Priority: 0
+
+Safeguard:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 25
+    Priority: 0
+
+Pain Split:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Dynamic Punch:
+    Type: Fighting
+    Category: Physical
+    Power: 100
+    Accuracy: 50
+    PP: 5
+    Priority: 0
+
+Megahorn:
+    Type: Bug
+    Category: Physical
+    Power: 120
+    Accuracy: 85
+    PP: 10
+    Priority: 0
+
+Dragon Breath:
+    Type: Dragon
+    Category: Special
+    Power: 60
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Baton Pass:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 40
+    Priority: 0
+
+Encore:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Rapid Spin:
+    Type: Normal
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 40
+    Priority: 0
+
+Sweet Scent:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Iron Tail:
+    Type: Steel
+    Category: Physical
+    Power: 100
+    Accuracy: 75
+    PP: 15
+    Priority: 0
+
+Metal Claw:
+    Type: Steel
+    Category: Physical
+    Power: 50
+    Accuracy: 95
+    PP: 35
+    Priority: 0
+
+Morning Sun:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Synthesis:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Moonlight:
+    Type: Fairy
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Cross Chop:
+    Type: Fighting
+    Category: Physical
+    Power: 100
+    Accuracy: 80
+    PP: 5
+    Priority: 0
+
+Twister:
+    Type: Dragon
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Rain Dance:
+    Type: Water
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Sunny Day:
+    Type: Fire
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Crunch:
+    Type: Dark
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Mirror Coat:
+    Type: Psychic
+    Category: Special
+    Power: 1
+    Accuracy: 100
+    PP: 20
+    Priority: -5
+
+Psych Up:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Extreme Speed:
+    Type: Normal
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 5
+    Priority: 2
+
+Ancient Power:
+    Type: Rock
+    Category: Special
+    Power: 60
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Shadow Ball:
+    Type: Ghost
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Future Sight:
+    Type: Psychic
+    Category: Special
+    Power: 120
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Rock Smash:
+    Type: Fighting
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Whirlpool:
+    Type: Water
+    Category: Special
+    Power: 35
+    Accuracy: 85
+    PP: 15
+    Priority: 0
+
+Beat Up:
+    Type: Dark
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Fake Out:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 10
+    Priority: 3
+
+Uproar:
+    Type: Normal
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Stockpile:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Spit Up:
+    Type: Normal
+    Category: Special
+    Power: 1
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Swallow:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Heat Wave:
+    Type: Fire
+    Category: Special
+    Power: 95
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Torment:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Flatter:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Will-O-Wisp:
+    Type: Fire
+    Category: Status
+    Power: 0
+    Accuracy: 85
+    PP: 15
+    Priority: 0
+
+Memento:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Facade:
+    Type: Normal
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Focus Punch:
+    Type: Fighting
+    Category: Physical
+    Power: 150
+    Accuracy: 100
+    PP: 20
+    Priority: -3
+
+Follow Me:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 2
+
+Charge:
+    Type: Electric
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Taunt:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Helping Hand:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 5
+
+Trick:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Role Play:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Wish:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Ingrain:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Superpower:
+    Type: Fighting
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Recycle:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Brick Break:
+    Type: Fighting
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Yawn:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Knock Off:
+    Type: Dark
+    Category: Physical
+    Power: 65
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Endeavor:
+    Type: Normal
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Eruption:
+    Type: Fire
+    Category: Special
+    Power: 150
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Skill Swap:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Imprison:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Dive:
+    Type: Water
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Arm Thrust:
+    Type: Fighting
+    Category: Physical
+    Power: 15
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Feather Dance:
+    Type: Flying
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Teeter Dance:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Blaze Kick:
+    Type: Fire
+    Category: Physical
+    Power: 85
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Slack Off:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Hyper Voice:
+    Type: Normal
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Poison Fang:
+    Type: Poison
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Crush Claw:
+    Type: Normal
+    Category: Physical
+    Power: 75
+    Accuracy: 95
+    PP: 10
+    Priority: 0
+
+Blast Burn:
+    Type: Fire
+    Category: Special
+    Power: 150
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Hydro Cannon:
+    Type: Water
+    Category: Special
+    Power: 150
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Meteor Mash:
+    Type: Steel
+    Category: Physical
+    Power: 90
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Astonish:
+    Type: Ghost
+    Category: Physical
+    Power: 30
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Weather Ball:
+    Type: Normal
+    Category: Special
+    Power: 50
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Fake Tears:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Air Cutter:
+    Type: Flying
+    Category: Special
+    Power: 60
+    Accuracy: 95
+    PP: 25
+    Priority: 0
+
+Overheat:
+    Type: Fire
+    Category: Special
+    Power: 130
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Rock Tomb:
+    Type: Rock
+    Category: Physical
+    Power: 60
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+Metal Sound:
+    Type: Steel
+    Category: Status
+    Power: 0
+    Accuracy: 85
+    PP: 40
+    Priority: 0
+
+Tickle:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Cosmic Power:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Water Spout:
+    Type: Water
+    Category: Special
+    Power: 150
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Shadow Punch:
+    Type: Ghost
+    Category: Physical
+    Power: 60
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Extrasensory:
+    Type: Psychic
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Sand Tomb:
+    Type: Ground
+    Category: Physical
+    Power: 35
+    Accuracy: 85
+    PP: 15
+    Priority: 0
+
+Sheer Cold:
+    Type: Ice
+    Category: Special
+    Power: 1
+    Accuracy: 30
+    PP: 5
+    Priority: 0
+
+Muddy Water:
+    Type: Water
+    Category: Special
+    Power: 90
+    Accuracy: 85
+    PP: 10
+    Priority: 0
+
+Bullet Seed:
+    Type: Grass
+    Category: Physical
+    Power: 25
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Aerial Ace:
+    Type: Flying
+    Category: Physical
+    Power: 60
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Icicle Spear:
+    Type: Ice
+    Category: Physical
+    Power: 25
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Iron Defense:
+    Type: Steel
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Block:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Howl:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 40
+    Priority: 0
+
+Dragon Claw:
+    Type: Dragon
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Frenzy Plant:
+    Type: Grass
+    Category: Special
+    Power: 150
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Bulk Up:
+    Type: Fighting
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Bounce:
+    Type: Flying
+    Category: Physical
+    Power: 85
+    Accuracy: 85
+    PP: 5
+    Priority: 0
+
+Mud Shot:
+    Type: Ground
+    Category: Special
+    Power: 55
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+Poison Tail:
+    Type: Poison
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Covet:
+    Type: Normal
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Volt Tackle:
+    Type: Electric
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Magical Leaf:
+    Type: Grass
+    Category: Special
+    Power: 60
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Calm Mind:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Leaf Blade:
+    Type: Grass
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Dragon Dance:
+    Type: Dragon
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Rock Blast:
+    Type: Rock
+    Category: Physical
+    Power: 25
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Shock Wave:
+    Type: Electric
+    Category: Special
+    Power: 60
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Water Pulse:
+    Type: Water
+    Category: Special
+    Power: 60
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Roost:
+    Type: Flying
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Gravity:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Hammer Arm:
+    Type: Fighting
+    Category: Physical
+    Power: 100
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Gyro Ball:
+    Type: Steel
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Healing Wish:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Brine:
+    Type: Water
+    Category: Special
+    Power: 65
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Feint:
+    Type: Normal
+    Category: Physical
+    Power: 30
+    Accuracy: 100
+    PP: 10
+    Priority: 2
+
+Pluck:
+    Type: Flying
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Tailwind:
+    Type: Flying
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Acupressure:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 30
+    Priority: 0
+
+Metal Burst:
+    Type: Steel
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+U-turn:
+    Type: Bug
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Close Combat:
+    Type: Fighting
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Payback:
+    Type: Dark
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Assurance:
+    Type: Dark
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Fling:
+    Type: Dark
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Power Trick:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Gastro Acid:
+    Type: Poison
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Copycat:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Power Swap:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Guard Swap:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Last Resort:
+    Type: Normal
+    Category: Physical
+    Power: 140
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Worry Seed:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Sucker Punch:
+    Type: Dark
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 5
+    Priority: 1
+
+Toxic Spikes:
+    Type: Poison
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Heart Swap:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Aqua Ring:
+    Type: Water
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Magnet Rise:
+    Type: Electric
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Flare Blitz:
+    Type: Fire
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Force Palm:
+    Type: Fighting
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Aura Sphere:
+    Type: Fighting
+    Category: Special
+    Power: 80
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Rock Polish:
+    Type: Rock
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Poison Jab:
+    Type: Poison
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Dark Pulse:
+    Type: Dark
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Night Slash:
+    Type: Dark
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Aqua Tail:
+    Type: Water
+    Category: Physical
+    Power: 90
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Seed Bomb:
+    Type: Grass
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Air Slash:
+    Type: Flying
+    Category: Special
+    Power: 75
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+X-Scissor:
+    Type: Bug
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Bug Buzz:
+    Type: Bug
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Dragon Pulse:
+    Type: Dragon
+    Category: Special
+    Power: 85
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Dragon Rush:
+    Type: Dragon
+    Category: Physical
+    Power: 100
+    Accuracy: 75
+    PP: 10
+    Priority: 0
+
+Power Gem:
+    Type: Rock
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Drain Punch:
+    Type: Fighting
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Vacuum Wave:
+    Type: Fighting
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 30
+    Priority: 1
+
+Focus Blast:
+    Type: Fighting
+    Category: Special
+    Power: 120
+    Accuracy: 70
+    PP: 5
+    Priority: 0
+
+Energy Ball:
+    Type: Grass
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Brave Bird:
+    Type: Flying
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Earth Power:
+    Type: Ground
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Switcheroo:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Giga Impact:
+    Type: Normal
+    Category: Physical
+    Power: 150
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Nasty Plot:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Bullet Punch:
+    Type: Steel
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 30
+    Priority: 1
+
+Avalanche:
+    Type: Ice
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 10
+    Priority: -4
+
+Ice Shard:
+    Type: Ice
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 30
+    Priority: 1
+
+Shadow Claw:
+    Type: Ghost
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Thunder Fang:
+    Type: Electric
+    Category: Physical
+    Power: 65
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+Ice Fang:
+    Type: Ice
+    Category: Physical
+    Power: 65
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+Fire Fang:
+    Type: Fire
+    Category: Physical
+    Power: 65
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+Shadow Sneak:
+    Type: Ghost
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 30
+    Priority: 1
+
+Psycho Cut:
+    Type: Psychic
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Zen Headbutt:
+    Type: Psychic
+    Category: Physical
+    Power: 80
+    Accuracy: 90
+    PP: 15
+    Priority: 0
+
+Flash Cannon:
+    Type: Steel
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Defog:
+    Type: Flying
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Trick Room:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: -7
+
+Draco Meteor:
+    Type: Dragon
+    Category: Special
+    Power: 130
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Discharge:
+    Type: Electric
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Lava Plume:
+    Type: Fire
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Leaf Storm:
+    Type: Grass
+    Category: Special
+    Power: 130
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Power Whip:
+    Type: Grass
+    Category: Physical
+    Power: 120
+    Accuracy: 85
+    PP: 10
+    Priority: 0
+
+Cross Poison:
+    Type: Poison
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Gunk Shot:
+    Type: Poison
+    Category: Physical
+    Power: 120
+    Accuracy: 80
+    PP: 5
+    Priority: 0
+
+Iron Head:
+    Type: Steel
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Stone Edge:
+    Type: Rock
+    Category: Physical
+    Power: 100
+    Accuracy: 80
+    PP: 5
+    Priority: 0
+
+Stealth Rock:
+    Type: Rock
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Grass Knot:
+    Type: Grass
+    Category: Special
+    Power: 1
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Judgment:
+    Type: Normal
+    Category: Special
+    Power: 100
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Bug Bite:
+    Type: Bug
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Charge Beam:
+    Type: Electric
+    Category: Special
+    Power: 50
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Wood Hammer:
+    Type: Grass
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Aqua Jet:
+    Type: Water
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 20
+    Priority: 1
+
+Attack Order:
+    Type: Bug
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Defend Order:
+    Type: Bug
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Head Smash:
+    Type: Rock
+    Category: Physical
+    Power: 150
+    Accuracy: 80
+    PP: 5
+    Priority: 0
+
+Double Hit:
+    Type: Normal
+    Category: Physical
+    Power: 35
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Roar of Time:
+    Type: Dragon
+    Category: Special
+    Power: 150
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Spacial Rend:
+    Type: Dragon
+    Category: Special
+    Power: 100
+    Accuracy: 95
+    PP: 5
+    Priority: 0
+
+Lunar Dance:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Magma Storm:
+    Type: Fire
+    Category: Special
+    Power: 100
+    Accuracy: 75
+    PP: 5
+    Priority: 0
+
+Shadow Force:
+    Type: Ghost
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Hone Claws:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Wide Guard:
+    Type: Rock
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 3
+
+Guard Split:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Power Split:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Wonder Room:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Psyshock:
+    Type: Psychic
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Venoshock:
+    Type: Poison
+    Category: Special
+    Power: 65
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Rage Powder:
+    Type: Bug
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 2
+
+Magic Room:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Smack Down:
+    Type: Rock
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Sludge Wave:
+    Type: Poison
+    Category: Special
+    Power: 95
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Quiver Dance:
+    Type: Bug
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Heavy Slam:
+    Type: Steel
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Electro Ball:
+    Type: Electric
+    Category: Special
+    Power: 1
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Soak:
+    Type: Water
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Flame Charge:
+    Type: Fire
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Coil:
+    Type: Poison
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Low Sweep:
+    Type: Fighting
+    Category: Physical
+    Power: 65
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Acid Spray:
+    Type: Poison
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Foul Play:
+    Type: Dark
+    Category: Physical
+    Power: 95
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Simple Beam:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Entrainment:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+After You:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Round:
+    Type: Normal
+    Category: Special
+    Power: 60
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Echoed Voice:
+    Type: Normal
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Clear Smog:
+    Type: Poison
+    Category: Special
+    Power: 50
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Stored Power:
+    Type: Psychic
+    Category: Special
+    Power: 20
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Quick Guard:
+    Type: Fighting
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 3
+
+Ally Switch:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 2
+
+Scald:
+    Type: Water
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Shell Smash:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Heal Pulse:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Hex:
+    Type: Ghost
+    Category: Special
+    Power: 65
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Shift Gear:
+    Type: Steel
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Circle Throw:
+    Type: Fighting
+    Category: Physical
+    Power: 60
+    Accuracy: 90
+    PP: 10
+    Priority: -6
+
+Incinerate:
+    Type: Fire
+    Category: Special
+    Power: 60
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Quash:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Acrobatics:
+    Type: Flying
+    Category: Physical
+    Power: 55
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Reflect Type:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Retaliate:
+    Type: Normal
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Final Gambit:
+    Type: Fighting
+    Category: Special
+    Power: 1
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Inferno:
+    Type: Fire
+    Category: Special
+    Power: 100
+    Accuracy: 50
+    PP: 5
+    Priority: 0
+
+Water Pledge:
+    Type: Water
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Fire Pledge:
+    Type: Fire
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Grass Pledge:
+    Type: Grass
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Volt Switch:
+    Type: Electric
+    Category: Special
+    Power: 70
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Struggle Bug:
+    Type: Bug
+    Category: Special
+    Power: 50
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Bulldoze:
+    Type: Ground
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Frost Breath:
+    Type: Ice
+    Category: Special
+    Power: 60
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Dragon Tail:
+    Type: Dragon
+    Category: Physical
+    Power: 60
+    Accuracy: 90
+    PP: 10
+    Priority: -6
+
+Work Up:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 30
+    Priority: 0
+
+Electroweb:
+    Type: Electric
+    Category: Special
+    Power: 55
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+Wild Charge:
+    Type: Electric
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Drill Run:
+    Type: Ground
+    Category: Physical
+    Power: 80
+    Accuracy: 95
+    PP: 10
+    Priority: 0
+
+Horn Leech:
+    Type: Grass
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Sacred Sword:
+    Type: Fighting
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Razor Shell:
+    Type: Water
+    Category: Physical
+    Power: 75
+    Accuracy: 95
+    PP: 10
+    Priority: 0
+
+Heat Crash:
+    Type: Fire
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Cotton Guard:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Night Daze:
+    Type: Dark
+    Category: Special
+    Power: 85
+    Accuracy: 95
+    PP: 10
+    Priority: 0
+
+Psystrike:
+    Type: Psychic
+    Category: Special
+    Power: 100
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Tail Slap:
+    Type: Normal
+    Category: Physical
+    Power: 25
+    Accuracy: 85
+    PP: 10
+    Priority: 0
+
+Hurricane:
+    Type: Flying
+    Category: Special
+    Power: 110
+    Accuracy: 70
+    PP: 10
+    Priority: 0
+
+Relic Song:
+    Type: Normal
+    Category: Special
+    Power: 75
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Fiery Dance:
+    Type: Fire
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Snarl:
+    Type: Dark
+    Category: Special
+    Power: 55
+    Accuracy: 95
+    PP: 15
+    Priority: 0
+
+Icicle Crash:
+    Type: Ice
+    Category: Physical
+    Power: 85
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+V-create:
+    Type: Fire
+    Category: Physical
+    Power: 180
+    Accuracy: 95
+    PP: 5
+    Priority: 0
+
+Flying Press:
+    Type: Fighting
+    Category: Physical
+    Power: 100
+    Accuracy: 95
+    PP: 10
+    Priority: 0
+
+Belch:
+    Type: Poison
+    Category: Special
+    Power: 120
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Sticky Web:
+    Type: Bug
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Fell Stinger:
+    Type: Bug
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 25
+    Priority: 0
+
+Phantom Force:
+    Type: Ghost
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Noble Roar:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Parabolic Charge:
+    Type: Electric
+    Category: Special
+    Power: 65
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Petal Blizzard:
+    Type: Grass
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Freeze-Dry:
+    Type: Ice
+    Category: Special
+    Power: 70
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Disarming Voice:
+    Type: Fairy
+    Category: Special
+    Power: 40
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Parting Shot:
+    Type: Dark
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Draining Kiss:
+    Type: Fairy
+    Category: Special
+    Power: 50
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Grassy Terrain:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Misty Terrain:
+    Type: Fairy
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Play Rough:
+    Type: Fairy
+    Category: Physical
+    Power: 90
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Fairy Wind:
+    Type: Fairy
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 30
+    Priority: 0
+
+Moonblast:
+    Type: Fairy
+    Category: Special
+    Power: 95
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Boomburst:
+    Type: Normal
+    Category: Special
+    Power: 140
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Fairy Lock:
+    Type: Fairy
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Play Nice:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Confide:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Diamond Storm:
+    Type: Rock
+    Category: Physical
+    Power: 100
+    Accuracy: 95
+    PP: 5
+    Priority: 0
+
+Steam Eruption:
+    Type: Water
+    Category: Special
+    Power: 110
+    Accuracy: 95
+    PP: 5
+    Priority: 0
+
+Hyperspace Hole:
+    Type: Psychic
+    Category: Special
+    Power: 80
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Water Shuriken:
+    Type: Water
+    Category: Special
+    Power: 15
+    Accuracy: 100
+    PP: 20
+    Priority: 1
+
+Mystical Fire:
+    Type: Fire
+    Category: Special
+    Power: 75
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Spiky Shield:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 4
+
+Aromatic Mist:
+    Type: Fairy
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Eerie Impulse:
+    Type: Electric
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Magnetic Flux:
+    Type: Electric
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Happy Hour:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 30
+    Priority: 0
+
+Electric Terrain:
+    Type: Electric
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Dazzling Gleam:
+    Type: Fairy
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Celebrate:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 40
+    Priority: 0
+
+Hold Hands:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 40
+    Priority: 0
+
+Baby-Doll Eyes:
+    Type: Fairy
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 30
+    Priority: 1
+
+Nuzzle:
+    Type: Electric
+    Category: Physical
+    Power: 20
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Hold Back:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 40
+    Priority: 0
+
+Infestation:
+    Type: Bug
+    Category: Special
+    Power: 20
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Origin Pulse:
+    Type: Water
+    Category: Special
+    Power: 110
+    Accuracy: 85
+    PP: 10
+    Priority: 0
+
+Precipice Blades:
+    Type: Ground
+    Category: Physical
+    Power: 120
+    Accuracy: 85
+    PP: 10
+    Priority: 0
+
+Dragon Ascent:
+    Type: Flying
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Hyperspace Fury:
+    Type: Dark
+    Category: Physical
+    Power: 100
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Shore Up:
+    Type: Ground
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+First Impression:
+    Type: Bug
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 2
+
+Baneful Bunker:
+    Type: Poison
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 4
+
+Spirit Shackle:
+    Type: Ghost
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Darkest Lariat:
+    Type: Dark
+    Category: Physical
+    Power: 85
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Ice Hammer:
+    Type: Ice
+    Category: Physical
+    Power: 100
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+High Horsepower:
+    Type: Ground
+    Category: Physical
+    Power: 95
+    Accuracy: 95
+    PP: 10
+    Priority: 0
+
+Strength Sap:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Solar Blade:
+    Type: Grass
+    Category: Physical
+    Power: 125
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Leafage:
+    Type: Grass
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 40
+    Priority: 0
+
+Throat Chop:
+    Type: Dark
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Pollen Puff:
+    Type: Bug
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Psychic Terrain:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Lunge:
+    Type: Bug
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Fire Lash:
+    Type: Fire
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Power Trip:
+    Type: Dark
+    Category: Physical
+    Power: 20
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Burn Up:
+    Type: Fire
+    Category: Special
+    Power: 130
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Speed Swap:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Smart Strike:
+    Type: Steel
+    Category: Physical
+    Power: 70
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Revelation Dance:
+    Type: Normal
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Trop Kick:
+    Type: Grass
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Instruct:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Brutal Swing:
+    Type: Dark
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Aurora Veil:
+    Type: Ice
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Fleur Cannon:
+    Type: Fairy
+    Category: Special
+    Power: 130
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Psychic Fangs:
+    Type: Psychic
+    Category: Physical
+    Power: 85
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Stomping Tantrum:
+    Type: Ground
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Accelerock:
+    Type: Rock
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 20
+    Priority: 1
+
+Liquidation:
+    Type: Water
+    Category: Physical
+    Power: 85
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Tearful Look:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 20
+    Priority: 0
+
+Zing Zap:
+    Type: Electric
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Dynamax Cannon:
+    Type: Dragon
+    Category: Special
+    Power: 100
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Snipe Shot:
+    Type: Water
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Jaw Lock:
+    Type: Dark
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Stuff Cheeks:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+No Retreat:
+    Type: Fighting
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Tar Shot:
+    Type: Rock
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Magic Powder:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Dragon Darts:
+    Type: Dragon
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Teatime:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Court Change:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Body Press:
+    Type: Fighting
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Drum Beating:
+    Type: Grass
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Pyro Ball:
+    Type: Fire
+    Category: Physical
+    Power: 120
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Behemoth Blade:
+    Type: Steel
+    Category: Physical
+    Power: 100
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Behemoth Bash:
+    Type: Steel
+    Category: Physical
+    Power: 100
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Breaking Swipe:
+    Type: Dragon
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Branch Poke:
+    Type: Grass
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 40
+    Priority: 0
+
+Overdrive:
+    Type: Electric
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Apple Acid:
+    Type: Grass
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Grav Apple:
+    Type: Grass
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Spirit Break:
+    Type: Fairy
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Life Dew:
+    Type: Water
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+False Surrender:
+    Type: Dark
+    Category: Physical
+    Power: 80
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Steel Beam:
+    Type: Steel
+    Category: Special
+    Power: 140
+    Accuracy: 95
+    PP: 5
+    Priority: 0
+
+Expanding Force:
+    Type: Psychic
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Steel Roller:
+    Type: Steel
+    Category: Physical
+    Power: 130
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Scale Shot:
+    Type: Dragon
+    Category: Physical
+    Power: 25
+    Accuracy: 90
+    PP: 20
+    Priority: 0
+
+Meteor Beam:
+    Type: Rock
+    Category: Special
+    Power: 120
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Shell Side Arm:
+    Type: Poison
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Misty Explosion:
+    Type: Fairy
+    Category: Special
+    Power: 100
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Grassy Glide:
+    Type: Grass
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Rising Voltage:
+    Type: Electric
+    Category: Special
+    Power: 70
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Terrain Pulse:
+    Type: Normal
+    Category: Special
+    Power: 50
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Skitter Smack:
+    Type: Bug
+    Category: Physical
+    Power: 70
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Burning Jealousy:
+    Type: Fire
+    Category: Special
+    Power: 70
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Lash Out:
+    Type: Dark
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Poltergeist:
+    Type: Ghost
+    Category: Physical
+    Power: 110
+    Accuracy: 90
+    PP: 5
+    Priority: 0
+
+Corrosive Gas:
+    Type: Poison
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 40
+    Priority: 0
+
+Coaching:
+    Type: Fighting
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Flip Turn:
+    Type: Water
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Triple Axel:
+    Type: Ice
+    Category: Physical
+    Power: 20
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Dual Wingbeat:
+    Type: Flying
+    Category: Physical
+    Power: 40
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Scorching Sands:
+    Type: Ground
+    Category: Special
+    Power: 70
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Jungle Healing:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Wicked Blow:
+    Type: Dark
+    Category: Physical
+    Power: 75
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Surging Strikes:
+    Type: Water
+    Category: Physical
+    Power: 25
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Thunder Cage:
+    Type: Electric
+    Category: Special
+    Power: 80
+    Accuracy: 90
+    PP: 15
+    Priority: 0
+
+Dragon Energy:
+    Type: Dragon
+    Category: Special
+    Power: 150
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Freezing Glare:
+    Type: Psychic
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Fiery Wrath:
+    Type: Dark
+    Category: Special
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Thunderous Kick:
+    Type: Fighting
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Glacial Lance:
+    Type: Ice
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Astral Barrage:
+    Type: Ghost
+    Category: Special
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Eerie Spell:
+    Type: Psychic
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Dire Claw:
+    Type: Poison
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Psyshield Bash:
+    Type: Psychic
+    Category: Physical
+    Power: 70
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Power Shift:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Stone Axe:
+    Type: Rock
+    Category: Physical
+    Power: 65
+    Accuracy: 90
+    PP: 15
+    Priority: 0
+
+Springtide Storm:
+    Type: Fairy
+    Category: Special
+    Power: 100
+    Accuracy: 80
+    PP: 5
+    Priority: 0
+
+Mystical Power:
+    Type: Psychic
+    Category: Special
+    Power: 70
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Raging Fury:
+    Type: Fire
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Wave Crash:
+    Type: Water
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Chloroblast:
+    Type: Grass
+    Category: Special
+    Power: 150
+    Accuracy: 95
+    PP: 5
+    Priority: 0
+
+Mountain Gale:
+    Type: Ice
+    Category: Physical
+    Power: 100
+    Accuracy: 85
+    PP: 10
+    Priority: 0
+
+Victory Dance:
+    Type: Fighting
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Headlong Rush:
+    Type: Ground
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Barb Barrage:
+    Type: Poison
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Esper Wing:
+    Type: Psychic
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Bitter Malice:
+    Type: Ghost
+    Category: Special
+    Power: 75
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Shelter:
+    Type: Steel
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Triple Arrows:
+    Type: Fighting
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Infernal Parade:
+    Type: Ghost
+    Category: Special
+    Power: 60
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Ceaseless Edge:
+    Type: Dark
+    Category: Physical
+    Power: 65
+    Accuracy: 90
+    PP: 15
+    Priority: 0
+
+Bleakwind Storm:
+    Type: Flying
+    Category: Special
+    Power: 100
+    Accuracy: 80
+    PP: 10
+    Priority: 0
+
+Wildbolt Storm:
+    Type: Electric
+    Category: Special
+    Power: 100
+    Accuracy: 80
+    PP: 10
+    Priority: 0
+
+Sandsear Storm:
+    Type: Ground
+    Category: Special
+    Power: 100
+    Accuracy: 80
+    PP: 10
+    Priority: 0
+
+Lunar Blessing:
+    Type: Psychic
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 5
+    Priority: 0
+
+Tera Blast:
+    Type: Normal
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Silk Trap:
+    Type: Bug
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 4
+
+Axe Kick:
+    Type: Fighting
+    Category: Physical
+    Power: 120
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Last Respects:
+    Type: Ghost
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Lumina Crash:
+    Type: Psychic
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Order Up:
+    Type: Dragon
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Jet Punch:
+    Type: Water
+    Category: Physical
+    Power: 60
+    Accuracy: 100
+    PP: 15
+    Priority: 1
+
+Spicy Extract:
+    Type: Grass
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 15
+    Priority: 0
+
+Spin Out:
+    Type: Steel
+    Category: Physical
+    Power: 100
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Population Bomb:
+    Type: Normal
+    Category: Physical
+    Power: 20
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Ice Spinner:
+    Type: Ice
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Glaive Rush:
+    Type: Dragon
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Revival Blessing:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 1
+    Priority: 0
+
+Salt Cure:
+    Type: Rock
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Triple Dive:
+    Type: Water
+    Category: Physical
+    Power: 30
+    Accuracy: 95
+    PP: 10
+    Priority: 0
+
+Mortal Spin:
+    Type: Poison
+    Category: Physical
+    Power: 30
+    Accuracy: 100
+    PP: 15
+    Priority: 0
+
+Doodle:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Fillet Away:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Kowtow Cleave:
+    Type: Dark
+    Category: Physical
+    Power: 85
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Flower Trick:
+    Type: Grass
+    Category: Physical
+    Power: 70
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Torch Song:
+    Type: Fire
+    Category: Special
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Aqua Step:
+    Type: Water
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Raging Bull:
+    Type: Normal
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Make It Rain:
+    Type: Steel
+    Category: Special
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Pound:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 35
+    Priority: 0
+
+Pound:
+    Type: Normal
+    Category: Physical
+    Power: 40
+    Accuracy: 100
+    PP: 35
+    Priority: 0
+
+Ruination:
+    Type: Dark
+    Category: Special
+    Power: 1
+    Accuracy: 90
+    PP: 10
+    Priority: 0
+
+Collision Course:
+    Type: Fighting
+    Category: Physical
+    Power: 100
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Electro Drift:
+    Type: Electric
+    Category: Special
+    Power: 100
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Shed Tail:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Chilly Reception:
+    Type: Ice
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Tidy Up:
+    Type: Normal
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Snowscape:
+    Type: Ice
+    Category: Status
+    Power: 0
+    Accuracy: 101
+    PP: 10
+    Priority: 0
+
+Pounce:
+    Type: Bug
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Trailblaze:
+    Type: Grass
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Chilling Water:
+    Type: Water
+    Category: Special
+    Power: 50
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Hyper Drill:
+    Type: Normal
+    Category: Physical
+    Power: 100
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Twin Beam:
+    Type: Psychic
+    Category: Special
+    Power: 40
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Rage Fist:
+    Type: Ghost
+    Category: Physical
+    Power: 50
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Armor Cannon:
+    Type: Fire
+    Category: Special
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Bitter Blade:
+    Type: Fire
+    Category: Physical
+    Power: 90
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Double Shock:
+    Type: Electric
+    Category: Physical
+    Power: 120
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Gigaton Hammer:
+    Type: Steel
+    Category: Physical
+    Power: 160
+    Accuracy: 100
+    PP: 5
+    Priority: 0
+
+Comeuppance:
+    Type: Dark
+    Category: Physical
+    Power: 1
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Aqua Cutter:
+    Type: Water
+    Category: Physical
+    Power: 70
+    Accuracy: 100
+    PP: 20
+    Priority: 0
+
+Blazing Torque:
+    Type: Fire
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Wicked Torque:
+    Type: Dark
+    Category: Physical
+    Power: 80
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Noxious Torque:
+    Type: Poison
+    Category: Physical
+    Power: 100
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Combat Torque:
+    Type: Fighting
+    Category: Physical
+    Power: 100
+    Accuracy: 100
+    PP: 10
+    Priority: 0
+
+Magical Torque:
+    Type: Fairy
+    Category: Physical
+    Power: 100
+    Accuracy: 100
+    PP: 10
+    Priority: 0
