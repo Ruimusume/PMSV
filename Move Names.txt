@@ -1,103 +1,103 @@
-000	———	———	———
-001	Pound	拍击	はたく
-002	Karate Chop	空手劈	からてチョップ
-003	Double Slap	连环巴掌	おうふくビンタ
-004	Comet Punch	连续拳	れんぞくパンチ
-005	Mega Punch	百万吨重拳	メガトンパンチ
-006	Pay Day	聚宝功	ネコにこばん
-007	Fire Punch	火焰拳	ほのおのパンチ
-008	Ice Punch	冰冻拳	れいとうパンチ
-009	Thunder Punch	雷电拳	かみなりパンチ
-010	Scratch	抓	ひっかく
-011	Vise Grip	夹住	はさむ
-012	Guillotine	断头钳	ハサミギロチン
-013	Razor Wind	旋风刀	かまいたち
-014	Swords Dance	剑舞	つるぎのまい
-015	Cut	居合斩	いあいぎり
-016	Gust	起风	かぜおこし
-017	Wing Attack	翅膀攻击	つばさでうつ
-018	Whirlwind	吹飞	ふきとばし
-019	Fly	飞翔	そらをとぶ
-020	Bind	绑紧	しめつける
-021	Slam	摔打	たたきつける
-022	Vine Whip	藤鞭	つるのムチ
-023	Stomp	踩踏	ふみつけ
-024	Double Kick	二连踢	にどげり
-025	Mega Kick	百万吨重踢	メガトンキック
-026	Jump Kick	飞踢	とびげり
-027	Rolling Kick	回旋踢	まわしげり
-028	Sand Attack	泼沙	すなかけ
-029	Headbutt	头锤	ずつき
-030	Horn Attack	角撞	つのでつく
-031	Fury Attack	乱击	みだれづき
-032	Horn Drill	角钻	つのドリル
-033	Tackle	撞击	たいあたり
-034	Body Slam	泰山压顶	のしかかり
-035	Wrap	紧束	まきつく
-036	Take Down	猛撞	とっしん
-037	Thrash	大闹一番	あばれる
-038	Double-Edge	舍身冲撞	すてみタックル
-039	Tail Whip	摇尾巴	しっぽをふる
-040	Poison Sting	毒针	どくばり
-041	Twineedle	双针	ダブルニードル
-042	Pin Missile	飞弹针	ミサイルばり
-043	Leer	瞪眼	にらみつける
-044	Bite	咬住	かみつく
-045	Growl	叫声	なきごえ
-046	Roar	吼叫	ほえる
-047	Sing	唱歌	うたう
-048	Supersonic	超音波	ちょうおんぱ
-049	Sonic Boom	音爆	ソニックブーム
-050	Disable	定身法	かなしばり
-051	Acid	溶解液	ようかいえき
-052	Ember	火花	ひのこ
-053	Flamethrower	喷射火焰	かえんほうしゃ
-054	Mist	白雾	しろいきり
-055	Water Gun	水枪	みずでっぽう
-056	Hydro Pump	水炮	ハイドロポンプ
-057	Surf	冲浪	なみのり
-058	Ice Beam	冰冻光束	れいとうビーム
-059	Blizzard	暴风雪	ふぶき
-060	Psybeam	幻象光线	サイケこうせん
-061	Bubble Beam	泡沫光线	バブルこうせん
-062	Aurora Beam	极光束	オーロラビーム
-063	Hyper Beam	破坏光线	はかいこうせん
-064	Peck	啄	つつく
-065	Drill Peck	啄钻	ドリルくちばし
-066	Submission	地狱翻滚	じごくぐるま
-067	Low Kick	踢倒	けたぐり
-068	Counter	双倍奉还	カウンター
-069	Seismic Toss	地球上投	ちきゅうなげ
-070	Strength	怪力	かいりき
-071	Absorb	吸取	すいとる
-072	Mega Drain	超级吸取	メガドレイン
-073	Leech Seed	寄生种子	やどりぎのタネ
-074	Growth	生长	せいちょう
-075	Razor Leaf	飞叶快刀	はっぱカッター
-076	Solar Beam	日光束	ソーラービーム
-077	Poison Powder	毒粉	どくのこな
-078	Stun Spore	麻痹粉	しびれごな
-079	Sleep Powder	催眠粉	ねむりごな
-080	Petal Dance	花瓣舞	はなびらのまい
-081	String Shot	吐丝	いとをはく
-082	Dragon Rage	龙之怒	りゅうのいかり
-083	Fire Spin	火焰旋涡	ほのおのうず
-084	Thunder Shock	电击	でんきショック
-085	Thunderbolt	十万伏特	１０まんボルト
-086	Thunder Wave	电磁波	でんじは
-087	Thunder	打雷	かみなり
-088	Rock Throw	落石	いわおとし
-089	Earthquake	地震	じしん
-090	Fissure	地裂	じわれ
-091	Dig	挖洞	あなをほる
-092	Toxic	剧毒	どくどく
-093	Confusion	念力	ねんりき
-094	Psychic	精神强念	サイコキネシス
-095	Hypnosis	催眠术	さいみんじゅつ
-096	Meditate	瑜伽姿势	ヨガのポーズ
-097	Agility	高速移动	こうそくいどう
-098	Quick Attack	电光一闪	でんこうせっか
-099	Rage	愤怒	いかり
+0	———	———	———
+1	Pound	拍击	はたく
+2	Karate Chop	空手劈	からてチョップ
+3	Double Slap	连环巴掌	おうふくビンタ
+4	Comet Punch	连续拳	れんぞくパンチ
+5	Mega Punch	百万吨重拳	メガトンパンチ
+6	Pay Day	聚宝功	ネコにこばん
+7	Fire Punch	火焰拳	ほのおのパンチ
+8	Ice Punch	冰冻拳	れいとうパンチ
+9	Thunder Punch	雷电拳	かみなりパンチ
+10	Scratch	抓	ひっかく
+11	Vise Grip	夹住	はさむ
+12	Guillotine	断头钳	ハサミギロチン
+13	Razor Wind	旋风刀	かまいたち
+14	Swords Dance	剑舞	つるぎのまい
+15	Cut	居合斩	いあいぎり
+16	Gust	起风	かぜおこし
+17	Wing Attack	翅膀攻击	つばさでうつ
+18	Whirlwind	吹飞	ふきとばし
+19	Fly	飞翔	そらをとぶ
+20	Bind	绑紧	しめつける
+21	Slam	摔打	たたきつける
+22	Vine Whip	藤鞭	つるのムチ
+23	Stomp	踩踏	ふみつけ
+24	Double Kick	二连踢	にどげり
+25	Mega Kick	百万吨重踢	メガトンキック
+26	Jump Kick	飞踢	とびげり
+27	Rolling Kick	回旋踢	まわしげり
+28	Sand Attack	泼沙	すなかけ
+29	Headbutt	头锤	ずつき
+30	Horn Attack	角撞	つのでつく
+31	Fury Attack	乱击	みだれづき
+32	Horn Drill	角钻	つのドリル
+33	Tackle	撞击	たいあたり
+34	Body Slam	泰山压顶	のしかかり
+35	Wrap	紧束	まきつく
+36	Take Down	猛撞	とっしん
+37	Thrash	大闹一番	あばれる
+38	Double-Edge	舍身冲撞	すてみタックル
+39	Tail Whip	摇尾巴	しっぽをふる
+40	Poison Sting	毒针	どくばり
+41	Twineedle	双针	ダブルニードル
+42	Pin Missile	飞弹针	ミサイルばり
+43	Leer	瞪眼	にらみつける
+44	Bite	咬住	かみつく
+45	Growl	叫声	なきごえ
+46	Roar	吼叫	ほえる
+47	Sing	唱歌	うたう
+48	Supersonic	超音波	ちょうおんぱ
+49	Sonic Boom	音爆	ソニックブーム
+50	Disable	定身法	かなしばり
+51	Acid	溶解液	ようかいえき
+52	Ember	火花	ひのこ
+53	Flamethrower	喷射火焰	かえんほうしゃ
+54	Mist	白雾	しろいきり
+55	Water Gun	水枪	みずでっぽう
+56	Hydro Pump	水炮	ハイドロポンプ
+57	Surf	冲浪	なみのり
+58	Ice Beam	冰冻光束	れいとうビーム
+59	Blizzard	暴风雪	ふぶき
+60	Psybeam	幻象光线	サイケこうせん
+61	Bubble Beam	泡沫光线	バブルこうせん
+62	Aurora Beam	极光束	オーロラビーム
+63	Hyper Beam	破坏光线	はかいこうせん
+64	Peck	啄	つつく
+65	Drill Peck	啄钻	ドリルくちばし
+66	Submission	地狱翻滚	じごくぐるま
+67	Low Kick	踢倒	けたぐり
+68	Counter	双倍奉还	カウンター
+69	Seismic Toss	地球上投	ちきゅうなげ
+70	Strength	怪力	かいりき
+71	Absorb	吸取	すいとる
+72	Mega Drain	超级吸取	メガドレイン
+73	Leech Seed	寄生种子	やどりぎのタネ
+74	Growth	生长	せいちょう
+75	Razor Leaf	飞叶快刀	はっぱカッター
+76	Solar Beam	日光束	ソーラービーム
+77	Poison Powder	毒粉	どくのこな
+78	Stun Spore	麻痹粉	しびれごな
+79	Sleep Powder	催眠粉	ねむりごな
+80	Petal Dance	花瓣舞	はなびらのまい
+81	String Shot	吐丝	いとをはく
+82	Dragon Rage	龙之怒	りゅうのいかり
+83	Fire Spin	火焰旋涡	ほのおのうず
+84	Thunder Shock	电击	でんきショック
+85	Thunderbolt	十万伏特	１０まんボルト
+86	Thunder Wave	电磁波	でんじは
+87	Thunder	打雷	かみなり
+88	Rock Throw	落石	いわおとし
+89	Earthquake	地震	じしん
+90	Fissure	地裂	じわれ
+91	Dig	挖洞	あなをほる
+92	Toxic	剧毒	どくどく
+93	Confusion	念力	ねんりき
+94	Psychic	精神强念	サイコキネシス
+95	Hypnosis	催眠术	さいみんじゅつ
+96	Meditate	瑜伽姿势	ヨガのポーズ
+97	Agility	高速移动	こうそくいどう
+98	Quick Attack	电光一闪	でんこうせっか
+99	Rage	愤怒	いかり
 100	Teleport	瞬间移动	テレポート
 101	Night Shade	黑夜魔影	ナイトヘッド
 102	Mimic	模仿	ものまね
@@ -849,53 +849,53 @@
 848	Sandsear Storm	热沙风暴	ねっさのあらし
 849	Lunar Blessing	新月祈祷	みかづきのいのり
 850	Take Heart	勇气填充	ブレイブチャージ
-851	Tera Blast	#N/A	#N/A
-852	Silk Trap	#N/A	#N/A
-853	Axe Kick	#N/A	#N/A
-854	Last Respects	#N/A	#N/A
-855	Lumina Crash	#N/A	#N/A
-856	Order Up	#N/A	#N/A
-857	Jet Punch	#N/A	#N/A
-858	Spicy Extract	#N/A	#N/A
-859	Spin Out	#N/A	#N/A
-860	Population Bomb	#N/A	#N/A
-861	Ice Spinner	#N/A	#N/A
-862	Glaive Rush	#N/A	#N/A
-863	Revival Blessing	#N/A	#N/A
-864	Salt Cure	#N/A	#N/A
-865	Triple Dive	#N/A	#N/A
-866	Mortal Spin	#N/A	#N/A
-867	Doodle	#N/A	#N/A
-868	Fillet Away	#N/A	#N/A
-869	Kowtow Cleave	#N/A	#N/A
-870	Flower Trick	#N/A	#N/A
-871	Torch Song	#N/A	#N/A
-872	Aqua Step	#N/A	#N/A
-873	Raging Bull	#N/A	#N/A
-874	Make It Rain	#N/A	#N/A
+851	Tera Blast	太晶爆发	#N/A
+852	Silk Trap	线阱	#N/A
+853	Axe Kick	下压踢	#N/A
+854	Last Respects	扫墓	#N/A
+855	Lumina Crash	琉光冲激	#N/A
+856	Order Up	上菜	#N/A
+857	Jet Punch	喷射拳	#N/A
+858	Spicy Extract	辣椒精华	#N/A
+859	Spin Out	疾速转轮	#N/A
+860	Population Bomb	鼠数儿	#N/A
+861	Ice Spinner	冰旋，	#N/A
+862	Glaive Rush	巨剑突击	#N/A
+863	Revival Blessing	复生祈祷	#N/A
+864	Salt Cure	盐腌	#N/A
+865	Triple Dive	三连钻.	#N/A
+866	Mortal Spin	晶光转转	#N/A
+867	Doodle	描绘	#N/A
+868	Fillet Away	甩肉	#N/A
+869	Kowtow Cleave	仆刀	#N/A
+870	Flower Trick	千变万花	#N/A
+871	Torch Song	闪焰高歌	#N/A
+872	Aqua Step	流水旋舞	#N/A
+873	Raging Bull	怒牛	#N/A
+874	Make It Rain	淘金潮	#N/A
 875	Pound	拍击	はたく
 876	Pound	拍击	はたく
-877	Ruination	#N/A	#N/A
-878	Collision Course	#N/A	#N/A
-879	Electro Drift	#N/A	#N/A
-880	Shed Tail	#N/A	#N/A
-881	Chilly Reception	#N/A	#N/A
-882	Tidy Up	#N/A	#N/A
-883	Snowscape	#N/A	#N/A
-884	Pounce	#N/A	#N/A
-885	Trailblaze	#N/A	#N/A
-886	Chilling Water	#N/A	#N/A
-887	Hyper Drill	#N/A	#N/A
-888	Twin Beam	#N/A	#N/A
-889	Rage Fist	#N/A	#N/A
-890	Armor Cannon	#N/A	#N/A
-891	Bitter Blade	#N/A	#N/A
-892	Double Shock	#N/A	#N/A
-893	Gigaton Hammer	#N/A	#N/A
-894	Comeuppance	#N/A	#N/A
-895	Aqua Cutter	#N/A	#N/A
-896	Blazing Torque	#N/A	#N/A
-897	Wicked Torque	#N/A	#N/A
-898	Noxious Torque	#N/A	#N/A
-899	Combat Torque	#N/A	#N/A
-900	Magical Torque	#N/A	#N/A
+877	Ruination	大灾难	#N/A
+878	Collision Course	全开猛撞	#N/A
+879	Electro Drift	闪电猛冲	#N/A
+880	Shed Tail	断尾	#N/A
+881	Chilly Reception	冷笑话	#N/A
+882	Tidy Up	大扫除	#N/A
+883	Snowscape	雪景	#N/A
+884	Pounce	虫扑	#N/A
+885	Trailblaze	起草	#N/A
+886	Chilling Water	泼冷水	#N/A
+887	Hyper Drill	强力钻	#N/A
+888	Twin Beam	双光束	#N/A
+889	Rage Fist	愤怒之拳	#N/A
+890	Armor Cannon	铠农炮	#N/A
+891	Bitter Blade	悔念剑	#N/A
+892	Double Shock	电光双击	#N/A
+893	Gigaton Hammer	巨力锤	#N/A
+894	Comeuppance	复仇	#N/A
+895	Aqua Cutter	水波刀	#N/A
+896	Blazing Torque	灼热暴冲	#N/A
+897	Wicked Torque	黑暗暴冲	#N/A
+898	Noxious Torque	剧毒暴冲	#N/A
+899	Combat Torque	格斗暴冲	#N/A
+900	Magical Torque	魔法暴冲	#N/A
