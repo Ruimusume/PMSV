@@ -859,11 +859,11 @@
 858	Spicy Extract	辣椒精华	#N/A
 859	Spin Out	疾速转轮	#N/A
 860	Population Bomb	鼠数儿	#N/A
-861	Ice Spinner	冰旋，	#N/A
+861	Ice Spinner	冰旋	#N/A
 862	Glaive Rush	巨剑突击	#N/A
 863	Revival Blessing	复生祈祷	#N/A
 864	Salt Cure	盐腌	#N/A
-865	Triple Dive	三连钻.	#N/A
+865	Triple Dive	三连钻	#N/A
 866	Mortal Spin	晶光转转	#N/A
 867	Doodle	描绘	#N/A
 868	Fillet Away	甩肉	#N/A
