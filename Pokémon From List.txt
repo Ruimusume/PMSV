@@ -1,4 +1,4 @@
-Charmander	0	小火龙	
+Charmander	0	小火龙
 Charmeleon	0	火恐龙	
 Charizard	0	喷火龙	
 Pikachu	0	皮卡丘	
