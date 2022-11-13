@@ -1,103 +1,103 @@
-000	—	—	—
-001	Stench	恶臭	あくしゅう
-002	Drizzle	降雨	あめふらし
-003	Speed Boost	加速	かそく
-004	Battle Armor	战斗盔甲	カブトアーマー
-005	Sturdy	结实	がんじょう
-006	Damp	湿气	しめりけ
-007	Limber	柔软	じゅうなん
-008	Sand Veil	沙隐	すながくれ
-009	Static	静电	せいでんき
-010	Volt Absorb	蓄电	ちくでん
-011	Water Absorb	储水	ちょすい
-012	Oblivious	迟钝	どんかん
-013	Cloud Nine	无关天气	ノーてんき
-014	Compound Eyes	复眼	ふくがん
-015	Insomnia	不眠	ふみん
-016	Color Change	变色	へんしょく
-017	Immunity	免疫	めんえき
-018	Flash Fire	引火	もらいび
-019	Shield Dust	鳞粉	りんぷん
-020	Own Tempo	我行我素	マイペース
-021	Suction Cups	吸盘	きゅうばん
-022	Intimidate	威吓	いかく
-023	Shadow Tag	踩影	かげふみ
-024	Rough Skin	粗糙皮肤	さめはだ
-025	Wonder Guard	神奇守护	ふしぎなまもり
-026	Levitate	飘浮	ふゆう
-027	Effect Spore	孢子	ほうし
-028	Synchronize	同步	シンクロ
-029	Clear Body	恒净之躯	クリアボディ
-030	Natural Cure	自然回复	しぜんかいふく
-031	Lightning Rod	避雷针	ひらいしん
-032	Serene Grace	天恩	てんのめぐみ
-033	Swift Swim	悠游自如	すいすい
-034	Chlorophyll	叶绿素	ようりょくそ
-035	Illuminate	发光	はっこう
-036	Trace	复制	トレース
-037	Huge Power	大力士	ちからもち
-038	Poison Point	毒刺	どくのトゲ
-039	Inner Focus	精神力	せいしんりょく
-040	Magma Armor	熔岩铠甲	マグマのよろい
-041	Water Veil	水幕	みずのベール
-042	Magnet Pull	磁力	じりょく
-043	Soundproof	隔音	ぼうおん
-044	Rain Dish	雨盘	あめうけざら
-045	Sand Stream	扬沙	すなおこし
-046	Pressure	压迫感	プレッシャー
-047	Thick Fat	厚脂肪	あついしぼう
-048	Early Bird	早起	はやおき
-049	Flame Body	火焰之躯	ほのおのからだ
-050	Run Away	逃跑	にげあし
-051	Keen Eye	锐利目光	するどいめ
-052	Hyper Cutter	怪力钳	かいりきバサミ
-053	Pickup	捡拾	ものひろい
-054	Truant	懒惰	なまけ
-055	Hustle	活力	はりきり
-056	Cute Charm	迷人之躯	メロメロボディ
-057	Plus	正电	プラス
-058	Minus	负电	マイナス
-059	Forecast	阴晴不定	てんきや
-060	Sticky Hold	黏着	ねんちゃく
-061	Shed Skin	蜕皮	だっぴ
-062	Guts	毅力	こんじょう
-063	Marvel Scale	神奇鳞片	ふしぎなうろこ
-064	Liquid Ooze	污泥浆	ヘドロえき
-065	Overgrow	茂盛	しんりょく
-066	Blaze	猛火	もうか
-067	Torrent	激流	げきりゅう
-068	Swarm	虫之预感	むしのしらせ
-069	Rock Head	坚硬脑袋	いしあたま
-070	Drought	日照	ひでり
-071	Arena Trap	沙穴	ありじごく
-072	Vital Spirit	干劲	やるき
-073	White Smoke	白色烟雾	しろいけむり
-074	Pure Power	瑜伽之力	ヨガパワー
-075	Shell Armor	硬壳盔甲	シェルアーマー
-076	Air Lock	气闸	エアロック
-077	Tangled Feet	蹒跚	ちどりあし
-078	Motor Drive	电气引擎	でんきエンジン
-079	Rivalry	斗争心	とうそうしん
-080	Steadfast	不屈之心	ふくつのこころ
-081	Snow Cloak	雪隐	ゆきがくれ
-082	Gluttony	贪吃鬼	くいしんぼう
-083	Anger Point	愤怒穴位	いかりのつぼ
-084	Unburden	轻装	かるわざ
-085	Heatproof	耐热	たいねつ
-086	Simple	单纯	たんじゅん
-087	Dry Skin	干燥皮肤	かんそうはだ
-088	Download	下载	ダウンロード
-089	Iron Fist	铁拳	てつのこぶし
-090	Poison Heal	毒疗	ポイズンヒール
-091	Adaptability	适应力	てきおうりょく
-092	Skill Link	连续攻击	スキルリンク
-093	Hydration	湿润之躯	うるおいボディ
-094	Solar Power	太阳之力	サンパワー
-095	Quick Feet	飞毛腿	はやあし
-096	Normalize	一般皮肤	ノーマルスキン
-097	Sniper	狙击手	スナイパー
-098	Magic Guard	魔法防守	マジックガード
-099	No Guard	无防守	ノーガード
+0	—	—	—
+1	Stench	恶臭	あくしゅう
+2	Drizzle	降雨	あめふらし
+3	Speed Boost	加速	かそく
+4	Battle Armor	战斗盔甲	カブトアーマー
+5	Sturdy	结实	がんじょう
+6	Damp	湿气	しめりけ
+7	Limber	柔软	じゅうなん
+8	Sand Veil	沙隐	すながくれ
+9	Static	静电	せいでんき
+10	Volt Absorb	蓄电	ちくでん
+11	Water Absorb	储水	ちょすい
+12	Oblivious	迟钝	どんかん
+13	Cloud Nine	无关天气	ノーてんき
+14	Compound Eyes	复眼	ふくがん
+15	Insomnia	不眠	ふみん
+16	Color Change	变色	へんしょく
+17	Immunity	免疫	めんえき
+18	Flash Fire	引火	もらいび
+19	Shield Dust	鳞粉	りんぷん
+20	Own Tempo	我行我素	マイペース
+21	Suction Cups	吸盘	きゅうばん
+22	Intimidate	威吓	いかく
+23	Shadow Tag	踩影	かげふみ
+24	Rough Skin	粗糙皮肤	さめはだ
+25	Wonder Guard	神奇守护	ふしぎなまもり
+26	Levitate	飘浮	ふゆう
+27	Effect Spore	孢子	ほうし
+28	Synchronize	同步	シンクロ
+29	Clear Body	恒净之躯	クリアボディ
+30	Natural Cure	自然回复	しぜんかいふく
+31	Lightning Rod	避雷针	ひらいしん
+32	Serene Grace	天恩	てんのめぐみ
+33	Swift Swim	悠游自如	すいすい
+34	Chlorophyll	叶绿素	ようりょくそ
+35	Illuminate	发光	はっこう
+36	Trace	复制	トレース
+37	Huge Power	大力士	ちからもち
+38	Poison Point	毒刺	どくのトゲ
+39	Inner Focus	精神力	せいしんりょく
+40	Magma Armor	熔岩铠甲	マグマのよろい
+41	Water Veil	水幕	みずのベール
+42	Magnet Pull	磁力	じりょく
+43	Soundproof	隔音	ぼうおん
+44	Rain Dish	雨盘	あめうけざら
+45	Sand Stream	扬沙	すなおこし
+46	Pressure	压迫感	プレッシャー
+47	Thick Fat	厚脂肪	あついしぼう
+48	Early Bird	早起	はやおき
+49	Flame Body	火焰之躯	ほのおのからだ
+50	Run Away	逃跑	にげあし
+51	Keen Eye	锐利目光	するどいめ
+52	Hyper Cutter	怪力钳	かいりきバサミ
+53	Pickup	捡拾	ものひろい
+54	Truant	懒惰	なまけ
+55	Hustle	活力	はりきり
+56	Cute Charm	迷人之躯	メロメロボディ
+57	Plus	正电	プラス
+58	Minus	负电	マイナス
+59	Forecast	阴晴不定	てんきや
+60	Sticky Hold	黏着	ねんちゃく
+61	Shed Skin	蜕皮	だっぴ
+62	Guts	毅力	こんじょう
+63	Marvel Scale	神奇鳞片	ふしぎなうろこ
+64	Liquid Ooze	污泥浆	ヘドロえき
+65	Overgrow	茂盛	しんりょく
+66	Blaze	猛火	もうか
+67	Torrent	激流	げきりゅう
+68	Swarm	虫之预感	むしのしらせ
+69	Rock Head	坚硬脑袋	いしあたま
+70	Drought	日照	ひでり
+71	Arena Trap	沙穴	ありじごく
+72	Vital Spirit	干劲	やるき
+73	White Smoke	白色烟雾	しろいけむり
+74	Pure Power	瑜伽之力	ヨガパワー
+75	Shell Armor	硬壳盔甲	シェルアーマー
+76	Air Lock	气闸	エアロック
+77	Tangled Feet	蹒跚	ちどりあし
+78	Motor Drive	电气引擎	でんきエンジン
+79	Rivalry	斗争心	とうそうしん
+80	Steadfast	不屈之心	ふくつのこころ
+81	Snow Cloak	雪隐	ゆきがくれ
+82	Gluttony	贪吃鬼	くいしんぼう
+83	Anger Point	愤怒穴位	いかりのつぼ
+84	Unburden	轻装	かるわざ
+85	Heatproof	耐热	たいねつ
+86	Simple	单纯	たんじゅん
+87	Dry Skin	干燥皮肤	かんそうはだ
+88	Download	下载	ダウンロード
+89	Iron Fist	铁拳	てつのこぶし
+90	Poison Heal	毒疗	ポイズンヒール
+91	Adaptability	适应力	てきおうりょく
+92	Skill Link	连续攻击	スキルリンク
+93	Hydration	湿润之躯	うるおいボディ
+94	Solar Power	太阳之力	サンパワー
+95	Quick Feet	飞毛腿	はやあし
+96	Normalize	一般皮肤	ノーマルスキン
+97	Sniper	狙击手	スナイパー
+98	Magic Guard	魔法防守	マジックガード
+99	No Guard	无防守	ノーガード
 100	Stall	慢出	あとだし
 101	Technician	技术高手	テクニシャン
 102	Leaf Guard	叶子防守	リーフガード
@@ -266,34 +266,34 @@
 265	Grim Neigh	漆黑嘶鸣	くろのいななき
 266	As One	人马一体	じんばいったい
 267	As One	人马一体	じんばいったい
-268	Lingering Aroma	#N/A	#N/A
-269	Seed Sower	#N/A	#N/A
-270	Thermal Exchange	#N/A	#N/A
-271	Anger Shell	#N/A	#N/A
-272	Purifying Salt	#N/A	#N/A
-273	Well-Baked Body	#N/A	#N/A
-274	Wind Rider	#N/A	#N/A
-275	Guard Dog	#N/A	#N/A
-276	Rocky Payload	#N/A	#N/A
-277	Wind Power	#N/A	#N/A
-278	Zero to Hero	#N/A	#N/A
-279	Commander	#N/A	#N/A
-280	Electromorphosis	#N/A	#N/A
-281	Protosynthesis	#N/A	#N/A
-282	Quark Drive	#N/A	#N/A
-283	Good as Gold	#N/A	#N/A
-284	Vessel of Ruin	#N/A	#N/A
-285	Sword of Ruin	#N/A	#N/A
-286	Tablets of Ruin	#N/A	#N/A
-287	Beads of Ruin	#N/A	#N/A
-288	Orichalcum Pulse	#N/A	#N/A
-289	Hadron Engine	#N/A	#N/A
-290	Opportunist	#N/A	#N/A
-291	Cud Chew	#N/A	#N/A
-292	Sharpness	#N/A	#N/A
-293	Supreme Overlord	#N/A	#N/A
-294	Costar	#N/A	#N/A
-295	Toxic Debris	#N/A	#N/A
-296	Armor Tail	#N/A	#N/A
-297	Earth Eater	#N/A	#N/A
-298	Mycelium Might	#N/A	#N/A
+268	Lingering Aroma	甩不掉的气味	#N/A
+269	Seed Sower	掉出种子	#N/A
+270	Thermal Exchange	热交换	#N/A
+271	Anger Shell	愤怒甲壳	#N/A
+272	Purifying Salt	洁净之盐	#N/A
+273	Well-Baked Body	焦香之躯	#N/A
+274	Wind Rider	乘风	#N/A
+275	Guard Dog	看门犬	#N/A
+276	Rocky Payload	搬岩	#N/A
+277	Wind Power	风力发电	#N/A
+278	Zero to Hero	全能变身	#N/A
+279	Commander	发号施令	#N/A
+280	Electromorphosis	电力转换	#N/A
+281	Protosynthesis	古代活性	#N/A
+282	Quark Drive	夸克充能	#N/A
+283	Good as Gold	黄金之躯	#N/A
+284	Vessel of Ruin	灾厄之鼎	#N/A
+285	Sword of Ruin	灾厄之剑	#N/A
+286	Tablets of Ruin	灾厄之简	#N/A
+287	Beads of Ruin	灾厄之玉	#N/A
+288	Orichalcum Pulse	绯红脉动	#N/A
+289	Hadron Engine	强子引擎	#N/A
+290	Opportunist	跟风	#N/A
+291	Cud Chew	反刍	#N/A
+292	Sharpness	锋锐	#N/A
+293	Supreme Overlord	大将	#N/A
+294	Costar	同台共演	#N/A
+295	Toxic Debris	毒满地	#N/A
+296	Armor Tail	尾甲	#N/A
+297	Earth Eater	食土	#N/A
+298	Mycelium Might	菌丝之力	#N/A
