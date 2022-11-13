@@ -1,667 +1,667 @@
-Charmander-0 - 39/52/43/60/50/65 (Total: 309) - Fire/Fire - Blaze/Blaze/Solar Power
-Charmeleon-0 - 58/64/58/80/65/80 (Total: 405) - Fire/Fire - Blaze/Blaze/Solar Power
-Charizard-0 - 78/84/78/109/85/100 (Total: 534) - Fire/Flying - Blaze/Blaze/Solar Power
-Pikachu-0 - 35/55/40/50/50/90 (Total: 320) - Electric/Electric - Static/Static/Lightning Rod
-Pikachu-1 - 35/55/40/50/50/90 (Total: 320) - Electric/Electric - Static/Static/Lightning Rod
-Pikachu-2 - 35/55/40/50/50/90 (Total: 320) - Electric/Electric - Static/Static/Lightning Rod
-Pikachu-3 - 35/55/40/50/50/90 (Total: 320) - Electric/Electric - Static/Static/Lightning Rod
-Pikachu-4 - 35/55/40/50/50/90 (Total: 320) - Electric/Electric - Static/Static/Lightning Rod
-Pikachu-5 - 35/55/40/50/50/90 (Total: 320) - Electric/Electric - Static/Static/Lightning Rod
-Pikachu-6 - 35/55/40/50/50/90 (Total: 320) - Electric/Electric - Static/Static/Lightning Rod
-Pikachu-7 - 35/55/40/50/50/90 (Total: 320) - Electric/Electric - Static/Static/Lightning Rod
-Pikachu-9 - 35/55/40/50/50/90 (Total: 320) - Electric/Electric - Static/Static/Lightning Rod
-Raichu-0 - 60/90/55/90/80/110 (Total: 485) - Electric/Electric - Static/Static/Lightning Rod
-Raichu-1 - 60/85/50/95/85/110 (Total: 485) - Electric/Psychic - Surge Surfer/Surge Surfer/Surge Surfer
-Jigglypuff-0 - 115/45/20/45/25/20 (Total: 270) - Normal/Fairy - Cute Charm/Competitive/Friend Guard
-Wigglytuff-0 - 140/70/45/85/50/45 (Total: 435) - Normal/Fairy - Cute Charm/Competitive/Frisk
-Venonat-0 - 60/55/50/40/55/45 (Total: 305) - Bug/Poison - Compound Eyes/Tinted Lens/Run Away
-Venomoth-0 - 70/65/60/90/75/90 (Total: 450) - Bug/Poison - Shield Dust/Tinted Lens/Wonder Skin
-Diglett-0 - 10/55/25/35/45/95 (Total: 265) - Ground/Ground - Sand Veil/Arena Trap/Sand Force
-Diglett-1 - 10/55/30/35/45/90 (Total: 265) - Ground/Steel - Sand Veil/Tangling Hair/Sand Force
-Dugtrio-0 - 35/100/50/50/70/120 (Total: 425) - Ground/Ground - Sand Veil/Arena Trap/Sand Force
-Dugtrio-1 - 35/100/60/50/70/110 (Total: 425) - Ground/Steel - Sand Veil/Tangling Hair/Sand Force
-Meowth-0 - 40/45/35/40/40/90 (Total: 290) - Normal/Normal - Pickup/Technician/Unnerve
-Meowth-1 - 40/35/35/50/40/90 (Total: 290) - Dark/Dark - Pickup/Technician/Rattled
-Meowth-2 - 50/65/55/40/40/40 (Total: 290) - Steel/Steel - Pickup/Tough Claws/Unnerve
-Persian-0 - 65/70/60/65/65/115 (Total: 440) - Normal/Normal - Limber/Technician/Unnerve
-Persian-1 - 65/60/60/75/65/115 (Total: 440) - Dark/Dark - Fur Coat/Technician/Rattled
-Psyduck-0 - 50/52/48/65/50/55 (Total: 320) - Water/Water - Damp/Cloud Nine/Swift Swim
-Golduck-0 - 80/82/78/95/80/85 (Total: 500) - Water/Water - Damp/Cloud Nine/Swift Swim
-Mankey-0 - 40/80/35/35/45/70 (Total: 305) - Fighting/Fighting - Vital Spirit/Anger Point/Defiant
-Primeape-0 - 65/105/60/60/70/95 (Total: 455) - Fighting/Fighting - Vital Spirit/Anger Point/Defiant
-Growlithe-0 - 55/70/45/70/50/60 (Total: 350) - Fire/Fire - Intimidate/Flash Fire/Justified
-Growlithe-1 - 60/75/45/65/50/55 (Total: 350) - Fire/Rock - Intimidate/Flash Fire/Rock Head
-Arcanine-0 - 90/110/80/100/80/95 (Total: 555) - Fire/Fire - Intimidate/Flash Fire/Justified
-Arcanine-1 - 95/115/80/95/80/90 (Total: 555) - Fire/Rock - Intimidate/Flash Fire/Rock Head
-Slowpoke-0 - 90/65/65/40/40/15 (Total: 315) - Water/Psychic - Oblivious/Own Tempo/Regenerator
-Slowpoke-1 - 90/65/65/40/40/15 (Total: 315) - Psychic/Psychic - Gluttony/Own Tempo/Regenerator
-Slowbro-0 - 95/75/110/100/80/30 (Total: 490) - Water/Psychic - Oblivious/Own Tempo/Regenerator
-Slowbro-2 - 95/100/95/100/70/30 (Total: 490) - Poison/Psychic - Quick Draw/Own Tempo/Regenerator
-Magnemite-0 - 25/35/70/95/55/45 (Total: 325) - Electric/Steel - Magnet Pull/Sturdy/Analytic
-Magneton-0 - 50/60/95/120/70/70 (Total: 465) - Electric/Steel - Magnet Pull/Sturdy/Analytic
-Grimer-0 - 80/80/50/40/50/25 (Total: 325) - Poison/Poison - Stench/Sticky Hold/Poison Touch
-Grimer-1 - 80/80/50/40/50/25 (Total: 325) - Poison/Dark - Poison Touch/Gluttony/Power of Alchemy
-Muk-0 - 105/105/75/65/100/50 (Total: 500) - Poison/Poison - Stench/Sticky Hold/Poison Touch
-Muk-1 - 105/105/75/65/100/50 (Total: 500) - Poison/Dark - Poison Touch/Gluttony/Power of Alchemy
-Shellder-0 - 30/65/100/45/25/40 (Total: 305) - Water/Water - Shell Armor/Skill Link/Overcoat
-Cloyster-0 - 50/95/180/85/45/70 (Total: 525) - Water/Ice - Shell Armor/Skill Link/Overcoat
-Gastly-0 - 30/35/30/100/35/80 (Total: 310) - Ghost/Poison - Levitate/Levitate/Levitate
-Haunter-0 - 45/50/45/115/55/95 (Total: 405) - Ghost/Poison - Levitate/Levitate/Levitate
-Gengar-0 - 60/65/60/130/75/110 (Total: 500) - Ghost/Poison - Cursed Body/Cursed Body/Cursed Body
-Drowzee-0 - 60/48/45/43/90/42 (Total: 328) - Psychic/Psychic - Insomnia/Forewarn/Inner Focus
-Hypno-0 - 85/73/70/73/115/67 (Total: 483) - Psychic/Psychic - Insomnia/Forewarn/Inner Focus
-Voltorb-0 - 40/30/50/55/55/100 (Total: 330) - Electric/Electric - Soundproof/Static/Aftermath
-Voltorb-1 - 40/30/50/55/55/100 (Total: 330) - Electric/Grass - Soundproof/Static/Aftermath
-Electrode-0 - 60/50/70/80/80/150 (Total: 490) - Electric/Electric - Soundproof/Static/Aftermath
-Electrode-1 - 60/50/70/80/80/150 (Total: 490) - Electric/Grass - Soundproof/Static/Aftermath
-Chansey-0 - 250/5/5/35/105/50 (Total: 450) - Normal/Normal - Natural Cure/Serene Grace/Healer
-Scyther-0 - 70/110/80/55/80/105 (Total: 500) - Bug/Flying - Swarm/Technician/Steadfast
-Tauros-0 - 75/100/95/40/70/110 (Total: 490) - Normal/Normal - Intimidate/Anger Point/Sheer Force
-Tauros-1 - 75/110/105/30/70/100 (Total: 490) - Fighting/Fighting - Intimidate/Anger Point/Cud Chew
-Tauros-2 - 75/110/105/30/70/100 (Total: 490) - Fighting/Fire - Intimidate/Anger Point/Cud Chew
-Tauros-3 - 75/110/105/30/70/100 (Total: 490) - Fighting/Water - Intimidate/Anger Point/Cud Chew
-Magikarp-0 - 20/10/55/15/20/80 (Total: 200) - Water/Water - Swift Swim/Swift Swim/Rattled
-Gyarados-0 - 95/125/79/60/100/81 (Total: 540) - Water/Flying - Intimidate/Intimidate/Moxie
-Ditto-0 - 48/48/48/48/48/48 (Total: 288) - Normal/Normal - Limber/Limber/Imposter
-Eevee-0 - 55/55/50/45/65/55 (Total: 325) - Normal/Normal - Run Away/Adaptability/Anticipation
-Vaporeon-0 - 130/65/60/110/95/65 (Total: 525) - Water/Water - Water Absorb/Water Absorb/Hydration
-Jolteon-0 - 65/65/60/110/95/130 (Total: 525) - Electric/Electric - Volt Absorb/Volt Absorb/Quick Feet
-Flareon-0 - 65/130/60/95/110/65 (Total: 525) - Fire/Fire - Flash Fire/Flash Fire/Guts
-Articuno-0 - 90/85/100/95/125/85 (Total: 580) - Ice/Flying - Pressure/Pressure/Snow Cloak
-Articuno-1 - 90/85/85/125/100/95 (Total: 580) - Psychic/Flying - Competitive/Competitive/Competitive
-Zapdos-0 - 90/90/85/125/90/100 (Total: 580) - Electric/Flying - Pressure/Pressure/Static
-Zapdos-1 - 90/125/90/85/90/100 (Total: 580) - Fighting/Flying - Defiant/Defiant/Defiant
-Moltres-0 - 90/100/90/125/85/90 (Total: 580) - Fire/Flying - Pressure/Pressure/Flame Body
-Moltres-1 - 90/85/90/100/125/90 (Total: 580) - Dark/Flying - Berserk/Berserk/Berserk
-Dratini-0 - 41/64/45/50/50/50 (Total: 300) - Dragon/Dragon - Shed Skin/Shed Skin/Marvel Scale
-Dragonair-0 - 61/84/65/70/70/70 (Total: 420) - Dragon/Dragon - Shed Skin/Shed Skin/Marvel Scale
-Dragonite-0 - 91/134/95/100/100/80 (Total: 600) - Dragon/Flying - Inner Focus/Inner Focus/Multiscale
-Mewtwo-0 - 106/110/90/154/90/130 (Total: 680) - Psychic/Psychic - Pressure/Pressure/Unnerve
-Mew-0 - 100/100/100/100/100/100 (Total: 600) - Psychic/Psychic - Synchronize/Synchronize/Synchronize
-Cyndaquil-0 - 39/52/43/60/50/65 (Total: 309) - Fire/Fire - Blaze/Blaze/Flash Fire
-Quilava-0 - 58/64/58/80/65/80 (Total: 405) - Fire/Fire - Blaze/Blaze/Flash Fire
-Typhlosion-0 - 78/84/78/109/85/100 (Total: 534) - Fire/Fire - Blaze/Blaze/Flash Fire
-Typhlosion-1 - 73/84/78/119/85/95 (Total: 534) - Fire/Ghost - Blaze/Blaze/Frisk
-Pichu-0 - 20/40/15/35/35/60 (Total: 205) - Electric/Electric - Static/Static/Lightning Rod
-Igglybuff-0 - 90/30/15/40/20/15 (Total: 210) - Normal/Fairy - Cute Charm/Competitive/Friend Guard
-Mareep-0 - 55/40/40/65/45/35 (Total: 280) - Electric/Electric - Static/Static/Plus
-Flaaffy-0 - 70/55/55/80/60/45 (Total: 365) - Electric/Electric - Static/Static/Plus
-Ampharos-0 - 90/75/85/115/90/55 (Total: 510) - Electric/Electric - Static/Static/Plus
-Marill-0 - 70/20/50/20/50/40 (Total: 250) - Water/Fairy - Thick Fat/Huge Power/Sap Sipper
-Azumarill-0 - 100/50/80/60/80/50 (Total: 420) - Water/Fairy - Thick Fat/Huge Power/Sap Sipper
-Sudowoodo-0 - 70/100/115/30/65/30 (Total: 410) - Rock/Rock - Sturdy/Rock Head/Rattled
-Hoppip-0 - 35/35/40/35/55/50 (Total: 250) - Grass/Flying - Chlorophyll/Leaf Guard/Infiltrator
-Skiploom-0 - 55/45/50/45/65/80 (Total: 340) - Grass/Flying - Chlorophyll/Leaf Guard/Infiltrator
-Jumpluff-0 - 75/55/70/55/95/110 (Total: 460) - Grass/Flying - Chlorophyll/Leaf Guard/Infiltrator
-Sunkern-0 - 30/30/30/30/30/30 (Total: 180) - Grass/Grass - Chlorophyll/Solar Power/Early Bird
-Sunflora-0 - 75/75/55/105/85/30 (Total: 425) - Grass/Grass - Chlorophyll/Solar Power/Early Bird
-Wooper-0 - 55/45/45/25/25/15 (Total: 210) - Water/Ground - Damp/Water Absorb/Unaware
-Wooper-1 - 55/45/45/25/25/15 (Total: 210) - Poison/Ground - Poison Point/Water Absorb/Unaware
-Quagsire-0 - 95/85/85/65/65/35 (Total: 430) - Water/Ground - Damp/Water Absorb/Unaware
-Espeon-0 - 65/65/60/130/95/110 (Total: 525) - Psychic/Psychic - Synchronize/Synchronize/Magic Bounce
-Umbreon-0 - 95/65/110/60/130/65 (Total: 525) - Dark/Dark - Synchronize/Synchronize/Inner Focus
-Murkrow-0 - 60/85/42/85/42/91 (Total: 405) - Dark/Flying - Insomnia/Super Luck/Prankster
-Slowking-0 - 95/75/80/100/110/30 (Total: 490) - Water/Psychic - Oblivious/Own Tempo/Regenerator
-Slowking-1 - 95/65/80/110/110/30 (Total: 490) - Poison/Psychic - Curious Medicine/Own Tempo/Regenerator
-Misdreavus-0 - 60/60/60/85/85/85 (Total: 435) - Ghost/Ghost - Levitate/Levitate/Levitate
-Girafarig-0 - 70/80/65/90/65/85 (Total: 455) - Normal/Psychic - Inner Focus/Early Bird/Sap Sipper
-Pineco-0 - 50/65/90/35/35/15 (Total: 290) - Bug/Bug - Sturdy/Sturdy/Overcoat
-Forretress-0 - 75/90/140/60/60/40 (Total: 465) - Bug/Steel - Sturdy/Sturdy/Overcoat
-Dunsparce-0 - 100/70/70/65/65/45 (Total: 415) - Normal/Normal - Serene Grace/Run Away/Rattled
-Qwilfish-0 - 65/95/85/55/55/85 (Total: 440) - Water/Poison - Poison Point/Swift Swim/Intimidate
-Qwilfish-1 - 65/95/85/55/55/85 (Total: 440) - Dark/Poison - Poison Point/Swift Swim/Intimidate
-Scizor-0 - 70/130/100/55/80/65 (Total: 500) - Bug/Steel - Swarm/Technician/Light Metal
-Heracross-0 - 80/125/75/40/95/85 (Total: 500) - Bug/Fighting - Swarm/Guts/Moxie
-Sneasel-0 - 55/95/55/35/75/115 (Total: 430) - Dark/Ice - Inner Focus/Keen Eye/Pickpocket
-Sneasel-1 - 55/95/55/35/75/115 (Total: 430) - Fighting/Poison - Inner Focus/Keen Eye/Pickpocket
-Teddiursa-0 - 60/80/50/50/50/40 (Total: 330) - Normal/Normal - Pickup/Quick Feet/Honey Gather
-Ursaring-0 - 90/130/75/75/75/55 (Total: 500) - Normal/Normal - Guts/Quick Feet/Unnerve
-Delibird-0 - 45/55/45/65/45/75 (Total: 330) - Ice/Flying - Vital Spirit/Hustle/Insomnia
-Houndour-0 - 45/60/30/80/50/65 (Total: 330) - Dark/Fire - Early Bird/Flash Fire/Unnerve
-Houndoom-0 - 75/90/50/110/80/95 (Total: 500) - Dark/Fire - Early Bird/Flash Fire/Unnerve
-Phanpy-0 - 90/60/60/40/40/40 (Total: 330) - Ground/Ground - Pickup/Pickup/Sand Veil
-Donphan-0 - 90/120/120/60/60/50 (Total: 500) - Ground/Ground - Sturdy/Sturdy/Sand Veil
-Stantler-0 - 73/95/62/85/65/85 (Total: 465) - Normal/Normal - Intimidate/Frisk/Sap Sipper
-Blissey-0 - 255/10/10/75/135/55 (Total: 540) - Normal/Normal - Natural Cure/Serene Grace/Healer
-Larvitar-0 - 50/64/50/45/50/41 (Total: 300) - Rock/Ground - Guts/Guts/Sand Veil
-Pupitar-0 - 70/84/70/65/70/51 (Total: 410) - Rock/Ground - Shed Skin/Shed Skin/Shed Skin
-Tyranitar-0 - 100/134/110/95/100/61 (Total: 600) - Rock/Dark - Sand Stream/Sand Stream/Unnerve
-Wingull-0 - 40/30/30/55/30/85 (Total: 270) - Water/Flying - Keen Eye/Hydration/Rain Dish
-Pelipper-0 - 60/50/100/95/70/65 (Total: 440) - Water/Flying - Keen Eye/Drizzle/Rain Dish
-Ralts-0 - 28/25/25/45/35/40 (Total: 198) - Psychic/Fairy - Synchronize/Trace/Telepathy
-Kirlia-0 - 38/35/35/65/55/50 (Total: 278) - Psychic/Fairy - Synchronize/Trace/Telepathy
-Gardevoir-0 - 68/65/65/125/115/80 (Total: 518) - Psychic/Fairy - Synchronize/Trace/Telepathy
-Surskit-0 - 40/30/32/50/52/65 (Total: 269) - Bug/Water - Swift Swim/Swift Swim/Rain Dish
-Masquerain-0 - 70/60/62/100/82/80 (Total: 454) - Bug/Flying - Intimidate/Intimidate/Unnerve
-Shroomish-0 - 60/40/60/40/60/35 (Total: 295) - Grass/Grass - Effect Spore/Poison Heal/Quick Feet
-Breloom-0 - 60/130/80/60/60/70 (Total: 460) - Grass/Fighting - Effect Spore/Poison Heal/Technician
-Slakoth-0 - 60/60/60/35/35/30 (Total: 280) - Normal/Normal - Truant/Truant/Truant
-Vigoroth-0 - 80/80/80/55/55/90 (Total: 440) - Normal/Normal - Vital Spirit/Vital Spirit/Vital Spirit
-Slaking-0 - 150/160/100/95/65/100 (Total: 670) - Normal/Normal - Truant/Truant/Truant
-Makuhita-0 - 72/60/30/20/30/25 (Total: 237) - Fighting/Fighting - Thick Fat/Guts/Sheer Force
-Hariyama-0 - 144/120/60/40/60/50 (Total: 474) - Fighting/Fighting - Thick Fat/Guts/Sheer Force
-Azurill-0 - 50/20/40/20/40/20 (Total: 190) - Normal/Fairy - Thick Fat/Huge Power/Sap Sipper
-Sableye-0 - 50/75/75/65/65/50 (Total: 380) - Dark/Ghost - Keen Eye/Stall/Prankster
-Meditite-0 - 30/40/55/40/55/60 (Total: 280) - Fighting/Psychic - Pure Power/Pure Power/Telepathy
-Medicham-0 - 60/60/75/60/75/80 (Total: 410) - Fighting/Psychic - Pure Power/Pure Power/Telepathy
-Gulpin-0 - 70/43/53/43/53/40 (Total: 302) - Poison/Poison - Liquid Ooze/Sticky Hold/Gluttony
-Swalot-0 - 100/73/83/73/83/55 (Total: 467) - Poison/Poison - Liquid Ooze/Sticky Hold/Gluttony
-Numel-0 - 60/60/40/65/45/35 (Total: 305) - Fire/Ground - Oblivious/Simple/Own Tempo
-Camerupt-0 - 70/100/70/105/75/40 (Total: 460) - Fire/Ground - Magma Armor/Solid Rock/Anger Point
-Torkoal-0 - 70/85/140/85/70/20 (Total: 470) - Fire/Fire - White Smoke/Drought/Shell Armor
-Spoink-0 - 60/25/35/70/80/60 (Total: 330) - Psychic/Psychic - Thick Fat/Own Tempo/Gluttony
-Grumpig-0 - 80/45/65/90/110/80 (Total: 470) - Psychic/Psychic - Thick Fat/Own Tempo/Gluttony
-Cacnea-0 - 50/85/40/85/40/35 (Total: 335) - Grass/Grass - Sand Veil/Sand Veil/Water Absorb
-Cacturne-0 - 70/115/60/115/60/55 (Total: 475) - Grass/Dark - Sand Veil/Sand Veil/Water Absorb
-Swablu-0 - 45/40/60/40/75/50 (Total: 310) - Normal/Flying - Natural Cure/Natural Cure/Cloud Nine
-Altaria-0 - 75/70/90/70/105/80 (Total: 490) - Dragon/Flying - Natural Cure/Natural Cure/Cloud Nine
-Zangoose-0 - 73/115/60/60/60/90 (Total: 458) - Normal/Normal - Immunity/Immunity/Toxic Boost
-Seviper-0 - 73/100/60/100/60/65 (Total: 458) - Poison/Poison - Shed Skin/Shed Skin/Infiltrator
-Barboach-0 - 50/48/43/46/41/60 (Total: 288) - Water/Ground - Oblivious/Anticipation/Hydration
-Whiscash-0 - 110/78/73/76/71/60 (Total: 468) - Water/Ground - Oblivious/Anticipation/Hydration
-Shuppet-0 - 44/75/35/63/33/45 (Total: 295) - Ghost/Ghost - Insomnia/Frisk/Cursed Body
-Banette-0 - 64/115/65/83/63/65 (Total: 455) - Ghost/Ghost - Insomnia/Frisk/Cursed Body
-Tropius-0 - 99/68/83/72/87/51 (Total: 460) - Grass/Flying - Chlorophyll/Solar Power/Harvest
-Snorunt-0 - 50/50/50/50/50/50 (Total: 300) - Ice/Ice - Inner Focus/Ice Body/Moody
-Glalie-0 - 80/80/80/80/80/80 (Total: 480) - Ice/Ice - Inner Focus/Ice Body/Moody
-Luvdisc-0 - 43/30/55/40/65/97 (Total: 330) - Water/Water - Swift Swim/Swift Swim/Hydration
-Bagon-0 - 45/75/60/40/30/50 (Total: 300) - Dragon/Dragon - Rock Head/Rock Head/Sheer Force
-Shelgon-0 - 65/95/100/60/50/50 (Total: 420) - Dragon/Dragon - Rock Head/Rock Head/Overcoat
-Salamence-0 - 95/135/80/110/80/100 (Total: 600) - Dragon/Flying - Intimidate/Intimidate/Moxie
-Kyogre-0 - 100/100/90/150/140/90 (Total: 670) - Water/Water - Drizzle/Drizzle/Drizzle
-Groudon-0 - 100/150/140/100/90/90 (Total: 670) - Ground/Ground - Drought/Drought/Drought
-Rayquaza-0 - 105/150/90/150/90/95 (Total: 680) - Dragon/Flying - Air Lock/Air Lock/Air Lock
-Starly-0 - 40/55/30/30/30/60 (Total: 245) - Normal/Flying - Keen Eye/Keen Eye/Reckless
-Staravia-0 - 55/75/50/40/40/80 (Total: 340) - Normal/Flying - Intimidate/Intimidate/Reckless
-Staraptor-0 - 85/120/70/50/60/100 (Total: 485) - Normal/Flying - Intimidate/Intimidate/Reckless
-Kricketot-0 - 37/25/41/25/41/25 (Total: 194) - Bug/Bug - Shed Skin/Shed Skin/Run Away
-Kricketune-0 - 77/85/51/55/51/65 (Total: 384) - Bug/Bug - Swarm/Swarm/Technician
-Shinx-0 - 45/65/34/40/34/45 (Total: 263) - Electric/Electric - Rivalry/Intimidate/Guts
-Luxio-0 - 60/85/49/60/49/60 (Total: 363) - Electric/Electric - Rivalry/Intimidate/Guts
-Luxray-0 - 80/120/79/95/79/70 (Total: 523) - Electric/Electric - Rivalry/Intimidate/Guts
-Combee-0 - 30/30/42/30/42/70 (Total: 244) - Bug/Flying - Honey Gather/Honey Gather/Hustle
-Vespiquen-0 - 70/80/102/80/102/40 (Total: 474) - Bug/Flying - Pressure/Pressure/Unnerve
-Pachirisu-0 - 60/45/70/45/90/95 (Total: 405) - Electric/Electric - Run Away/Pickup/Volt Absorb
-Buizel-0 - 55/65/35/60/30/85 (Total: 330) - Water/Water - Swift Swim/Swift Swim/Water Veil
-Floatzel-0 - 85/105/55/85/50/115 (Total: 495) - Water/Water - Swift Swim/Swift Swim/Water Veil
-Shellos-0 - 76/48/48/57/62/34 (Total: 325) - Water/Water - Sticky Hold/Storm Drain/Sand Force
-Shellos-1 - 76/48/48/57/62/34 (Total: 325) - Water/Water - Sticky Hold/Storm Drain/Sand Force
-Gastrodon-0 - 111/83/68/92/82/39 (Total: 475) - Water/Ground - Sticky Hold/Storm Drain/Sand Force
-Gastrodon-1 - 111/83/68/92/82/39 (Total: 475) - Water/Ground - Sticky Hold/Storm Drain/Sand Force
-Drifloon-0 - 90/50/34/60/44/70 (Total: 348) - Ghost/Flying - Aftermath/Unburden/Flare Boost
-Drifblim-0 - 150/80/44/90/54/80 (Total: 498) - Ghost/Flying - Aftermath/Unburden/Flare Boost
-Mismagius-0 - 60/60/60/105/105/105 (Total: 495) - Ghost/Ghost - Levitate/Levitate/Levitate
-Honchkrow-0 - 100/125/52/105/52/71 (Total: 505) - Dark/Flying - Insomnia/Super Luck/Moxie
-Stunky-0 - 63/63/47/41/41/74 (Total: 329) - Poison/Dark - Stench/Aftermath/Keen Eye
-Skuntank-0 - 103/93/67/71/61/84 (Total: 479) - Poison/Dark - Stench/Aftermath/Keen Eye
-Bronzor-0 - 57/24/86/24/86/23 (Total: 300) - Steel/Psychic - Levitate/Heatproof/Heavy Metal
-Bronzong-0 - 67/89/116/79/116/33 (Total: 500) - Steel/Psychic - Levitate/Heatproof/Heavy Metal
-Bonsly-0 - 50/80/95/10/45/10 (Total: 290) - Rock/Rock - Sturdy/Rock Head/Rattled
-Happiny-0 - 100/5/5/15/65/30 (Total: 220) - Normal/Normal - Natural Cure/Serene Grace/Friend Guard
-Spiritomb-0 - 50/92/108/92/108/35 (Total: 485) - Ghost/Dark - Pressure/Pressure/Infiltrator
-Gible-0 - 58/70/45/40/45/42 (Total: 300) - Dragon/Ground - Sand Veil/Sand Veil/Rough Skin
-Gabite-0 - 68/90/65/50/55/82 (Total: 410) - Dragon/Ground - Sand Veil/Sand Veil/Rough Skin
-Garchomp-0 - 108/130/95/80/85/102 (Total: 600) - Dragon/Ground - Sand Veil/Sand Veil/Rough Skin
-Riolu-0 - 40/70/40/35/40/60 (Total: 285) - Fighting/Fighting - Steadfast/Inner Focus/Prankster
-Lucario-0 - 70/110/70/115/70/90 (Total: 525) - Fighting/Steel - Steadfast/Inner Focus/Justified
-Hippopotas-0 - 68/72/78/38/42/32 (Total: 330) - Ground/Ground - Sand Stream/Sand Stream/Sand Force
-Hippowdon-0 - 108/112/118/68/72/47 (Total: 525) - Ground/Ground - Sand Stream/Sand Stream/Sand Force
-Croagunk-0 - 48/61/40/61/40/50 (Total: 300) - Poison/Fighting - Anticipation/Dry Skin/Poison Touch
-Toxicroak-0 - 83/106/65/86/65/85 (Total: 490) - Poison/Fighting - Anticipation/Dry Skin/Poison Touch
-Finneon-0 - 49/49/56/49/61/66 (Total: 330) - Water/Water - Swift Swim/Storm Drain/Water Veil
-Lumineon-0 - 69/69/76/69/86/91 (Total: 460) - Water/Water - Swift Swim/Storm Drain/Water Veil
-Snover-0 - 60/62/50/62/60/40 (Total: 334) - Grass/Ice - Snow Warning/Snow Warning/Soundproof
-Abomasnow-0 - 90/92/75/92/85/60 (Total: 494) - Grass/Ice - Snow Warning/Snow Warning/Soundproof
-Weavile-0 - 70/120/65/45/85/125 (Total: 510) - Dark/Ice - Pressure/Pressure/Pickpocket
-Magnezone-0 - 70/70/115/130/90/60 (Total: 535) - Electric/Steel - Magnet Pull/Sturdy/Analytic
-Leafeon-0 - 65/110/130/60/65/95 (Total: 525) - Grass/Grass - Leaf Guard/Leaf Guard/Chlorophyll
-Glaceon-0 - 65/60/110/130/95/65 (Total: 525) - Ice/Ice - Snow Cloak/Snow Cloak/Ice Body
-Gallade-0 - 68/125/65/65/115/80 (Total: 518) - Psychic/Fighting - Steadfast/Sharpness/Justified
-Froslass-0 - 70/80/70/80/70/110 (Total: 480) - Ice/Ghost - Snow Cloak/Snow Cloak/Cursed Body
-Rotom-0 - 50/50/77/95/77/91 (Total: 440) - Electric/Ghost - Levitate/Levitate/Levitate
-Rotom-1 - 50/65/107/105/107/86 (Total: 520) - Electric/Fire - Levitate/Levitate/Levitate
-Rotom-2 - 50/65/107/105/107/86 (Total: 520) - Electric/Water - Levitate/Levitate/Levitate
-Rotom-3 - 50/65/107/105/107/86 (Total: 520) - Electric/Ice - Levitate/Levitate/Levitate
-Rotom-4 - 50/65/107/105/107/86 (Total: 520) - Electric/Flying - Levitate/Levitate/Levitate
-Rotom-5 - 50/65/107/105/107/86 (Total: 520) - Electric/Grass - Levitate/Levitate/Levitate
-Uxie-0 - 75/75/130/75/130/95 (Total: 580) - Psychic/Psychic - Levitate/Levitate/Levitate
-Mesprit-0 - 80/105/105/105/105/80 (Total: 580) - Psychic/Psychic - Levitate/Levitate/Levitate
-Azelf-0 - 75/125/70/125/70/115 (Total: 580) - Psychic/Psychic - Levitate/Levitate/Levitate
-Dialga-0 - 100/120/120/150/100/90 (Total: 680) - Steel/Dragon - Pressure/Pressure/Telepathy
-Dialga-1 - 100/100/120/150/120/90 (Total: 680) - Steel/Dragon - Pressure/Pressure/Telepathy
-Palkia-0 - 90/120/100/150/120/100 (Total: 680) - Water/Dragon - Pressure/Pressure/Telepathy
-Palkia-1 - 90/100/100/150/120/120 (Total: 680) - Water/Dragon - Pressure/Pressure/Telepathy
-Heatran-0 - 91/90/106/130/106/77 (Total: 600) - Fire/Steel - Flash Fire/Flash Fire/Flame Body
-Giratina-0 - 150/100/120/100/120/90 (Total: 680) - Ghost/Dragon - Pressure/Pressure/Telepathy
-Giratina-1 - 150/120/100/120/100/90 (Total: 680) - Ghost/Dragon - Levitate/Levitate/Levitate
-Cresselia-0 - 120/70/110/75/120/85 (Total: 580) - Psychic/Psychic - Levitate/Levitate/Levitate
-Arceus-0 - 120/120/120/120/120/120 (Total: 720) - Normal/Normal - Multitype/Multitype/Multitype
-Arceus-1 - 120/120/120/120/120/120 (Total: 720) - Fighting/Fighting - Multitype/Multitype/Multitype
-Arceus-2 - 120/120/120/120/120/120 (Total: 720) - Flying/Flying - Multitype/Multitype/Multitype
-Arceus-3 - 120/120/120/120/120/120 (Total: 720) - Poison/Poison - Multitype/Multitype/Multitype
-Arceus-4 - 120/120/120/120/120/120 (Total: 720) - Ground/Ground - Multitype/Multitype/Multitype
-Arceus-5 - 120/120/120/120/120/120 (Total: 720) - Rock/Rock - Multitype/Multitype/Multitype
-Arceus-6 - 120/120/120/120/120/120 (Total: 720) - Bug/Bug - Multitype/Multitype/Multitype
-Arceus-7 - 120/120/120/120/120/120 (Total: 720) - Ghost/Ghost - Multitype/Multitype/Multitype
-Arceus-8 - 120/120/120/120/120/120 (Total: 720) - Steel/Steel - Multitype/Multitype/Multitype
-Arceus-9 - 120/120/120/120/120/120 (Total: 720) - Fire/Fire - Multitype/Multitype/Multitype
-Arceus-10 - 120/120/120/120/120/120 (Total: 720) - Water/Water - Multitype/Multitype/Multitype
-Arceus-11 - 120/120/120/120/120/120 (Total: 720) - Grass/Grass - Multitype/Multitype/Multitype
-Arceus-12 - 120/120/120/120/120/120 (Total: 720) - Electric/Electric - Multitype/Multitype/Multitype
-Arceus-13 - 120/120/120/120/120/120 (Total: 720) - Psychic/Psychic - Multitype/Multitype/Multitype
-Arceus-14 - 120/120/120/120/120/120 (Total: 720) - Ice/Ice - Multitype/Multitype/Multitype
-Arceus-15 - 120/120/120/120/120/120 (Total: 720) - Dragon/Dragon - Multitype/Multitype/Multitype
-Arceus-16 - 120/120/120/120/120/120 (Total: 720) - Dark/Dark - Multitype/Multitype/Multitype
-Arceus-17 - 120/120/120/120/120/120 (Total: 720) - Fairy/Fairy - Multitype/Multitype/Multitype
-Oshawott-0 - 55/55/45/63/45/45 (Total: 308) - Water/Water - Torrent/Torrent/Shell Armor
-Dewott-0 - 75/75/60/83/60/60 (Total: 413) - Water/Water - Torrent/Torrent/Shell Armor
-Samurott-0 - 95/100/85/108/70/70 (Total: 528) - Water/Water - Torrent/Torrent/Shell Armor
-Samurott-1 - 90/108/80/100/65/85 (Total: 528) - Water/Dark - Torrent/Torrent/Sharpness
-Petilil-0 - 45/35/50/70/50/30 (Total: 280) - Grass/Grass - Chlorophyll/Own Tempo/Leaf Guard
-Lilligant-0 - 70/60/75/110/75/90 (Total: 480) - Grass/Grass - Chlorophyll/Own Tempo/Leaf Guard
-Lilligant-1 - 70/105/75/50/75/105 (Total: 480) - Grass/Fighting - Chlorophyll/Hustle/Leaf Guard
-Basculin-0 - 70/92/65/80/55/98 (Total: 460) - Water/Water - Reckless/Adaptability/Mold Breaker
-Basculin-1 - 70/92/65/80/55/98 (Total: 460) - Water/Water - Rock Head/Adaptability/Mold Breaker
-Basculin-2 - 70/92/65/80/55/98 (Total: 460) - Water/Water - Rattled/Adaptability/Mold Breaker
-Sandile-0 - 50/72/35/35/35/65 (Total: 292) - Ground/Dark - Intimidate/Moxie/Anger Point
-Krokorok-0 - 60/82/45/45/45/74 (Total: 351) - Ground/Dark - Intimidate/Moxie/Anger Point
-Krookodile-0 - 95/117/80/65/70/92 (Total: 519) - Ground/Dark - Intimidate/Moxie/Anger Point
-Zorua-0 - 40/65/40/80/40/65 (Total: 330) - Dark/Dark - Illusion/Illusion/Illusion
-Zorua-1 - 35/60/40/85/40/70 (Total: 330) - Normal/Ghost - Illusion/Illusion/Illusion
-Zoroark-0 - 60/105/60/120/60/105 (Total: 510) - Dark/Dark - Illusion/Illusion/Illusion
-Zoroark-1 - 60/105/60/120/60/105 (Total: 510) - Normal/Ghost - Illusion/Illusion/Illusion
-Gothita-0 - 45/30/50/55/65/45 (Total: 290) - Psychic/Psychic - Frisk/Competitive/Shadow Tag
-Gothorita-0 - 60/45/70/75/85/55 (Total: 390) - Psychic/Psychic - Frisk/Competitive/Shadow Tag
-Gothitelle-0 - 70/55/95/95/110/65 (Total: 490) - Psychic/Psychic - Frisk/Competitive/Shadow Tag
-Deerling-0 - 60/60/50/40/50/75 (Total: 335) - Normal/Grass - Chlorophyll/Sap Sipper/Serene Grace
-Deerling-1 - 60/60/50/40/50/75 (Total: 335) - Normal/Grass - Chlorophyll/Sap Sipper/Serene Grace
-Deerling-2 - 60/60/50/40/50/75 (Total: 335) - Normal/Grass - Chlorophyll/Sap Sipper/Serene Grace
-Deerling-3 - 60/60/50/40/50/75 (Total: 335) - Normal/Grass - Chlorophyll/Sap Sipper/Serene Grace
-Sawsbuck-0 - 80/100/70/60/70/95 (Total: 475) - Normal/Grass - Chlorophyll/Sap Sipper/Serene Grace
-Sawsbuck-1 - 80/100/70/60/70/95 (Total: 475) - Normal/Grass - Chlorophyll/Sap Sipper/Serene Grace
-Sawsbuck-2 - 80/100/70/60/70/95 (Total: 475) - Normal/Grass - Chlorophyll/Sap Sipper/Serene Grace
-Sawsbuck-3 - 80/100/70/60/70/95 (Total: 475) - Normal/Grass - Chlorophyll/Sap Sipper/Serene Grace
-Foongus-0 - 69/55/45/55/55/15 (Total: 294) - Grass/Poison - Effect Spore/Effect Spore/Regenerator
-Amoonguss-0 - 114/85/70/85/80/30 (Total: 464) - Grass/Poison - Effect Spore/Effect Spore/Regenerator
-Alomomola-0 - 165/75/80/40/45/65 (Total: 470) - Water/Water - Healer/Hydration/Regenerator
-Tynamo-0 - 35/55/40/45/40/60 (Total: 275) - Electric/Electric - Levitate/Levitate/Levitate
-Eelektrik-0 - 65/85/70/75/70/40 (Total: 405) - Electric/Electric - Levitate/Levitate/Levitate
-Eelektross-0 - 85/115/80/105/80/50 (Total: 515) - Electric/Electric - Levitate/Levitate/Levitate
-Axew-0 - 46/87/60/30/40/57 (Total: 320) - Dragon/Dragon - Rivalry/Mold Breaker/Unnerve
-Fraxure-0 - 66/117/70/40/50/67 (Total: 410) - Dragon/Dragon - Rivalry/Mold Breaker/Unnerve
-Haxorus-0 - 76/147/90/60/70/97 (Total: 540) - Dragon/Dragon - Rivalry/Mold Breaker/Unnerve
-Cubchoo-0 - 55/70/40/60/40/40 (Total: 305) - Ice/Ice - Snow Cloak/Slush Rush/Rattled
-Beartic-0 - 95/130/80/70/80/50 (Total: 505) - Ice/Ice - Snow Cloak/Slush Rush/Swift Swim
-Cryogonal-0 - 80/50/50/95/135/105 (Total: 515) - Ice/Ice - Levitate/Levitate/Levitate
-Pawniard-0 - 45/85/70/40/40/60 (Total: 340) - Dark/Steel - Defiant/Inner Focus/Pressure
-Bisharp-0 - 65/125/100/60/70/70 (Total: 490) - Dark/Steel - Defiant/Inner Focus/Pressure
-Rufflet-0 - 70/83/50/37/50/60 (Total: 350) - Normal/Flying - Keen Eye/Sheer Force/Hustle
-Braviary-0 - 100/123/75/57/75/80 (Total: 510) - Normal/Flying - Keen Eye/Sheer Force/Defiant
-Braviary-1 - 110/83/70/112/70/65 (Total: 510) - Psychic/Flying - Keen Eye/Sheer Force/Tinted Lens
-Deino-0 - 52/65/50/45/50/38 (Total: 300) - Dark/Dragon - Hustle/Hustle/Hustle
-Zweilous-0 - 72/85/70/65/70/58 (Total: 420) - Dark/Dragon - Hustle/Hustle/Hustle
-Hydreigon-0 - 92/105/90/125/90/98 (Total: 600) - Dark/Dragon - Levitate/Levitate/Levitate
-Larvesta-0 - 55/85/55/50/55/60 (Total: 360) - Bug/Fire - Flame Body/Flame Body/Swarm
-Volcarona-0 - 85/60/65/135/105/100 (Total: 550) - Bug/Fire - Flame Body/Flame Body/Swarm
-Tornadus-0 - 79/115/70/125/80/111 (Total: 580) - Flying/Flying - Prankster/Prankster/Defiant
-Tornadus-1 - 79/100/80/110/90/121 (Total: 580) - Flying/Flying - Regenerator/Regenerator/Regenerator
-Thundurus-0 - 79/115/70/125/80/111 (Total: 580) - Electric/Flying - Prankster/Prankster/Defiant
-Thundurus-1 - 79/105/70/145/80/101 (Total: 580) - Electric/Flying - Volt Absorb/Volt Absorb/Volt Absorb
-Landorus-0 - 89/125/90/115/80/101 (Total: 600) - Ground/Flying - Sand Force/Sand Force/Sheer Force
-Landorus-1 - 89/145/90/105/80/91 (Total: 600) - Ground/Flying - Intimidate/Intimidate/Intimidate
-Meloetta-0 - 100/77/77/128/128/90 (Total: 600) - Normal/Psychic - Serene Grace/Serene Grace/Serene Grace
-Meloetta-1 - 100/128/90/77/77/128 (Total: 600) - Normal/Fighting - Serene Grace/Serene Grace/Serene Grace
-Chespin-0 - 56/61/65/48/45/38 (Total: 313) - Grass/Grass - Overgrow/Overgrow/Bulletproof
-Quilladin-0 - 61/78/95/56/58/57 (Total: 405) - Grass/Grass - Overgrow/Overgrow/Bulletproof
-Chesnaught-0 - 88/107/122/74/75/64 (Total: 530) - Grass/Fighting - Overgrow/Overgrow/Bulletproof
-Fennekin-0 - 40/45/40/62/60/60 (Total: 307) - Fire/Fire - Blaze/Blaze/Magician
-Braixen-0 - 59/59/58/90/70/73 (Total: 409) - Fire/Fire - Blaze/Blaze/Magician
-Delphox-0 - 75/69/72/114/100/104 (Total: 534) - Fire/Psychic - Blaze/Blaze/Magician
-Froakie-0 - 41/56/40/62/44/71 (Total: 314) - Water/Water - Torrent/Torrent/Protean
-Frogadier-0 - 54/63/52/83/56/97 (Total: 405) - Water/Water - Torrent/Torrent/Protean
-Greninja-0 - 72/95/67/103/71/122 (Total: 530) - Water/Dark - Torrent/Torrent/Protean
-Greninja-1 - 72/95/67/103/71/122 (Total: 530) - Water/Dark - Battle Bond/Battle Bond/Battle Bond
-Fletchling-0 - 45/50/43/40/38/62 (Total: 278) - Normal/Flying - Big Pecks/Big Pecks/Gale Wings
-Fletchinder-0 - 62/73/55/56/52/84 (Total: 382) - Fire/Flying - Flame Body/Flame Body/Gale Wings
-Talonflame-0 - 78/81/71/74/69/126 (Total: 499) - Fire/Flying - Flame Body/Flame Body/Gale Wings
-Scatterbug-0 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-1 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-2 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-3 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-4 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-5 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-6 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-7 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-8 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-9 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-10 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-11 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-12 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-13 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-14 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-15 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-16 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-17 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-18 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Scatterbug-19 - 38/35/40/27/25/35 (Total: 200) - Bug/Bug - Shield Dust/Compound Eyes/Friend Guard
-Spewpa-0 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-1 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-2 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-3 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-4 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-5 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-6 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-7 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-8 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-9 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-10 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-11 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-12 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-13 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-14 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-15 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-16 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-17 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-18 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Spewpa-19 - 45/22/60/27/30/29 (Total: 213) - Bug/Bug - Shed Skin/Shed Skin/Friend Guard
-Vivillon-0 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-1 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-2 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-3 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-4 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-5 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-6 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-7 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-8 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-9 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-10 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-11 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-12 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-13 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-14 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-15 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-16 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-17 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-18 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Vivillon-19 - 80/52/50/90/50/89 (Total: 411) - Bug/Flying - Shield Dust/Compound Eyes/Friend Guard
-Litleo-0 - 62/50/58/73/54/72 (Total: 369) - Fire/Normal - Rivalry/Unnerve/Moxie
-Pyroar-0 - 86/68/72/109/66/106 (Total: 507) - Fire/Normal - Rivalry/Unnerve/Moxie
-Flabébé-0 - 44/38/39/61/79/42 (Total: 303) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Flabébé-1 - 44/38/39/61/79/42 (Total: 303) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Flabébé-2 - 44/38/39/61/79/42 (Total: 303) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Flabébé-3 - 44/38/39/61/79/42 (Total: 303) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Flabébé-4 - 44/38/39/61/79/42 (Total: 303) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Floette-0 - 54/45/47/75/98/52 (Total: 371) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Floette-1 - 54/45/47/75/98/52 (Total: 371) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Floette-2 - 54/45/47/75/98/52 (Total: 371) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Floette-3 - 54/45/47/75/98/52 (Total: 371) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Floette-4 - 54/45/47/75/98/52 (Total: 371) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Florges-0 - 78/65/68/112/154/75 (Total: 552) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Florges-1 - 78/65/68/112/154/75 (Total: 552) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Florges-2 - 78/65/68/112/154/75 (Total: 552) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Florges-3 - 78/65/68/112/154/75 (Total: 552) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Florges-4 - 78/65/68/112/154/75 (Total: 552) - Fairy/Fairy - Flower Veil/Flower Veil/Symbiosis
-Skiddo-0 - 66/65/48/62/57/52 (Total: 350) - Grass/Grass - Sap Sipper/Sap Sipper/Grass Pelt
-Gogoat-0 - 123/100/62/97/81/68 (Total: 531) - Grass/Grass - Sap Sipper/Sap Sipper/Grass Pelt
-Skrelp-0 - 50/60/60/60/60/30 (Total: 320) - Poison/Water - Poison Point/Poison Touch/Adaptability
-Dragalge-0 - 65/75/90/97/123/44 (Total: 494) - Poison/Dragon - Poison Point/Poison Touch/Adaptability
-Clauncher-0 - 50/53/62/58/63/44 (Total: 330) - Water/Water - Mega Launcher/Mega Launcher/Mega Launcher
-Clawitzer-0 - 71/73/88/120/89/59 (Total: 500) - Water/Water - Mega Launcher/Mega Launcher/Mega Launcher
-Sylveon-0 - 95/65/65/110/130/60 (Total: 525) - Fairy/Fairy - Cute Charm/Cute Charm/Pixilate
-Hawlucha-0 - 78/92/75/74/63/118 (Total: 500) - Fighting/Flying - Limber/Unburden/Mold Breaker
-Dedenne-0 - 67/58/57/81/67/101 (Total: 431) - Electric/Fairy - Cheek Pouch/Pickup/Plus
-Carbink-0 - 50/50/150/50/150/50 (Total: 500) - Rock/Fairy - Clear Body/Clear Body/Sturdy
-Goomy-0 - 45/50/35/55/75/40 (Total: 300) - Dragon/Dragon - Sap Sipper/Hydration/Gooey
-Sliggoo-0 - 68/75/53/83/113/60 (Total: 452) - Dragon/Dragon - Sap Sipper/Hydration/Gooey
-Sliggoo-1 - 58/75/83/83/113/40 (Total: 452) - Steel/Dragon - Sap Sipper/Shell Armor/Gooey
-Goodra-0 - 90/100/70/110/150/80 (Total: 600) - Dragon/Dragon - Sap Sipper/Hydration/Gooey
-Goodra-1 - 80/100/100/110/150/60 (Total: 600) - Steel/Dragon - Sap Sipper/Shell Armor/Gooey
-Klefki-0 - 57/80/91/80/87/75 (Total: 470) - Steel/Fairy - Prankster/Prankster/Magician
-Bergmite-0 - 55/69/85/32/35/28 (Total: 304) - Ice/Ice - Own Tempo/Ice Body/Sturdy
-Avalugg-0 - 95/117/184/44/46/28 (Total: 514) - Ice/Ice - Own Tempo/Ice Body/Sturdy
-Avalugg-1 - 95/127/184/34/36/38 (Total: 514) - Ice/Rock - Strong Jaw/Ice Body/Sturdy
-Noibat-0 - 40/30/35/45/40/55 (Total: 245) - Flying/Dragon - Frisk/Infiltrator/Telepathy
-Noivern-0 - 85/70/80/97/80/123 (Total: 535) - Flying/Dragon - Frisk/Infiltrator/Telepathy
-Diancie-0 - 50/100/150/100/150/50 (Total: 600) - Rock/Fairy - Clear Body/Clear Body/Clear Body
-Hoopa-0 - 80/110/60/150/130/70 (Total: 600) - Psychic/Ghost - Magician/Magician/Magician
-Hoopa-1 - 80/160/60/170/130/80 (Total: 680) - Psychic/Dark - Magician/Magician/Magician
-Volcanion-0 - 80/110/120/130/90/70 (Total: 600) - Fire/Water - Water Absorb/Water Absorb/Water Absorb
-Rowlet-0 - 68/55/55/50/50/42 (Total: 320) - Grass/Flying - Overgrow/Overgrow/Long Reach
-Dartrix-0 - 78/75/75/70/70/52 (Total: 420) - Grass/Flying - Overgrow/Overgrow/Long Reach
-Decidueye-0 - 78/107/75/100/100/70 (Total: 530) - Grass/Ghost - Overgrow/Overgrow/Long Reach
-Decidueye-1 - 88/112/80/95/95/60 (Total: 530) - Grass/Fighting - Overgrow/Overgrow/Scrappy
-Yungoos-0 - 48/70/30/30/30/45 (Total: 253) - Normal/Normal - Stakeout/Strong Jaw/Adaptability
-Gumshoos-0 - 88/110/60/55/60/45 (Total: 418) - Normal/Normal - Stakeout/Strong Jaw/Adaptability
-Crabrawler-0 - 47/82/57/42/47/63 (Total: 338) - Fighting/Fighting - Hyper Cutter/Iron Fist/Anger Point
-Crabominable-0 - 97/132/77/62/67/43 (Total: 478) - Fighting/Ice - Hyper Cutter/Iron Fist/Anger Point
-Oricorio-0 - 75/70/70/98/70/93 (Total: 476) - Fire/Flying - Dancer/Dancer/Dancer
-Oricorio-1 - 75/70/70/98/70/93 (Total: 476) - Electric/Flying - Dancer/Dancer/Dancer
-Oricorio-2 - 75/70/70/98/70/93 (Total: 476) - Psychic/Flying - Dancer/Dancer/Dancer
-Oricorio-3 - 75/70/70/98/70/93 (Total: 476) - Ghost/Flying - Dancer/Dancer/Dancer
-Rockruff-0 - 45/65/40/30/40/60 (Total: 280) - Rock/Rock - Keen Eye/Vital Spirit/Steadfast
-Rockruff-1 - 45/65/40/30/40/60 (Total: 280) - Rock/Rock - Own Tempo/Own Tempo/Own Tempo
-Lycanroc-0 - 75/115/65/55/65/112 (Total: 487) - Rock/Rock - Keen Eye/Sand Rush/Steadfast
-Lycanroc-1 - 85/115/75/55/75/82 (Total: 487) - Rock/Rock - Keen Eye/Vital Spirit/No Guard
-Lycanroc-2 - 75/117/65/55/65/110 (Total: 487) - Rock/Rock - Tough Claws/Tough Claws/Tough Claws
-Mareanie-0 - 50/53/62/43/52/45 (Total: 305) - Poison/Water - Merciless/Limber/Regenerator
-Toxapex-0 - 50/63/152/53/142/35 (Total: 495) - Poison/Water - Merciless/Limber/Regenerator
-Mudbray-0 - 70/100/70/45/55/45 (Total: 385) - Ground/Ground - Own Tempo/Stamina/Inner Focus
-Mudsdale-0 - 100/125/100/55/85/35 (Total: 500) - Ground/Ground - Own Tempo/Stamina/Inner Focus
-Fomantis-0 - 40/55/35/50/35/35 (Total: 250) - Grass/Grass - Leaf Guard/Leaf Guard/Contrary
-Lurantis-0 - 70/105/90/80/90/45 (Total: 480) - Grass/Grass - Leaf Guard/Leaf Guard/Contrary
-Salandit-0 - 48/44/40/71/40/77 (Total: 320) - Poison/Fire - Corrosion/Corrosion/Oblivious
-Salazzle-0 - 68/64/60/111/60/117 (Total: 480) - Poison/Fire - Corrosion/Corrosion/Oblivious
-Bounsweet-0 - 42/30/38/30/38/32 (Total: 210) - Grass/Grass - Leaf Guard/Oblivious/Sweet Veil
-Steenee-0 - 52/40/48/40/48/62 (Total: 290) - Grass/Grass - Leaf Guard/Oblivious/Sweet Veil
-Tsareena-0 - 72/120/98/50/98/72 (Total: 510) - Grass/Grass - Leaf Guard/Queenly Majesty/Sweet Veil
-Oranguru-0 - 90/60/80/90/110/60 (Total: 490) - Normal/Psychic - Inner Focus/Telepathy/Symbiosis
-Passimian-0 - 100/120/90/40/60/80 (Total: 490) - Fighting/Fighting - Receiver/Receiver/Defiant
-Sandygast-0 - 55/55/80/70/45/15 (Total: 320) - Ghost/Ground - Water Compaction/Water Compaction/Sand Veil
-Palossand-0 - 85/75/110/100/75/35 (Total: 480) - Ghost/Ground - Water Compaction/Water Compaction/Sand Veil
-Komala-0 - 65/115/65/75/95/65 (Total: 480) - Normal/Normal - Comatose/Comatose/Comatose
-Mimikyu-0 - 55/90/80/50/105/96 (Total: 476) - Ghost/Fairy - Disguise/Disguise/Disguise
-Mimikyu-1 - 55/90/80/50/105/96 (Total: 476) - Ghost/Fairy - Disguise/Disguise/Disguise
-Bruxish-0 - 68/105/70/70/70/92 (Total: 475) - Water/Psychic - Dazzling/Strong Jaw/Wonder Skin
-Magearna-0 - 80/95/115/130/115/65 (Total: 600) - Steel/Fairy - Soul-Heart/Soul-Heart/Soul-Heart
-Magearna-1 - 80/95/115/130/115/65 (Total: 600) - Steel/Fairy - Soul-Heart/Soul-Heart/Soul-Heart
-Grookey-0 - 50/65/50/40/40/65 (Total: 310) - Grass/Grass - Overgrow/Overgrow/Grassy Surge
-Thwackey-0 - 70/85/70/55/60/80 (Total: 420) - Grass/Grass - Overgrow/Overgrow/Grassy Surge
-Rillaboom-0 - 100/125/90/60/70/85 (Total: 530) - Grass/Grass - Overgrow/Overgrow/Grassy Surge
-Scorbunny-0 - 50/71/40/40/40/69 (Total: 310) - Fire/Fire - Blaze/Blaze/Libero
-Raboot-0 - 65/86/60/55/60/94 (Total: 420) - Fire/Fire - Blaze/Blaze/Libero
-Cinderace-0 - 80/116/75/65/75/119 (Total: 530) - Fire/Fire - Blaze/Blaze/Libero
-Sobble-0 - 50/40/40/70/40/70 (Total: 310) - Water/Water - Torrent/Torrent/Sniper
-Drizzile-0 - 65/60/55/95/55/90 (Total: 420) - Water/Water - Torrent/Torrent/Sniper
-Inteleon-0 - 70/85/65/125/65/120 (Total: 530) - Water/Water - Torrent/Torrent/Sniper
-Skwovet-0 - 70/55/55/35/35/25 (Total: 275) - Normal/Normal - Cheek Pouch/Cheek Pouch/Gluttony
-Greedent-0 - 120/95/95/55/75/20 (Total: 460) - Normal/Normal - Cheek Pouch/Cheek Pouch/Gluttony
-Rookidee-0 - 38/47/35/33/35/57 (Total: 245) - Flying/Flying - Keen Eye/Unnerve/Big Pecks
-Corvisquire-0 - 68/67/55/43/55/77 (Total: 365) - Flying/Flying - Keen Eye/Unnerve/Big Pecks
-Corviknight-0 - 98/87/105/53/85/67 (Total: 495) - Flying/Steel - Pressure/Unnerve/Mirror Armor
-Chewtle-0 - 50/64/50/38/38/44 (Total: 284) - Water/Water - Strong Jaw/Shell Armor/Swift Swim
-Drednaw-0 - 90/115/90/48/68/74 (Total: 485) - Water/Rock - Strong Jaw/Shell Armor/Swift Swim
-Rolycoly-0 - 30/40/50/40/50/30 (Total: 240) - Rock/Rock - Steam Engine/Heatproof/Flash Fire
-Carkol-0 - 80/60/90/60/70/50 (Total: 410) - Rock/Fire - Steam Engine/Flame Body/Flash Fire
-Coalossal-0 - 110/80/120/80/90/30 (Total: 510) - Rock/Fire - Steam Engine/Flame Body/Flash Fire
-Applin-0 - 40/40/80/40/40/20 (Total: 260) - Grass/Dragon - Ripen/Gluttony/Bulletproof
-Flapple-0 - 70/110/80/95/60/70 (Total: 485) - Grass/Dragon - Ripen/Gluttony/Hustle
-Appletun-0 - 110/85/80/100/80/30 (Total: 485) - Grass/Dragon - Ripen/Gluttony/Thick Fat
-Silicobra-0 - 52/57/75/35/50/46 (Total: 315) - Ground/Ground - Sand Spit/Shed Skin/Sand Veil
-Sandaconda-0 - 72/107/125/65/70/71 (Total: 510) - Ground/Ground - Sand Spit/Shed Skin/Sand Veil
-Arrokuda-0 - 41/63/40/40/30/66 (Total: 280) - Water/Water - Swift Swim/Swift Swim/Propeller Tail
-Barraskewda-0 - 61/123/60/60/50/136 (Total: 490) - Water/Water - Swift Swim/Swift Swim/Propeller Tail
-Toxel-0 - 40/38/35/54/35/40 (Total: 242) - Electric/Poison - Rattled/Static/Klutz
-Toxtricity-0 - 75/98/70/114/70/75 (Total: 502) - Electric/Poison - Punk Rock/Plus/Technician
-Toxtricity-1 - 75/98/70/114/70/75 (Total: 502) - Electric/Poison - Punk Rock/Minus/Technician
-Sinistea-0 - 40/45/45/74/54/50 (Total: 308) - Ghost/Ghost - Weak Armor/Weak Armor/Cursed Body
-Sinistea-1 - 40/45/45/74/54/50 (Total: 308) - Ghost/Ghost - Weak Armor/Weak Armor/Cursed Body
-Polteageist-0 - 60/65/65/134/114/70 (Total: 508) - Ghost/Ghost - Weak Armor/Weak Armor/Cursed Body
-Polteageist-1 - 60/65/65/134/114/70 (Total: 508) - Ghost/Ghost - Weak Armor/Weak Armor/Cursed Body
-Hatenna-0 - 42/30/45/56/53/39 (Total: 265) - Psychic/Psychic - Healer/Anticipation/Magic Bounce
-Hattrem-0 - 57/40/65/86/73/49 (Total: 370) - Psychic/Psychic - Healer/Anticipation/Magic Bounce
-Hatterene-0 - 57/90/95/136/103/29 (Total: 510) - Psychic/Fairy - Healer/Anticipation/Magic Bounce
-Impidimp-0 - 45/45/30/55/40/50 (Total: 265) - Dark/Fairy - Prankster/Frisk/Pickpocket
-Morgrem-0 - 65/60/45/75/55/70 (Total: 370) - Dark/Fairy - Prankster/Frisk/Pickpocket
-Grimmsnarl-0 - 95/120/65/95/75/60 (Total: 510) - Dark/Fairy - Prankster/Frisk/Pickpocket
-Perrserker-0 - 70/110/100/50/60/50 (Total: 440) - Steel/Steel - Battle Armor/Tough Claws/Steely Spirit
-Falinks-0 - 65/100/100/70/60/75 (Total: 470) - Fighting/Fighting - Battle Armor/Battle Armor/Defiant
-Pincurchin-0 - 48/101/95/91/85/15 (Total: 435) - Electric/Electric - Lightning Rod/Lightning Rod/Electric Surge
-Snom-0 - 30/25/35/45/30/20 (Total: 185) - Ice/Bug - Shield Dust/Shield Dust/Ice Scales
-Frosmoth-0 - 70/65/60/125/90/65 (Total: 475) - Ice/Bug - Shield Dust/Shield Dust/Ice Scales
-Stonjourner-0 - 100/125/135/20/20/70 (Total: 470) - Rock/Rock - Power Spot/Power Spot/Power Spot
-Eiscue-0 - 75/80/110/65/90/50 (Total: 470) - Ice/Ice - Ice Face/Ice Face/Ice Face
-Eiscue-1 - 75/80/70/65/50/130 (Total: 470) - Ice/Ice - Ice Face/Ice Face/Ice Face
-Indeedee-0 - 60/65/55/105/95/95 (Total: 475) - Psychic/Normal - Inner Focus/Synchronize/Psychic Surge
-Indeedee-1 - 70/55/65/95/105/85 (Total: 475) - Psychic/Normal - Own Tempo/Synchronize/Psychic Surge
-Cufant-0 - 72/80/49/40/49/40 (Total: 330) - Steel/Steel - Sheer Force/Sheer Force/Heavy Metal
-Copperajah-0 - 122/130/69/80/69/30 (Total: 500) - Steel/Steel - Sheer Force/Sheer Force/Heavy Metal
-Dreepy-0 - 28/60/30/40/30/82 (Total: 270) - Dragon/Ghost - Clear Body/Infiltrator/Cursed Body
-Drakloak-0 - 68/80/50/60/50/102 (Total: 410) - Dragon/Ghost - Clear Body/Infiltrator/Cursed Body
-Dragapult-0 - 88/120/75/100/75/142 (Total: 600) - Dragon/Ghost - Clear Body/Infiltrator/Cursed Body
-Zacian-0 - 92/120/115/80/115/138 (Total: 660) - Fairy/Fairy - Intrepid Sword/Intrepid Sword/Intrepid Sword
-Zacian-1 - 92/150/115/80/115/148 (Total: 700) - Fairy/Steel - Intrepid Sword/Intrepid Sword/Intrepid Sword
-Zamazenta-0 - 92/120/115/80/115/138 (Total: 660) - Fighting/Fighting - Dauntless Shield/Dauntless Shield/Dauntless Shield
-Zamazenta-1 - 92/120/140/80/140/128 (Total: 700) - Fighting/Steel - Dauntless Shield/Dauntless Shield/Dauntless Shield
-Eternatus-0 - 140/85/95/145/95/130 (Total: 690) - Poison/Dragon - Pressure/Pressure/Pressure
-Kubfu-0 - 60/90/60/53/50/72 (Total: 385) - Fighting/Fighting - Inner Focus/Inner Focus/No Guard
-Urshifu-0 - 100/130/100/63/60/97 (Total: 550) - Fighting/Dark - Unseen Fist/Unseen Fist/Unseen Fist
-Urshifu-1 - 100/130/100/63/60/97 (Total: 550) - Fighting/Water - Unseen Fist/Unseen Fist/Unseen Fist
-Zarude-0 - 105/120/105/70/95/105 (Total: 600) - Dark/Grass - Leaf Guard/Leaf Guard/Leaf Guard
-Zarude-1 - 105/120/105/70/95/105 (Total: 600) - Dark/Grass - Leaf Guard/Leaf Guard/Leaf Guard
-Regieleki-0 - 80/100/50/100/50/200 (Total: 580) - Electric/Electric - Transistor/Transistor/Transistor
-Regidrago-0 - 200/100/50/100/50/80 (Total: 580) - Dragon/Dragon - Dragon’s Maw/Dragon’s Maw/Dragon’s Maw
-Glastrier-0 - 100/145/130/65/110/30 (Total: 580) - Ice/Ice - Chilling Neigh/Chilling Neigh/Chilling Neigh
-Spectrier-0 - 100/65/60/145/80/130 (Total: 580) - Ghost/Ghost - Grim Neigh/Grim Neigh/Grim Neigh
-Calyrex-0 - 100/80/80/80/80/80 (Total: 500) - Psychic/Grass - Unnerve/Unnerve/Unnerve
-Calyrex-1 - 100/165/150/85/130/50 (Total: 680) - Psychic/Ice - As One/As One/As One
-Calyrex-2 - 100/85/80/165/100/150 (Total: 680) - Psychic/Ghost - As One/As One/As One
-Wyrdeer-0 - 103/105/72/105/75/65 (Total: 525) - Normal/Psychic - Intimidate/Frisk/Sap Sipper
-Kleavor-0 - 70/130/95/45/75/85 (Total: 500) - Bug/Rock - Swarm/Sheer Force/Sharpness
-Ursaluna-0 - 130/140/105/45/80/50 (Total: 550) - Ground/Normal - Guts/Bulletproof/Unnerve
-Basculegion-0 - 120/112/65/80/75/78 (Total: 530) - Water/Ghost - Swift Swim/Adaptability/Mold Breaker
-Basculegion-1 - 120/92/65/100/75/78 (Total: 530) - Water/Ghost - Swift Swim/Adaptability/Mold Breaker
-Sneasler-0 - 80/130/60/40/80/120 (Total: 510) - Fighting/Poison - Pressure/Unburden/Poison Touch
-Overqwil-0 - 85/115/95/65/65/85 (Total: 510) - Dark/Poison - Poison Point/Swift Swim/Intimidate
-Enamorus-0 - 74/115/70/135/80/106 (Total: 580) - Fairy/Flying - Cute Charm/Cute Charm/Contrary
-Enamorus-1 - 74/115/110/135/100/46 (Total: 580) - Fairy/Flying - Overcoat/Overcoat/Overcoat
-Sprigatito-0 - 40/61/54/45/45/65 (Total: 310) - Grass/Grass - Overgrow/Overgrow/Protean
-Floragato-0 - 61/80/63/60/63/83 (Total: 410) - Grass/Grass - Overgrow/Overgrow/Protean
-Meowscarada-0 - 76/110/70/81/70/123 (Total: 530) - Grass/Dark - Overgrow/Overgrow/Protean
-Fuecoco-0 - 67/45/59/63/40/36 (Total: 310) - Fire/Fire - Blaze/Blaze/Unaware
-Crocalor-0 - 81/55/78/90/58/49 (Total: 411) - Fire/Fire - Blaze/Blaze/Unaware
-Skeledirge-0 - 104/75/100/110/75/66 (Total: 530) - Fire/Ghost - Blaze/Blaze/Unaware
-Quaxly-0 - 55/65/45/50/45/50 (Total: 310) - Water/Water - Torrent/Torrent/Moxie
-Quaxwell-0 - 70/85/65/65/60/65 (Total: 410) - Water/Water - Torrent/Torrent/Moxie
-Quaquaval-0 - 85/120/80/85/75/85 (Total: 530) - Water/Fighting - Torrent/Torrent/Moxie
-Lechonk-0 - 54/45/40/35/45/35 (Total: 254) - Normal/Normal - Aroma Veil/Gluttony/Thick Fat
-Oinkologne-0 - 110/100/75/59/80/65 (Total: 489) - Normal/Normal - Lingering Aroma/Gluttony/Thick Fat
-Oinkologne-1 - 115/90/70/59/90/65 (Total: 489) - Normal/Normal - Aroma Veil/Gluttony/Thick Fat
-Dudunsparce-0 - 125/100/80/85/75/55 (Total: 520) - Normal/Normal - Serene Grace/Run Away/Rattled
-Dudunsparce-1 - 125/100/80/85/75/55 (Total: 520) - Normal/Normal - Serene Grace/Run Away/Rattled
-Tarountula-0 - 35/41/45/29/40/20 (Total: 210) - Bug/Bug - Insomnia/Insomnia/Stakeout
-Spidops-0 - 60/79/92/52/86/35 (Total: 404) - Bug/Bug - Insomnia/Insomnia/Stakeout
-Nymble-0 - 33/46/40/21/25/45 (Total: 210) - Bug/Bug - Swarm/Swarm/Tinted Lens
-Lokix-0 - 71/102/78/52/55/92 (Total: 450) - Bug/Dark - Swarm/Swarm/Tinted Lens
-Rellor-0 - 41/50/60/31/58/30 (Total: 270) - Bug/Bug - Compound Eyes/Compound Eyes/Shed Skin
-Rabsca-0 - 75/50/85/115/100/45 (Total: 470) - Bug/Psychic - Synchronize/Synchronize/Telepathy
-Greavard-0 - 50/61/60/30/55/34 (Total: 290) - Ghost/Ghost - Pickup/Pickup/Fluffy
-Houndstone-0 - 72/101/100/50/97/68 (Total: 488) - Ghost/Ghost - Sand Rush/Sand Rush/Fluffy
-Flittle-0 - 30/35/30/55/30/75 (Total: 255) - Psychic/Psychic - Anticipation/Frisk/Speed Boost
-Espathra-0 - 95/60/60/101/60/105 (Total: 481) - Psychic/Psychic - Opportunist/Frisk/Speed Boost
-Farigiraf-0 - 120/90/70/110/70/60 (Total: 520) - Normal/Psychic - Cud Chew/Armor Tail/Sap Sipper
-Wiglett-0 - 10/55/25/35/25/95 (Total: 245) - Water/Water - Gooey/Rattled/Sand Veil
-Wugtrio-0 - 35/100/50/50/70/120 (Total: 425) - Water/Water - Gooey/Rattled/Sand Veil
-Dondozo-0 - 150/100/115/65/65/35 (Total: 530) - Water/Water - Unaware/Oblivious/Water Veil
-Veluza-0 - 90/102/73/78/65/70 (Total: 478) - Water/Psychic - Mold Breaker/Mold Breaker/Sharpness
-Finizen-0 - 70/45/40/45/40/75 (Total: 315) - Water/Water - Water Veil/Water Veil/Water Veil
-Palafin-0 - 100/70/72/53/62/100 (Total: 457) - Water/Water - Zero to Hero/Zero to Hero/Zero to Hero
-Palafin-1 - 100/160/97/106/87/100 (Total: 650) - Water/Water - Zero to Hero/Zero to Hero/Zero to Hero
-Smoliv-0 - 41/35/45/58/51/30 (Total: 260) - Grass/Normal - Early Bird/Early Bird/Harvest
-Dolliv-0 - 52/53/60/78/78/33 (Total: 354) - Grass/Normal - Early Bird/Early Bird/Harvest
-Arboliva-0 - 78/69/90/125/109/39 (Total: 510) - Grass/Normal - Seed Sower/Seed Sower/Harvest
-Capsakid-0 - 50/62/40/62/40/50 (Total: 304) - Grass/Grass - Chlorophyll/Insomnia/Klutz
-Scovillain-0 - 65/108/65/108/65/75 (Total: 486) - Grass/Fire - Chlorophyll/Insomnia/Moody
-Tadbulb-0 - 61/31/41/59/35/45 (Total: 272) - Electric/Electric - Own Tempo/Static/Damp
-Bellibolt-0 - 109/64/91/103/83/45 (Total: 495) - Electric/Electric - Electromorphosis/Static/Damp
-Varoom-0 - 45/70/63/30/45/47 (Total: 300) - Steel/Poison - Overcoat/Overcoat/Slow Start
-Revavroom-0 - 80/119/90/54/67/90 (Total: 500) - Steel/Poison - Overcoat/Overcoat/Filter
-Orthworm-0 - 70/85/145/60/55/65 (Total: 480) - Steel/Steel - Earth Eater/Earth Eater/Sand Veil
-Tandemaus-0 - 50/50/45/40/45/75 (Total: 305) - Normal/Normal - Run Away/Pickup/Own Tempo
-Maushold-0 - 74/75/70/65/75/111 (Total: 470) - Normal/Normal - Friend Guard/Cheek Pouch/Technician
-Maushold-1 - 74/75/70/65/75/111 (Total: 470) - Normal/Normal - Friend Guard/Cheek Pouch/Technician
-Cetoddle-0 - 108/68/45/30/40/43 (Total: 334) - Ice/Ice - Thick Fat/Snow Cloak/Sheer Force
-Cetitan-0 - 170/113/65/45/55/73 (Total: 521) - Ice/Ice - Thick Fat/Slush Rush/Sheer Force
-Frigibax-0 - 65/75/45/35/45/55 (Total: 320) - Dragon/Ice - Thermal Exchange/Thermal Exchange/Ice Body
-Arctibax-0 - 90/95/66/45/65/62 (Total: 423) - Dragon/Ice - Thermal Exchange/Thermal Exchange/Ice Body
-Baxcalibur-0 - 115/145/92/75/86/87 (Total: 600) - Dragon/Ice - Thermal Exchange/Thermal Exchange/Ice Body
-Tatsugiri-0 - 68/50/60/120/95/82 (Total: 475) - Dragon/Water - Commander/Commander/Storm Drain
-Tatsugiri-1 - 68/50/60/120/95/82 (Total: 475) - Dragon/Water - Commander/Commander/Storm Drain
-Tatsugiri-2 - 68/50/60/120/95/82 (Total: 475) - Dragon/Water - Commander/Commander/Storm Drain
-Cyclizar-0 - 70/95/65/85/65/121 (Total: 501) - Dragon/Normal - Shed Skin/Shed Skin/Regenerator
-Pawmi-0 - 45/50/20/40/25/60 (Total: 240) - Electric/Electric - Static/Natural Cure/Iron Fist
-Pawmo-0 - 60/75/40/50/40/85 (Total: 350) - Electric/Fighting - Volt Absorb/Natural Cure/Iron Fist
-Pawmot-0 - 70/115/70/70/60/105 (Total: 490) - Electric/Fighting - Volt Absorb/Natural Cure/Iron Fist
-Wattrel-0 - 40/40/35/55/40/70 (Total: 280) - Electric/Flying - Wind Power/Volt Absorb/Competitive
-Kilowattrel-0 - 70/70/60/105/60/125 (Total: 490) - Electric/Flying - Wind Power/Volt Absorb/Competitive
-Bombirdier-0 - 70/103/85/60/85/82 (Total: 485) - Flying/Dark - Big Pecks/Keen Eye/Rocky Payload
-Squawkabilly-0 - 82/96/51/45/51/92 (Total: 417) - Normal/Flying - Intimidate/Hustle/Guts
-Squawkabilly-1 - 82/96/51/45/51/92 (Total: 417) - Normal/Flying - Intimidate/Hustle/Guts
-Squawkabilly-2 - 82/96/51/45/51/92 (Total: 417) - Normal/Flying - Intimidate/Hustle/Sheer Force
-Squawkabilly-3 - 82/96/51/45/51/92 (Total: 417) - Normal/Flying - Intimidate/Hustle/Sheer Force
-Flamigo-0 - 82/115/74/75/64/90 (Total: 500) - Flying/Fighting - Scrappy/Tangled Feet/Costar
-Klawf-0 - 70/100/115/35/55/75 (Total: 450) - Rock/Rock - Anger Shell/Shell Armor/Regenerator
-Nacli-0 - 55/55/75/35/35/25 (Total: 280) - Rock/Rock - Purifying Salt/Sturdy/Clear Body
-Naclstack-0 - 60/60/100/35/65/35 (Total: 355) - Rock/Rock - Purifying Salt/Sturdy/Clear Body
-Garganacl-0 - 100/100/130/45/90/35 (Total: 500) - Rock/Rock - Purifying Salt/Sturdy/Clear Body
-Glimmet-0 - 48/35/42/105/60/60 (Total: 350) - Rock/Poison - Toxic Debris/Toxic Debris/Corrosion
-Glimmora-0 - 83/55/90/130/81/86 (Total: 525) - Rock/Poison - Toxic Debris/Toxic Debris/Corrosion
-Shroodle-0 - 40/65/35/40/35/75 (Total: 290) - Poison/Normal - Unburden/Pickpocket/Prankster
-Grafaiai-0 - 63/95/65/80/72/110 (Total: 485) - Poison/Normal - Unburden/Poison Touch/Prankster
-Fidough-0 - 37/55/70/30/55/65 (Total: 312) - Fairy/Fairy - Own Tempo/Own Tempo/Klutz
-Dachsbun-0 - 57/80/115/50/80/95 (Total: 477) - Fairy/Fairy - Well-Baked Body/Well-Baked Body/Aroma Veil
-Maschiff-0 - 60/78/60/40/51/51 (Total: 340) - Dark/Dark - Intimidate/Run Away/Stakeout
-Mabosstiff-0 - 80/120/90/60/70/85 (Total: 505) - Dark/Dark - Intimidate/Guard Dog/Stakeout
-Bramblin-0 - 40/65/30/45/35/60 (Total: 275) - Grass/Ghost - Wind Rider/Wind Rider/Infiltrator
-Brambleghast-0 - 55/115/70/80/70/90 (Total: 480) - Grass/Ghost - Wind Rider/Wind Rider/Infiltrator
-Gimmighoul-0 - 45/30/70/75/70/10 (Total: 300) - Ghost/Ghost - Rattled/Rattled/Rattled
-Gimmighoul-1 - 45/30/25/75/45/80 (Total: 300) - Ghost/Ghost - Run Away/Run Away/Run Away
-Gholdengo-0 - 87/60/95/133/91/84 (Total: 550) - Steel/Ghost - Good as Gold/Good as Gold/Good as Gold
-Great Tusk-0 - 115/131/131/53/53/87 (Total: 570) - Ground/Fighting - Protosynthesis/Protosynthesis/Protosynthesis
-Brute Bonnet-0 - 111/127/99/79/99/55 (Total: 570) - Grass/Dark - Protosynthesis/Protosynthesis/Protosynthesis
-Sandy Shocks-0 - 85/81/97/121/85/101 (Total: 570) - Electric/Ground - Protosynthesis/Protosynthesis/Protosynthesis
-Scream Tail-0 - 115/65/99/65/115/111 (Total: 570) - Fairy/Psychic - Protosynthesis/Protosynthesis/Protosynthesis
-Flutter Mane-0 - 55/55/55/135/135/135 (Total: 570) - Ghost/Fairy - Protosynthesis/Protosynthesis/Protosynthesis
-Slither Wing-0 - 85/135/79/85/105/81 (Total: 570) - Bug/Fighting - Protosynthesis/Protosynthesis/Protosynthesis
-Roaring Moon-0 - 105/139/71/55/101/119 (Total: 590) - Dragon/Dark - Protosynthesis/Protosynthesis/Protosynthesis
-Iron Treads-0 - 90/112/120/72/70/106 (Total: 570) - Ground/Steel - Quark Drive/Quark Drive/Quark Drive
-Iron Moth-0 - 80/70/60/140/110/110 (Total: 570) - Fire/Poison - Quark Drive/Quark Drive/Quark Drive
-Iron Hands-0 - 154/140/108/50/68/50 (Total: 570) - Fighting/Electric - Quark Drive/Quark Drive/Quark Drive
-Iron Jugulis-0 - 94/80/86/122/80/108 (Total: 570) - Dark/Flying - Quark Drive/Quark Drive/Quark Drive
-Iron Thorns-0 - 100/134/110/70/84/72 (Total: 570) - Rock/Electric - Quark Drive/Quark Drive/Quark Drive
-Iron Bundle-0 - 56/80/114/124/60/136 (Total: 570) - Ice/Water - Quark Drive/Quark Drive/Quark Drive
-Iron Valiant-0 - 74/130/90/120/60/116 (Total: 590) - Fairy/Fighting - Quark Drive/Quark Drive/Quark Drive
-Ting-Lu-0 - 165/110/130/50/80/45 (Total: 580) - Dark/Ground - Vessel of Ruin/Vessel of Ruin/Vessel of Ruin
-Chien-Pao-0 - 80/130/80/90/65/135 (Total: 580) - Dark/Ice - Sword of Ruin/Sword of Ruin/Sword of Ruin
-Wo-Chien-0 - 85/90/100/100/135/70 (Total: 580) - Dark/Grass - Tablets of Ruin/Tablets of Ruin/Tablets of Ruin
-Chi-Yu-0 - 55/80/80/145/120/100 (Total: 580) - Dark/Fire - Beads of Ruin/Beads of Ruin/Beads of Ruin
-Koraidon-0 - 100/135/115/85/100/135 (Total: 670) - Fighting/Dragon - Orichalcum Pulse/Orichalcum Pulse/Orichalcum Pulse
-Koraidon-1 - 100/135/115/85/100/135 (Total: 670) - Fighting/Dragon - Orichalcum Pulse/Orichalcum Pulse/Orichalcum Pulse
-Koraidon-2 - 100/135/115/85/100/135 (Total: 670) - Fighting/Dragon - Orichalcum Pulse/Orichalcum Pulse/Orichalcum Pulse
-Koraidon-3 - 100/135/115/85/100/135 (Total: 670) - Fighting/Dragon - Orichalcum Pulse/Orichalcum Pulse/Orichalcum Pulse
-Koraidon-4 - 100/135/115/85/100/135 (Total: 670) - Fighting/Dragon - Orichalcum Pulse/Orichalcum Pulse/Orichalcum Pulse
-Miraidon-0 - 100/85/100/135/115/135 (Total: 670) - Electric/Dragon - Hadron Engine/Hadron Engine/Hadron Engine
-Miraidon-1 - 100/85/100/135/115/135 (Total: 670) - Electric/Dragon - Hadron Engine/Hadron Engine/Hadron Engine
-Miraidon-2 - 100/85/100/135/115/135 (Total: 670) - Electric/Dragon - Hadron Engine/Hadron Engine/Hadron Engine
-Miraidon-3 - 100/85/100/135/115/135 (Total: 670) - Electric/Dragon - Hadron Engine/Hadron Engine/Hadron Engine
-Miraidon-4 - 100/85/100/135/115/135 (Total: 670) - Electric/Dragon - Hadron Engine/Hadron Engine/Hadron Engine
-Tinkatink-0 - 50/45/45/35/64/58 (Total: 297) - Fairy/Steel - Mold Breaker/Own Tempo/Pickpocket
-Tinkatuff-0 - 65/55/55/45/82/78 (Total: 380) - Fairy/Steel - Mold Breaker/Own Tempo/Pickpocket
-Tinkaton-0 - 85/75/77/70/105/94 (Total: 506) - Fairy/Steel - Mold Breaker/Own Tempo/Pickpocket
-Charcadet-0 - 40/50/40/50/40/35 (Total: 255) - Fire/Fire - Flash Fire/Flash Fire/Flame Body
-Armarouge-0 - 85/60/100/125/80/75 (Total: 525) - Fire/Psychic - Flash Fire/Flash Fire/Weak Armor
-Ceruledge-0 - 75/125/80/60/100/85 (Total: 525) - Fire/Ghost - Flash Fire/Flash Fire/Weak Armor
-Toedscool-0 - 40/40/35/50/100/70 (Total: 335) - Ground/Grass - Mycelium Might/Mycelium Might/Mycelium Might
-Toedscruel-0 - 80/70/65/80/120/100 (Total: 515) - Ground/Grass - Mycelium Might/Mycelium Might/Mycelium Might
-Kingambit-0 - 100/135/120/60/85/50 (Total: 550) - Dark/Steel - Defiant/Supreme Overlord/Pressure
-Clodsire-0 - 130/75/60/45/100/20 (Total: 430) - Poison/Ground - Poison Point/Water Absorb/Unaware
-Annihilape-0 - 110/115/80/50/90/90 (Total: 535) - Fighting/Ghost - Vital Spirit/Inner Focus/Defiant
+Charmander	0	小火龙	
+Charmeleon	0	火恐龙	
+Charizard	0	喷火龙	
+Pikachu	0	皮卡丘	
+Pikachu	1	皮卡丘	初始帽子
+Pikachu	2	皮卡丘	丰缘帽子
+Pikachu	3	皮卡丘	神奥帽子
+Pikachu	4	皮卡丘	合众帽子
+Pikachu	5	皮卡丘	卡洛斯帽子
+Pikachu	6	皮卡丘	阿罗拉帽子
+Pikachu	7	皮卡丘	就决定是你了之帽子
+Pikachu	9	皮卡丘	世界帽子
+Raichu	0	雷丘	
+Raichu	1	雷丘	阿罗拉的样子
+Jigglypuff	0	胖丁	
+Wigglytuff	0	胖可丁	
+Venonat	0	毛球	
+Venomoth	0	摩鲁蛾	
+Diglett	0	地鼠	
+Diglett	1	地鼠	阿拉罗的样子
+Dugtrio	0	三地鼠	
+Dugtrio	1	三地鼠	阿拉罗的样子
+Meowth	0	喵喵	
+Meowth	1	喵喵	阿罗拉的样子
+Meowth	2	喵喵	伽勒尔的样子
+Persian	0	猫老大	
+Persian	1	猫老大	伽勒尔的样子
+Psyduck	0	可达鸭	
+Golduck	0	哥达鸭	
+Mankey	0	猴怪	
+Primeape	0	火暴猴	
+Growlithe	0	卡蒂狗	
+Growlithe	1	卡蒂狗	洗翠的样子
+Arcanine	0	风速狗	
+Arcanine	1	风速狗	洗翠的样子
+Slowpoke	0	呆呆兽	
+Slowpoke	1	呆呆兽	伽勒尔的样子
+Slowbro	0	呆壳兽	
+Slowbro	2	呆壳兽	伽勒尔的样子
+Magnemite	0	小磁怪	
+Magneton	0	三合一磁怪	
+Grimer	0	臭泥	
+Grimer	1	臭泥	阿罗拉的样子
+Muk	0	臭臭泥	
+Muk	1	臭臭泥	阿罗拉的样子
+Shellder	0	大舌贝	
+Cloyster	0	刺甲贝	
+Gastly	0	鬼斯	
+Haunter	0	鬼斯通	
+Gengar	0	耿鬼	
+Drowzee	0	催眠貘	
+Hypno	0	引梦貘人	
+Voltorb	0	霹雳电球	
+Voltorb	1	霹雳电球	洗翠的样子
+Electrode	0	顽皮雷弹	
+Electrode	1	顽皮雷弹	洗翠的样子
+Chansey	0	吉利蛋	
+Scyther	0	飞天螳螂	
+Tauros	0	肯泰罗	
+Tauros	1	肯泰罗	帕底亚的样子
+Tauros	2	肯泰罗	帕底亚的样子-火
+Tauros	3	肯泰罗	帕底亚的样子-水
+Magikarp	0	鲤鱼王	
+Gyarados	0	暴鲤龙	
+Ditto	0	百变怪	
+Eevee	0	伊布	
+Vaporeon	0	水伊布	
+Jolteon	0	雷伊布	
+Flareon	0	火伊布	
+Articuno	0	急冻鸟	
+Articuno	1	急冻鸟	阿罗拉的样子
+Zapdos	0	闪电鸟	
+Zapdos	1	闪电鸟	阿罗拉的样子
+Moltres	0	火焰鸟	
+Moltres	1	火焰鸟	阿罗拉的样子
+Dratini	0	迷你龙	
+Dragonair	0	哈克龙	
+Dragonite	0	快龙	
+Mewtwo	0	超梦	
+Mew	0	梦幻	
+Cyndaquil	0	火球鼠	
+Quilava	0	火岩鼠	
+Typhlosion	0	火暴兽	
+Typhlosion	1	火暴兽	洗翠的样子
+Pichu	0	皮丘	
+Igglybuff	0	宝宝丁	
+Mareep	0	咩利羊	
+Flaaffy	0	茸茸羊	
+Ampharos	0	电龙	
+Marill	0	玛力露	
+Azumarill	0	玛力露丽	
+Sudowoodo	0	树才怪	
+Hoppip	0	毽子草	
+Skiploom	0	毽子花	
+Jumpluff	0	毽子棉	
+Sunkern	0	向日种子	
+Sunflora	0	向日花怪	
+Wooper	0	乌波	
+Wooper	1	乌波	帕底亚的样子
+Quagsire	0	沼王	
+Espeon	0	太阳伊布	
+Umbreon	0	月亮伊布	
+Murkrow	0	黑暗鸦	
+Slowking	0	呆呆王	
+Slowking	1	呆呆王	伽勒尔的样子
+Misdreavus	0	梦妖	
+Girafarig	0	麒麟奇	
+Pineco	0	榛果球	
+Forretress	0	佛烈托斯	
+Dunsparce	0	土龙弟弟	
+Qwilfish	0	千针鱼	
+Qwilfish	1	千针鱼	洗翠的样子
+Scizor	0	巨钳螳螂	
+Heracross	0	赫拉克罗斯	
+Sneasel	0	狃拉	
+Sneasel	1	狃拉	洗翠的样子
+Teddiursa	0	熊宝宝	
+Ursaring	0	圈圈熊	
+Delibird	0	信使鸟	
+Houndour	0	戴鲁比	
+Houndoom	0	黑鲁加	
+Phanpy	0	小小象	
+Donphan	0	顿甲	
+Stantler	0	惊角鹿	
+Blissey	0	幸福蛋	
+Larvitar	0	幼基拉斯	
+Pupitar	0	沙基拉斯	
+Tyranitar	0	班基拉斯	
+Wingull	0	长翅鸥	
+Pelipper	0	大嘴鸥	
+Ralts	0	拉鲁拉丝	
+Kirlia	0	奇鲁莉安	
+Gardevoir	0	沙奈朵	
+Surskit	0	溜溜糖球	
+Masquerain	0	雨翅蛾	
+Shroomish	0	蘑蘑菇	
+Breloom	0	斗笠菇	
+Slakoth	0	懒人獭	
+Vigoroth	0	过动猿	
+Slaking	0	请假王	
+Makuhita	0	幕下力士	
+Hariyama	0	铁掌力士	
+Azurill	0	露力丽	
+Sableye	0	勾魂眼	
+Meditite	0	玛沙那	
+Medicham	0	恰雷姆	
+Gulpin	0	溶食兽	
+Swalot	0	吞食兽	
+Numel	0	呆火驼	
+Camerupt	0	喷火驼	
+Torkoal	0	煤炭龟	
+Spoink	0	跳跳猪	
+Grumpig	0	噗噗猪	
+Cacnea	0	刺球仙人掌	
+Cacturne	0	梦歌仙人掌	
+Swablu	0	青绵鸟	
+Altaria	0	七夕青鸟	
+Zangoose	0	猫鼬斩	
+Seviper	0	饭匙蛇	
+Barboach	0	泥泥鳅	
+Whiscash	0	鲶鱼王	
+Shuppet	0	怨影娃娃	
+Banette	0	诅咒娃娃	
+Tropius	0	热带龙	
+Snorunt	0	雪童子	
+Glalie	0	冰鬼护	
+Luvdisc	0	爱心鱼	
+Bagon	0	宝贝龙	
+Shelgon	0	甲壳龙	
+Salamence	0	暴飞龙	
+Kyogre	0	盖欧卡	
+Groudon	0	固拉多	
+Rayquaza	0	烈空坐	
+Starly	0	姆克儿	
+Staravia	0	姆克鸟	
+Staraptor	0	姆克鹰	
+Kricketot	0	圆法师	
+Kricketune	0	音箱蟀	
+Shinx	0	小猫怪	
+Luxio	0	勒克猫	
+Luxray	0	伦琴猫	
+Combee	0	三蜜蜂	
+Vespiquen	0	蜂女王	
+Pachirisu	0	帕奇利兹	
+Buizel	0	泳圈鼬	
+Floatzel	0	浮潜鼬	
+Shellos	0	壳海兔	西海
+Shellos	1	壳海兔	东海
+Gastrodon	0	海兔兽	西海
+Gastrodon	1	海兔兽	东海
+Drifloon	0	飘飘球	
+Drifblim	0	随风球	
+Mismagius	0	梦妖魔	
+Honchkrow	0	乌鸦头头	
+Stunky	0	臭鼬噗	
+Skuntank	0	坦克臭鼬	
+Bronzor	0	铜镜怪	
+Bronzong	0	青铜钟	
+Bonsly	0	盆才怪	
+Happiny	0	小福蛋	
+Spiritomb	0	花岩怪	
+Gible	0	圆陆鲨	
+Gabite	0	尖牙陆鲨	
+Garchomp	0	烈咬陆鲨	
+Riolu	0	利欧路	
+Lucario	0	路卡利欧	
+Hippopotas	0	沙河马	
+Hippowdon	0	河马兽	
+Croagunk	0	不良蛙	
+Toxicroak	0	毒骷蛙	
+Finneon	0	荧光鱼	
+Lumineon	0	霓虹鱼	
+Snover	0	雪笠怪	
+Abomasnow	0	暴雪王	
+Weavile	0	玛狃拉	
+Magnezone	0	自爆磁怪	
+Leafeon	0	叶伊布	
+Glaceon	0	冰伊布	
+Gallade	0	艾路雷朵	
+Froslass	0	雪妖女	
+Rotom	0	洛托姆	
+Rotom	1	洛托姆	加热洛托姆
+Rotom	2	洛托姆	清洗洛托姆
+Rotom	3	洛托姆	结冰洛托姆
+Rotom	4	洛托姆	旋转洛托姆
+Rotom	5	洛托姆	切割洛托姆
+Uxie	0	由克希	
+Mesprit	0	艾姆利多	
+Azelf	0	亚克诺姆	
+Dialga	0	帝牙卢卡	
+Dialga	1	帝牙卢卡	起源形态
+Palkia	0	帕路奇亚	
+Palkia	1	帕路奇亚	起源形态
+Heatran	0	席多蓝恩	
+Giratina	0	骑拉帝纳	别种形态
+Giratina	1	骑拉帝纳	起源形态
+Cresselia	0	克雷色利亚	
+Arceus	0	阿尔宙斯	
+Arceus	1	阿尔宙斯	格斗
+Arceus	2	阿尔宙斯	飞行
+Arceus	3	阿尔宙斯	毒
+Arceus	4	阿尔宙斯	地面
+Arceus	5	阿尔宙斯	岩石
+Arceus	6	阿尔宙斯	虫
+Arceus	7	阿尔宙斯	幽灵
+Arceus	8	阿尔宙斯	钢
+Arceus	9	阿尔宙斯	火
+Arceus	10	阿尔宙斯	水
+Arceus	11	阿尔宙斯	草
+Arceus	12	阿尔宙斯	电
+Arceus	13	阿尔宙斯	超能力
+Arceus	14	阿尔宙斯	冰
+Arceus	15	阿尔宙斯	龙
+Arceus	16	阿尔宙斯	恶
+Arceus	17	阿尔宙斯	妖精
+Oshawott	0	水水獭	
+Dewott	0	双刃丸	
+Samurott	0	大剑鬼	
+Samurott	1	大剑鬼	洗翠的样子
+Petilil	0	百合根娃娃	
+Lilligant	0	裙儿小姐	
+Lilligant	1	裙儿小姐	洗翠的样子
+Basculin	0	野蛮鲈鱼	红条纹的样子
+Basculin	1	野蛮鲈鱼	蓝条纹的样子
+Basculin	2	野蛮鲈鱼	白条纹的样子
+Sandile	0	黑眼鳄	
+Krokorok	0	混混鳄	
+Krookodile	0	流氓鳄	
+Zorua	0	索罗亚	
+Zorua	1	索罗亚	洗翠的样子
+Zoroark	0	索罗亚克	
+Zoroark	1	索罗亚克	洗翠的样子
+Gothita	0	哥德宝宝	
+Gothorita	0	哥德小童	
+Gothitelle	0	哥德小姐	
+Deerling	0	四季鹿	春天的样子
+Deerling	1	四季鹿	夏天的样子
+Deerling	2	四季鹿	秋天的样子
+Deerling	3	四季鹿	冬天的样子
+Sawsbuck	0	萌芽鹿	春天的样子
+Sawsbuck	1	萌芽鹿	夏天的样子
+Sawsbuck	2	萌芽鹿	秋天的样子
+Sawsbuck	3	萌芽鹿	冬天的样子
+Foongus	0	哎呀球菇	
+Amoonguss	0	败露球菇	
+Alomomola	0	保姆曼波	
+Tynamo	0	麻麻小鱼	
+Eelektrik	0	麻麻鳗	
+Eelektross	0	麻麻鳗鱼王	
+Axew	0	牙牙	
+Fraxure	0	斧牙龙	
+Haxorus	0	双斧战龙	
+Cubchoo	0	喷嚏熊	
+Beartic	0	冻原熊	
+Cryogonal	0	几何雪花	
+Pawniard	0	驹刀小兵	
+Bisharp	0	劈斩司令	
+Rufflet	0	毛头小鹰	
+Braviary	0	勇士雄鹰	
+Braviary	1	勇士雄鹰	洗翠的样子
+Deino	0	单首龙	
+Zweilous	0	双首暴龙	
+Hydreigon	0	三首恶龙	
+Larvesta	0	燃烧虫	
+Volcarona	0	火神蛾	
+Tornadus	0	龙卷云	化身形态
+Tornadus	1	龙卷云	灵兽形态
+Thundurus	0	雷电云	化身形态
+Thundurus	1	雷电云	灵兽形态
+Landorus	0	土地云	化身形态
+Landorus	1	土地云	灵兽形态
+Meloetta	0	美洛耶塔	歌声形态
+Meloetta	1	美洛耶塔	舞步形态
+Chespin	0	哈力栗	
+Quilladin	0	胖胖哈力	
+Chesnaught	0	布里卡隆	
+Fennekin	0	火狐狸	
+Braixen	0	长尾火狐	
+Delphox	0	妖火红狐	
+Froakie	0	呱呱泡蛙	
+Frogadier	0	呱头蛙	
+Greninja	0	甲贺忍蛙	
+Greninja	1	甲贺忍蛙	小智版甲贺忍蛙
+Fletchling	0	小箭雀	
+Fletchinder	0	火箭雀	
+Talonflame	0	烈箭鹰	
+Scatterbug	0	粉蝶虫	冰雪花纹
+Scatterbug	1	粉蝶虫	雪国花纹
+Scatterbug	2	粉蝶虫	雪原花纹
+Scatterbug	3	粉蝶虫	大陆花纹
+Scatterbug	4	粉蝶虫	庭园花纹
+Scatterbug	5	粉蝶虫	高雅花纹
+Scatterbug	6	粉蝶虫	花园花纹
+Scatterbug	7	粉蝶虫	摩登花纹
+Scatterbug	8	粉蝶虫	大海花纹
+Scatterbug	9	粉蝶虫	群岛花纹
+Scatterbug	10	粉蝶虫	荒野花纹
+Scatterbug	11	粉蝶虫	沙尘花纹
+Scatterbug	12	粉蝶虫	大河花纹
+Scatterbug	13	粉蝶虫	骤雨花纹
+Scatterbug	14	粉蝶虫	热带草原花纹
+Scatterbug	15	粉蝶虫	太阳花纹
+Scatterbug	16	粉蝶虫	大洋花纹
+Scatterbug	17	粉蝶虫	热带雨林花纹
+Scatterbug	18	粉蝶虫	幻彩花纹
+Scatterbug	19	粉蝶虫	球球花纹
+Spewpa	0	粉蝶蛹	冰雪花纹
+Spewpa	1	粉蝶蛹	雪国花纹
+Spewpa	2	粉蝶蛹	雪原花纹
+Spewpa	3	粉蝶蛹	大陆花纹
+Spewpa	4	粉蝶蛹	庭园花纹
+Spewpa	5	粉蝶蛹	高雅花纹
+Spewpa	6	粉蝶蛹	花园花纹
+Spewpa	7	粉蝶蛹	摩登花纹
+Spewpa	8	粉蝶蛹	大海花纹
+Spewpa	9	粉蝶蛹	群岛花纹
+Spewpa	10	粉蝶蛹	荒野花纹
+Spewpa	11	粉蝶蛹	沙尘花纹
+Spewpa	12	粉蝶蛹	大河花纹
+Spewpa	13	粉蝶蛹	骤雨花纹
+Spewpa	14	粉蝶蛹	热带草原花纹
+Spewpa	15	粉蝶蛹	太阳花纹
+Spewpa	16	粉蝶蛹	大洋花纹
+Spewpa	17	粉蝶蛹	热带雨林花纹
+Spewpa	18	粉蝶蛹	幻彩花纹
+Spewpa	19	粉蝶蛹	球球花纹
+Vivillon	0	彩粉蝶	冰雪花纹
+Vivillon	1	彩粉蝶	雪国花纹
+Vivillon	2	彩粉蝶	雪原花纹
+Vivillon	3	彩粉蝶	大陆花纹
+Vivillon	4	彩粉蝶	庭园花纹
+Vivillon	5	彩粉蝶	高雅花纹
+Vivillon	6	彩粉蝶	花园花纹
+Vivillon	7	彩粉蝶	摩登花纹
+Vivillon	8	彩粉蝶	大海花纹
+Vivillon	9	彩粉蝶	群岛花纹
+Vivillon	10	彩粉蝶	荒野花纹
+Vivillon	11	彩粉蝶	沙尘花纹
+Vivillon	12	彩粉蝶	大河花纹
+Vivillon	13	彩粉蝶	骤雨花纹
+Vivillon	14	彩粉蝶	热带草原花纹
+Vivillon	15	彩粉蝶	太阳花纹
+Vivillon	16	彩粉蝶	大洋花纹
+Vivillon	17	彩粉蝶	热带雨林花纹
+Vivillon	18	彩粉蝶	幻彩花纹
+Vivillon	19	彩粉蝶	球球花纹
+Litleo	0	小狮狮	
+Pyroar	0	火炎狮	
+Flabébé	0	花蓓蓓	红花
+Flabébé	1	花蓓蓓	黄花
+Flabébé	2	花蓓蓓	橙花
+Flabébé	3	花蓓蓓	蓝花
+Flabébé	4	花蓓蓓	白花
+Floette	0	花叶蒂	红花
+Floette	1	花叶蒂	黄花
+Floette	2	花叶蒂	橙花
+Floette	3	花叶蒂	蓝花
+Floette	4	花叶蒂	白花
+Florges	0	花洁夫人	红花
+Florges	1	花洁夫人	黄花
+Florges	2	花洁夫人	橙花
+Florges	3	花洁夫人	蓝花
+Florges	4	花洁夫人	白花
+Skiddo	0	坐骑小羊	
+Gogoat	0	坐骑山羊	
+Skrelp	0	垃垃藻	
+Dragalge	0	毒藻龙	
+Clauncher	0	铁臂枪虾	
+Clawitzer	0	钢炮臂虾	
+Sylveon	0	仙子伊布	
+Hawlucha	0	摔角鹰人	
+Dedenne	0	咚咚鼠	
+Carbink	0	小碎钻	
+Goomy	0	黏黏宝	
+Sliggoo	0	黏美儿	
+Sliggoo	1	黏美儿	洗翠的样子
+Goodra	0	黏美龙	
+Goodra	1	黏美龙	洗翠的样子
+Klefki	0	钥圈儿	
+Bergmite	0	冰宝	
+Avalugg	0	冰岩怪	
+Avalugg	1	冰岩怪	洗翠的样子
+Noibat	0	嗡蝠	
+Noivern	0	音波龙	
+Diancie	0	蒂安希	
+Hoopa	0	胡帕	惩戒胡帕
+Hoopa	1	胡帕	解放胡帕
+Volcanion	0	波尔凯尼恩	
+Rowlet	0	木木枭	
+Dartrix	0	投羽枭	
+Decidueye	0	狙射树枭	
+Decidueye	1	狙射树枭	洗翠的样子
+Yungoos	0	猫鼬少	
+Gumshoos	0	猫鼬探长	
+Crabrawler	0	好胜蟹	
+Crabominable	0	好胜毛蟹	
+Oricorio	0	花舞鸟	热辣热辣风格
+Oricorio	1	花舞鸟	啪滋啪滋风格
+Oricorio	2	花舞鸟	呼拉呼拉风格
+Oricorio	3	花舞鸟	轻盈轻盈风格
+Rockruff	0	岩狗狗	
+Rockruff	1	岩狗狗	特殊
+Lycanroc	0	鬃岩狼人	白昼的样子
+Lycanroc	1	鬃岩狼人	黑夜的样子
+Lycanroc	2	鬃岩狼人	黄昏的样子
+Mareanie	0	好坏星	
+Toxapex	0	超坏星	
+Mudbray	0	泥驴仔	
+Mudsdale	0	重泥挽马	
+Fomantis	0	伪螳草	
+Lurantis	0	兰螳花	
+Salandit	0	夜盗火蜥	
+Salazzle	0	焰后蜥	
+Bounsweet	0	甜竹竹	
+Steenee	0	甜舞妮	
+Tsareena	0	甜冷美后	
+Oranguru	0	智挥猩	
+Passimian	0	投掷猴	
+Sandygast	0	沙丘娃	
+Palossand	0	噬沙堡爷	
+Komala	0	树枕尾熊	
+Mimikyu	0	谜拟丘	化形的样子
+Mimikyu	1	谜拟丘	现形的样子
+Bruxish	0	磨牙彩皮鱼	
+Magearna	0	玛机雅娜	现在的颜色
+Magearna	1	玛机雅娜	５００年前的颜色
+Grookey	0	敲音猴	
+Thwackey	0	啪咚猴	
+Rillaboom	0	轰擂金刚猩	
+Scorbunny	0	炎兔儿	
+Raboot	0	腾蹴小将	
+Cinderace	0	闪焰王牌	
+Sobble	0	泪眼蜥	
+Drizzile	0	变涩蜥	
+Inteleon	0	千面避役	
+Skwovet	0	贪心栗鼠	
+Greedent	0	藏饱栗鼠	
+Rookidee	0	稚山雀	
+Corvisquire	0	蓝鸦	
+Corviknight	0	钢铠鸦	
+Chewtle	0	咬咬龟	
+Drednaw	0	暴噬龟	
+Rolycoly	0	小炭仔	
+Carkol	0	大炭车	
+Coalossal	0	巨炭山	
+Applin	0	啃果虫	
+Flapple	0	苹裹龙	
+Appletun	0	丰蜜龙	
+Silicobra	0	沙包蛇	
+Sandaconda	0	沙螺蟒	
+Arrokuda	0	刺梭鱼	
+Barraskewda	0	戽斗尖梭	
+Toxel	0	电音婴	
+Toxtricity	0	颤弦蝾螈	高调的样子
+Toxtricity	1	颤弦蝾螈	低调的样子
+Sinistea	0	来悲茶	赝品形态
+Sinistea	1	来悲茶	真品形态
+Polteageist	0	怖思壶	赝品形态
+Polteageist	1	怖思壶	真品形态
+Hatenna	0	迷布莉姆	
+Hattrem	0	提布莉姆	
+Hatterene	0	布莉姆温	
+Impidimp	0	捣蛋小妖	
+Morgrem	0	诈唬魔	
+Grimmsnarl	0	长毛巨魔	
+Perrserker	0	喵头目	
+Falinks	0	列阵兵	
+Pincurchin	0	啪嚓海胆	
+Snom	0	雪吞虫	
+Frosmoth	0	雪绒蛾	
+Stonjourner	0	巨石丁	
+Eiscue	0	冰砌鹅	结冻头
+Eiscue	1	冰砌鹅	解冻头
+Indeedee	0	爱管侍	雄性的样子
+Indeedee	1	爱管侍	雌性的样子
+Cufant	0	铜象	
+Copperajah	0	大王铜象	
+Dreepy	0	多龙梅西亚	
+Drakloak	0	多龙奇	
+Dragapult	0	多龙巴鲁托	
+Zacian	0	苍响	百战勇者
+Zacian	1	苍响	剑之王
+Zamazenta	0	藏玛然特	百战勇者
+Zamazenta	1	藏玛然特	盾之王
+Eternatus	0	极汰那	
+Kubfu	0	熊徒弟	
+Urshifu	0	武道熊师	一击流
+Urshifu	1	武道熊师	连击流
+Zarude	0	萨戮德	
+Zarude	1	萨戮德	阿爸
+Regieleki	0	雷吉艾勒奇	
+Regidrago	0	雷吉铎拉戈	
+Glastrier	0	雪暴马	
+Spectrier	0	灵幽马	
+Calyrex	0	蕾冠王	
+Calyrex	1	蕾冠王	骑白马的样子
+Calyrex	2	蕾冠王	骑黑马的样子
+Wyrdeer	0	诡角鹿	
+Kleavor	0	劈斧螳螂	
+Ursaluna	0	月月熊	
+Basculegion	0	幽尾玄鱼	雄性的样子
+Basculegion	1	幽尾玄鱼	雌性的样子
+Sneasler	0	大狃拉	
+Overqwil	0	万针鱼	
+Enamorus	0	眷恋云	化身形态
+Enamorus	1	眷恋云	灵兽形态
+Sprigatito	0	新叶喵	
+Floragato	0	蒂莆喵	
+Meowscarada	0	魔幻假面喵	
+Fuecoco	0	呆火鳄	
+Crocalor	0	炙烫鳄	
+Skeledirge	0	骨纹巨声鳄	
+Quaxly	0	润水鸭	
+Quaxwell	0	涌跃鸭	
+Quaquaval	0	狂欢浪舞鸭	
+Lechonk	0	爱吃豚	
+Oinkologne	0	飘香豚	雄性的样子
+Oinkologne	1	飘香豚	雌性的样子
+Dudunsparce	0	土龙节节	二节形态
+Dudunsparce	1	土龙节节	三节形态
+Tarountula	0	团珠蛛	
+Spidops	0	操陷蛛	
+Nymble	0	豆蟋蟀	
+Lokix	0	烈腿蝗	
+Rellor	0	虫滚泥	
+Rabsca	0	虫甲圣	
+Greavard	0	墓仔狗	
+Houndstone	0	墓扬犬	
+Flittle	0	飘飘雏	
+Espathra	0	超能艳鸵	
+Farigiraf	0	奇麒麟	
+Wiglett	0	海地鼠	
+Wugtrio	0	三海地鼠	
+Dondozo	0	吃吼霸	
+Veluza	0	轻身鳕	
+Finizen	0	波普海豚	
+Palafin	0	海豚侠	平凡形态
+Palafin	1	海豚侠	全能形态
+Smoliv	0	迷你芙	
+Dolliv	0	奥利纽	
+Arboliva	0	奥利瓦	
+Capsakid	0	热辣娃	
+Scovillain	0	狠辣椒	
+Tadbulb	0	光蚪仔	
+Bellibolt	0	电肚蛙	
+Varoom	0	噗隆隆	
+Revavroom	0	普隆隆姆	
+Orthworm	0	拖拖蚓	
+Tandemaus	0	一对鼠	
+Maushold	0	一家鼠	三只家庭
+Maushold	1	一家鼠	四只家庭
+Cetoddle	0	走鲸	
+Cetitan	0	浩大鲸	
+Frigibax	0	凉脊龙	
+Arctibax	0	冻脊龙	
+Baxcalibur	0	戟棘龙	
+Tatsugiri	0	米粒龙	上弓姿势
+Tatsugiri	1	米粒龙	下垂姿势
+Tatsugiri	2	米粒龙	平挺姿势
+Cyclizar	0	摩托蜥	
+Pawmi	0	布拨	
+Pawmo	0	布土拨	
+Pawmot	0	巴布土拨	
+Wattrel	0	电海燕	
+Kilowattrel	0	大电海燕	
+Bombirdier	0	下石鸟	
+Squawkabilly	0	怒鹦哥	绿羽毛
+Squawkabilly	1	怒鹦哥	蓝羽毛
+Squawkabilly	2	怒鹦哥	黄羽毛
+Squawkabilly	3	怒鹦哥	白羽毛
+Flamigo	0	缠红鹤	
+Klawf	0	毛媸蟹	
+Nacli	0	盐石宝	
+Naclstack	0	盐石垒	
+Garganacl	0	盐石巨灵	
+Glimmet	0	晶光芽	
+Glimmora	0	晶光花	
+Shroodle	0	滋汁鼹	
+Grafaiai	0	涂标客	
+Fidough	0	狗仔包	
+Dachsbun	0	麻花犬	
+Maschiff	0	偶叫獒	
+Mabosstiff	0	獒教父	
+Bramblin	0	纳噬草	
+Brambleghast	0	怖纳噬草	
+Gimmighoul	0	索财灵	宝箱形态
+Gimmighoul	1	索财灵	徒步形态
+Gholdengo	0	褰富豪	
+Great Tusk	0	雄伟牙	
+Brute Bonnet	0	猛恶菇	
+Sandy Shocks	0	沙铁皮	
+Scream Tail	0	吼叫尾	
+Flutter Mane	0	振翼发	
+Slither Wing	0	爬地翅	
+Roaring Moon	0	轰鸣月	
+Iron Treads	0	铁辙迹	
+Iron Moth	0	铁毒蛾	
+Iron Hands	0	铁臂膀	
+Iron Jugulis	0	铁脖颈	
+Iron Thorns	0	铁荆棘	
+Iron Bundle	0	铁包袱	
+Iron Valiant	0	铁武者	
+Ting-Lu	0	古鼎鹿	
+Chien-Pao	0	古剑豹	
+Wo-Chien	0	古简蜗	
+Chi-Yu	0	古玉鱼	
+Koraidon	0	故勒顿	完全形态
+Koraidon	1	故勒顿	制限形态
+Koraidon	2	故勒顿	疾驰形态
+Koraidon	3	故勒顿	破浪形态
+Koraidon	4	故勒顿	乘风形态
+Miraidon	0	密勒顿	完整模式
+Miraidon	1	密勒顿	受限模式
+Miraidon	2	密勒顿	行驶模式
+Miraidon	3	密勒顿	浮水模式
+Miraidon	4	密勒顿	滑翔模式
+Tinkatink	0	小锻匠	
+Tinkatuff	0	巧锻匠	
+Tinkaton	0	巨锻匠	
+Charcadet	0	炭小侍	
+Armarouge	0	红莲铠骑	
+Ceruledge	0	苍炎刃鬼	
+Toedscool	0	原野水母	
+Toedscruel	0	陆地水母	
+Kingambit	0	仆刀将军	
+Clodsire	0	土王	
+Annihilape	0	弃世猴	
