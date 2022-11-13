@@ -1,572 +1,572 @@
-1829: Rotom Phone
-1830: Sandwich
-1831: Koraidon’s Poké Ball
-1832: Miraidon’s Poké Ball
-1833: Tera Orb
-1834: Scarlet Book
-1835: Violet Book
-1836: Kofu’s Wallet
-1837: 
-1838: 
-1839: 
-1840: 
-1841: 
-1842: Tiny Bamboo Shoot
-1843: Big Bamboo Shoot
-1844: 
-1845: 
-1846: 
-1847: 
-1848: 
-1849: 
-1850: 
-1851: 
-1852: 
-1853: 
-1854: 
-1855: 
-1856: 
-1857: Scroll of Darkness
-1858: Scroll of Waters
-1859: 
-1860: 
-1861: Malicious Armor
-1862: Normal Tera Shard
-1863: Fire Tera Shard
-1864: Water Tera Shard
-1865: Electric Tera Shard
-1866: Grass Tera Shard
-1867: Ice Tera Shard
-1868: Fighting Tera Shard
-1869: Poison Tera Shard
-1870: Ground Tera Shard
-1871: Flying Tera Shard
-1872: Psychic Tera Shard
-1873: Bug Tera Shard
-1874: Rock Tera Shard
-1875: Ghost Tera Shard
-1876: Dragon Tera Shard
-1877: Dark Tera Shard
-1878: Steel Tera Shard
-1879: Fairy Tera Shard
-1880: Booster Energy
-1881: Ability Shield
-1882: Clear Amulet
-1883: Mirror Herb
-1884: Punching Glove
-1885: Covert Cloak
-1886: Loaded Dice
-1887: 
-1888: Baguette
-1889: Mayonnaise
-1890: Ketchup
-1891: Mustard
-1892: Butter
-1893: Peanut Butter
-1894: Chili Sauce
-1895: Salt
-1896: Pepper
-1897: Yogurt
-1898: Whipped Cream
-1899: Cream Cheese
-1900: Jam
-1901: Marmalade
-1902: Olive Oil
-1903: Vinegar
-1904: Sweet Herba Mystica
-1905: Salty Herba Mystica
-1906: Sour Herba Mystica
-1907: Bitter Herba Mystica
-1908: Spicy Herba Mystica
-1909: Lettuce
-1910: Tomato
-1911: Cherry Tomatoes
-1912: Cucumber
-1913: Pickle
-1914: Onion
-1915: Red Onion
-1916: Green Bell Pepper
-1917: Red Bell Pepper
-1918: Yellow Bell Pepper
-1919: Avocado
-1920: Bacon
-1921: Ham
-1922: Prosciutto
-1923: Chorizo
-1924: Herbed Sausage
-1925: Hamburger
-1926: Klawf Stick
-1927: Smoked Fillet
-1928: Fried Fillet
-1929: Egg
-1930: Potato Tortilla
-1931: Tofu
-1932: Rice
-1933: Noodles
-1934: Potato Salad
-1935: Cheese
-1936: Banana
-1937: Strawberry
-1938: Apple
-1939: Kiwi
-1940: Pineapple
-1941: Jalapeño
-1942: Horseradish
-1943: Curry Powder
-1944: Wasabi
-1945: Watercress
-1946: Basil
-1947: 
-1948: 
-1949: 
-1950: 
-1951: 
-1952: 
-1953: 
-1954: 
-1955: 
-1956: Venonat Fang
-1957: Diglett Dirt
-1958: Meowth Fur
-1959: Psyduck Down
-1960: Mankey Fur
-1961: Growlithe Fur
-1962: Slowpoke Claw
-1963: Magnemite Screw
-1964: Grimer Toxin
-1965: Shellder Pearl
-1966: Gastly Gas
-1967: Drowzee Fur
-1968: Voltorb Sparks
-1969: Scyther Claw
-1970: Tauros Hair
-1971: Magikarp Scales
-1972: Ditto Goo
-1973: Eevee Fur
-1974: Dratini Scales
-1975: Pichu Fur
-1976: Igglybuff Fluff
-1977: Mareep Wool
-1978: Hoppip Leaf
-1979: Sunkern Leaf
-1980: Murkrow Bauble
-1981: Misdreavus Tears
-1982: Girafarig Fur
-1983: Pineco Husk
-1984: Dunsparce Scales
-1985: Qwilfish Spines
-1986: Heracross Claw
-1987: Sneasel Claw
-1988: Teddiursa Claw
-1989: Delibird Parcel
-1990: Houndour Fang
-1991: Phanpy Nail
-1992: Stantler Hair
-1993: Larvitar Claw
-1994: Wingull Feather
-1995: Ralts Dust
-1996: Surskit Syrup
-1997: Shroomish Spores
-1998: Slakoth Fur
-1999: Makuhita Sweat
-2000: Azurill Fur
-2001: Sableye Gem
-2002: Meditite Sweat
-2003: Gulpin Mucus
-2004: Numel Lava
-2005: Torkoal Coal
-2006: Spoink Pearl
-2007: Cacnea Needle
-2008: Swablu Fluff
-2009: Zangoose Claw
-2010: Seviper Fang
-2011: Barboach Slime
-2012: Shuppet Scrap
-2013: Tropius Leaf
-2014: Snorunt Fur
-2015: Luvdisc Scales
-2016: Bagon Scales
-2017: Starly Feather
-2018: Kricketot Shell
-2019: Shinx Fang
-2020: Combee Honey
-2021: Pachirisu Fur
-2022: Buizel Fur
-2023: Shellos Mucus
-2024: Drifloon Gas
-2025: Stunky Fur
-2026: Bronzor Fragment
-2027: Bonsly Tears
-2028: Happiny Dust
-2029: Spiritomb Fragment
-2030: Gible Scales
-2031: Riolu Fur
-2032: Hippopotas Sand
-2033: Croagunk Poison
-2034: Finneon Scales
-2035: Snover Berries
-2036: Rotom Sparks
-2037: Petilil Leaf
-2038: Basculin Fang
-2039: Sandile Claw
-2040: Zorua Fur
-2041: Gothita Eyelash
-2042: Deerling Hair
-2043: Foongus Spores
-2044: Alomomola Mucus
-2045: Tynamo Slime
-2046: Axew Scales
-2047: Cubchoo Fur
-2048: Cryogonal Ice
-2049: Pawniard Blade
-2050: Rufflet Feather
-2051: Deino Scales
-2052: Larvesta Fuzz
-2053: Fletchling Feather
-2054: Scatterbug Powder
-2055: Litleo Tuft
-2056: Flabébé Pollen
-2057: Skiddo Leaf
-2058: Skrelp Kelp
-2059: Clauncher Claw
-2060: Hawlucha Down
-2061: Dedenne Fur
-2062: Goomy Goo
-2063: Klefki Key
-2064: Bergmite Ice
-2065: Noibat Fur
-2066: Yungoos Fur
-2067: Crabrawler Shell
-2068: Oricorio Feather
-2069: Rockruff Rock
-2070: Mareanie Spike
-2071: Mudbray Mud
-2072: Fomantis Leaf
-2073: Salandit Gas
-2074: Bounsweet Sweat
-2075: Oranguru Fur
-2076: Passimian Fur
-2077: Sandygast Sand
-2078: Komala Claw
-2079: Mimikyu Scrap
-2080: Bruxish Tooth
-2081: Chewtle Claw
-2082: Skwovet Fur
-2083: Arrokuda Scales
-2084: Rookidee Feather
-2085: Toxel Sparks
-2086: Falinks Sweat
-2087: Cufant Tarnish
-2088: Rolycoly Coal
-2089: Silicobra Sand
-2090: Indeedee Fur
-2091: Pincurchin Spines
-2092: Snom Thread
-2093: Impidimp Hair
-2094: Applin Juice
-2095: Sinistea Chip
-2096: Hatenna Dust
-2097: Stonjourner Stone
-2098: Eiscue Down
-2099: Dreepy Powder
-2100: 
-2101: 
-2102: 
-2103: Lechonk Hair
-2104: Tarountula Thread
-2105: Nymble Claw
-2106: Rellor Mud
-2107: Greavard Wax
-2108: Flittle Down
-2109: Wiglett Sand
-2110: Dondozo Whisker
-2111: Veluza Fillet
-2112: Finizen Mucus
-2113: Smoliv Oil
-2114: Capsakid Seed
-2115: Tadbulb Mucus
-2116: Varoom Fume
-2117: Orthworm Tarnish
-2118: Tandemaus Fur
-2119: Cetoddle Grease
-2120: Frigibax Scales
-2121: Tatsugiri Scales
-2122: Cyclizar Scales
-2123: Pawmi Fur
-2124: 
-2125: 
-2126: Wattrel Feather
-2127: Bombirdier Feather
-2128: Squawkabilly Feather
-2129: Flamigo Down
-2130: Klawf Claw
-2131: Nacli Salt
-2132: Glimmet Crystal
-2133: Shroodle Ink
-2134: Fidough Fur
-2135: Maschiff Fang
-2136: Bramblin Twig
-2137: Gimmighoul Coin
-2138: 
-2139: 
-2140: 
-2141: 
-2142: 
-2143: 
-2144: 
-2145: 
-2146: 
-2147: 
-2148: 
-2149: 
-2150: 
-2151: 
-2152: 
-2153: 
-2154: 
-2155: 
-2156: Tinkatink Hair
-2157: Charcadet Soot
-2158: Toedscool Flaps
-2159: Wooper Slime
-2160: TM100
-2161: TM101
-2162: TM102
-2163: TM103
-2164: TM104
-2165: TM105
-2166: TM106
-2167: TM107
-2168: TM108
-2169: TM109
-2170: TM110
-2171: TM111
-2172: TM112
-2173: TM113
-2174: TM114
-2175: TM115
-2176: TM116
-2177: TM117
-2178: TM118
-2179: TM119
-2180: TM120
-2181: TM121
-2182: TM122
-2183: TM123
-2184: TM124
-2185: TM125
-2186: TM126
-2187: TM127
-2188: TM128
-2189: TM129
-2190: TM130
-2191: TM131
-2192: TM132
-2193: TM133
-2194: TM134
-2195: TM135
-2196: TM136
-2197: TM137
-2198: TM138
-2199: TM139
-2200: TM140
-2201: TM141
-2202: TM142
-2203: TM143
-2204: TM144
-2205: TM145
-2206: TM146
-2207: TM147
-2208: TM148
-2209: TM149
-2210: TM150
-2211: TM151
-2212: TM152
-2213: TM153
-2214: TM154
-2215: TM155
-2216: TM156
-2217: TM157
-2218: TM158
-2219: TM159
-2220: TM160
-2221: TM161
-2222: TM162
-2223: TM163
-2224: TM164
-2225: TM165
-2226: TM166
-2227: TM167
-2228: TM168
-2229: TM169
-2230: TM170
-2231: TM171
-2232: 
-2233: 
-2234: 
-2235: 
-2236: 
-2237: 
-2238: 
-2239: 
-2240: 
-2241: 
-2242: 
-2243: 
-2244: 
-2245: 
-2246: 
-2247: 
-2248: 
-2249: 
-2250: 
-2251: 
-2252: 
-2253: 
-2254: 
-2255: 
-2256: 
-2257: 
-2258: 
-2259: 
-2260: 
-2261: 
-2262: 
-2263: 
-2264: 
-2265: 
-2266: 
-2267: 
-2268: 
-2269: 
-2270: 
-2271: 
-2272: 
-2273: 
-2274: 
-2275: 
-2276: 
-2277: 
-2278: 
-2279: 
-2280: 
-2281: 
-2282: 
-2283: 
-2284: 
-2285: 
-2286: 
-2287: 
-2288: 
-2289: 
-2290: 
-2291: 
-2292: 
-2293: 
-2294: 
-2295: 
-2296: 
-2297: 
-2298: 
-2299: 
-2300: 
-2301: 
-2302: 
-2303: 
-2304: 
-2305: 
-2306: 
-2307: 
-2308: 
-2309: 
-2310: 
-2311: Picnic Set
-2312: 
-2313: Academy Bottle
-2314: Academy Bottle
-2315: Polka-Dot Bottle
-2316: Striped Bottle
-2317: Diamond Bottle
-2318: Academy Cup
-2319: Academy Cup
-2320: Striped Cup
-2321: Polka-Dot Cup
-2322: Flower Pattern Cup
-2323: Academy Tablecloth
-2324: Academy Tablecloth
-2325: Whimsical Tablecloth
-2326: Leafy Tablecloth
-2327: Spooky Tablecloth
-2328: 
-2329: Academy Ball
-2330: Academy Ball
-2331: Marill Ball
-2332: Yarn Ball
-2333: Cyber Ball
-2334: Gold Pick
-2335: Silver Pick
-2336: Red-Flag Pick
-2337: Blue-Flag Pick
-2338: Pika-Pika Pick
-2339: Winking Pika Pick
-2340: Vee-Vee Pick
-2341: Smiling Vee Pick
-2342: Blue Poké Ball Pick
-2343: 
-2344: Auspicious Armor
-2345: Leader’s Crest
-2346: 
-2347: 
-2348: Pink Bottle
-2349: Blue Bottle
-2350: Yellow Bottle
-2351: Steel Bottle (R)
-2352: Steel Bottle (Y)
-2353: Steel Bottle (B)
-2354: Silver Bottle
-2355: Barred Cup
-2356: Diamond Pattern Cup
-2357: Fire Pattern Cup
-2358: Pink Cup
-2359: Blue Cup
-2360: Yellow Cup
-2361: Pikachu Cup
-2362: Eevee Cup
-2363: Slowpoke Cup
-2364: Silver Cup
-2365: Exercise Ball
-2366: Plaid Tablecloth (Y)
-2367: Plaid Tablecloth (B)
-2368: Plaid Tablecloth (R)
-2369: B&W Grass Tablecloth
-2370: Battle Tablecloth
-2371: Monstrous Tablecloth
-2372: Striped Tablecloth
-2373: Diamond Tablecloth
-2374: Polka-Dot Tablecloth
-2375: Lilac Tablecloth
-2376: Mint Tablecloth
-2377: Peach Tablecloth
-2378: Yellow Tablecloth
-2379: Blue Tablecloth
-2380: Pink Tablecloth
-2381: Gold Bottle
-2382: Bronze Bottle
-2383: Gold Cup
-2384: Bronze Cup
-2385: Green Poké Ball Pick
-2386: Red Poké Ball Pick
-2387: Party Sparkler Pick
-2388: Heroic Sword Pick
-2389: Magical Star Pick
-2390: Magical Heart Pick
-2391: Parasol Pick
-2392: Blue-Sky Flower Pick
-2393: Sunset Flower Pick
-2394: Sunrise Flower Pick
-2395: Blue Dish
-2396: Green Dish
-2397: Orange Dish
-2398: Red Dish
-2399: White Dish
-2400: Yellow Dish
+0725	手机洛托姆	スマホロトム	Rotom Phone
+0726	三明治		Sandwich
+0727	故勒顿的球		Koraidon’s Poké Ball
+0728	密勒顿的球		Miraidon’s Poké Ball
+0729	太晶珠	テラスタルオーブ	Tera Orb
+072A	朱之书	スカーレットブック	Scarlet Book
+072B	紫之书	バイオレットブック	Violet Book
+072C			Kofu's Wallet
+072D			
+072E			
+072F			
+0730			
+0731			
+0732			Tiny Bamboo Shoot
+0733			Tiny Bamboo Shoot
+0734			
+0735			
+0736			
+0737			
+0738			
+0739			
+073A			
+073B			
+073C			
+073D			
+073E			
+073F			
+0740			
+0741			Scroll of Darkness
+0742			Scroll of Waters
+0743			
+0744			
+0745	咒术之铠		Malicious Armor
+0746	一般太晶碎块		Normal Tera Shard
+0747	火太晶碎块		Fire Tera Shard
+0748	水太晶碎块		Water Tera Shard
+0749	电太晶碎块		Electric Tera Shard
+074A	草太晶碎块		Grass Tera Shard
+074B	冰太晶碎块		Ice Tera Shard
+074C	格斗太晶碎块		Fighting Tera Shard
+074D	毒太晶碎块		Poison Tera Shard
+074E	地面太晶碎块		Ground Tera Shard
+074F	飞行太晶碎块		Flying Tera Shard
+0750	超能力太晶碎块		Psychic Tera Shard
+0751	虫太晶碎块		Bug Tera Shard
+0752	岩石太晶碎块		Rock Tera Shard
+0753	幽灵太晶碎块		Ghost Tera Shard
+0754	龙太晶碎块		Dragon Tera Shard
+0755	恶太晶碎块		Dark Tera Shard
+0756	钢太晶碎块		Steel Tera Shard
+0757	妖精太晶碎块		Fairy Tera Shard
+0758	驱劲能量		Booster Energy
+0759	特性护具		Ability Shield
+075A	清净坠饰		Clear Amulet
+075B	模仿香草		Mirror Herb
+075C	拳击手套		Punching Glove
+075D	密探斗篷		Covert Cloak
+075E	机变骰子		Loaded Dice
+075F			
+0760	长棍面包		Baguette
+0761	蛋黄酱		Mayonnaise
+0762	番茄酱		Ketchup
+0763	黄芥末酱		Mustard
+0764	黄油		Butter
+0765	花生酱		Peanut Butter
+0766	辣酱		Chili Sauce
+0767	盐		Salt
+0768	胡椒		Pepper
+0769	酸奶		Yogurt
+076A	鲜奶油		Whipped Cream
+076B	奶油芝士		Cream Cheese
+076C	莓果酱		Jam
+076D	橘子酱		Marmalade
+076E	橄榄油		Olive Oil
+076F	醋		Vinegar
+0770	秘传：甜味料		Sweet Herba Mystica
+0771	秘传：咸味料		Salty Herba Mystica
+0772	秘传：酸味料		Sour Herba Mystica
+0773	秘传：苦味料		Bitter Herba Mystica
+0774	秘传：辣味料		Spicy Herba Mystica
+0775	生菜		Lettuce
+0776	番茄片		Tomato
+0777	小番茄块		Cherry Tomatoes
+0778	小黄瓜片		Cucumber
+0779	酸黄瓜片		Pickle
+077A	洋葱片		Onion
+077B	红洋葱		Red Onion
+077C	青椒片		Green Bell Pepper
+077D	红椒片		Red Bell Pepper
+077E	黄椒片		Yellow Bell Pepper
+077F	牛油果		Avocado
+0780	煎培根		Bacon
+0781	火腿片		Ham
+0782	生火腿		Prosciutto
+0783	煎辣香肠		Chorizo
+0784	香草香肠		Herbed Sausage
+0785	汉堡排		Hamburger
+0786	毛崖蟹棒		Klawf Stick
+0787	烟熏鱼片		Smoked Fillet
+0788	炸鱼片		Fried Fillet
+0789	水煮蛋片		Egg
+078A	烘蛋		Potato Tortilla
+078B	豆腐		Tofu
+078C	米饭		Rice
+078D	面条		Noodles
+078E	土豆沙拉		Potato Salad
+078F	芝士片		Cheese
+0790	香蕉片		Banana
+0791	草莓片		Strawberry
+0792	苹果片		Apple
+0793	奇异果片		Kiwi
+0794	凤梨片		Pineapple
+0795	小辣椒		Jalapeño
+0796	辣根		Horseradish
+0797	咖喱粉		Curry Powder
+0798	芥末酱		Wasabi
+0799	豆瓣菜		Watercress
+079A	罗勒		Basil
+079B			
+079C			
+079D			
+079E			
+079F			
+07A0			
+07A1			
+07A2			
+07A3			
+07A4	毛球的牙		Venonat Fang
+07A5	地鼠的土		Diglett Dirt
+07A6	喵喵的毛		Meowth Fur
+07A7	可达鸭的羽绒		Psyduck Down
+07A8	猴怪的毛		Mankey Fur
+07A9	卡蒂狗的毛		Growlithe Fur
+07AA	呆呆兽的爪子		Slowpoke Claw
+07AB	小磁怪的螺丝		Magnemite Screw
+07AC	臭泥的毒素		Grimer Toxin
+07AD	大舌贝的珍珠		Shellder Pearl
+07AE	鬼斯的气体		Gastly Gas
+07AF	催眠貘的毛		Drowzee Fur
+07B0	霹雳电球的电力		Voltorb Sparks
+07B1	飞天螳螂的爪子		Scyther Claw
+07B2	肯泰罗的毛		Tauros Hair
+07B3	鲤鱼王的鳞片		Magikarp Scales
+07B4	百变怪的黏糊		Ditto Goo
+07B5	伊布的毛		Eevee Fur
+07B6	迷你龙的鳞片		Dratini Scales
+07B7	皮丘的毛		Pichu Fur
+07B8	宝宝丁的毛		Igglybuff Fluff
+07B9	咩利羊的毛球		Mareep Wool
+07BA	毽子草的叶片		Hoppip Leaf
+07BB	向日种子的叶片		Sunkern Leaf
+07BC	黑暗鸦的宝物		Murkrow Bauble
+07BD	梦妖的眼泪		Misdreavus Tears
+07BE	麒麟奇的毛		Girafarig Fur
+07BF	榛果球的壳		Pineco Husk
+07C0	土龙弟弟的鳞片		Dunsparce Scales
+07C1	千针鱼的刺		Qwilfish Spines
+07C2	赫拉克罗斯的爪子		Heracross Claw
+07C3	狃拉的爪子		Sneasel Claw
+07C4	熊宝宝的爪子		Teddiursa Claw
+07C5	信使鸟的行李		Delibird Parcel
+07C6	戴鲁比的牙		Houndour Fang
+07C7	小小象的爪子		Phanpy Nail
+07C8	惊角鹿的毛		Stantler Hair
+07C9	幼基拉斯的爪子		Larvitar Claw
+07CA	长翅鸥的羽毛		Wingull Feather
+07CB	拉鲁拉丝的掉落物		Ralts Dust
+07CC	溜溜糖球的蜜		Surskit Syrup
+07CD	蘑蘑菇的孢子		Shroomish Spores
+07CE	懒人獭的毛		Slakoth Fur
+07CF	幕下力士的汗		Makuhita Sweat
+07D0	露力丽的毛		Azurill Fur
+07D1	勾魂眼的宝石		Sableye Gem
+07D2	玛沙那的汗		Meditite Sweat
+07D3	溶食兽的黏液		Gulpin Mucus
+07D4	呆火驼的熔岩		Numel Lava
+07D5	煤炭龟的煤炭		Torkoal Coal
+07D6	跳跳猪的珍珠		Spoink Pearl
+07D7	刺球仙人掌的刺		Cacnea Needle
+07D8	青绵鸟的羽毛		Swablu Fluff
+07D9	猫鼬斩的爪子		Zangoose Claw
+07DA	饭匙蛇的牙		Seviper Fang
+07DB	泥泥鳅的黏液		Barboach Slime
+07DC	怨影娃娃的残片		Shuppet Scrap
+07DD	热带龙的叶片		Tropius Leaf
+07DE	雪童子的毛		Snorunt Fur
+07DF	爱心鱼的鳞片		Luvdisc Scales
+07E0	宝贝龙的鳞片		Bagon Scales
+07E1	姆克儿的羽毛		Starly Feather
+07E2	圆法师的蜕壳		Kricketot Shell
+07E3	小猫怪的牙		Shinx Fang
+07E4	三蜜蜂的蜜		Combee Honey
+07E5	帕奇利兹的毛		Pachirisu Fur
+07E6	泳圈鼬的毛		Buizel Fur
+07E7	无壳海兔的黏液		Shellos Mucus
+07E8	飘飘球的气体		Drifloon Gas
+07E9	臭鼬噗的毛		Stunky Fur
+07EA	铜镜怪的碎片		Bronzor Fragment
+07EB	盆才怪的眼泪		Bonsly Tears
+07EC	小福蛋的掉落物		Happiny Dust
+07ED	花岩怪的碎片		Spiritomb Fragment
+07EE	圆陆鲨的鳞片		Gible Scales
+07EF	利欧路的毛		Riolu Fur
+07F0	沙河马的沙		Hippopotas Sand
+07F1	不良蛙的毒素		Croagunk Poison
+07F2	荧光鱼的鳞片		Finneon Scales
+07F3	雪笠怪的果实		Snover Berries
+07F4	洛托姆的电力		Rotom Sparks
+07F5	百合根娃娃的叶片		Petilil Leaf
+07F6	野蛮鲈鱼的牙		Basculin Fang
+07F7	黑眼鳄的爪子		Sandile Claw
+07F8	索罗亚的毛		Zorua Fur
+07F9	哥德宝宝的睫毛		Gothita Eyelash
+07FA	四季鹿的毛		Deerling Hair
+07FB	哎呀球菇的孢子		Foongus Spores
+07FC	保姆曼波的黏液		Alomomola Mucus
+07FD	麻麻小鱼的黏液		Tynamo Slime
+07FE	牙牙的鳞片		Axew Scales
+07FF	喷嚏熊的毛		Cubchoo Fur
+0800	几何雪花的冰		Cryogonal Ice
+0801	驹刀小兵的刀		Pawniard Blade
+0802	毛头小鹰的羽毛		Rufflet Feather
+0803	单首龙的鳞片		Deino Scales
+0804	燃烧虫的毛		Larvesta Fuzz
+0805	小箭雀的羽毛		Fletchling Feather
+0806	粉蝶虫的粉		Scatterbug Powder
+0807	小狮狮的鬃毛		Litleo Tuft
+0808	花蓓蓓的花粉		Flabébé Pollen
+0809	坐骑小羊的叶片		Skiddo Leaf
+080A	垃垃藻的碎藻		Skrelp Kelp
+080B	铁臂枪虾的钳子		Clauncher Claw
+080C	摔角鹰人的羽绒		Hawlucha Down
+080D	咚咚鼠的毛		Dedenne Fur
+080E	黏黏宝的黏液		Goomy Goo
+080F	钥圈儿的钥匙		Klefki Key
+0810	冰宝的冰		Bergmite Ice
+0811	嗡蝠的毛		Noibat Fur
+0812	猫鼬少的毛		Yungoos Fur
+0813	好胜蟹的壳		Crabrawler Shell
+0814	花舞鸟的羽毛		Oricorio Feather
+0815	岩狗狗的岩石		Rockruff Rock
+0816	好坏星的刺		Mareanie Spike
+0817	泥驴仔的泥巴		Mudbray Mud
+0818	伪螳草的叶片		Fomantis Leaf
+0819	夜盗火蜥的气体		Salandit Gas
+081A	甜竹竹的汗		Bounsweet Sweat
+081B	智挥猩的毛		Oranguru Fur
+081C	投掷猴的毛		Passimian Fur
+081D	沙丘娃的沙		Sandygast Sand
+081E	树枕尾熊的爪子		Komala Claw
+081F	谜拟丘的残片		Mimikyu Scrap
+0820	磨牙彩皮鱼的牙齿		Bruxish Tooth
+0821	咬咬龟的爪子		Chewtle Claw
+0822	贪心栗鼠的毛		Skwovet Fur
+0823	刺梭鱼的鳞片		Arrokuda Scales
+0824	稚山雀的羽毛		Rookidee Feather
+0825	电音婴的电力		Toxel Sparks
+0826	列阵兵的汗		Falinks Sweat
+0827	铜象的锈		Cufant Tarnish
+0828	小炭仔的煤炭		Rolycoly Coal
+0829	沙包蛇的沙		Silicobra Sand
+082A	爱管侍的毛		Indeedee Fur
+082B	啪嚓海胆的针		Pincurchin Spines
+082C	雪吞虫的丝		Snom Thread
+082D	捣蛋小妖的毛		Impidimp Hair
+082E	啃果虫的果汁		Applin Juice
+082F	来悲茶的碎片		Sinistea Chip
+0830	迷布莉姆的掉落物		Hatenna Dust
+0831	巨石丁的岩石		Stonjourner Stone
+0832	冰砌鹅的羽绒		Eiscue Down
+0833	多龙梅西亚的粉		Dreepy Powder
+0834			
+0835			
+0836			
+0837	爱吃豚的毛		Lechonk Hair
+0838	团珠蛛的丝		Tarountula Thread
+0839	豆蟋蟀的爪子		Nymble Claw
+083A	虫滚泥的泥巴		Rellor Mud
+083B	墓仔狗的蜡		Greavard Wax
+083C	飘飘雏的羽绒		Flittle Down
+083D	海地鼠的沙		Wiglett Sand
+083E	吃吼霸的胡须		Dondozo Whisker
+083F	轻身鳕的鱼片		Veluza Fillet
+0840	波普海豚的黏液		Finizen Mucus
+0841	迷你芙的油		Smoliv Oil
+0842	热辣娃的种子		Capsakid Seed
+0843	光蚪仔的黏液		Tadbulb Mucus
+0844	噗隆隆的气体		Varoom Fume
+0845	拖拖蚓的锈		Orthworm Tarnish
+0846	一对鼠的毛		Tandemaus Fur
+0847	走鲸的油脂		Cetoddle Grease
+0848	凉脊龙的鳞片		Frigibax Scales
+0849	米立龙的鳞片		Tatsugiri Scales
+084A	摩托蜥的鳞片		Cyclizar Scales
+084B	布拨的毛		Pawmi Fur
+084C			
+084D			
+084E	电海燕的羽毛		Wattrel Feather
+084F	下石鸟的羽毛		Bombirdier Feather
+0850	怒鹦哥的羽毛		Squawkabilly Feather
+0851	缠红鹤的羽绒		Flamigo Down
+0852	毛崖蟹的钳子		Klawf Claw
+0853	盐石宝的盐		Nacli Salt
+0854	晶光芽的结晶		Glimmet Crystal
+0855	滋汁鼹的墨汁		Shroodle Ink
+0856	狗仔包的毛		Fidough Fur
+0857	偶叫獒的牙		Maschiff Fang
+0858	纳噬草的枝条		Bramblin Twig
+0859	索财灵的硬币		Gimmighoul Coin
+085A			
+085B			
+085C			
+085D			
+085E			
+085F			
+0860			
+0861			
+0862			
+0863			
+0864			
+0865			
+0866			
+0867			
+0868			
+0869			
+086A			
+086B			
+086C	小锻匠的毛		Tinkatink Hair
+086D	炭小侍的煤灰		Charcadet Soot
+086E	原野水母的薄片		Toedscool Flaps
+086F	乌波的黏液		Wooper Slime
+0870	招式学习器１００		TM100
+0871	招式学习器１０１		TM101
+0872	招式学习器１０２		TM102
+0873	招式学习器１０３		TM103
+0874	招式学习器１０４		TM104
+0875	招式学习器１０５		TM105
+0876	招式学习器１０６		TM106
+0877	招式学习器１０７		TM107
+0878	招式学习器１０８		TM108
+0879	招式学习器１０９		TM109
+087A	招式学习器１１０		TM110
+087B	招式学习器１１１		TM111
+087C	招式学习器１１２		TM112
+087D	招式学习器１１３		TM113
+087E	招式学习器１１４		TM114
+087F	招式学习器１１５		TM115
+0880	招式学习器１１６		TM116
+0881	招式学习器１１７		TM117
+0882	招式学习器１１８		TM118
+0883	招式学习器１１９		TM119
+0884	招式学习器１２０		TM120
+0885	招式学习器１２１		TM121
+0886	招式学习器１２２		TM122
+0887	招式学习器１２３		TM123
+0888	招式学习器１２４		TM124
+0889	招式学习器１２５		TM125
+088A	招式学习器１２６		TM126
+088B	招式学习器１２７		TM127
+088C	招式学习器１２８		TM128
+088D	招式学习器１２９		TM129
+088E	招式学习器１３０		TM130
+088F	招式学习器１３１		TM131
+0890	招式学习器１３２		TM132
+0891	招式学习器１３３		TM133
+0892	招式学习器１３４		TM134
+0893	招式学习器１３５		TM135
+0894	招式学习器１３６		TM136
+0895	招式学习器１３７		TM137
+0896	招式学习器１３８		TM138
+0897	招式学习器１３９		TM139
+0898	招式学习器１４０		TM140
+0899	招式学习器１４１		TM141
+089A	招式学习器１４２		TM142
+089B	招式学习器１４３		TM143
+089C	招式学习器１４４		TM144
+089D	招式学习器１４５		TM145
+089E	招式学习器１４６		TM146
+089F	招式学习器１４７		TM147
+08A0	招式学习器１４８		TM148
+08A1	招式学习器１４９		TM149
+08A2	招式学习器１５０		TM150
+08A3	招式学习器１５１		TM151
+08A4	招式学习器１５２		TM152
+08A5	招式学习器１５３		TM153
+08A6	招式学习器１５４		TM154
+08A7	招式学习器１５５		TM155
+08A8	招式学习器１５６		TM156
+08A9	招式学习器１５７		TM157
+08AA	招式学习器１５８		TM158
+08AB	招式学习器１５９		TM159
+08AC	招式学习器１６０		TM160
+08AD	招式学习器１６１		TM161
+08AE	招式学习器１６２		TM162
+08AF	招式学习器１６３		TM163
+08B0	招式学习器１６４		TM164
+08B1	招式学习器１６５		TM165
+08B2	招式学习器１６６		TM166
+08B3	招式学习器１６７		TM167
+08B4	招式学习器１６８		TM168
+08B5	招式学习器１６９		TM169
+08B6	招式学习器１７０		TM170
+08B7	招式学习器１７１		TM171
+08B8			
+08B9			
+08BA			
+08BB			
+08BC			
+08BD			
+08BE			
+08BF			
+08C0			
+08C1			
+08C2			
+08C3			
+08C4			
+08C5			
+08C6			
+08C7			
+08C8			
+08C9			
+08CA			
+08CB			
+08CC			
+08CD			
+08CE			
+08CF			
+08D0			
+08D1			
+08D2			
+08D3			
+08D4			
+08D5			
+08D6			
+08D7			
+08D8			
+08D9			
+08DA			
+08DB			
+08DC			
+08DD			
+08DE			
+08DF			
+08E0			
+08E1			
+08E2			
+08E3			
+08E4			
+08E5			
+08E6			
+08E7			
+08E8			
+08E9			
+08EA			
+08EB			
+08EC			
+08ED			
+08EE			
+08EF			
+08F0			
+08F1			
+08F2			
+08F3			
+08F4			
+08F5			
+08F6			
+08F7			
+08F8			
+08F9			
+08FA			
+08FB			
+08FC			
+08FD			
+08FE			
+08FF			
+0900			
+0901			
+0902			
+0903			
+0904			
+0905			
+0906			
+0907	野餐组合		Picnic Set
+0908			
+0909	校园水壶		Academy Bottle
+090A	校园水壶		Academy Bottle
+090B	圆点水壶		Polka-Dot Bottle
+090C	条纹水壶		Striped Bottle
+090D	菱纹水壶		Diamond Bottle
+090E	校园水杯		Academy Cup
+090F	校园水杯		Academy Cup
+0910	直条纹水杯		Striped Cup
+0911	圆点水杯		Polka-Dot Cup
+0912	花朵水杯		Flower Pattern Cup
+0913	校园桌巾		Academy Tablecloth
+0914	校园桌巾		Academy Tablecloth
+0915	幻彩桌巾		Whimsical Tablecloth
+0916	大自然桌巾		Leafy Tablecloth
+0917	鬼祟桌巾		Spooky Tablecloth
+0918			
+0919	校园球		Academy Ball
+091A	校园球		Academy Ball
+091B	玛力露球		Marill Ball
+091C	毛线球		Yarn Ball
+091D	电竞球		Cyber Ball
+091E	金色三明治签		Gold Pick
+091F	银色三明治签		Silver Pick
+0920	红旗子三明治签		Red-Flag Pick
+0921	蓝旗子三明治签		Blue-Flag Pick
+0922	皮卡丘三明治签		Pika-Pika Pick
+0923	眨眼皮卡丘三明治签		Winking Pika Pick
+0924	伊布三明治签		Vee-Vee Pick
+0925	笑脸伊布三明治签		Smiling Vee Pick
+0926	蓝珠珠三明治签		Blue Poké Ball Pick
+0927			
+0928	庆祝之铠		Auspicious Armor
+0929	头领凭证		Leader’s Crest
+092A			
+092B			
+092C	粉红水壶		Pink Bottle
+092D	蓝色水壶		Blue Bottle
+092E	黄色水壶		Yellow Bottle
+092F	红纹不锈钢水壶		Steel Bottle (R)
+0930	黄纹不锈钢水壶		Steel Bottle (Y)
+0931	蓝纹不锈钢水壶		Steel Bottle (B)
+0932	银钛水壶		Silver Bottle
+0933	横条纹水杯		Barred Cup
+0934	菱纹水杯		Diamond Pattern Cup
+0935	火焰水杯		Fire Pattern Cup
+0936	粉红水杯		Pink Cup
+0937	蓝色水杯		Blue Cup
+0938	黄色水杯		Yellow Cup
+0939	皮卡丘水杯		Pikachu Cup
+093A	伊布水杯		Eevee Cup
+093B	呆呆兽水杯		Slowpoke Cup
+093C	银钛水杯		Silver Cup
+093D	瑜珈球		Exercise Ball
+093E	黄色格子桌巾		Plaid Tablecloth (Y)
+093F	蓝色格子桌巾		Plaid Tablecloth (B)
+0940	红色格子桌巾		Plaid Tablecloth (R)
+0941	黑白草丛桌巾		B&W Grass Tablecloth
+0942	对决桌巾		Battle Tablecloth
+0943	怪兽桌巾		Monstrous Tablecloth
+0944	条纹桌巾		Striped Tablecloth
+0945	菱纹桌巾		Diamond Tablecloth
+0946	圆点桌巾		Polka-Dot Tablecloth
+0947	紫色桌巾		Lilac Tablecloth
+0948	浅绿桌巾		Mint Tablecloth
+0949	米色桌巾		Peach Tablecloth
+094A	黄色桌巾		Yellow Tablecloth
+094B	蓝色桌巾		Blue Tablecloth
+094C	粉红桌巾		Pink Tablecloth
+094D	金钛水壶		Gold Bottle
+094E	铜钛水壶		Bronze Bottle
+094F	金钛水杯		Gold Cup
+0950	铜钛水杯		Bronze Cup
+0951	绿珠珠三明治签		Green Poké Ball Pick
+0952	红珠珠三明治签		Red Poké Ball Pick
+0953	烟花祝庆三明治签		Party Sparkler Pick
+0954	勇者之剑三明治签		Heroic Sword Pick
+0955	魔法星星三明治签		Magical Star Pick
+0956	魔法甜心三明治签		Magical Heart Pick
+0957	阳伞三明治签		Parasol Pick
+0958	晴空花三明治签		Blue-Sky Flower Pick
+0959	夕阳花三明治签		Sunset Flower Pick
+095A	朝霞花三明治签		Sunrise Flower Pick
+095B	蓝色盘子		Blue Dish
+095C	绿色盘子		Green Dish
+095D	橘色盘子		Orange Dish
+095E	红色盘子		Red Dish
+095F	白色盘子		White Dish
+0960	黄色盘子		Yellow Dish
