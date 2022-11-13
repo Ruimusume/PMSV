@@ -1,171 +1,171 @@
-1	Take Down	猛撞	とっしん
-2	Charm	撒娇	あまえる
-3	Fake Tears	假哭	うそなき
-4	Agility	高速移动	こうそくいどう
-5	Mud-Slap	掷泥	どろかけ
-6	Scary Face	鬼面	こわいかお
-7	Protect	守住	まもる
-8	Fire Fang	火焰牙	ほのおのキバ
-9	Thunder Fang	雷电牙	かみなりのキバ
-10	Ice Fang	冰冻牙	こおりのキバ
-11	Water Pulse	水之波动	みずのはどう
-12	Low Kick	踢倒	けたぐり
-13	Acid Spray	酸液炸弹	アシッドボム
-14	Acrobatics	杂技	アクロバット
-15	Struggle Bug	虫之抵抗	むしのていこう
-16	Psybeam	幻象光线	サイケこうせん
-17	Confuse Ray	奇异之光	あやしいひかり
-18	Thief	小偷	どろぼう
-19	Disarming Voice	魅惑之声	チャームボイス
-20	Trailblaze	#N/A	#N/A
-21	Pounce	#N/A	#N/A
-22	Chilling Water	#N/A	#N/A
-23	Charge Beam	充电光束	チャージビーム
-24	Fire Spin	火焰旋涡	ほのおのうず
-25	Facade	硬撑	からげんき
-26	Poison Tail	毒尾	ポイズンテール
-27	Aerial Ace	燕返	つばめがえし
-28	Bulldoze	重踏	じならし
-29	Hex	祸不单行	たたりめ
-30	Snarl	大声咆哮	バークアウト
-31	Metal Claw	金属爪	メタルクロー
-32	Swift	高速星星	スピードスター
-33	Magical Leaf	魔法叶	マジカルリーフ
-34	Icy Wind	冰冻之风	こごえるかぜ
-35	Mud Shot	泥巴射击	マッドショット
-36	Rock Tomb	岩石封锁	がんせきふうじ
-37	Draining Kiss	吸取之吻	ドレインキッス
-38	Flame Charge	蓄能焰袭	ニトロチャージ
-39	Low Sweep	下盘踢	ローキック
-40	Air Cutter	空气利刃	エアカッター
-41	Stored Power	辅助力量	アシストパワー
-42	Night Shade	黑夜魔影	ナイトヘッド
-43	Fling	投掷	なげつける
-44	Dragon Tail	龙尾	ドラゴンテール
-45	Venoshock	毒液冲击	ベノムショック
-46	Avalanche	雪崩	ゆきなだれ
-47	Endure	挺住	こらえる
-48	Volt Switch	伏特替换	ボルトチェンジ
-49	Sunny Day	大晴天	にほんばれ
-50	Rain Dance	求雨	あまごい
-51	Sandstorm	沙暴	すなあらし
-52	Snowscape	#N/A	#N/A
-53	Smart Strike	修长之角	スマートホーン
-54	Psyshock	精神冲击	サイコショック
-55	Dig	挖洞	あなをほる
-56	Bullet Seed	种子机关枪	タネマシンガン
-57	False Swipe	点到为止	みねうち
-58	Brick Break	劈瓦	かわらわり
-59	Zen Headbutt	意念头锤	しねんのずつき
-60	U-turn	急速折返	とんぼがえり
-61	Shadow Claw	暗影爪	シャドークロー
-62	Foul Play	欺诈	イカサマ
-63	Psychic Fangs	精神之牙	サイコファング
-64	Bulk Up	健美	ビルドアップ
-65	Air Slash	空气斩	エアスラッシュ
-66	Body Slam	泰山压顶	のしかかり
-67	Fire Punch	火焰拳	ほのおのパンチ
-68	Thunder Punch	雷电拳	かみなりパンチ
-69	Ice Punch	冰冻拳	れいとうパンチ
-70	Sleep Talk	梦话	ねごと
-71	Seed Bomb	种子炸弹	タネばくだん
-72	Electro Ball	电球	エレキボール
-73	Drain Punch	吸取拳	ドレインパンチ
-74	Reflect	反射壁	リフレクター
-75	Light Screen	光墙	ひかりのかべ
-76	Rock Blast	岩石爆击	ロックブラスト
-77	Waterfall	攀瀑	たきのぼり
-78	Dragon Claw	龙爪	ドラゴンクロー
-79	Dazzling Gleam	魔法闪耀	マジカルシャイン
-80	Metronome	挥指	ゆびをふる
-81	Grass Knot	打草结	くさむすび
-82	Thunder Wave	电磁波	でんじは
-83	Poison Jab	毒击	どくづき
-84	Stomping Tantrum	跺脚	じだんだ
-85	Rest	睡觉	ねむる
-86	Rock Slide	岩崩	いわなだれ
-87	Taunt	挑衅	ちょうはつ
-88	Swords Dance	剑舞	つるぎのまい
-89	Body Press	扑击	ボディプレス
-90	Spikes	撒菱	まきびし
-91	Toxic Spikes	毒菱	どくびし
-92	Imprison	封印	ふういん
-93	Flash Cannon	加农光炮	ラスターカノン
-94	Dark Pulse	恶之波动	あくのはどう
-95	Leech Life	吸血	きゅうけつ
-396	Eerie Impulse	怪异电波	かいでんぱ
-97	Fly	飞翔	そらをとぶ
-98	Skill Swap	特性互换	スキルスワップ
-99	Iron Head	铁头	アイアンヘッド
-100	Dragon Dance	龙之舞	りゅうのまい
-101	Power Gem	力量宝石	パワージェム
-102	Gunk Shot	垃圾射击	ダストシュート
-103	Substitute	替身	みがわり
-104	Iron Defense	铁壁	てっぺき
-105	X-Scissor	十字剪	シザークロス
-106	Drill Run	直冲钻	ドリルライナー
-107	Will-O-Wisp	鬼火	おにび
-108	Crunch	咬碎	かみくだく
-109	Trick	戏法	トリック
-110	Liquidation	水流裂破	アクアブレイク
-111	Giga Drain	终极吸取	ギガドレイン
-112	Aura Sphere	波导弹	はどうだん
-113	Tailwind	顺风	おいかぜ
-114	Shadow Ball	暗影球	シャドーボール
-115	Dragon Pulse	龙之波动	りゅうのはどう
-116	Stealth Rock	隐形岩	ステルスロック
-117	Hyper Voice	巨声	ハイパーボイス
-118	Heat Wave	热风	ねっぷう
-119	Energy Ball	能量球	エナジーボール
-120	Psychic	精神强念	サイコキネシス
-121	Heavy Slam	重磅冲撞	ヘビーボンバー
-122	Encore	再来一次	アンコール
-123	Surf	冲浪	なみのり
-124	Ice Spinner	#N/A	#N/A
-125	Flamethrower	喷射火焰	かえんほうしゃ
-126	Thunderbolt	十万伏特	１０まんボルト
-127	Play Rough	嬉闹	じゃれつく
-128	Amnesia	瞬间失忆	ドわすれ
-129	Calm Mind	冥想	めいそう
-130	Helping Hand	帮助	てだすけ
-131	Pollen Puff	花粉团	かふんだんご
-132	Baton Pass	接棒	バトンタッチ
-133	Earth Power	大地之力	だいちのちから
-134	Reversal	起死回生	きしかいせい
-135	Ice Beam	冰冻光束	れいとうビーム
-136	Electric Terrain	电气场地	エレキフィールド
-137	Grassy Terrain	青草场地	グラスフィールド
-138	Psychic Terrain	精神场地	サイコフィールド
-139	Misty Terrain	薄雾场地	ミストフィールド
-140	Nasty Plot	诡计	わるだくみ
-141	Fire Blast	大字爆炎	だいもんじ
-142	Hydro Pump	水炮	ハイドロポンプ
-143	Blizzard	暴风雪	ふぶき
-144	Fire Pledge	火之誓约	ほのおのちかい
-145	Water Pledge	水之誓约	みずのちかい
-146	Grass Pledge	草之誓约	くさのちかい
-147	Wild Charge	疯狂伏特	ワイルドボルト
-148	Sludge Bomb	污泥炸弹	ヘドロばくだん
-149	Earthquake	地震	じしん
-150	Stone Edge	尖石攻击	ストーンエッジ
-151	Phantom Force	潜灵奇袭	ゴーストダイブ
-152	Giga Impact	终极冲击	ギガインパクト
-153	Blast Burn	爆炸烈焰	ブラストバーン
-154	Hydro Cannon	加农水炮	ハイドロカノン
-155	Frenzy Plant	疯狂植物	ハードプラント
-156	Outrage	逆鳞	げきりん
-157	Overheat	过热	オーバーヒート
-158	Focus Blast	真气弹	きあいだま
-159	Leaf Storm	飞叶风暴	リーフストーム
-160	Hurricane	暴风	ぼうふう
-161	Trick Room	戏法空间	トリックルーム
-162	Bug Buzz	虫鸣	むしのさざめき
-163	Hyper Beam	破坏光线	はかいこうせん
-164	Brave Bird	勇鸟猛攻	ブレイブバード
-165	Flare Blitz	闪焰冲锋	フレアドライブ
-166	Thunder	打雷	かみなり
-167	Close Combat	近身战	インファイト
-168	Solar Beam	日光束	ソーラービーム
-169	Draco Meteor	流星群	りゅうせいぐん
-170	Steel Beam	铁蹄光线	てっていこうせん
-171	Tera Blast	#N/A	#N/A
+TM01	Take Down	猛撞	とっしん
+TM02	Charm	撒娇	あまえる
+TM03	Fake Tears	假哭	うそなき
+TM04	Agility	高速移动	こうそくいどう
+TM05	Mud-Slap	掷泥	どろかけ
+TM06	Scary Face	鬼面	こわいかお
+TM07	Protect	守住	まもる
+TM08	Fire Fang	火焰牙	ほのおのキバ
+TM09	Thunder Fang	雷电牙	かみなりのキバ
+TM10	Ice Fang	冰冻牙	こおりのキバ
+TM11	Water Pulse	水之波动	みずのはどう
+TM12	Low Kick	踢倒	けたぐり
+TM13	Acid Spray	酸液炸弹	アシッドボム
+TM14	Acrobatics	杂技	アクロバット
+TM15	Struggle Bug	虫之抵抗	むしのていこう
+TM16	Psybeam	幻象光线	サイケこうせん
+TM17	Confuse Ray	奇异之光	あやしいひかり
+TM18	Thief	小偷	どろぼう
+TM19	Disarming Voice	魅惑之声	チャームボイス
+TM20	Trailblaze	起草	くさわけ
+TM21	Pounce	虫扑	#N/A
+TM22	Chilling Water	泼冷水	#N/A
+TM23	Charge Beam	充电光束	チャージビーム
+TM24	Fire Spin	火焰旋涡	ほのおのうず
+TM25	Facade	硬撑	からげんき
+TM26	Poison Tail	毒尾	ポイズンテール
+TM27	Aerial Ace	燕返	つばめがえし
+TM28	Bulldoze	重踏	じならし
+TM29	Hex	祸不单行	たたりめ
+TM30	Snarl	大声咆哮	バークアウト
+TM31	Metal Claw	金属爪	メタルクロー
+TM32	Swift	高速星星	スピードスター
+TM33	Magical Leaf	魔法叶	マジカルリーフ
+TM34	Icy Wind	冰冻之风	こごえるかぜ
+TM35	Mud Shot	泥巴射击	マッドショット
+TM36	Rock Tomb	岩石封锁	がんせきふうじ
+TM37	Draining Kiss	吸取之吻	ドレインキッス
+TM38	Flame Charge	蓄能焰袭	ニトロチャージ
+TM39	Low Sweep	下盘踢	ローキック
+TM40	Air Cutter	空气利刃	エアカッター
+TM41	Stored Power	辅助力量	アシストパワー
+TM42	Night Shade	黑夜魔影	ナイトヘッド
+TM43	Fling	投掷	なげつける
+TM44	Dragon Tail	龙尾	ドラゴンテール
+TM45	Venoshock	毒液冲击	ベノムショック
+TM46	Avalanche	雪崩	ゆきなだれ
+TM47	Endure	挺住	こらえる
+TM48	Volt Switch	伏特替换	ボルトチェンジ
+TM49	Sunny Day	大晴天	にほんばれ
+TM50	Rain Dance	求雨	あまごい
+TM51	Sandstorm	沙暴	すなあらし
+TM52	Snowscape	雪景	#N/A
+TM53	Smart Strike	修长之角	スマートホーン
+TM54	Psyshock	精神冲击	サイコショック
+TM55	Dig	挖洞	あなをほる
+TM56	Bullet Seed	种子机关枪	タネマシンガン
+TM57	False Swipe	点到为止	みねうち
+TM58	Brick Break	劈瓦	かわらわり
+TM59	Zen Headbutt	意念头锤	しねんのずつき
+TM60	U-turn	急速折返	とんぼがえり
+TM61	Shadow Claw	暗影爪	シャドークロー
+TM62	Foul Play	欺诈	イカサマ
+TM63	Psychic Fangs	精神之牙	サイコファング
+TM64	Bulk Up	健美	ビルドアップ
+TM65	Air Slash	空气斩	エアスラッシュ
+TM66	Body Slam	泰山压顶	のしかかり
+TM67	Fire Punch	火焰拳	ほのおのパンチ
+TM68	Thunder Punch	雷电拳	かみなりパンチ
+TM69	Ice Punch	冰冻拳	れいとうパンチ
+TM70	Sleep Talk	梦话	ねごと
+TM71	Seed Bomb	种子炸弹	タネばくだん
+TM72	Electro Ball	电球	エレキボール
+TM73	Drain Punch	吸取拳	ドレインパンチ
+TM74	Reflect	反射壁	リフレクター
+TM75	Light Screen	光墙	ひかりのかべ
+TM76	Rock Blast	岩石爆击	ロックブラスト
+TM77	Waterfall	攀瀑	たきのぼり
+TM78	Dragon Claw	龙爪	ドラゴンクロー
+TM79	Dazzling Gleam	魔法闪耀	マジカルシャイン
+TM80	Metronome	挥指	ゆびをふる
+TM81	Grass Knot	打草结	くさむすび
+TM82	Thunder Wave	电磁波	でんじは
+TM83	Poison Jab	毒击	どくづき
+TM84	Stomping Tantrum	跺脚	じだんだ
+TM85	Rest	睡觉	ねむる
+TM86	Rock Slide	岩崩	いわなだれ
+TM87	Taunt	挑衅	ちょうはつ
+TM88	Swords Dance	剑舞	つるぎのまい
+TM89	Body Press	扑击	ボディプレス
+TM90	Spikes	撒菱	まきびし
+TM91	Toxic Spikes	毒菱	どくびし
+TM92	Imprison	封印	ふういん
+TM93	Flash Cannon	加农光炮	ラスターカノン
+TM94	Dark Pulse	恶之波动	あくのはどう
+TM95	Leech Life	吸血	きゅうけつ
+TM396	Eerie Impulse	怪异电波	かいでんぱ
+TM97	Fly	飞翔	そらをとぶ
+TM98	Skill Swap	特性互换	スキルスワップ
+TM99	Iron Head	铁头	アイアンヘッド
+TM100	Dragon Dance	龙之舞	りゅうのまい
+TM101	Power Gem	力量宝石	パワージェム
+TM102	Gunk Shot	垃圾射击	ダストシュート
+TM103	Substitute	替身	みがわり
+TM104	Iron Defense	铁壁	てっぺき
+TM105	X-Scissor	十字剪	シザークロス
+TM106	Drill Run	直冲钻	ドリルライナー
+TM107	Will-O-Wisp	鬼火	おにび
+TM108	Crunch	咬碎	かみくだく
+TM109	Trick	戏法	トリック
+TM110	Liquidation	水流裂破	アクアブレイク
+TM111	Giga Drain	终极吸取	ギガドレイン
+TM112	Aura Sphere	波导弹	はどうだん
+TM113	Tailwind	顺风	おいかぜ
+TM114	Shadow Ball	暗影球	シャドーボール
+TM115	Dragon Pulse	龙之波动	りゅうのはどう
+TM116	Stealth Rock	隐形岩	ステルスロック
+TM117	Hyper Voice	巨声	ハイパーボイス
+TM118	Heat Wave	热风	ねっぷう
+TM119	Energy Ball	能量球	エナジーボール
+TM120	Psychic	精神强念	サイコキネシス
+TM121	Heavy Slam	重磅冲撞	ヘビーボンバー
+TM122	Encore	再来一次	アンコール
+TM123	Surf	冲浪	なみのり
+TM124	Ice Spinner	冰旋	#N/A
+TM125	Flamethrower	喷射火焰	かえんほうしゃ
+TM126	Thunderbolt	十万伏特	１０まんボルト
+TM127	Play Rough	嬉闹	じゃれつく
+TM128	Amnesia	瞬间失忆	ドわすれ
+TM129	Calm Mind	冥想	めいそう
+TM130	Helping Hand	帮助	てだすけ
+TM131	Pollen Puff	花粉团	かふんだんご
+TM132	Baton Pass	接棒	バトンタッチ
+TM133	Earth Power	大地之力	だいちのちから
+TM134	Reversal	起死回生	きしかいせい
+TM135	Ice Beam	冰冻光束	れいとうビーム
+TM136	Electric Terrain	电气场地	エレキフィールド
+TM137	Grassy Terrain	青草场地	グラスフィールド
+TM138	Psychic Terrain	精神场地	サイコフィールド
+TM139	Misty Terrain	薄雾场地	ミストフィールド
+TM140	Nasty Plot	诡计	わるだくみ
+TM141	Fire Blast	大字爆炎	だいもんじ
+TM142	Hydro Pump	水炮	ハイドロポンプ
+TM143	Blizzard	暴风雪	ふぶき
+TM144	Fire Pledge	火之誓约	ほのおのちかい
+TM145	Water Pledge	水之誓约	みずのちかい
+TM146	Grass Pledge	草之誓约	くさのちかい
+TM147	Wild Charge	疯狂伏特	ワイルドボルト
+TM148	Sludge Bomb	污泥炸弹	ヘドロばくだん
+TM149	Earthquake	地震	じしん
+TM150	Stone Edge	尖石攻击	ストーンエッジ
+TM151	Phantom Force	潜灵奇袭	ゴーストダイブ
+TM152	Giga Impact	终极冲击	ギガインパクト
+TM153	Blast Burn	爆炸烈焰	ブラストバーン
+TM154	Hydro Cannon	加农水炮	ハイドロカノン
+TM155	Frenzy Plant	疯狂植物	ハードプラント
+TM156	Outrage	逆鳞	げきりん
+TM157	Overheat	过热	オーバーヒート
+TM158	Focus Blast	真气弹	きあいだま
+TM159	Leaf Storm	飞叶风暴	リーフストーム
+TM160	Hurricane	暴风	ぼうふう
+TM161	Trick Room	戏法空间	トリックルーム
+TM162	Bug Buzz	虫鸣	むしのさざめき
+TM163	Hyper Beam	破坏光线	はかいこうせん
+TM164	Brave Bird	勇鸟猛攻	ブレイブバード
+TM165	Flare Blitz	闪焰冲锋	フレアドライブ
+TM166	Thunder	打雷	かみなり
+TM167	Close Combat	近身战	インファイト
+TM168	Solar Beam	日光束	ソーラービーム
+TM169	Draco Meteor	流星群	りゅうせいぐん
+TM170	Steel Beam	铁蹄光线	てっていこうせん
+TM171	Tera Blast	太晶爆发	テラバースト
