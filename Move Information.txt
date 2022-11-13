@@ -1,5103 +1,640 @@
-Pound:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 35
-    Priority: 0
-
-Mega Punch:
-    Type: Normal
-    Category: Physical
-    Power: 80
-    Accuracy: 85
-    PP: 20
-    Priority: 0
-
-Pay Day:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Fire Punch:
-    Type: Fire
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Ice Punch:
-    Type: Ice
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Thunder Punch:
-    Type: Electric
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Scratch:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 35
-    Priority: 0
-
-Vise Grip:
-    Type: Normal
-    Category: Physical
-    Power: 55
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Guillotine:
-    Type: Normal
-    Category: Physical
-    Power: 1
-    Accuracy: 30
-    PP: 5
-    Priority: 0
-
-Swords Dance:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Cut:
-    Type: Normal
-    Category: Physical
-    Power: 50
-    Accuracy: 95
-    PP: 30
-    Priority: 0
-
-Gust:
-    Type: Flying
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 35
-    Priority: 0
-
-Wing Attack:
-    Type: Flying
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 35
-    Priority: 0
-
-Whirlwind:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: -6
-
-Fly:
-    Type: Flying
-    Category: Physical
-    Power: 90
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-Bind:
-    Type: Normal
-    Category: Physical
-    Power: 15
-    Accuracy: 85
-    PP: 20
-    Priority: 0
-
-Slam:
-    Type: Normal
-    Category: Physical
-    Power: 80
-    Accuracy: 75
-    PP: 20
-    Priority: 0
-
-Vine Whip:
-    Type: Grass
-    Category: Physical
-    Power: 45
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Stomp:
-    Type: Normal
-    Category: Physical
-    Power: 65
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Double Kick:
-    Type: Fighting
-    Category: Physical
-    Power: 30
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Mega Kick:
-    Type: Normal
-    Category: Physical
-    Power: 120
-    Accuracy: 75
-    PP: 5
-    Priority: 0
-
-Sand Attack:
-    Type: Ground
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Headbutt:
-    Type: Normal
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Horn Attack:
-    Type: Normal
-    Category: Physical
-    Power: 65
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Fury Attack:
-    Type: Normal
-    Category: Physical
-    Power: 15
-    Accuracy: 85
-    PP: 20
-    Priority: 0
-
-Horn Drill:
-    Type: Normal
-    Category: Physical
-    Power: 1
-    Accuracy: 30
-    PP: 5
-    Priority: 0
-
-Tackle:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 35
-    Priority: 0
-
-Body Slam:
-    Type: Normal
-    Category: Physical
-    Power: 85
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Wrap:
-    Type: Normal
-    Category: Physical
-    Power: 15
-    Accuracy: 90
-    PP: 20
-    Priority: 0
-
-Take Down:
-    Type: Normal
-    Category: Physical
-    Power: 90
-    Accuracy: 85
-    PP: 20
-    Priority: 0
-
-Thrash:
-    Type: Normal
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Double-Edge:
-    Type: Normal
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Tail Whip:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Poison Sting:
-    Type: Poison
-    Category: Physical
-    Power: 15
-    Accuracy: 100
-    PP: 35
-    Priority: 0
-
-Pin Missile:
-    Type: Bug
-    Category: Physical
-    Power: 25
-    Accuracy: 95
-    PP: 20
-    Priority: 0
-
-Leer:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Bite:
-    Type: Dark
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Growl:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 40
-    Priority: 0
-
-Roar:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: -6
-
-Sing:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 55
-    PP: 15
-    Priority: 0
-
-Supersonic:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 55
-    PP: 20
-    Priority: 0
-
-Disable:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Acid:
-    Type: Poison
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Ember:
-    Type: Fire
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Flamethrower:
-    Type: Fire
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Mist:
-    Type: Ice
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 30
-    Priority: 0
-
-Water Gun:
-    Type: Water
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Hydro Pump:
-    Type: Water
-    Category: Special
-    Power: 110
-    Accuracy: 80
-    PP: 5
-    Priority: 0
-
-Surf:
-    Type: Water
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Ice Beam:
-    Type: Ice
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Blizzard:
-    Type: Ice
-    Category: Special
-    Power: 110
-    Accuracy: 70
-    PP: 5
-    Priority: 0
-
-Psybeam:
-    Type: Psychic
-    Category: Special
-    Power: 65
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Bubble Beam:
-    Type: Water
-    Category: Special
-    Power: 65
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Aurora Beam:
-    Type: Ice
-    Category: Special
-    Power: 65
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Hyper Beam:
-    Type: Normal
-    Category: Special
-    Power: 150
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Peck:
-    Type: Flying
-    Category: Physical
-    Power: 35
-    Accuracy: 100
-    PP: 35
-    Priority: 0
-
-Drill Peck:
-    Type: Flying
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Low Kick:
-    Type: Fighting
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Counter:
-    Type: Fighting
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 20
-    Priority: -5
-
-Seismic Toss:
-    Type: Fighting
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Strength:
-    Type: Normal
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Absorb:
-    Type: Grass
-    Category: Special
-    Power: 20
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Mega Drain:
-    Type: Grass
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Leech Seed:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Growth:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Razor Leaf:
-    Type: Grass
-    Category: Physical
-    Power: 55
-    Accuracy: 95
-    PP: 25
-    Priority: 0
-
-Solar Beam:
-    Type: Grass
-    Category: Special
-    Power: 120
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Poison Powder:
-    Type: Poison
-    Category: Status
-    Power: 0
-    Accuracy: 75
-    PP: 35
-    Priority: 0
-
-Stun Spore:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 75
-    PP: 30
-    Priority: 0
-
-Sleep Powder:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 75
-    PP: 15
-    Priority: 0
-
-Petal Dance:
-    Type: Grass
-    Category: Special
-    Power: 120
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-String Shot:
-    Type: Bug
-    Category: Status
-    Power: 0
-    Accuracy: 95
-    PP: 40
-    Priority: 0
-
-Fire Spin:
-    Type: Fire
-    Category: Special
-    Power: 35
-    Accuracy: 85
-    PP: 15
-    Priority: 0
-
-Thunder Shock:
-    Type: Electric
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Thunderbolt:
-    Type: Electric
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Thunder Wave:
-    Type: Electric
-    Category: Status
-    Power: 0
-    Accuracy: 90
-    PP: 20
-    Priority: 0
-
-Thunder:
-    Type: Electric
-    Category: Special
-    Power: 110
-    Accuracy: 70
-    PP: 10
-    Priority: 0
-
-Rock Throw:
-    Type: Rock
-    Category: Physical
-    Power: 50
-    Accuracy: 90
-    PP: 15
-    Priority: 0
-
-Earthquake:
-    Type: Ground
-    Category: Physical
-    Power: 100
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Fissure:
-    Type: Ground
-    Category: Physical
-    Power: 1
-    Accuracy: 30
-    PP: 5
-    Priority: 0
-
-Dig:
-    Type: Ground
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Toxic:
-    Type: Poison
-    Category: Status
-    Power: 0
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Confusion:
-    Type: Psychic
-    Category: Special
-    Power: 50
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Psychic:
-    Type: Psychic
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Hypnosis:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 60
-    PP: 20
-    Priority: 0
-
-Agility:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 30
-    Priority: 0
-
-Quick Attack:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 30
-    Priority: 1
-
-Teleport:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: -6
-
-Night Shade:
-    Type: Ghost
-    Category: Special
-    Power: 1
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Mimic:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Screech:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 85
-    PP: 40
-    Priority: 0
-
-Double Team:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Recover:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Harden:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 30
-    Priority: 0
-
-Minimize:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Smokescreen:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Confuse Ray:
-    Type: Ghost
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Withdraw:
-    Type: Water
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 40
-    Priority: 0
-
-Defense Curl:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 40
-    Priority: 0
-
-Light Screen:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 30
-    Priority: 0
-
-Haze:
-    Type: Ice
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 30
-    Priority: 0
-
-Reflect:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Focus Energy:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 30
-    Priority: 0
-
-Metronome:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Self-Destruct:
-    Type: Normal
-    Category: Physical
-    Power: 200
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Lick:
-    Type: Ghost
-    Category: Physical
-    Power: 30
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Smog:
-    Type: Poison
-    Category: Special
-    Power: 30
-    Accuracy: 70
-    PP: 20
-    Priority: 0
-
-Sludge:
-    Type: Poison
-    Category: Special
-    Power: 65
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Fire Blast:
-    Type: Fire
-    Category: Special
-    Power: 110
-    Accuracy: 85
-    PP: 5
-    Priority: 0
-
-Waterfall:
-    Type: Water
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Swift:
-    Type: Normal
-    Category: Special
-    Power: 60
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Amnesia:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Soft-Boiled:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-High Jump Kick:
-    Type: Fighting
-    Category: Physical
-    Power: 130
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Glare:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Dream Eater:
-    Type: Psychic
-    Category: Special
-    Power: 100
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Poison Gas:
-    Type: Poison
-    Category: Status
-    Power: 0
-    Accuracy: 90
-    PP: 40
-    Priority: 0
-
-Leech Life:
-    Type: Bug
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Sky Attack:
-    Type: Flying
-    Category: Physical
-    Power: 140
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Transform:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Spore:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Splash:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 40
-    Priority: 0
-
-Acid Armor:
-    Type: Poison
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Crabhammer:
-    Type: Water
-    Category: Physical
-    Power: 100
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Explosion:
-    Type: Normal
-    Category: Physical
-    Power: 250
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Fury Swipes:
-    Type: Normal
-    Category: Physical
-    Power: 18
-    Accuracy: 80
-    PP: 15
-    Priority: 0
-
-Rest:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Rock Slide:
-    Type: Rock
-    Category: Physical
-    Power: 75
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Tri Attack:
-    Type: Normal
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Super Fang:
-    Type: Normal
-    Category: Physical
-    Power: 1
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Slash:
-    Type: Normal
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Substitute:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Struggle:
-    Type: Normal
-    Category: Physical
-    Power: 50
-    Accuracy: 101
-    PP: 1
-    Priority: 0
-
-Thief:
-    Type: Dark
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Flame Wheel:
-    Type: Fire
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Snore:
-    Type: Normal
-    Category: Special
-    Power: 50
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Curse:
-    Type: Ghost
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Flail:
-    Type: Normal
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Cotton Spore:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 40
-    Priority: 0
-
-Reversal:
-    Type: Fighting
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Spite:
-    Type: Ghost
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Powder Snow:
-    Type: Ice
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Protect:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 4
-
-Mach Punch:
-    Type: Fighting
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 30
-    Priority: 1
-
-Scary Face:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Sweet Kiss:
-    Type: Fairy
-    Category: Status
-    Power: 0
-    Accuracy: 75
-    PP: 10
-    Priority: 0
-
-Belly Drum:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Sludge Bomb:
-    Type: Poison
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Mud-Slap:
-    Type: Ground
-    Category: Special
-    Power: 20
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Spikes:
-    Type: Ground
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Zap Cannon:
-    Type: Electric
-    Category: Special
-    Power: 120
-    Accuracy: 50
-    PP: 5
-    Priority: 0
-
-Destiny Bond:
-    Type: Ghost
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Perish Song:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Icy Wind:
-    Type: Ice
-    Category: Special
-    Power: 55
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-Detect:
-    Type: Fighting
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 4
-
-Bone Rush:
-    Type: Ground
-    Category: Physical
-    Power: 25
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Lock-On:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Outrage:
-    Type: Dragon
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Sandstorm:
-    Type: Rock
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Giga Drain:
-    Type: Grass
-    Category: Special
-    Power: 75
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Endure:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 4
-
-Charm:
-    Type: Fairy
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Rollout:
-    Type: Rock
-    Category: Physical
-    Power: 30
-    Accuracy: 90
-    PP: 20
-    Priority: 0
-
-False Swipe:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 40
-    Priority: 0
-
-Swagger:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 85
-    PP: 15
-    Priority: 0
-
-Milk Drink:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Spark:
-    Type: Electric
-    Category: Physical
-    Power: 65
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Fury Cutter:
-    Type: Bug
-    Category: Physical
-    Power: 40
-    Accuracy: 95
-    PP: 20
-    Priority: 0
-
-Steel Wing:
-    Type: Steel
-    Category: Physical
-    Power: 70
-    Accuracy: 90
-    PP: 25
-    Priority: 0
-
-Mean Look:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Attract:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Sleep Talk:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Heal Bell:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Present:
-    Type: Normal
-    Category: Physical
-    Power: 1
-    Accuracy: 90
-    PP: 15
-    Priority: 0
-
-Safeguard:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 25
-    Priority: 0
-
-Pain Split:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Dynamic Punch:
-    Type: Fighting
-    Category: Physical
-    Power: 100
-    Accuracy: 50
-    PP: 5
-    Priority: 0
-
-Megahorn:
-    Type: Bug
-    Category: Physical
-    Power: 120
-    Accuracy: 85
-    PP: 10
-    Priority: 0
-
-Dragon Breath:
-    Type: Dragon
-    Category: Special
-    Power: 60
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Baton Pass:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 40
-    Priority: 0
-
-Encore:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Rapid Spin:
-    Type: Normal
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 40
-    Priority: 0
-
-Sweet Scent:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Iron Tail:
-    Type: Steel
-    Category: Physical
-    Power: 100
-    Accuracy: 75
-    PP: 15
-    Priority: 0
-
-Metal Claw:
-    Type: Steel
-    Category: Physical
-    Power: 50
-    Accuracy: 95
-    PP: 35
-    Priority: 0
-
-Morning Sun:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Synthesis:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Moonlight:
-    Type: Fairy
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Cross Chop:
-    Type: Fighting
-    Category: Physical
-    Power: 100
-    Accuracy: 80
-    PP: 5
-    Priority: 0
-
-Twister:
-    Type: Dragon
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Rain Dance:
-    Type: Water
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Sunny Day:
-    Type: Fire
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Crunch:
-    Type: Dark
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Mirror Coat:
-    Type: Psychic
-    Category: Special
-    Power: 1
-    Accuracy: 100
-    PP: 20
-    Priority: -5
-
-Psych Up:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Extreme Speed:
-    Type: Normal
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 5
-    Priority: 2
-
-Ancient Power:
-    Type: Rock
-    Category: Special
-    Power: 60
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Shadow Ball:
-    Type: Ghost
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Future Sight:
-    Type: Psychic
-    Category: Special
-    Power: 120
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Rock Smash:
-    Type: Fighting
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Whirlpool:
-    Type: Water
-    Category: Special
-    Power: 35
-    Accuracy: 85
-    PP: 15
-    Priority: 0
-
-Beat Up:
-    Type: Dark
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Fake Out:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 10
-    Priority: 3
-
-Uproar:
-    Type: Normal
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Stockpile:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Spit Up:
-    Type: Normal
-    Category: Special
-    Power: 1
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Swallow:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Heat Wave:
-    Type: Fire
-    Category: Special
-    Power: 95
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Torment:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Flatter:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Will-O-Wisp:
-    Type: Fire
-    Category: Status
-    Power: 0
-    Accuracy: 85
-    PP: 15
-    Priority: 0
-
-Memento:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Facade:
-    Type: Normal
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Focus Punch:
-    Type: Fighting
-    Category: Physical
-    Power: 150
-    Accuracy: 100
-    PP: 20
-    Priority: -3
-
-Follow Me:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 2
-
-Charge:
-    Type: Electric
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Taunt:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Helping Hand:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 5
-
-Trick:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Role Play:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Wish:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Ingrain:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Superpower:
-    Type: Fighting
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Recycle:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Brick Break:
-    Type: Fighting
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Yawn:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Knock Off:
-    Type: Dark
-    Category: Physical
-    Power: 65
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Endeavor:
-    Type: Normal
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Eruption:
-    Type: Fire
-    Category: Special
-    Power: 150
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Skill Swap:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Imprison:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Dive:
-    Type: Water
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Arm Thrust:
-    Type: Fighting
-    Category: Physical
-    Power: 15
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Feather Dance:
-    Type: Flying
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Teeter Dance:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Blaze Kick:
-    Type: Fire
-    Category: Physical
-    Power: 85
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Slack Off:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Hyper Voice:
-    Type: Normal
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Poison Fang:
-    Type: Poison
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Crush Claw:
-    Type: Normal
-    Category: Physical
-    Power: 75
-    Accuracy: 95
-    PP: 10
-    Priority: 0
-
-Blast Burn:
-    Type: Fire
-    Category: Special
-    Power: 150
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Hydro Cannon:
-    Type: Water
-    Category: Special
-    Power: 150
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Meteor Mash:
-    Type: Steel
-    Category: Physical
-    Power: 90
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Astonish:
-    Type: Ghost
-    Category: Physical
-    Power: 30
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Weather Ball:
-    Type: Normal
-    Category: Special
-    Power: 50
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Fake Tears:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Air Cutter:
-    Type: Flying
-    Category: Special
-    Power: 60
-    Accuracy: 95
-    PP: 25
-    Priority: 0
-
-Overheat:
-    Type: Fire
-    Category: Special
-    Power: 130
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Rock Tomb:
-    Type: Rock
-    Category: Physical
-    Power: 60
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-Metal Sound:
-    Type: Steel
-    Category: Status
-    Power: 0
-    Accuracy: 85
-    PP: 40
-    Priority: 0
-
-Tickle:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Cosmic Power:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Water Spout:
-    Type: Water
-    Category: Special
-    Power: 150
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Shadow Punch:
-    Type: Ghost
-    Category: Physical
-    Power: 60
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Extrasensory:
-    Type: Psychic
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Sand Tomb:
-    Type: Ground
-    Category: Physical
-    Power: 35
-    Accuracy: 85
-    PP: 15
-    Priority: 0
-
-Sheer Cold:
-    Type: Ice
-    Category: Special
-    Power: 1
-    Accuracy: 30
-    PP: 5
-    Priority: 0
-
-Muddy Water:
-    Type: Water
-    Category: Special
-    Power: 90
-    Accuracy: 85
-    PP: 10
-    Priority: 0
-
-Bullet Seed:
-    Type: Grass
-    Category: Physical
-    Power: 25
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Aerial Ace:
-    Type: Flying
-    Category: Physical
-    Power: 60
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Icicle Spear:
-    Type: Ice
-    Category: Physical
-    Power: 25
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Iron Defense:
-    Type: Steel
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Block:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Howl:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 40
-    Priority: 0
-
-Dragon Claw:
-    Type: Dragon
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Frenzy Plant:
-    Type: Grass
-    Category: Special
-    Power: 150
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Bulk Up:
-    Type: Fighting
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Bounce:
-    Type: Flying
-    Category: Physical
-    Power: 85
-    Accuracy: 85
-    PP: 5
-    Priority: 0
-
-Mud Shot:
-    Type: Ground
-    Category: Special
-    Power: 55
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-Poison Tail:
-    Type: Poison
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Covet:
-    Type: Normal
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Volt Tackle:
-    Type: Electric
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Magical Leaf:
-    Type: Grass
-    Category: Special
-    Power: 60
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Calm Mind:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Leaf Blade:
-    Type: Grass
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Dragon Dance:
-    Type: Dragon
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Rock Blast:
-    Type: Rock
-    Category: Physical
-    Power: 25
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Shock Wave:
-    Type: Electric
-    Category: Special
-    Power: 60
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Water Pulse:
-    Type: Water
-    Category: Special
-    Power: 60
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Roost:
-    Type: Flying
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Gravity:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Hammer Arm:
-    Type: Fighting
-    Category: Physical
-    Power: 100
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Gyro Ball:
-    Type: Steel
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Healing Wish:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Brine:
-    Type: Water
-    Category: Special
-    Power: 65
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Feint:
-    Type: Normal
-    Category: Physical
-    Power: 30
-    Accuracy: 100
-    PP: 10
-    Priority: 2
-
-Pluck:
-    Type: Flying
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Tailwind:
-    Type: Flying
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Acupressure:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 30
-    Priority: 0
-
-Metal Burst:
-    Type: Steel
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-U-turn:
-    Type: Bug
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Close Combat:
-    Type: Fighting
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Payback:
-    Type: Dark
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Assurance:
-    Type: Dark
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Fling:
-    Type: Dark
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Power Trick:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Gastro Acid:
-    Type: Poison
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Copycat:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Power Swap:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Guard Swap:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Last Resort:
-    Type: Normal
-    Category: Physical
-    Power: 140
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Worry Seed:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Sucker Punch:
-    Type: Dark
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 5
-    Priority: 1
-
-Toxic Spikes:
-    Type: Poison
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Heart Swap:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Aqua Ring:
-    Type: Water
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Magnet Rise:
-    Type: Electric
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Flare Blitz:
-    Type: Fire
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Force Palm:
-    Type: Fighting
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Aura Sphere:
-    Type: Fighting
-    Category: Special
-    Power: 80
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Rock Polish:
-    Type: Rock
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Poison Jab:
-    Type: Poison
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Dark Pulse:
-    Type: Dark
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Night Slash:
-    Type: Dark
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Aqua Tail:
-    Type: Water
-    Category: Physical
-    Power: 90
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Seed Bomb:
-    Type: Grass
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Air Slash:
-    Type: Flying
-    Category: Special
-    Power: 75
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-X-Scissor:
-    Type: Bug
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Bug Buzz:
-    Type: Bug
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Dragon Pulse:
-    Type: Dragon
-    Category: Special
-    Power: 85
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Dragon Rush:
-    Type: Dragon
-    Category: Physical
-    Power: 100
-    Accuracy: 75
-    PP: 10
-    Priority: 0
-
-Power Gem:
-    Type: Rock
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Drain Punch:
-    Type: Fighting
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Vacuum Wave:
-    Type: Fighting
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 30
-    Priority: 1
-
-Focus Blast:
-    Type: Fighting
-    Category: Special
-    Power: 120
-    Accuracy: 70
-    PP: 5
-    Priority: 0
-
-Energy Ball:
-    Type: Grass
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Brave Bird:
-    Type: Flying
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Earth Power:
-    Type: Ground
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Switcheroo:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Giga Impact:
-    Type: Normal
-    Category: Physical
-    Power: 150
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Nasty Plot:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Bullet Punch:
-    Type: Steel
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 30
-    Priority: 1
-
-Avalanche:
-    Type: Ice
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 10
-    Priority: -4
-
-Ice Shard:
-    Type: Ice
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 30
-    Priority: 1
-
-Shadow Claw:
-    Type: Ghost
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Thunder Fang:
-    Type: Electric
-    Category: Physical
-    Power: 65
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-Ice Fang:
-    Type: Ice
-    Category: Physical
-    Power: 65
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-Fire Fang:
-    Type: Fire
-    Category: Physical
-    Power: 65
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-Shadow Sneak:
-    Type: Ghost
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 30
-    Priority: 1
-
-Psycho Cut:
-    Type: Psychic
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Zen Headbutt:
-    Type: Psychic
-    Category: Physical
-    Power: 80
-    Accuracy: 90
-    PP: 15
-    Priority: 0
-
-Flash Cannon:
-    Type: Steel
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Defog:
-    Type: Flying
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Trick Room:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: -7
-
-Draco Meteor:
-    Type: Dragon
-    Category: Special
-    Power: 130
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Discharge:
-    Type: Electric
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Lava Plume:
-    Type: Fire
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Leaf Storm:
-    Type: Grass
-    Category: Special
-    Power: 130
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Power Whip:
-    Type: Grass
-    Category: Physical
-    Power: 120
-    Accuracy: 85
-    PP: 10
-    Priority: 0
-
-Cross Poison:
-    Type: Poison
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Gunk Shot:
-    Type: Poison
-    Category: Physical
-    Power: 120
-    Accuracy: 80
-    PP: 5
-    Priority: 0
-
-Iron Head:
-    Type: Steel
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Stone Edge:
-    Type: Rock
-    Category: Physical
-    Power: 100
-    Accuracy: 80
-    PP: 5
-    Priority: 0
-
-Stealth Rock:
-    Type: Rock
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Grass Knot:
-    Type: Grass
-    Category: Special
-    Power: 1
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Judgment:
-    Type: Normal
-    Category: Special
-    Power: 100
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Bug Bite:
-    Type: Bug
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Charge Beam:
-    Type: Electric
-    Category: Special
-    Power: 50
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Wood Hammer:
-    Type: Grass
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Aqua Jet:
-    Type: Water
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 20
-    Priority: 1
-
-Attack Order:
-    Type: Bug
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Defend Order:
-    Type: Bug
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Head Smash:
-    Type: Rock
-    Category: Physical
-    Power: 150
-    Accuracy: 80
-    PP: 5
-    Priority: 0
-
-Double Hit:
-    Type: Normal
-    Category: Physical
-    Power: 35
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Roar of Time:
-    Type: Dragon
-    Category: Special
-    Power: 150
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Spacial Rend:
-    Type: Dragon
-    Category: Special
-    Power: 100
-    Accuracy: 95
-    PP: 5
-    Priority: 0
-
-Lunar Dance:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Magma Storm:
-    Type: Fire
-    Category: Special
-    Power: 100
-    Accuracy: 75
-    PP: 5
-    Priority: 0
-
-Shadow Force:
-    Type: Ghost
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Hone Claws:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Wide Guard:
-    Type: Rock
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 3
-
-Guard Split:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Power Split:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Wonder Room:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Psyshock:
-    Type: Psychic
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Venoshock:
-    Type: Poison
-    Category: Special
-    Power: 65
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Rage Powder:
-    Type: Bug
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 2
-
-Magic Room:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Smack Down:
-    Type: Rock
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Sludge Wave:
-    Type: Poison
-    Category: Special
-    Power: 95
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Quiver Dance:
-    Type: Bug
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Heavy Slam:
-    Type: Steel
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Electro Ball:
-    Type: Electric
-    Category: Special
-    Power: 1
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Soak:
-    Type: Water
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Flame Charge:
-    Type: Fire
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Coil:
-    Type: Poison
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Low Sweep:
-    Type: Fighting
-    Category: Physical
-    Power: 65
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Acid Spray:
-    Type: Poison
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Foul Play:
-    Type: Dark
-    Category: Physical
-    Power: 95
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Simple Beam:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Entrainment:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-After You:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Round:
-    Type: Normal
-    Category: Special
-    Power: 60
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Echoed Voice:
-    Type: Normal
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Clear Smog:
-    Type: Poison
-    Category: Special
-    Power: 50
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Stored Power:
-    Type: Psychic
-    Category: Special
-    Power: 20
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Quick Guard:
-    Type: Fighting
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 3
-
-Ally Switch:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 2
-
-Scald:
-    Type: Water
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Shell Smash:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Heal Pulse:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Hex:
-    Type: Ghost
-    Category: Special
-    Power: 65
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Shift Gear:
-    Type: Steel
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Circle Throw:
-    Type: Fighting
-    Category: Physical
-    Power: 60
-    Accuracy: 90
-    PP: 10
-    Priority: -6
-
-Incinerate:
-    Type: Fire
-    Category: Special
-    Power: 60
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Quash:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Acrobatics:
-    Type: Flying
-    Category: Physical
-    Power: 55
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Reflect Type:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Retaliate:
-    Type: Normal
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Final Gambit:
-    Type: Fighting
-    Category: Special
-    Power: 1
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Inferno:
-    Type: Fire
-    Category: Special
-    Power: 100
-    Accuracy: 50
-    PP: 5
-    Priority: 0
-
-Water Pledge:
-    Type: Water
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Fire Pledge:
-    Type: Fire
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Grass Pledge:
-    Type: Grass
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Volt Switch:
-    Type: Electric
-    Category: Special
-    Power: 70
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Struggle Bug:
-    Type: Bug
-    Category: Special
-    Power: 50
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Bulldoze:
-    Type: Ground
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Frost Breath:
-    Type: Ice
-    Category: Special
-    Power: 60
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Dragon Tail:
-    Type: Dragon
-    Category: Physical
-    Power: 60
-    Accuracy: 90
-    PP: 10
-    Priority: -6
-
-Work Up:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 30
-    Priority: 0
-
-Electroweb:
-    Type: Electric
-    Category: Special
-    Power: 55
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-Wild Charge:
-    Type: Electric
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Drill Run:
-    Type: Ground
-    Category: Physical
-    Power: 80
-    Accuracy: 95
-    PP: 10
-    Priority: 0
-
-Horn Leech:
-    Type: Grass
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Sacred Sword:
-    Type: Fighting
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Razor Shell:
-    Type: Water
-    Category: Physical
-    Power: 75
-    Accuracy: 95
-    PP: 10
-    Priority: 0
-
-Heat Crash:
-    Type: Fire
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Cotton Guard:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Night Daze:
-    Type: Dark
-    Category: Special
-    Power: 85
-    Accuracy: 95
-    PP: 10
-    Priority: 0
-
-Psystrike:
-    Type: Psychic
-    Category: Special
-    Power: 100
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Tail Slap:
-    Type: Normal
-    Category: Physical
-    Power: 25
-    Accuracy: 85
-    PP: 10
-    Priority: 0
-
-Hurricane:
-    Type: Flying
-    Category: Special
-    Power: 110
-    Accuracy: 70
-    PP: 10
-    Priority: 0
-
-Relic Song:
-    Type: Normal
-    Category: Special
-    Power: 75
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Fiery Dance:
-    Type: Fire
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Snarl:
-    Type: Dark
-    Category: Special
-    Power: 55
-    Accuracy: 95
-    PP: 15
-    Priority: 0
-
-Icicle Crash:
-    Type: Ice
-    Category: Physical
-    Power: 85
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-V-create:
-    Type: Fire
-    Category: Physical
-    Power: 180
-    Accuracy: 95
-    PP: 5
-    Priority: 0
-
-Flying Press:
-    Type: Fighting
-    Category: Physical
-    Power: 100
-    Accuracy: 95
-    PP: 10
-    Priority: 0
-
-Belch:
-    Type: Poison
-    Category: Special
-    Power: 120
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Sticky Web:
-    Type: Bug
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Fell Stinger:
-    Type: Bug
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 25
-    Priority: 0
-
-Phantom Force:
-    Type: Ghost
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Noble Roar:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Parabolic Charge:
-    Type: Electric
-    Category: Special
-    Power: 65
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Petal Blizzard:
-    Type: Grass
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Freeze-Dry:
-    Type: Ice
-    Category: Special
-    Power: 70
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Disarming Voice:
-    Type: Fairy
-    Category: Special
-    Power: 40
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Parting Shot:
-    Type: Dark
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Draining Kiss:
-    Type: Fairy
-    Category: Special
-    Power: 50
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Grassy Terrain:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Misty Terrain:
-    Type: Fairy
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Play Rough:
-    Type: Fairy
-    Category: Physical
-    Power: 90
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Fairy Wind:
-    Type: Fairy
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 30
-    Priority: 0
-
-Moonblast:
-    Type: Fairy
-    Category: Special
-    Power: 95
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Boomburst:
-    Type: Normal
-    Category: Special
-    Power: 140
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Fairy Lock:
-    Type: Fairy
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Play Nice:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Confide:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Diamond Storm:
-    Type: Rock
-    Category: Physical
-    Power: 100
-    Accuracy: 95
-    PP: 5
-    Priority: 0
-
-Steam Eruption:
-    Type: Water
-    Category: Special
-    Power: 110
-    Accuracy: 95
-    PP: 5
-    Priority: 0
-
-Hyperspace Hole:
-    Type: Psychic
-    Category: Special
-    Power: 80
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Water Shuriken:
-    Type: Water
-    Category: Special
-    Power: 15
-    Accuracy: 100
-    PP: 20
-    Priority: 1
-
-Mystical Fire:
-    Type: Fire
-    Category: Special
-    Power: 75
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Spiky Shield:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 4
-
-Aromatic Mist:
-    Type: Fairy
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Eerie Impulse:
-    Type: Electric
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Magnetic Flux:
-    Type: Electric
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Happy Hour:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 30
-    Priority: 0
-
-Electric Terrain:
-    Type: Electric
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Dazzling Gleam:
-    Type: Fairy
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Celebrate:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 40
-    Priority: 0
-
-Hold Hands:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 40
-    Priority: 0
-
-Baby-Doll Eyes:
-    Type: Fairy
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 30
-    Priority: 1
-
-Nuzzle:
-    Type: Electric
-    Category: Physical
-    Power: 20
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Hold Back:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 40
-    Priority: 0
-
-Infestation:
-    Type: Bug
-    Category: Special
-    Power: 20
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Origin Pulse:
-    Type: Water
-    Category: Special
-    Power: 110
-    Accuracy: 85
-    PP: 10
-    Priority: 0
-
-Precipice Blades:
-    Type: Ground
-    Category: Physical
-    Power: 120
-    Accuracy: 85
-    PP: 10
-    Priority: 0
-
-Dragon Ascent:
-    Type: Flying
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Hyperspace Fury:
-    Type: Dark
-    Category: Physical
-    Power: 100
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Shore Up:
-    Type: Ground
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-First Impression:
-    Type: Bug
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 2
-
-Baneful Bunker:
-    Type: Poison
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 4
-
-Spirit Shackle:
-    Type: Ghost
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Darkest Lariat:
-    Type: Dark
-    Category: Physical
-    Power: 85
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Ice Hammer:
-    Type: Ice
-    Category: Physical
-    Power: 100
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-High Horsepower:
-    Type: Ground
-    Category: Physical
-    Power: 95
-    Accuracy: 95
-    PP: 10
-    Priority: 0
-
-Strength Sap:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Solar Blade:
-    Type: Grass
-    Category: Physical
-    Power: 125
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Leafage:
-    Type: Grass
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 40
-    Priority: 0
-
-Throat Chop:
-    Type: Dark
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Pollen Puff:
-    Type: Bug
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Psychic Terrain:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Lunge:
-    Type: Bug
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Fire Lash:
-    Type: Fire
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Power Trip:
-    Type: Dark
-    Category: Physical
-    Power: 20
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Burn Up:
-    Type: Fire
-    Category: Special
-    Power: 130
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Speed Swap:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Smart Strike:
-    Type: Steel
-    Category: Physical
-    Power: 70
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Revelation Dance:
-    Type: Normal
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Trop Kick:
-    Type: Grass
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Instruct:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Brutal Swing:
-    Type: Dark
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Aurora Veil:
-    Type: Ice
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Fleur Cannon:
-    Type: Fairy
-    Category: Special
-    Power: 130
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Psychic Fangs:
-    Type: Psychic
-    Category: Physical
-    Power: 85
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Stomping Tantrum:
-    Type: Ground
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Accelerock:
-    Type: Rock
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 20
-    Priority: 1
-
-Liquidation:
-    Type: Water
-    Category: Physical
-    Power: 85
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Tearful Look:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 20
-    Priority: 0
-
-Zing Zap:
-    Type: Electric
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Dynamax Cannon:
-    Type: Dragon
-    Category: Special
-    Power: 100
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Snipe Shot:
-    Type: Water
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Jaw Lock:
-    Type: Dark
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Stuff Cheeks:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-No Retreat:
-    Type: Fighting
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Tar Shot:
-    Type: Rock
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Magic Powder:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Dragon Darts:
-    Type: Dragon
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Teatime:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Court Change:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Body Press:
-    Type: Fighting
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Drum Beating:
-    Type: Grass
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Pyro Ball:
-    Type: Fire
-    Category: Physical
-    Power: 120
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Behemoth Blade:
-    Type: Steel
-    Category: Physical
-    Power: 100
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Behemoth Bash:
-    Type: Steel
-    Category: Physical
-    Power: 100
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Breaking Swipe:
-    Type: Dragon
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Branch Poke:
-    Type: Grass
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 40
-    Priority: 0
-
-Overdrive:
-    Type: Electric
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Apple Acid:
-    Type: Grass
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Grav Apple:
-    Type: Grass
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Spirit Break:
-    Type: Fairy
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Life Dew:
-    Type: Water
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-False Surrender:
-    Type: Dark
-    Category: Physical
-    Power: 80
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Steel Beam:
-    Type: Steel
-    Category: Special
-    Power: 140
-    Accuracy: 95
-    PP: 5
-    Priority: 0
-
-Expanding Force:
-    Type: Psychic
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Steel Roller:
-    Type: Steel
-    Category: Physical
-    Power: 130
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Scale Shot:
-    Type: Dragon
-    Category: Physical
-    Power: 25
-    Accuracy: 90
-    PP: 20
-    Priority: 0
-
-Meteor Beam:
-    Type: Rock
-    Category: Special
-    Power: 120
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Shell Side Arm:
-    Type: Poison
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Misty Explosion:
-    Type: Fairy
-    Category: Special
-    Power: 100
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Grassy Glide:
-    Type: Grass
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Rising Voltage:
-    Type: Electric
-    Category: Special
-    Power: 70
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Terrain Pulse:
-    Type: Normal
-    Category: Special
-    Power: 50
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Skitter Smack:
-    Type: Bug
-    Category: Physical
-    Power: 70
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Burning Jealousy:
-    Type: Fire
-    Category: Special
-    Power: 70
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Lash Out:
-    Type: Dark
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Poltergeist:
-    Type: Ghost
-    Category: Physical
-    Power: 110
-    Accuracy: 90
-    PP: 5
-    Priority: 0
-
-Corrosive Gas:
-    Type: Poison
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 40
-    Priority: 0
-
-Coaching:
-    Type: Fighting
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Flip Turn:
-    Type: Water
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Triple Axel:
-    Type: Ice
-    Category: Physical
-    Power: 20
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Dual Wingbeat:
-    Type: Flying
-    Category: Physical
-    Power: 40
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Scorching Sands:
-    Type: Ground
-    Category: Special
-    Power: 70
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Jungle Healing:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Wicked Blow:
-    Type: Dark
-    Category: Physical
-    Power: 75
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Surging Strikes:
-    Type: Water
-    Category: Physical
-    Power: 25
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Thunder Cage:
-    Type: Electric
-    Category: Special
-    Power: 80
-    Accuracy: 90
-    PP: 15
-    Priority: 0
-
-Dragon Energy:
-    Type: Dragon
-    Category: Special
-    Power: 150
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Freezing Glare:
-    Type: Psychic
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Fiery Wrath:
-    Type: Dark
-    Category: Special
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Thunderous Kick:
-    Type: Fighting
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Glacial Lance:
-    Type: Ice
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Astral Barrage:
-    Type: Ghost
-    Category: Special
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Eerie Spell:
-    Type: Psychic
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Dire Claw:
-    Type: Poison
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Psyshield Bash:
-    Type: Psychic
-    Category: Physical
-    Power: 70
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Power Shift:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Stone Axe:
-    Type: Rock
-    Category: Physical
-    Power: 65
-    Accuracy: 90
-    PP: 15
-    Priority: 0
-
-Springtide Storm:
-    Type: Fairy
-    Category: Special
-    Power: 100
-    Accuracy: 80
-    PP: 5
-    Priority: 0
-
-Mystical Power:
-    Type: Psychic
-    Category: Special
-    Power: 70
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Raging Fury:
-    Type: Fire
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Wave Crash:
-    Type: Water
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Chloroblast:
-    Type: Grass
-    Category: Special
-    Power: 150
-    Accuracy: 95
-    PP: 5
-    Priority: 0
-
-Mountain Gale:
-    Type: Ice
-    Category: Physical
-    Power: 100
-    Accuracy: 85
-    PP: 10
-    Priority: 0
-
-Victory Dance:
-    Type: Fighting
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Headlong Rush:
-    Type: Ground
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Barb Barrage:
-    Type: Poison
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Esper Wing:
-    Type: Psychic
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Bitter Malice:
-    Type: Ghost
-    Category: Special
-    Power: 75
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Shelter:
-    Type: Steel
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Triple Arrows:
-    Type: Fighting
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Infernal Parade:
-    Type: Ghost
-    Category: Special
-    Power: 60
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Ceaseless Edge:
-    Type: Dark
-    Category: Physical
-    Power: 65
-    Accuracy: 90
-    PP: 15
-    Priority: 0
-
-Bleakwind Storm:
-    Type: Flying
-    Category: Special
-    Power: 100
-    Accuracy: 80
-    PP: 10
-    Priority: 0
-
-Wildbolt Storm:
-    Type: Electric
-    Category: Special
-    Power: 100
-    Accuracy: 80
-    PP: 10
-    Priority: 0
-
-Sandsear Storm:
-    Type: Ground
-    Category: Special
-    Power: 100
-    Accuracy: 80
-    PP: 10
-    Priority: 0
-
-Lunar Blessing:
-    Type: Psychic
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 5
-    Priority: 0
-
-Tera Blast:
-    Type: Normal
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Silk Trap:
-    Type: Bug
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 4
-
-Axe Kick:
-    Type: Fighting
-    Category: Physical
-    Power: 120
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Last Respects:
-    Type: Ghost
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Lumina Crash:
-    Type: Psychic
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Order Up:
-    Type: Dragon
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Jet Punch:
-    Type: Water
-    Category: Physical
-    Power: 60
-    Accuracy: 100
-    PP: 15
-    Priority: 1
-
-Spicy Extract:
-    Type: Grass
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 15
-    Priority: 0
-
-Spin Out:
-    Type: Steel
-    Category: Physical
-    Power: 100
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Population Bomb:
-    Type: Normal
-    Category: Physical
-    Power: 20
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Ice Spinner:
-    Type: Ice
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Glaive Rush:
-    Type: Dragon
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Revival Blessing:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 1
-    Priority: 0
-
-Salt Cure:
-    Type: Rock
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Triple Dive:
-    Type: Water
-    Category: Physical
-    Power: 30
-    Accuracy: 95
-    PP: 10
-    Priority: 0
-
-Mortal Spin:
-    Type: Poison
-    Category: Physical
-    Power: 30
-    Accuracy: 100
-    PP: 15
-    Priority: 0
-
-Doodle:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Fillet Away:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Kowtow Cleave:
-    Type: Dark
-    Category: Physical
-    Power: 85
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Flower Trick:
-    Type: Grass
-    Category: Physical
-    Power: 70
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Torch Song:
-    Type: Fire
-    Category: Special
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Aqua Step:
-    Type: Water
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Raging Bull:
-    Type: Normal
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Make It Rain:
-    Type: Steel
-    Category: Special
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Pound:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 35
-    Priority: 0
-
-Pound:
-    Type: Normal
-    Category: Physical
-    Power: 40
-    Accuracy: 100
-    PP: 35
-    Priority: 0
-
-Ruination:
-    Type: Dark
-    Category: Special
-    Power: 1
-    Accuracy: 90
-    PP: 10
-    Priority: 0
-
-Collision Course:
-    Type: Fighting
-    Category: Physical
-    Power: 100
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Electro Drift:
-    Type: Electric
-    Category: Special
-    Power: 100
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Shed Tail:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Chilly Reception:
-    Type: Ice
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Tidy Up:
-    Type: Normal
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Snowscape:
-    Type: Ice
-    Category: Status
-    Power: 0
-    Accuracy: 101
-    PP: 10
-    Priority: 0
-
-Pounce:
-    Type: Bug
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Trailblaze:
-    Type: Grass
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Chilling Water:
-    Type: Water
-    Category: Special
-    Power: 50
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Hyper Drill:
-    Type: Normal
-    Category: Physical
-    Power: 100
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Twin Beam:
-    Type: Psychic
-    Category: Special
-    Power: 40
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Rage Fist:
-    Type: Ghost
-    Category: Physical
-    Power: 50
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Armor Cannon:
-    Type: Fire
-    Category: Special
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Bitter Blade:
-    Type: Fire
-    Category: Physical
-    Power: 90
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Double Shock:
-    Type: Electric
-    Category: Physical
-    Power: 120
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Gigaton Hammer:
-    Type: Steel
-    Category: Physical
-    Power: 160
-    Accuracy: 100
-    PP: 5
-    Priority: 0
-
-Comeuppance:
-    Type: Dark
-    Category: Physical
-    Power: 1
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Aqua Cutter:
-    Type: Water
-    Category: Physical
-    Power: 70
-    Accuracy: 100
-    PP: 20
-    Priority: 0
-
-Blazing Torque:
-    Type: Fire
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Wicked Torque:
-    Type: Dark
-    Category: Physical
-    Power: 80
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Noxious Torque:
-    Type: Poison
-    Category: Physical
-    Power: 100
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Combat Torque:
-    Type: Fighting
-    Category: Physical
-    Power: 100
-    Accuracy: 100
-    PP: 10
-    Priority: 0
-
-Magical Torque:
-    Type: Fairy
-    Category: Physical
-    Power: 100
-    Accuracy: 100
-    PP: 10
-    Priority: 0
+MoveName,Valid,Type,Quality,Category,Power,Accuracy,Pp,Priority,HitMin,HitMax,Inflict,InflictRate,RawInflictCount,TurnMin,TurnMax,CritStage,FlinchRate,EffectSequence,Recoil,RawHealing,RawTarget,Stat1,Stat1Amount,Stat1Rate,Stat2,Stat2Amount,Stat2Rate,Stat3,Stat3Amount,Stat3Rate,Field19,ContactFlag,ChargeFlag,RechargeFlag,ProtectFlag,ReflectFlag,SnatchFlag,MirrorFlag,PunchingFlag,SoundFlag,DanceFlag,GravityFlag,DefrostFlag,DistanceTripleFlag,HealFlag,IgnoreSubstituteFlag,FailSkyBattleFlag,AnimateAllyFlag,MetronomeFlag,Field38,Field38,Field39,Field40,Field41,Field42,Field43,Field44,Field45,Field46,Field47,Field48,Field49,Field50,Field51,Field52,Field53,SlicingFlag,WindFlag,Field56,Field57,Field58,Field59,Field60
+———,1,0,0,1,40,100,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pound,1,0,0,1,40,100,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mega Punch,1,0,0,1,80,85,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pay Day,1,0,0,1,40,100,20,0,0,0,0,0,0,0,0,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fire Punch,1,9,4,1,75,100,15,0,0,0,4,10,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ice Punch,1,14,4,1,75,100,15,0,0,0,3,10,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thunder Punch,1,12,4,1,75,100,15,0,0,0,1,10,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scratch,1,0,0,1,40,100,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vise Grip,1,0,0,1,55,100,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guillotine,1,0,9,1,1,30,5,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1
+Swords Dance,1,0,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,50,0,0,7,1,2,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cut,1,0,0,1,50,95,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Gust,1,2,0,2,40,100,35,0,0,0,0,0,0,0,0,0,0,149,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Wing Attack,1,2,0,1,60,100,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whirlwind,1,0,12,0,0,101,20,250,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Fly,1,2,0,1,90,95,15,0,0,0,0,0,0,0,0,0,0,155,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bind,1,0,4,1,15,85,20,0,0,0,8,100,4,5,6,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Slam,1,0,0,1,80,75,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vine Whip,1,11,0,1,45,100,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stomp,1,0,0,1,65,100,20,0,0,0,0,0,0,0,0,0,30,150,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Double Kick,1,1,0,1,30,100,30,0,2,2,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mega Kick,1,0,0,1,120,75,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Sand Attack,1,4,2,0,0,100,15,0,0,0,0,0,0,0,0,0,0,23,0,0,0,6,255,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Headbutt,1,0,0,1,70,100,15,0,0,0,0,0,0,0,0,0,30,31,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Horn Attack,1,0,0,1,65,100,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fury Attack,1,0,0,1,15,85,20,0,5,2,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Horn Drill,1,0,9,1,1,30,5,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+Tackle,1,0,0,1,40,100,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Body Slam,1,0,4,1,85,100,15,0,0,0,1,30,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wrap,1,0,4,1,15,90,20,0,0,0,8,100,4,5,6,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Take Down,1,0,0,1,90,85,20,0,0,0,0,0,0,0,0,0,0,48,231,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thrash,1,0,0,1,120,100,10,0,0,0,0,0,0,0,0,0,0,27,0,0,9,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Double-Edge,1,0,0,1,120,100,15,0,0,0,0,0,0,0,0,0,0,198,223,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tail Whip,1,0,2,0,0,100,30,0,0,0,0,0,0,0,0,0,0,19,0,0,5,2,255,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Poison Sting,1,3,4,1,15,100,35,0,0,0,5,30,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pin Missile,1,6,0,1,25,95,20,0,5,2,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leer,1,0,2,0,0,100,30,0,0,0,0,0,0,0,0,0,0,19,0,0,5,2,255,100,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Bite,1,16,0,1,60,100,25,0,0,0,0,0,0,0,0,0,30,31,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Growl,1,0,2,0,0,100,40,0,0,0,0,0,0,0,0,0,0,18,0,0,5,1,255,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Roar,1,0,12,0,0,101,20,250,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Sing,1,0,1,0,0,55,15,0,0,0,2,0,2,2,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Supersonic,1,0,1,0,0,55,20,0,0,0,6,0,2,2,5,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Disable,1,0,13,0,0,100,20,0,0,0,13,0,2,4,4,0,0,86,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Acid,1,3,6,2,40,100,30,0,0,0,0,0,0,0,0,0,0,72,0,0,5,4,255,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ember,1,9,4,2,40,100,25,0,0,0,4,10,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flamethrower,1,9,4,2,90,100,15,0,0,0,4,10,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mist,1,14,11,0,0,101,30,0,0,0,0,0,0,0,0,0,0,46,0,0,12,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water Gun,1,10,0,2,40,100,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hydro Pump,1,10,0,2,110,80,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Surf,1,10,0,2,90,100,15,0,0,0,0,0,0,0,0,0,0,257,0,0,4,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ice Beam,1,14,4,2,90,100,10,0,0,0,3,10,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blizzard,1,14,4,2,110,70,5,0,0,0,3,10,1,0,0,0,0,260,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Psybeam,1,13,4,2,65,100,20,0,0,0,6,10,2,2,5,0,0,76,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bubble Beam,1,10,6,2,65,100,20,0,0,0,0,0,0,0,0,0,0,70,0,0,0,5,255,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aurora Beam,1,14,6,2,65,100,20,0,0,0,0,0,0,0,0,0,0,68,0,0,0,1,255,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyper Beam,1,0,0,2,150,90,5,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peck,1,2,0,1,35,100,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Drill Peck,1,2,0,1,80,100,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Low Kick,1,1,0,1,1,100,20,0,0,0,0,0,0,0,0,0,0,196,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Counter,1,1,0,1,1,100,20,251,0,0,0,0,0,0,0,0,0,89,0,0,13,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Seismic Toss,1,1,0,1,1,100,20,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Strength,1,0,0,1,80,100,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Absorb,1,11,8,2,20,100,25,0,0,0,0,0,0,0,0,0,0,3,50,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mega Drain,1,11,8,2,40,100,15,0,0,0,0,0,0,0,0,0,0,3,50,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leech Seed,1,11,1,0,0,90,10,0,0,0,18,0,1,0,0,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Growth,1,0,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,316,0,0,7,1,1,0,3,1,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Razor Leaf,1,11,0,1,55,95,25,0,0,0,0,0,0,0,0,1,0,43,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Solar Beam,1,11,0,2,120,100,10,0,0,0,0,0,0,0,0,0,0,151,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Poison Powder,1,3,1,0,0,75,35,0,0,0,5,0,1,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+Stun Spore,1,11,1,0,0,75,30,0,0,0,1,0,1,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+Sleep Powder,1,11,1,0,0,75,15,0,0,0,2,0,2,2,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+Petal Dance,1,11,0,2,120,100,10,0,0,0,0,0,0,0,0,0,0,27,0,0,9,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+String Shot,1,6,2,0,0,95,40,0,0,0,0,0,0,0,0,0,0,60,0,0,5,5,254,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Fire Spin,1,9,4,2,35,85,15,0,0,0,8,100,4,5,6,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thunder Shock,1,12,4,2,40,100,30,0,0,0,1,10,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thunderbolt,1,12,4,2,90,100,15,0,0,0,1,10,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thunder Wave,1,12,1,0,0,90,20,0,0,0,1,0,1,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Thunder,1,12,4,2,110,70,10,0,0,0,1,30,1,0,0,0,0,152,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Rock Throw,1,5,0,1,50,90,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Earthquake,1,4,0,1,100,100,10,0,0,0,0,0,0,0,0,0,0,147,0,0,4,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fissure,1,4,9,1,1,30,5,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Dig,1,4,0,1,80,100,10,0,0,0,0,0,0,0,0,0,0,256,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toxic,1,3,1,0,0,90,10,0,0,0,5,0,1,15,15,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Confusion,1,13,4,2,50,100,25,0,0,0,6,10,2,2,5,0,0,76,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Psychic,1,13,6,2,90,100,10,0,0,0,0,0,0,0,0,0,0,72,0,0,0,4,255,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hypnosis,1,13,1,0,0,60,20,0,0,0,2,0,2,2,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Agility,1,13,2,0,0,101,30,0,0,0,0,0,0,0,0,0,0,52,0,0,7,5,2,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quick Attack,1,0,0,1,40,100,30,1,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teleport,1,13,13,0,0,101,20,250,0,0,0,0,0,0,0,0,0,153,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Night Shade,1,7,0,2,1,100,15,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mimic,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Screech,1,0,2,0,0,85,40,0,0,0,0,0,0,0,0,0,0,59,0,0,0,2,254,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Double Team,1,0,2,0,0,101,15,0,0,0,0,0,0,0,0,0,0,16,0,0,7,7,1,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Recover,1,0,3,0,0,101,5,0,0,0,0,0,0,0,0,0,0,32,0,50,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Harden,1,0,2,0,0,101,30,0,0,0,0,0,0,0,0,0,0,11,0,0,7,2,1,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Minimize,1,0,2,0,0,101,10,0,0,0,0,0,0,0,0,0,0,108,0,0,7,7,2,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smokescreen,1,0,2,0,0,100,20,0,0,0,0,0,0,0,0,0,0,23,0,0,0,6,255,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Confuse Ray,1,7,1,0,0,100,10,0,0,0,6,0,2,2,5,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Withdraw,1,10,2,0,0,101,40,0,0,0,0,0,0,0,0,0,0,11,0,0,7,2,1,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Defense Curl,1,0,2,0,0,101,40,0,0,0,0,0,0,0,0,0,0,156,0,0,7,2,1,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Light Screen,1,13,11,0,0,101,30,0,0,0,0,0,0,0,0,0,0,35,0,0,12,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Haze,1,14,10,0,0,101,30,0,0,0,0,0,0,0,0,0,0,25,0,0,10,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reflect,1,13,11,0,0,101,20,0,0,0,0,0,0,0,0,0,0,65,0,0,12,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Focus Energy,1,0,13,0,0,101,30,0,0,0,0,0,0,0,0,0,0,47,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metronome,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,83,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Self-Destruct,1,0,0,1,200,100,5,0,0,0,0,0,0,0,0,0,0,7,0,0,4,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Lick,1,7,4,1,30,100,30,0,0,0,1,30,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smog,1,3,4,2,30,70,20,0,0,0,5,40,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Sludge,1,3,4,2,65,100,20,0,0,0,5,30,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fire Blast,1,9,4,2,110,85,5,0,0,0,4,10,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Waterfall,1,10,0,1,80,100,15,0,0,0,0,0,0,0,0,0,20,31,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swift,1,0,0,2,60,101,20,0,0,0,0,0,0,0,0,0,0,17,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Amnesia,1,13,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,54,0,0,7,4,2,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Soft-Boiled,1,0,3,0,0,101,5,0,0,0,0,0,0,0,0,0,0,32,0,50,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+High Jump Kick,1,1,0,1,130,90,10,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glare,1,0,1,0,0,100,30,0,0,0,1,0,1,0,0,0,0,67,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Dream Eater,1,13,8,2,100,100,15,0,0,0,0,0,0,0,0,0,0,8,50,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Poison Gas,1,3,1,0,0,90,40,0,0,0,5,0,1,0,0,0,0,66,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Leech Life,1,6,8,1,80,100,10,0,0,0,0,0,0,0,0,0,0,3,50,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sky Attack,1,2,0,1,140,90,5,0,0,0,0,0,0,0,0,1,30,75,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transform,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spore,1,11,1,0,0,100,15,0,0,0,2,0,2,2,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Splash,1,0,13,0,0,101,40,0,0,0,0,0,0,0,0,0,0,85,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acid Armor,1,3,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,51,0,0,7,2,2,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crabhammer,1,10,0,1,100,90,10,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Explosion,1,0,0,1,250,100,5,0,0,0,0,0,0,0,0,0,0,7,0,0,4,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Fury Swipes,1,0,0,1,18,80,15,0,5,2,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rest,1,13,13,0,0,101,5,0,0,0,0,0,0,0,0,0,0,37,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Rock Slide,1,5,0,1,75,90,10,0,0,0,0,0,0,0,0,0,30,31,0,0,5,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tri Attack,1,0,4,2,80,100,10,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Super Fang,1,0,0,1,1,90,10,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Slash,1,0,0,1,70,100,20,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Substitute,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,79,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Struggle,1,0,0,1,50,101,1,0,0,0,0,0,0,0,0,0,0,254,0,231,9,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thief,1,16,0,1,60,100,25,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flame Wheel,1,9,4,1,60,100,25,0,0,0,4,10,1,0,0,0,0,125,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snore,1,0,0,2,50,100,15,0,0,0,0,0,0,0,0,0,30,92,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Curse,1,7,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,109,0,0,13,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flail,1,0,0,1,1,100,15,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cotton Spore,1,11,2,0,0,100,40,0,0,0,0,0,0,0,0,0,0,60,0,0,5,5,254,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Reversal,1,1,0,1,1,100,15,0,0,0,0,0,0,0,0,0,0,99,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spite,1,7,13,0,0,100,10,0,0,0,0,0,0,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Powder Snow,1,14,4,2,40,100,25,0,0,0,3,10,1,0,0,0,0,5,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Protect,1,0,13,0,0,101,10,4,0,0,0,0,0,0,0,0,0,111,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mach Punch,1,1,0,1,40,100,30,1,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scary Face,1,0,2,0,0,100,10,0,0,0,0,0,0,0,0,0,0,60,0,0,0,5,254,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Sweet Kiss,1,17,1,0,0,75,10,0,0,0,6,0,2,2,5,0,0,49,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+Belly Drum,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,142,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sludge Bomb,1,3,4,2,90,100,10,0,0,0,5,30,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Mud-Slap,1,4,6,2,20,100,10,0,0,0,0,0,0,0,0,0,0,73,0,0,0,6,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spikes,1,4,11,0,0,101,20,0,0,0,0,0,0,0,0,0,0,112,0,0,11,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Zap Cannon,1,12,4,2,120,50,5,0,0,0,1,100,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Destiny Bond,1,7,13,0,0,101,5,0,0,0,0,0,0,0,0,0,0,98,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Perish Song,1,0,1,0,0,101,5,0,0,0,20,0,2,4,4,0,0,114,0,0,8,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Icy Wind,1,14,6,2,55,95,15,0,0,0,0,0,0,0,0,0,0,70,0,0,5,5,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Detect,1,1,13,0,0,101,5,4,0,0,0,0,0,0,0,0,0,111,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bone Rush,1,4,0,1,25,90,10,0,5,2,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lock-On,1,0,13,0,0,101,5,0,0,0,0,0,0,0,0,0,0,94,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Outrage,1,15,0,1,120,100,10,0,0,0,0,0,0,0,0,0,0,27,0,0,9,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sandstorm,1,5,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,115,0,0,10,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Giga Drain,1,11,8,2,75,100,10,0,0,0,0,0,0,0,0,0,0,3,50,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Endure,1,0,13,0,0,101,10,4,0,0,0,0,0,0,0,0,0,116,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Charm,1,17,2,0,0,100,20,0,0,0,0,0,0,0,0,0,0,58,0,0,0,1,254,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rollout,1,5,0,1,30,90,20,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+False Swipe,1,0,0,1,40,100,40,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swagger,1,0,5,0,0,85,15,0,0,0,6,0,2,2,5,0,0,118,0,0,0,1,2,0,0,0,0,0,0,0,4,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Milk Drink,1,0,3,0,0,101,5,0,0,0,0,0,0,0,0,0,0,32,0,50,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Spark,1,12,4,1,65,100,20,0,0,0,1,30,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fury Cutter,1,6,0,1,40,95,20,0,0,0,0,0,0,0,0,0,0,119,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Steel Wing,1,8,7,1,70,90,25,0,0,0,0,0,0,0,0,0,0,138,0,0,0,2,1,10,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mean Look,1,0,13,0,0,101,5,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Attract,1,0,1,0,0,100,15,0,0,0,7,0,3,0,0,0,0,120,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Sleep Talk,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,97,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heal Bell,1,0,13,0,0,101,5,0,0,0,0,0,0,0,0,0,0,102,0,0,6,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Present,1,0,0,1,1,90,15,0,0,0,0,0,0,0,0,0,0,122,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Safeguard,1,0,11,0,0,101,25,0,0,0,0,0,0,0,0,0,0,124,0,0,12,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pain Split,1,0,13,0,0,101,20,0,0,0,0,0,0,0,0,0,0,91,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dynamic Punch,1,1,4,1,100,50,5,0,0,0,6,100,2,2,5,0,0,76,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Megahorn,1,6,0,1,120,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dragon Breath,1,15,4,2,60,100,20,0,0,0,1,30,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Baton Pass,1,0,13,0,0,101,40,0,0,0,0,0,0,0,0,0,0,127,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Encore,1,0,13,0,0,100,5,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Rapid Spin,1,0,7,1,50,100,40,0,0,0,0,0,0,0,0,0,0,129,0,0,0,5,1,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sweet Scent,1,0,2,0,0,100,20,0,0,0,0,0,0,0,0,0,0,64,0,0,5,7,254,0,0,0,0,0,0,0,4,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Iron Tail,1,8,6,1,100,75,15,0,0,0,0,0,0,0,0,0,0,69,0,0,0,2,255,30,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Metal Claw,1,8,7,1,50,95,35,0,0,0,0,0,0,0,0,0,0,139,0,0,0,1,1,10,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morning Sun,1,0,3,0,0,101,5,0,0,0,0,0,0,0,0,0,0,132,0,50,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Synthesis,1,11,3,0,0,101,5,0,0,0,0,0,0,0,0,0,0,132,0,50,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Moonlight,1,17,3,0,0,101,5,0,0,0,0,0,0,0,0,0,0,132,0,50,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Cross Chop,1,1,0,1,100,80,5,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Twister,1,15,0,2,40,100,20,0,0,0,0,0,0,0,0,0,20,146,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Rain Dance,1,10,10,0,0,101,5,0,0,0,0,0,0,0,0,0,0,136,0,0,10,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sunny Day,1,9,10,0,0,101,5,0,0,0,0,0,0,0,0,0,0,137,0,0,10,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Crunch,1,16,6,1,80,100,15,0,0,0,0,0,0,0,0,0,0,69,0,0,0,2,255,20,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Mirror Coat,1,13,0,2,1,100,20,251,0,0,0,0,0,0,0,0,0,144,0,0,13,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Psych Up,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,143,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Extreme Speed,1,0,0,1,80,100,5,2,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ancient Power,1,5,7,2,60,100,5,0,0,0,0,0,0,0,0,0,0,140,0,0,0,9,1,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shadow Ball,1,7,6,2,80,100,15,0,0,0,0,0,0,0,0,0,0,72,0,0,0,4,255,20,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Future Sight,1,13,13,2,120,100,10,0,0,0,0,0,0,0,0,0,0,148,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rock Smash,1,1,6,1,40,100,15,0,0,0,0,0,0,0,0,0,0,69,0,0,0,2,255,50,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Whirlpool,1,10,4,2,35,85,15,0,0,0,8,100,4,5,6,0,0,261,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Beat Up,1,16,0,1,1,100,10,0,6,6,0,0,0,0,0,0,0,154,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fake Out,1,0,0,1,40,100,10,3,0,0,0,0,0,0,0,0,100,158,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Uproar,1,0,0,2,90,100,10,0,0,0,0,0,0,0,0,0,0,159,0,0,9,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stockpile,1,0,13,0,0,101,20,0,0,0,0,0,0,0,0,0,0,160,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spit Up,1,0,0,2,1,100,10,0,0,0,0,0,0,0,0,0,0,161,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swallow,1,0,3,0,0,101,10,0,0,0,0,0,0,0,0,0,0,162,0,25,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Heat Wave,1,9,4,2,95,90,10,0,0,0,4,10,1,0,0,0,0,4,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Torment,1,16,1,0,0,100,15,0,0,0,12,0,1,0,0,0,0,165,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Flatter,1,16,5,0,0,100,15,0,0,0,6,0,2,2,5,0,0,166,0,0,0,3,1,0,0,0,0,0,0,0,4,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Will-O-Wisp,1,9,1,0,0,85,15,0,0,0,4,0,1,0,0,0,0,167,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Memento,1,16,13,0,0,100,10,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Facade,1,0,0,1,70,100,20,0,0,0,0,0,0,0,0,0,0,169,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Focus Punch,1,1,0,1,150,100,20,253,0,0,0,0,0,0,0,0,0,170,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Follow Me,1,0,13,0,0,101,20,2,0,0,0,0,0,0,0,0,0,172,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Charge,1,12,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,174,0,0,7,4,1,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Taunt,1,16,13,0,0,100,20,0,0,0,0,0,0,0,0,0,0,175,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Helping Hand,1,0,13,0,0,101,20,5,0,0,0,0,0,0,0,0,0,176,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Trick,1,13,13,0,0,100,10,0,0,0,0,0,0,0,0,0,0,177,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Role Play,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,178,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Wish,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,179,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Ingrain,1,11,1,0,0,101,20,0,0,0,21,0,1,0,0,0,0,181,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Superpower,1,1,7,1,120,100,5,0,0,0,0,0,0,0,0,0,0,182,0,0,0,1,255,100,2,255,100,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Recycle,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,184,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brick Break,1,1,0,1,75,100,15,0,0,0,0,0,0,0,0,0,0,186,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yawn,1,0,1,0,0,101,10,0,0,0,14,0,2,2,2,0,0,187,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Knock Off,1,16,0,1,65,100,20,0,0,0,0,0,0,0,0,0,0,188,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Endeavor,1,0,0,1,1,100,5,0,0,0,0,0,0,0,0,0,0,189,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Eruption,1,9,0,2,150,100,5,0,0,0,0,0,0,0,0,0,0,190,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skill Swap,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,191,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Imprison,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,192,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dive,1,10,0,1,80,100,10,0,0,0,0,0,0,0,0,0,0,255,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Arm Thrust,1,1,0,1,15,100,20,0,5,2,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Feather Dance,1,2,2,0,0,100,15,0,0,0,0,0,0,0,0,0,0,58,0,0,0,1,254,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Teeter Dance,1,0,1,0,0,100,20,0,0,0,6,0,2,2,5,0,0,199,0,0,4,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blaze Kick,1,9,4,1,85,90,10,0,0,0,4,10,1,0,0,1,0,200,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Slack Off,1,0,3,0,0,101,5,0,0,0,0,0,0,0,0,0,0,32,0,50,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Hyper Voice,1,0,0,2,90,100,10,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Poison Fang,1,3,4,1,50,100,15,0,0,0,5,50,1,15,15,0,0,202,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Crush Claw,1,0,6,1,75,95,10,0,0,0,0,0,0,0,0,0,0,69,0,0,0,2,255,50,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blast Burn,1,9,0,2,150,90,5,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hydro Cannon,1,10,0,2,150,90,5,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meteor Mash,1,8,7,1,90,90,10,0,0,0,0,0,0,0,0,0,0,139,0,0,0,1,1,20,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Astonish,1,7,0,1,30,100,15,0,0,0,0,0,0,0,0,0,30,31,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Weather Ball,1,0,0,2,50,100,10,0,0,0,0,0,0,0,0,0,0,203,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Fake Tears,1,16,2,0,0,100,20,0,0,0,0,0,0,0,0,0,0,62,0,0,0,4,254,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Air Cutter,1,2,0,2,60,95,25,0,0,0,0,0,0,0,0,1,0,43,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Overheat,1,9,7,2,130,90,5,0,0,0,0,0,0,0,0,0,0,204,0,0,0,3,254,100,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rock Tomb,1,5,6,1,60,95,15,0,0,0,0,0,0,0,0,0,0,70,0,0,0,5,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Metal Sound,1,8,2,0,0,85,40,0,0,0,0,0,0,0,0,0,0,62,0,0,0,4,254,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Tickle,1,0,2,0,0,100,20,0,0,0,0,0,0,0,0,0,0,205,0,0,0,1,255,0,2,255,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Cosmic Power,1,13,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,206,0,0,7,2,1,0,4,1,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water Spout,1,10,0,2,150,100,5,0,0,0,0,0,0,0,0,0,0,190,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shadow Punch,1,7,0,1,60,101,20,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Extrasensory,1,13,0,2,80,100,20,0,0,0,0,0,0,0,0,0,10,31,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sand Tomb,1,4,4,1,35,85,15,0,0,0,8,100,4,5,6,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sheer Cold,1,14,9,2,1,30,5,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+Muddy Water,1,10,6,2,90,85,10,0,0,0,0,0,0,0,0,0,0,73,0,0,5,6,255,30,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bullet Seed,1,11,0,1,25,100,30,0,5,2,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Aerial Ace,1,2,0,1,60,101,20,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Icicle Spear,1,14,0,1,25,100,30,0,5,2,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iron Defense,1,8,2,0,0,101,15,0,0,0,0,0,0,0,0,0,0,51,0,0,7,2,2,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Block,1,0,13,0,0,101,5,0,0,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Howl,1,0,2,0,0,101,40,0,0,0,0,0,0,0,0,0,0,10,0,0,6,1,1,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dragon Claw,1,15,0,1,80,100,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frenzy Plant,1,11,0,2,150,90,5,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bulk Up,1,1,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,208,0,0,7,1,1,0,2,1,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bounce,1,2,4,1,85,85,5,0,0,0,1,30,1,0,0,0,0,263,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mud Shot,1,4,6,2,55,95,15,0,0,0,0,0,0,0,0,0,0,70,0,0,0,5,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Poison Tail,1,3,4,1,50,100,25,0,0,0,5,10,1,0,0,1,0,209,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Covet,1,0,0,1,60,100,25,0,0,0,0,0,0,0,0,0,0,105,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Volt Tackle,1,12,4,1,120,100,15,0,0,0,1,10,1,0,0,0,0,262,223,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Magical Leaf,1,11,0,2,60,101,20,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Calm Mind,1,13,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,211,0,0,7,3,1,0,4,1,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leaf Blade,1,11,0,1,90,100,15,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Dragon Dance,1,15,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,212,0,0,7,1,1,0,5,1,0,0,0,0,5,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rock Blast,1,5,0,1,25,90,10,0,5,2,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Shock Wave,1,12,0,2,60,101,20,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water Pulse,1,10,4,2,60,100,20,0,0,0,6,20,2,2,5,0,0,76,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roost,1,2,3,0,0,101,5,0,0,0,0,0,0,0,0,0,0,214,0,50,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Gravity,1,13,10,0,0,101,5,0,0,0,0,0,0,0,0,0,0,215,0,0,10,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hammer Arm,1,1,7,1,100,90,10,0,0,0,0,0,0,0,0,0,0,218,0,0,0,5,255,100,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gyro Ball,1,8,0,1,1,100,5,0,0,0,0,0,0,0,0,0,0,219,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Healing Wish,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,220,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Brine,1,10,0,2,65,100,10,0,0,0,0,0,0,0,0,0,0,221,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Feint,1,0,0,1,30,100,10,2,0,0,0,0,0,0,0,0,0,223,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pluck,1,2,0,1,60,100,20,0,0,0,0,0,0,0,0,0,0,224,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tailwind,1,2,11,0,0,101,15,0,0,0,0,0,0,0,0,0,0,225,0,0,12,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Acupressure,1,0,13,0,0,101,30,0,0,0,0,0,0,0,0,0,0,226,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Metal Burst,1,8,0,1,1,100,10,0,0,0,0,0,0,0,0,0,0,227,0,0,13,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+U-turn,1,6,0,1,70,100,20,0,0,0,0,0,0,0,0,0,0,228,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Close Combat,1,1,7,1,120,100,5,0,0,0,0,0,0,0,0,0,0,229,0,0,0,2,255,100,4,255,100,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Payback,1,16,0,1,50,100,10,0,0,0,0,0,0,0,0,0,0,230,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Assurance,1,16,0,1,60,100,10,0,0,0,0,0,0,0,0,0,0,231,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fling,1,16,0,1,1,100,10,0,0,0,0,0,0,0,0,0,0,233,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Power Trick,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,238,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Gastro Acid,1,3,13,0,0,100,10,0,0,0,0,0,0,0,0,0,0,239,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Copycat,1,0,13,0,0,101,20,0,0,0,0,0,0,0,0,0,0,242,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Power Swap,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,243,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+Guard Swap,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,244,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Last Resort,1,0,0,1,140,100,5,0,0,0,0,0,0,0,0,0,0,246,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Worry Seed,1,11,13,0,0,100,10,0,0,0,0,0,0,0,0,0,0,247,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Sucker Punch,1,16,0,1,70,100,5,1,0,0,0,0,0,0,0,0,0,248,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Toxic Spikes,1,3,11,0,0,101,20,0,0,0,0,0,0,0,0,0,0,249,0,0,11,0,0,0,0,0,0,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Heart Swap,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Aqua Ring,1,10,13,0,0,101,20,0,0,0,0,0,0,0,0,0,0,251,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Magnet Rise,1,12,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,252,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flare Blitz,1,9,4,1,120,100,15,0,0,0,4,10,1,0,0,0,0,253,223,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Force Palm,1,1,4,1,60,100,10,0,0,0,1,30,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aura Sphere,1,1,0,2,80,101,20,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Rock Polish,1,5,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,52,0,0,7,5,2,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Poison Jab,1,3,4,1,80,100,20,0,0,0,5,30,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dark Pulse,1,16,0,2,80,100,15,0,0,0,0,0,0,0,0,0,20,31,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Night Slash,1,16,0,1,70,100,15,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Aqua Tail,1,10,0,1,90,90,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seed Bomb,1,11,0,1,80,100,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Air Slash,1,2,0,2,75,95,15,0,0,0,0,0,0,0,0,0,30,31,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+X-Scissor,1,6,0,1,80,100,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Bug Buzz,1,6,6,2,90,100,10,0,0,0,0,0,0,0,0,0,0,72,0,0,0,4,255,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dragon Pulse,1,15,0,2,85,100,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dragon Rush,1,15,0,1,100,75,10,0,0,0,0,0,0,0,0,0,20,31,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Power Gem,1,5,0,2,80,100,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Drain Punch,1,1,8,1,75,100,10,0,0,0,0,0,0,0,0,0,0,3,50,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vacuum Wave,1,1,0,2,40,100,30,1,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Focus Blast,1,1,6,2,120,70,5,0,0,0,0,0,0,0,0,0,0,72,0,0,0,4,255,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Energy Ball,1,11,6,2,90,100,10,0,0,0,0,0,0,0,0,0,0,72,0,0,0,4,255,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Brave Bird,1,2,0,1,120,100,15,0,0,0,0,0,0,0,0,0,0,198,223,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Earth Power,1,4,6,2,90,100,10,0,0,0,0,0,0,0,0,0,0,72,0,0,0,4,255,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Switcheroo,1,16,13,0,0,100,10,0,0,0,0,0,0,0,0,0,0,177,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Giga Impact,1,0,0,1,150,90,5,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nasty Plot,1,16,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,53,0,0,7,3,2,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bullet Punch,1,8,0,1,40,100,30,1,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Avalanche,1,14,0,1,60,100,10,252,0,0,0,0,0,0,0,0,0,185,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ice Shard,1,14,0,1,40,100,30,1,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shadow Claw,1,7,0,1,70,100,15,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thunder Fang,1,12,4,1,65,95,15,0,0,0,1,10,1,0,0,0,10,275,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Ice Fang,1,14,4,1,65,95,15,0,0,0,3,10,1,0,0,0,10,274,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Fire Fang,1,9,4,1,65,95,15,0,0,0,4,10,1,0,0,0,10,273,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Shadow Sneak,1,7,0,1,40,100,30,1,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Psycho Cut,1,13,0,1,70,100,20,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Zen Headbutt,1,13,0,1,80,90,15,0,0,0,0,0,0,0,0,0,20,31,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flash Cannon,1,8,6,2,80,100,10,0,0,0,0,0,0,0,0,0,0,72,0,0,0,4,255,10,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Defog,1,2,13,0,0,101,15,0,0,0,0,0,0,0,0,0,0,258,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trick Room,1,13,10,0,0,101,5,249,0,0,0,0,0,0,0,0,0,259,0,0,10,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Draco Meteor,1,15,7,2,130,90,5,0,0,0,0,0,0,0,0,0,0,204,0,0,0,3,254,100,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Discharge,1,12,4,2,80,100,15,0,0,0,1,30,1,0,0,0,0,6,0,0,4,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lava Plume,1,9,4,2,80,100,15,0,0,0,4,30,1,0,0,0,0,4,0,0,4,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leaf Storm,1,11,7,2,130,90,5,0,0,0,0,0,0,0,0,0,0,204,0,0,0,3,254,100,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Power Whip,1,11,0,1,120,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cross Poison,1,3,4,1,70,100,20,0,0,0,5,10,1,0,0,1,0,209,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Gunk Shot,1,3,4,1,120,80,5,0,0,0,5,30,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Iron Head,1,8,0,1,80,100,15,0,0,0,0,0,0,0,0,0,30,31,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stone Edge,1,5,0,1,100,80,5,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stealth Rock,1,5,11,0,0,101,20,0,0,0,0,0,0,0,0,0,0,266,0,0,11,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Grass Knot,1,11,0,2,1,100,20,0,0,0,0,0,0,0,0,0,0,196,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Judgment,1,0,0,2,100,100,10,0,0,0,0,0,0,0,0,0,0,268,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bug Bite,1,6,0,1,60,100,20,0,0,0,0,0,0,0,0,0,0,224,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Charge Beam,1,12,7,2,50,90,10,0,0,0,0,0,0,0,0,0,0,276,0,0,0,3,1,70,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wood Hammer,1,11,0,1,120,100,15,0,0,0,0,0,0,0,0,0,0,198,223,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aqua Jet,1,10,0,1,40,100,20,1,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Attack Order,1,6,0,1,90,100,15,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Defend Order,1,6,2,0,0,101,10,0,0,0,0,0,0,0,0,0,0,206,0,0,7,2,1,0,4,1,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Head Smash,1,5,0,1,150,80,5,0,0,0,0,0,0,0,0,0,0,269,206,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Double Hit,1,0,0,1,35,90,10,0,2,2,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Roar of Time,1,15,0,2,150,90,5,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spacial Rend,1,15,0,2,100,95,5,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lunar Dance,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,270,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Magma Storm,1,9,4,2,100,75,5,0,0,0,8,100,4,5,6,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Shadow Force,1,7,0,1,120,100,5,0,0,0,0,0,0,0,0,0,0,272,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hone Claws,1,16,2,0,0,101,15,0,0,0,0,0,0,0,0,0,0,277,0,0,7,1,1,0,6,1,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wide Guard,1,5,11,0,0,101,10,3,0,0,0,0,0,0,0,0,0,278,0,0,12,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Guard Split,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,279,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Power Split,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,280,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Wonder Room,1,13,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,281,0,0,10,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Psyshock,1,13,0,2,80,100,10,0,0,0,0,0,0,0,0,0,0,282,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Venoshock,1,3,0,2,65,100,10,0,0,0,0,0,0,0,0,0,0,283,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rage Powder,1,6,13,0,0,101,20,2,0,0,0,0,0,0,0,0,0,172,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Magic Room,1,13,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,286,0,0,10,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Smack Down,1,5,0,1,50,100,15,0,0,0,0,0,0,0,0,0,0,287,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sludge Wave,1,3,4,2,95,100,10,0,0,0,5,10,1,0,0,0,0,2,0,0,4,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quiver Dance,1,6,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,290,0,0,7,3,1,0,4,1,0,5,1,0,5,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heavy Slam,1,8,0,1,1,100,10,0,0,0,0,0,0,0,0,0,0,291,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Electro Ball,1,12,0,2,1,100,10,0,0,0,0,0,0,0,0,0,0,293,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Soak,1,10,13,0,0,100,20,0,0,0,0,0,0,0,0,0,0,294,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Flame Charge,1,9,7,1,50,100,20,0,0,0,0,0,0,0,0,0,0,295,0,0,0,5,1,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coil,1,3,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,322,0,0,7,1,1,0,2,1,0,6,1,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Low Sweep,1,1,6,1,65,100,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,5,255,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acid Spray,1,3,6,2,40,100,20,0,0,0,0,0,0,0,0,0,0,296,0,0,0,4,254,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Foul Play,1,16,0,1,95,100,15,0,0,0,0,0,0,0,0,0,0,297,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simple Beam,1,0,13,0,0,100,15,0,0,0,0,0,0,0,0,0,0,298,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Entrainment,1,0,13,0,0,100,15,0,0,0,0,0,0,0,0,0,0,299,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+After You,1,0,13,0,0,101,15,0,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Round,1,0,0,2,60,100,15,0,0,0,0,0,0,0,0,0,0,301,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Echoed Voice,1,0,0,2,40,100,15,0,0,0,0,0,0,0,0,0,0,302,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Clear Smog,1,3,0,2,50,101,15,0,0,0,0,0,0,0,0,0,0,304,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Stored Power,1,13,0,2,20,100,10,0,0,0,0,0,0,0,0,0,0,305,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quick Guard,1,1,11,0,0,101,15,3,0,0,0,0,0,0,0,0,0,306,0,0,12,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ally Switch,1,13,13,0,0,101,15,2,0,0,0,0,0,0,0,0,0,307,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scald,1,10,4,2,80,100,15,0,0,0,4,30,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell Smash,1,0,13,0,0,101,15,0,0,0,0,0,0,0,0,0,0,308,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Heal Pulse,1,13,3,0,0,101,10,0,0,0,0,0,0,0,0,0,0,309,0,50,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Hex,1,7,0,2,65,100,10,0,0,0,0,0,0,0,0,0,0,310,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shift Gear,1,8,2,0,0,101,10,0,0,0,0,0,0,0,0,0,0,312,0,0,7,5,2,0,1,1,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Circle Throw,1,1,0,1,60,90,10,250,0,0,0,0,0,0,0,0,0,313,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Incinerate,1,9,0,2,60,100,15,0,0,0,0,0,0,0,0,0,0,314,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Quash,1,16,13,0,0,100,15,0,0,0,0,0,0,0,0,0,0,315,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Acrobatics,1,2,0,1,55,100,15,0,0,0,0,0,0,0,0,0,0,317,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Reflect Type,1,0,13,0,0,101,15,0,0,0,0,0,0,0,0,0,0,318,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Retaliate,1,0,0,1,70,100,5,0,0,0,0,0,0,0,0,0,0,319,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Final Gambit,1,1,0,2,1,100,5,0,0,0,0,0,0,0,0,0,0,320,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Inferno,1,9,4,2,100,50,5,0,0,0,4,100,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Water Pledge,1,10,0,2,80,100,10,0,0,0,0,0,0,0,0,0,0,324,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fire Pledge,1,9,0,2,80,100,10,0,0,0,0,0,0,0,0,0,0,325,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grass Pledge,1,11,0,2,80,100,10,0,0,0,0,0,0,0,0,0,0,326,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Volt Switch,1,12,0,2,70,100,20,0,0,0,0,0,0,0,0,0,0,228,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Struggle Bug,1,6,6,2,50,100,20,0,0,0,0,0,0,0,0,0,0,71,0,0,5,3,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bulldoze,1,4,6,1,60,100,20,0,0,0,0,0,0,0,0,0,0,70,0,0,4,5,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frost Breath,1,14,0,2,60,90,10,0,0,0,0,100,0,0,0,6,0,288,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dragon Tail,1,15,0,1,60,90,10,250,0,0,0,0,0,0,0,0,0,313,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Work Up,1,0,2,0,0,101,30,0,0,0,0,0,0,0,0,0,0,327,0,0,7,1,1,0,3,1,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Electroweb,1,12,6,2,55,95,15,0,0,0,0,0,0,0,0,0,0,20,0,0,5,5,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wild Charge,1,12,0,1,90,100,15,0,0,0,0,0,0,0,0,0,0,48,231,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Drill Run,1,4,0,1,80,95,10,0,0,0,0,0,0,0,0,1,0,43,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Horn Leech,1,11,8,1,75,100,10,0,0,0,0,0,0,0,0,0,0,3,50,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sacred Sword,1,1,0,1,90,100,15,0,0,0,0,0,0,0,0,0,0,303,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Razor Shell,1,10,6,1,75,95,10,0,0,0,0,0,0,0,0,0,0,69,0,0,0,2,255,50,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Heat Crash,1,9,0,1,1,100,10,0,0,0,0,0,0,0,0,0,0,291,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cotton Guard,1,11,2,0,0,101,10,0,0,0,0,0,0,0,0,0,0,328,0,0,7,2,3,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Night Daze,1,16,6,2,85,95,10,0,0,0,0,0,0,0,0,0,0,73,0,0,0,6,255,40,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Psystrike,1,13,0,2,100,100,10,0,0,0,0,0,0,0,0,0,0,282,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tail Slap,1,0,0,1,25,85,10,0,5,2,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hurricane,1,2,4,2,110,70,10,0,0,0,6,30,2,2,5,0,0,333,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Relic Song,1,0,4,2,75,100,10,0,0,0,2,10,2,2,4,0,0,329,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fiery Dance,1,9,7,2,80,100,10,0,0,0,0,0,0,0,0,0,0,276,0,0,0,3,1,50,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snarl,1,16,6,2,55,95,15,0,0,0,0,0,0,0,0,0,0,71,0,0,5,3,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Icicle Crash,1,14,0,1,85,90,10,0,0,0,0,0,0,0,0,0,30,31,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+V-create,1,9,7,1,180,95,5,0,0,0,0,0,0,0,0,0,0,334,0,0,0,5,255,100,2,255,100,4,255,100,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Flying Press,1,1,0,1,100,95,10,0,0,0,0,0,0,0,0,0,0,337,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Belch,1,3,0,2,120,90,10,0,0,0,0,0,0,0,0,0,0,338,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sticky Web,1,6,11,0,0,101,20,0,0,0,0,0,0,0,0,0,0,340,0,0,11,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Fell Stinger,1,6,0,1,50,100,25,0,0,0,0,0,0,0,0,0,0,341,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Phantom Force,1,7,0,1,90,100,10,0,0,0,0,0,0,0,0,0,0,272,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Noble Roar,1,0,2,0,0,100,30,0,0,0,0,0,0,0,0,0,0,343,0,0,0,1,255,100,3,255,100,0,0,0,5,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parabolic Charge,1,12,8,2,65,100,20,0,0,0,0,0,0,0,0,0,0,345,50,0,4,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Petal Blizzard,1,11,0,1,90,100,15,0,0,0,0,0,0,0,0,0,0,378,0,0,4,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Freeze-Dry,1,14,4,2,70,100,20,0,0,0,3,10,1,0,0,0,0,379,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Disarming Voice,1,17,0,2,40,101,15,0,0,0,0,0,0,0,0,0,0,380,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parting Shot,1,16,2,0,0,100,20,0,0,0,0,0,0,0,0,0,0,346,0,0,0,1,255,100,3,255,100,0,0,0,4,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Draining Kiss,1,17,8,2,50,100,10,0,0,0,0,0,0,0,0,0,0,348,75,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grassy Terrain,1,11,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,351,0,0,10,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Misty Terrain,1,17,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,352,0,0,10,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Play Rough,1,17,6,1,90,90,10,0,0,0,0,0,0,0,0,0,0,68,0,0,0,1,255,10,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fairy Wind,1,17,0,2,40,100,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Moonblast,1,17,6,2,95,100,15,0,0,0,0,0,0,0,0,0,0,71,0,0,0,3,255,30,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Boomburst,1,0,0,2,140,100,10,0,0,0,0,0,0,0,0,0,0,378,0,0,4,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fairy Lock,1,17,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,354,0,0,10,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Play Nice,1,0,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,356,0,0,0,1,255,100,0,0,0,0,0,0,5,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Confide,1,0,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,357,0,0,0,3,255,100,0,0,0,0,0,0,5,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Diamond Storm,1,5,7,1,100,95,5,0,0,0,0,0,0,0,0,0,0,358,0,0,5,2,2,50,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steam Eruption,1,10,4,2,110,95,5,0,0,0,4,30,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyperspace Hole,1,13,0,2,80,101,5,0,0,0,0,0,0,0,0,0,0,359,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Water Shuriken,1,10,0,2,15,100,20,1,5,2,0,0,0,0,0,0,0,360,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mystical Fire,1,9,6,2,75,100,10,0,0,0,0,0,0,0,0,0,0,71,0,0,0,3,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spiky Shield,1,11,13,0,0,101,10,4,0,0,0,0,0,0,0,0,0,361,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aromatic Mist,1,17,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,362,0,0,2,4,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Eerie Impulse,1,12,2,0,0,100,15,0,0,0,0,0,0,0,0,0,0,61,0,0,0,3,254,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Magnetic Flux,1,12,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,366,0,0,6,2,1,0,4,1,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Happy Hour,1,0,13,0,0,101,30,0,0,0,0,0,0,0,0,0,0,367,0,0,12,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Electric Terrain,1,12,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,368,0,0,10,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dazzling Gleam,1,17,0,2,80,100,10,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Celebrate,1,0,13,0,0,101,40,0,0,0,0,0,0,0,0,0,0,369,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hold Hands,1,0,13,0,0,101,40,0,0,0,0,0,0,0,0,0,0,370,0,0,2,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Baby-Doll Eyes,1,17,2,0,0,100,30,1,0,0,0,0,0,0,0,0,0,364,0,0,0,1,255,0,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Nuzzle,1,12,4,1,20,100,20,0,0,0,1,100,1,0,0,0,0,371,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hold Back,1,0,0,1,40,100,40,0,0,0,0,0,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infestation,1,6,4,2,20,100,20,0,0,0,8,100,4,5,6,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Origin Pulse,1,10,0,2,110,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Precipice Blades,1,4,0,1,120,85,10,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dragon Ascent,1,2,7,1,120,100,5,0,0,0,0,0,0,0,0,0,0,229,0,0,0,2,255,100,4,255,100,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyperspace Fury,1,16,7,1,100,101,5,0,0,0,0,0,0,0,0,0,0,359,0,0,0,2,255,100,0,0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shore Up,1,4,3,0,0,101,5,0,0,0,0,0,0,0,0,0,0,381,0,50,7,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+First Impression,1,6,0,1,90,100,10,2,0,0,0,0,0,0,0,0,0,382,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Baneful Bunker,1,3,13,0,0,101,10,4,0,0,0,0,0,0,0,0,0,383,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spirit Shackle,1,7,0,1,80,100,10,0,0,0,0,0,0,0,0,0,0,384,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Darkest Lariat,1,16,0,1,85,100,10,0,0,0,0,0,0,0,0,0,0,303,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ice Hammer,1,14,7,1,100,90,10,0,0,0,0,0,0,0,0,0,0,218,0,0,0,5,255,100,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+High Horsepower,1,4,0,1,95,95,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Strength Sap,1,11,13,0,0,100,10,0,0,0,0,0,0,0,0,0,0,387,0,0,0,1,255,100,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Solar Blade,1,11,0,1,125,100,10,0,0,0,0,0,0,0,0,0,0,151,0,0,0,0,0,0,0,0,0,0,0,0,5,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Leafage,1,11,0,1,40,100,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Throat Chop,1,16,4,1,80,100,15,0,0,0,24,100,2,2,2,0,0,392,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pollen Puff,1,6,0,2,90,100,15,0,0,0,0,0,0,0,0,0,0,393,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Psychic Terrain,1,13,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,394,0,0,10,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lunge,1,6,6,1,80,100,15,0,0,0,0,0,0,0,0,0,0,395,0,0,0,1,255,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fire Lash,1,9,6,1,80,100,15,0,0,0,0,0,0,0,0,0,0,396,0,0,0,2,255,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Power Trip,1,16,0,1,20,100,10,0,0,0,0,0,0,0,0,0,0,305,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burn Up,1,9,0,2,130,100,5,0,0,0,0,0,0,0,0,0,0,397,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Speed Swap,1,13,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,398,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Smart Strike,1,8,0,1,70,101,10,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Revelation Dance,1,0,0,2,90,100,15,0,0,0,0,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trop Kick,1,11,6,1,70,100,15,0,0,0,0,0,0,0,0,0,0,395,0,0,0,1,255,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Instruct,1,13,13,0,0,101,15,0,0,0,0,0,0,0,0,0,0,402,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Brutal Swing,1,16,0,1,60,100,20,0,0,0,0,0,0,0,0,0,0,405,0,0,4,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aurora Veil,1,14,11,0,0,101,20,0,0,0,0,0,0,0,0,0,0,406,0,0,12,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fleur Cannon,1,17,7,2,130,90,5,0,0,0,0,0,0,0,0,0,0,204,0,0,0,3,254,100,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Psychic Fangs,1,13,0,1,85,100,10,0,0,0,0,0,0,0,0,0,0,186,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Stomping Tantrum,1,4,0,1,75,100,10,0,0,0,0,0,0,0,0,0,0,408,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Accelerock,1,5,0,1,40,100,20,1,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Liquidation,1,10,6,1,85,100,10,0,0,0,0,0,0,0,0,0,0,69,0,0,0,2,255,20,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tearful Look,1,0,2,0,0,101,20,0,0,0,0,0,0,0,0,0,0,411,0,0,0,1,255,100,3,255,100,0,0,0,5,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Zing Zap,1,12,0,1,80,100,10,0,0,0,0,0,0,0,0,0,30,31,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dynamax Cannon,1,15,0,2,100,100,5,0,0,0,0,0,0,0,0,0,0,420,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Snipe Shot,1,10,0,2,80,100,15,0,0,0,0,0,0,0,0,1,0,421,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jaw Lock,1,16,0,1,80,100,10,0,0,0,0,0,0,0,0,0,0,422,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Stuff Cheeks,1,0,2,0,0,101,10,0,0,0,0,0,0,0,0,0,0,423,0,0,7,2,2,100,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+No Retreat,1,1,2,0,0,101,5,0,0,0,0,0,0,0,0,0,0,424,0,0,7,9,1,100,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Tar Shot,1,5,5,0,0,100,15,0,0,0,42,100,1,0,0,0,0,425,0,0,0,5,255,100,0,0,0,0,0,0,5,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Magic Powder,1,13,13,0,0,100,20,0,0,0,0,0,0,0,0,0,0,426,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0
+Dragon Darts,1,15,0,1,50,100,10,0,2,2,0,0,0,0,0,0,0,427,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Teatime,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,428,0,0,8,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Court Change,1,0,13,0,0,100,10,0,0,0,0,0,0,0,0,0,0,431,0,0,10,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Body Press,1,1,0,1,80,100,10,0,0,0,0,0,0,0,0,0,0,433,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Drum Beating,1,11,6,1,80,100,10,0,0,0,0,0,0,0,0,0,0,70,0,0,0,5,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Pyro Ball,1,9,4,1,120,90,5,0,0,0,4,10,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+Behemoth Blade,1,8,0,1,100,100,5,0,0,0,0,0,0,0,0,0,0,435,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Behemoth Bash,1,8,0,1,100,100,5,0,0,0,0,0,0,0,0,0,0,435,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Breaking Swipe,1,15,6,1,60,100,15,0,0,0,0,0,0,0,0,0,0,395,0,0,5,1,255,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Branch Poke,1,11,0,1,40,100,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Overdrive,1,12,0,2,80,100,10,0,0,0,0,0,0,0,0,0,0,438,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Apple Acid,1,11,6,2,80,100,10,0,0,0,0,0,0,0,0,0,0,439,0,0,0,4,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Grav Apple,1,11,6,1,80,100,10,0,0,0,0,0,0,0,0,0,0,396,0,0,0,2,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Spirit Break,1,17,6,1,75,100,15,0,0,0,0,0,0,0,0,0,0,71,0,0,0,3,255,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Life Dew,1,10,3,0,0,101,10,0,0,0,0,0,0,0,0,0,0,440,0,25,6,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0
+False Surrender,1,16,0,1,80,101,10,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steel Beam,1,8,0,2,140,95,5,0,0,0,0,0,0,0,0,0,0,419,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Expanding Force,1,13,0,2,80,100,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Steel Roller,1,8,0,1,130,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scale Shot,1,15,0,1,25,90,20,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Meteor Beam,1,5,0,2,120,90,10,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shell Side Arm,1,3,4,2,90,100,10,0,0,0,5,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Misty Explosion,1,17,0,2,100,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grassy Glide,1,11,0,1,60,100,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rising Voltage,1,12,0,2,70,100,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Terrain Pulse,1,0,0,2,50,100,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Skitter Smack,1,6,6,1,70,90,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,255,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Burning Jealousy,1,9,4,2,70,100,5,0,0,0,4,100,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lash Out,1,16,0,1,75,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Poltergeist,1,7,0,1,110,90,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Corrosive Gas,1,3,13,0,0,100,40,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Coaching,1,1,2,0,0,101,10,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,1,100,2,1,100,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Flip Turn,1,10,0,1,60,100,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Triple Axel,1,14,0,1,20,90,10,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dual Wingbeat,1,2,0,1,40,90,10,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scorching Sands,1,4,4,2,70,100,10,0,0,0,4,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jungle Healing,1,11,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,445,0,25,6,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Wicked Blow,1,16,0,1,75,100,5,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Surging Strikes,1,10,0,1,25,100,5,0,3,3,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thunder Cage,1,12,4,2,80,90,15,0,0,0,8,100,4,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Dragon Energy,1,15,0,2,150,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Freezing Glare,1,13,4,2,90,100,10,0,0,0,3,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fiery Wrath,1,16,0,2,90,100,10,0,0,0,0,0,0,0,0,0,20,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thunderous Kick,1,1,6,1,90,100,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,255,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glacial Lance,1,14,0,1,120,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Astral Barrage,1,7,0,2,120,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eerie Spell,1,13,0,2,80,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Dire Claw,1,3,4,1,80,100,15,0,0,0,47,50,2,2,4,0,0,442,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Psyshield Bash,1,13,7,1,70,90,10,0,0,0,0,0,0,0,0,0,0,138,0,0,0,2,1,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Power Shift,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,238,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Stone Axe,1,5,0,1,65,90,15,0,0,0,0,0,0,0,0,0,0,443,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Springtide Storm,1,17,6,2,100,80,5,0,0,0,0,0,0,0,0,0,0,68,0,0,5,1,255,30,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Mystical Power,1,13,7,2,70,90,10,0,0,0,0,0,0,0,0,0,0,276,0,0,0,3,1,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raging Fury,1,9,0,1,120,100,10,0,0,0,0,0,0,0,0,0,0,27,0,0,9,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wave Crash,1,10,0,1,120,100,10,0,0,0,0,0,0,0,0,0,0,198,223,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chloroblast,1,11,0,2,150,95,5,0,0,0,0,0,0,0,0,0,0,419,0,206,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mountain Gale,1,14,0,1,100,85,10,0,0,0,0,0,0,0,0,0,30,31,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Victory Dance,1,1,2,0,0,101,10,0,0,0,0,0,0,0,0,0,0,212,0,0,7,1,1,100,2,1,100,5,1,100,5,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Headlong Rush,1,4,7,1,120,100,5,0,0,0,0,0,0,0,0,0,0,229,0,0,0,2,255,100,4,255,100,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Barb Barrage,1,3,4,1,60,100,10,0,0,0,5,50,1,0,0,0,0,283,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Esper Wing,1,13,7,2,80,100,10,0,0,0,0,0,0,0,0,1,0,12,0,0,0,5,1,100,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bitter Malice,1,7,6,2,75,100,10,0,0,0,0,0,0,0,0,0,0,395,0,0,0,1,255,100,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shelter,1,8,2,0,0,101,10,0,0,0,0,0,0,0,0,0,0,51,0,0,7,2,2,100,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Triple Arrows,1,1,6,1,90,100,10,0,0,0,0,0,0,0,0,1,30,69,0,0,0,2,255,50,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Infernal Parade,1,7,4,2,60,100,15,0,0,0,4,30,1,0,0,0,0,310,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ceaseless Edge,1,16,0,1,65,90,15,0,0,0,0,0,0,0,0,0,0,444,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Bleakwind Storm,1,2,6,2,100,80,10,0,0,0,0,0,0,0,0,0,0,333,0,0,5,5,255,30,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Wildbolt Storm,1,12,4,2,100,80,10,0,0,0,1,20,1,0,0,0,0,152,0,0,5,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Sandsear Storm,1,4,4,2,100,80,10,0,0,0,4,20,1,0,0,0,0,447,0,0,5,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Lunar Blessing,1,13,13,0,0,101,5,0,0,0,0,0,0,0,0,0,0,445,0,25,6,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Tera Blast,1,0,0,2,80,100,10,0,0,0,0,0,0,0,0,0,0,450,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Silk Trap,1,6,13,0,0,101,10,4,0,0,0,0,0,0,0,0,0,451,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Axe Kick,1,1,4,1,120,90,10,0,0,0,6,30,2,3,5,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Last Respects,1,7,0,1,50,100,10,0,0,0,0,0,0,0,0,0,0,452,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lumina Crash,1,13,6,2,80,100,10,0,0,0,0,0,0,0,0,0,0,271,0,0,0,4,254,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Order Up,1,15,6,1,80,100,10,0,0,0,0,0,0,0,0,0,0,453,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Jet Punch,1,10,6,1,60,100,15,1,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Spicy Extract,1,11,2,0,0,101,15,0,0,0,0,0,0,0,0,0,0,470,0,0,0,1,2,100,2,254,100,0,0,0,4,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Spin Out,1,8,7,1,100,100,5,0,0,0,0,0,0,0,0,0,0,218,0,0,0,5,254,100,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Population Bomb,1,0,0,1,20,90,10,0,10,10,0,0,0,0,0,0,0,454,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Ice Spinner,1,14,0,1,80,100,15,0,0,0,0,0,0,0,0,0,0,455,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Glaive Rush,1,15,0,1,120,100,5,0,0,0,0,0,0,0,0,0,0,456,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Revival Blessing,1,0,13,0,0,101,1,0,0,0,0,0,0,0,0,0,0,457,0,0,7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Salt Cure,1,5,4,1,40,100,15,0,0,0,46,100,1,0,0,0,0,458,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Triple Dive,1,10,0,1,30,95,10,0,3,3,0,0,0,0,0,0,0,471,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mortal Spin,1,3,4,1,30,100,15,0,0,0,5,100,1,0,0,0,0,459,0,0,5,0,0,0,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Doodle,1,0,13,0,0,100,10,0,0,0,0,0,0,0,0,0,0,460,0,0,3,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Fillet Away,1,0,2,0,0,101,10,0,0,0,0,0,0,0,0,0,0,472,0,0,7,1,2,100,3,2,100,5,2,100,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kowtow Cleave,1,16,0,1,85,101,10,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Flower Trick,1,11,0,1,70,101,10,0,0,0,0,0,0,0,0,6,0,288,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Torch Song,1,9,7,2,80,100,10,0,0,0,0,0,0,0,0,0,0,276,0,0,0,3,1,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Aqua Step,1,10,7,1,80,100,10,0,0,0,0,0,0,0,0,0,0,295,0,0,0,5,1,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Raging Bull,1,0,0,1,90,100,10,0,0,0,0,0,0,0,0,0,0,461,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Make It Rain,1,8,7,2,120,100,5,0,0,0,0,0,0,0,0,0,0,473,0,0,5,3,255,100,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pound,1,0,0,1,40,100,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pound,1,0,0,1,40,100,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ruination,1,16,0,2,1,90,10,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Collision Course,1,1,0,1,100,100,5,0,0,0,0,0,0,0,0,0,0,476,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Electro Drift,1,12,0,2,100,100,5,0,0,0,0,0,0,0,0,0,0,476,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Shed Tail,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,462,0,0,7,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chilly Reception,1,14,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,463,0,0,10,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tidy Up,1,0,13,0,0,101,10,0,0,0,0,0,0,0,0,0,0,464,0,0,7,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Snowscape,1,14,10,0,0,101,10,0,0,0,0,0,0,0,0,0,0,465,0,0,10,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pounce,1,6,6,1,50,100,20,0,0,0,0,0,0,0,0,0,0,20,0,0,0,5,255,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Trailblaze,1,11,7,1,50,100,20,0,0,0,0,0,0,0,0,0,0,295,0,0,0,5,1,100,0,0,0,0,0,0,6,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Chilling Water,1,10,6,2,50,100,20,0,0,0,0,0,0,0,0,0,0,68,0,0,0,1,255,100,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Hyper Drill,1,0,0,1,100,100,5,0,0,0,0,0,0,0,0,0,0,223,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Twin Beam,1,13,0,2,40,100,10,0,2,2,0,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rage Fist,1,7,0,1,50,100,10,0,0,0,0,0,0,0,0,0,0,466,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Armor Cannon,1,9,7,2,120,100,5,0,0,0,0,0,0,0,0,0,0,477,0,0,0,2,255,100,4,255,100,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bitter Blade,1,9,8,1,90,100,10,0,0,0,0,0,0,0,0,0,0,3,50,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Double Shock,1,12,0,1,120,100,5,0,0,0,0,0,0,0,0,0,0,467,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gigaton Hammer,1,8,0,1,160,100,5,0,0,0,0,0,0,0,0,0,0,468,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Comeuppance,1,16,0,1,1,100,10,0,0,0,0,0,0,0,0,0,0,469,0,0,13,0,0,0,0,0,0,0,0,0,5,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Aqua Cutter,1,10,0,1,70,100,20,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Blazing Torque,1,9,4,1,80,100,10,0,0,0,4,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wicked Torque,1,16,4,1,80,100,10,0,0,0,2,10,2,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Noxious Torque,1,3,4,1,100,100,10,0,0,0,5,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Combat Torque,1,1,4,1,100,100,10,0,0,0,1,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Magical Torque,1,17,4,1,100,100,10,0,0,0,6,30,2,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
