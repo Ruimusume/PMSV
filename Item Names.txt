@@ -1,0 +1,723 @@
+ID	HEX	名称	日文名称	英文名称
+1	0001	大师球	マスターボール	Master Ball
+2	0002	高级球	ハイパーボール	Ultra Ball
+3	0003	超级球	スーパーボール	Great Ball
+4	0004	精灵球	モンスターボール	Poké Ball
+5	0005	狩猎球	サファリボール	Safari Ball
+6	0006	捕网球	ネットボール	Net Ball
+7	0007	潜水球	ダイブボール	Dive Ball
+8	0008	巢穴球	ネストボール	Nest Ball
+9	0009	重复球	リピートボール	Repeat Ball
+11	000B	豪华球	ゴージャスボール	Luxury Ball
+12	000C	纪念球	プレミアボール	Premier Ball
+13	000D	黑暗球	ダークボール	Dusk Ball
+14	000E	治愈球	ヒールボール	Heal Ball
+15	000F	先机球	クイックボール	Quick Ball
+16	0010	贵重球	プレシャスボール	Cherish Ball
+17	0011	伤药	キズぐすり	Potion
+18	0012	解毒药	どくけし	Antidote
+19	0013	灼伤药	やけどなおし	Burn Heal
+20	0014	解冻药	こおりなおし	Ice Heal
+21	0015	解眠药	ねむけざまし	Awakening
+22	0016	解麻药	まひなおし	Paralyze Heal
+23	0017	全复药	かいふくのくすり	Full Restore
+24	0018	全满药	まんたんのくすり	Max Potion
+25	0019	厉害伤药	すごいキズぐすり	Hyper Potion
+26	001A	好伤药	いいキズぐすり	Super Potion
+27	001B	万灵药	なんでもなおし	Full Heal
+28	001C	活力碎片	げんきのかけら	Revive
+29	001D	活力块	げんきのかたまり	Max Revive
+30	001E	美味之水	おいしいみず	Fresh Water
+31	001F	劲爽汽水	サイコソーダ	Soda Pop
+32	0020	果汁牛奶	ミックスオレ	Lemonade
+33	0021	哞哞鲜奶	モーモーミルク	Moomoo Milk
+34	0022	元气粉	ちからのこな	Energy Powder
+35	0023	元气根	ちからのねっこ	Energy Root
+36	0024	万能粉	ばんのうごな	Heal Powder
+37	0025	复活草	ふっかつそう	Revival Herb
+38	0026	ＰＰ单项小补剂	ピーピーエイド	Ether
+39	0027	ＰＰ单项全补剂	ピーピーリカバー	Max Ether
+40	0028	ＰＰ多项小补剂	ピーピーエイダー	Elixir
+41	0029	ＰＰ多项全补剂	ピーピーマックス	Max Elixir
+45	002D	ＨＰ增强剂	マックスアップ	HP Up
+46	002E	攻击增强剂	タウリン	Protein
+47	002F	防御增强剂	ブロムヘキシン	Iron
+48	0030	速度增强剂	インドメタシン	Carbos
+49	0031	特攻增强剂	リゾチウム	Calcium
+50	0032	神奇糖果	ふしぎなアメ	Rare Candy
+51	0033	ＰＰ提升剂	ポイントアップ	PP Up
+52	0034	特防增强剂	キトサン	Zinc
+53	0035	ＰＰ极限提升剂	ポイントマックス	PP Max
+55	0037	能力防守	エフェクトガード	Guard Spec.
+56	0038	要害攻击	クリティカット	Dire Hit
+57	0039	力量强化	プラスパワー	X Attack
+58	003A	防御强化	ディフェンダー	X Defense
+59	003B	速度强化	スピーダー	X Speed
+60	003C	命中强化	ヨクアタール	X Accuracy
+61	003D	特攻强化	スペシャルアップ	X Sp. Atk
+62	003E	特防强化	スペシャルガード	X Sp. Def
+63	003F	皮皮玩偶	ピッピにんぎょう	Poké Doll
+76	004C	白银喷雾	シルバースプレー	Super Repel
+77	004D	黄金喷雾	ゴールドスプレー	Max Repel
+78	004E	离洞绳	あなぬけのヒモ	Escape Rope
+79	004F	除虫喷雾	むしよけスプレー	Repel
+80	0050	日之石	たいようのいし	Sun Stone
+81	0051	月之石	つきのいし	Moon Stone
+82	0052	火之石	ほのおのいし	Fire Stone
+83	0053	雷之石	かみなりのいし	Thunder Stone
+84	0054	水之石	みずのいし	Water Stone
+85	0055	叶之石	リーフのいし	Leaf Stone
+86	0056	小蘑菇	ちいさなキノコ	Tiny Mushroom
+87	0057	大蘑菇	おおきなキノコ	Big Mushroom
+88	0058	珍珠	しんじゅ	Pearl
+89	0059	大珍珠	おおきなしんじゅ	Big Pearl
+90	005A	星星沙子	ほしのすな	Stardust
+91	005B	星星碎片	ほしのかけら	Star Piece
+92	005C	金珠	きんのたま	Nugget
+94	005E	甜甜蜜	あまいミツ	Honey
+106	006A	贵重骨头	きちょうなホネ	Rare Bone
+107	006B	光之石	ひかりのいし	Shiny Stone
+108	006C	暗之石	やみのいし	Dusk Stone
+109	006D	觉醒之石	めざめいし	Dawn Stone
+110	006E	浑圆之石	まんまるいし	Oval Stone
+111	006F	楔石	かなめいし	Odd Keystone
+112	0070	白金宝珠	はっきんだま	Griseous Orb
+135	0087	金刚宝珠	こんごうだま	Adamant Orb
+136	0088	白玉宝珠	しらたま	Lustrous Orb
+149	0095	樱子果	クラボのみ	Cheri Berry
+150	0096	零余果	カゴのみ	Chesto Berry
+151	0097	桃桃果	モモンのみ	Pecha Berry
+152	0098	莓莓果	チーゴのみ	Rawst Berry
+153	0099	利木果	ナナシのみ	Aspear Berry
+154	009A	苹野果	ヒメリのみ	Leppa Berry
+155	009B	橙橙果	オレンのみ	Oran Berry
+156	009C	柿仔果	キーのみ	Persim Berry
+157	009D	木子果	ラムのみ	Lum Berry
+158	009E	文柚果	オボンのみ	Sitrus Berry
+159	009F	勿花果	フィラのみ	Figy Berry
+160	00A0	异奇果	ウイのみ	Wiki Berry
+161	00A1	芒芒果	マゴのみ	Mago Berry
+162	00A2	乐芭果	バンジのみ	Aguav Berry
+163	00A3	芭亚果	イアのみ	Iapapa Berry
+164	00A4	蔓莓果	ズリのみ	Razz Berry
+165	00A5	墨莓果	ブリーのみ	Bluk Berry
+166	00A6	蕉香果	ナナのみ	Nanab Berry
+167	00A7	西梨果	セシナのみ	Wepear Berry
+168	00A8	凰梨果	パイルのみ	Pinap Berry
+169	00A9	榴石果	ザロクのみ	Pomeg Berry
+170	00AA	藻根果	ネコブのみ	Kelpsy Berry
+171	00AB	比巴果	タポルのみ	Qualot Berry
+172	00AC	哈密果	ロメのみ	Hondew Berry
+173	00AD	萄葡果	ウブのみ	Grepa Berry
+174	00AE	茄番果	マトマのみ	Tamato Berry
+175	00AF	玉黍果	モコシのみ	Cornn Berry
+176	00B0	岳竹果	ゴスのみ	Magost Berry
+177	00B1	茸丹果	ラブタのみ	Rabuta Berry
+178	00B2	檬柠果	ノメルのみ	Nomel Berry
+179	00B3	刺角果	ノワキのみ	Spelon Berry
+180	00B4	椰木果	シーヤのみ	Pamtre Berry
+181	00B5	瓜西果	カイスのみ	Watmel Berry
+182	00B6	金枕果	ドリのみ	Durin Berry
+183	00B7	靛莓果	ベリブのみ	Belue Berry
+184	00B8	巧可果	オッカのみ	Occa Berry
+185	00B9	千香果	イトケのみ	Passho Berry
+186	00BA	烛木果	ソクノのみ	Wacan Berry
+187	00BB	罗子果	リンドのみ	Rindo Berry
+188	00BC	番荔果	ヤチェのみ	Yache Berry
+189	00BD	莲蒲果	ヨプのみ	Chople Berry
+190	00BE	通通果	ビアーのみ	Kebia Berry
+191	00BF	腰木果	シュカのみ	Shuca Berry
+192	00C0	棱瓜果	バコウのみ	Coba Berry
+193	00C1	福禄果	ウタンのみ	Payapa Berry
+194	00C2	扁樱果	タンガのみ	Tanga Berry
+195	00C3	草蚕果	ヨロギのみ	Charti Berry
+196	00C4	佛柑果	カシブのみ	Kasib Berry
+197	00C5	莓榴果	ハバンのみ	Haban Berry
+198	00C6	刺耳果	ナモのみ	Colbur Berry
+199	00C7	霹霹果	リリバのみ	Babiri Berry
+200	00C8	灯浆果	ホズのみ	Chilan Berry
+201	00C9	枝荔果	チイラのみ	Liechi Berry
+202	00CA	龙睛果	リュガのみ	Ganlon Berry
+203	00CB	沙鳞果	カムラのみ	Salac Berry
+204	00CC	龙火果	ヤタピのみ	Petaya Berry
+205	00CD	杏仔果	ズアのみ	Apicot Berry
+206	00CE	兰萨果	サンのみ	Lansat Berry
+207	00CF	星桃果	スターのみ	Starf Berry
+208	00D0	谜芝果	ナゾのみ	Enigma Berry
+209	00D1	奇秘果	ミクルのみ	Micle Berry
+210	00D2	释陀果	イバンのみ	Custap Berry
+211	00D3	嘉珍果	ジャポのみ	Jaboca Berry
+212	00D4	雾莲果	レンブのみ	Rowap Berry
+213	00D5	光粉	ひかりのこな	Bright Powder
+214	00D6	白色香草	しろいハーブ	White Herb
+216	00D8	学习装置	がくしゅうそうち	Exp. Share
+217	00D9	先制之爪	せんせいのツメ	Quick Claw
+218	00DA	安抚之铃	やすらぎのすず	Soothe Bell
+219	00DB	心灵香草	メンタルハーブ	Mental Herb
+220	00DC	讲究头带	こだわりハチマキ	Choice Band
+221	00DD	王者之证	おうじゃのしるし	King’s Rock
+222	00DE	银粉	ぎんのこな	Silver Powder
+223	00DF	护符金币	おまもりこばん	Amulet Coin
+224	00E0	洁净之符	きよめのおふだ	Cleanse Tag
+228	00E4	烟雾球	けむりだま	Smoke Ball
+229	00E5	不变之石	かわらずのいし	Everstone
+230	00E6	气势头带	きあいのハチマキ	Focus Band
+231	00E7	幸运蛋	しあわせタマゴ	Lucky Egg
+232	00E8	焦点镜	ピントレンズ	Scope Lens
+233	00E9	金属膜	メタルコート	Metal Coat
+234	00EA	吃剩的东西	たべのこし	Leftovers
+236	00EC	电气球	でんきだま	Light Ball
+237	00ED	柔软沙子	やわらかいすな	Soft Sand
+238	00EE	硬石头	かたいいし	Hard Stone
+239	00EF	奇迹种子	きせきのタネ	Miracle Seed
+240	00F0	黑色眼镜	くろいメガネ	Black Glasses
+241	00F1	黑带	くろおび	Black Belt
+242	00F2	磁铁	じしゃく	Magnet
+243	00F3	神秘水滴	しんぴのしずく	Mystic Water
+244	00F4	锐利鸟嘴	するどいくちばし	Sharp Beak
+245	00F5	毒针	どくバリ	Poison Barb
+246	00F6	不融冰	とけないこおり	Never-Melt Ice
+247	00F7	咒术之符	のろいのおふだ	Spell Tag
+248	00F8	弯曲的汤匙	まがったスプーン	Twisted Spoon
+249	00F9	木炭	もくたん	Charcoal
+250	00FA	龙之牙	りゅうのキバ	Dragon Fang
+251	00FB	丝绸围巾	シルクのスカーフ	Silk Scarf
+253	00FD	贝壳之铃	かいがらのすず	Shell Bell
+254	00FE	海潮薰香	うしおのおこう	Sea Incense
+255	00FF	悠闲薰香	のんきのおこう	Lax Incense
+265	0109	广角镜	こうかくレンズ	Wide Lens
+266	010A	力量头带	ちからのハチマキ	Muscle Band
+267	010B	博识眼镜	ものしりメガネ	Wise Glasses
+268	010C	达人带	たつじんのおび	Expert Belt
+269	010D	光之黏土	ひかりのねんど	Light Clay
+270	010E	生命宝珠	いのちのたま	Life Orb
+271	010F	强力香草	パワフルハーブ	Power Herb
+272	0110	剧毒宝珠	どくどくだま	Toxic Orb
+273	0111	火焰宝珠	かえんだま	Flame Orb
+275	0113	气势披带	きあいのタスキ	Focus Sash
+276	0114	对焦镜	フォーカスレンズ	Zoom Lens
+277	0115	节拍器	メトロノーム	Metronome
+278	0116	黑色铁球	くろいてっきゅう	Iron Ball
+279	0117	后攻之尾	こうこうのしっぽ	Lagging Tail
+280	0118	红线	あかいいと	Destiny Knot
+281	0119	黑色污泥	くろいヘドロ	Black Sludge
+282	011A	冰冷岩石	つめたいいわ	Icy Rock
+283	011B	沙沙岩石	さらさらいわ	Smooth Rock
+284	011C	炽热岩石	あついいわ	Heat Rock
+285	011D	潮湿岩石	しめったいわ	Damp Rock
+286	011E	紧缠钩爪	ねばりのかぎづめ	Grip Claw
+287	011F	讲究围巾	こだわりスカーフ	Choice Scarf
+288	0120	附着针	くっつきバリ	Sticky Barb
+289	0121	力量护腕	パワーリスト	Power Bracer
+290	0122	力量腰带	パワーベルト	Power Belt
+291	0123	力量镜	パワーレンズ	Power Lens
+292	0124	力量束带	パワーバンド	Power Band
+293	0125	力量护踝	パワーアンクル	Power Anklet
+294	0126	力量负重	パワーウエイト	Power Weight
+295	0127	美丽空壳	きれいなぬけがら	Shed Shell
+296	0128	大根茎	おおきなねっこ	Big Root
+297	0129	讲究眼镜	こだわりメガネ	Choice Specs
+298	012A	火球石板	ひのたまプレート	Flame Plate
+299	012B	水滴石板	しずくプレート	Splash Plate
+300	012C	雷电石板	いかずちプレート	Zap Plate
+301	012D	碧绿石板	みどりのプレート	Meadow Plate
+302	012E	冰柱石板	つららのプレート	Icicle Plate
+303	012F	拳头石板	こぶしのプレート	Fist Plate
+304	0130	剧毒石板	もうどくプレート	Toxic Plate
+305	0131	大地石板	だいちのプレート	Earth Plate
+306	0132	蓝天石板	あおぞらプレート	Sky Plate
+307	0133	神奇石板	ふしぎのプレート	Mind Plate
+308	0134	玉虫石板	たまむしプレート	Insect Plate
+309	0135	岩石石板	がんせきプレート	Stone Plate
+310	0136	妖怪石板	もののけプレート	Spooky Plate
+311	0137	龙之石板	りゅうのプレート	Draco Plate
+312	0138	恶颜石板	こわもてプレート	Dread Plate
+313	0139	钢铁石板	こうてつプレート	Iron Plate
+314	013A	奇异薰香	あやしいおこう	Odd Incense
+315	013B	岩石薰香	がんせきおこう	Rock Incense
+316	013C	饱腹薰香	まんぷくおこう	Full Incense
+317	013D	涟漪薰香	さざなみのおこう	Wave Incense
+318	013E	花朵薰香	おはなのおこう	Rose Incense
+319	013F	幸运薰香	こううんのおこう	Luck Incense
+320	0140	洁净薰香	きよめのおこう	Pure Incense
+326	0146	锐利之爪	するどいツメ	Razor Claw
+328	0148	招式学习器０１	わざマシン０１	TM01
+329	0149	招式学习器０２	わざマシン０２	TM02
+330	014A	招式学习器０３	わざマシン０３	TM03
+331	014B	招式学习器０４	わざマシン０４	TM04
+332	014C	招式学习器０５	わざマシン０５	TM05
+333	014D	招式学习器０６	わざマシン０６	TM06
+334	014E	招式学习器０７	わざマシン０７	TM07
+335	014F	招式学习器０８	わざマシン０８	TM08
+336	0150	招式学习器０９	わざマシン０９	TM09
+337	0151	招式学习器１０	わざマシン１０	TM10
+338	0152	招式学习器１１	わざマシン１１	TM11
+339	0153	招式学习器１２	わざマシン１２	TM12
+340	0154	招式学习器１３	わざマシン１３	TM13
+341	0155	招式学习器１４	わざマシン１４	TM14
+342	0156	招式学习器１５	わざマシン１５	TM15
+343	0157	招式学习器１６	わざマシン１６	TM16
+344	0158	招式学习器１７	わざマシン１７	TM17
+345	0159	招式学习器１８	わざマシン１８	TM18
+346	015A	招式学习器１９	わざマシン１９	TM19
+347	015B	招式学习器２０	わざマシン２０	TM20
+348	015C	招式学习器２１	わざマシン２１	TM21
+349	015D	招式学习器２２	わざマシン２２	TM22
+350	015E	招式学习器２３	わざマシン２３	TM23
+351	015F	招式学习器２４	わざマシン２４	TM24
+352	0160	招式学习器２５	わざマシン２５	TM25
+353	0161	招式学习器２６	わざマシン２６	TM26
+354	0162	招式学习器２７	わざマシン２７	TM27
+355	0163	招式学习器２８	わざマシン２８	TM28
+356	0164	招式学习器２９	わざマシン２９	TM29
+357	0165	招式学习器３０	わざマシン３０	TM30
+358	0166	招式学习器３１	わざマシン３１	TM31
+359	0167	招式学习器３２	わざマシン３２	TM32
+360	0168	招式学习器３３	わざマシン３３	TM33
+361	0169	招式学习器３４	わざマシン３４	TM34
+362	016A	招式学习器３５	わざマシン３５	TM35
+363	016B	招式学习器３６	わざマシン３６	TM36
+364	016C	招式学习器３７	わざマシン３７	TM37
+365	016D	招式学习器３８	わざマシン３８	TM38
+366	016E	招式学习器３９	わざマシン３９	TM39
+367	016F	招式学习器４０	わざマシン４０	TM40
+368	0170	招式学习器４１	わざマシン４１	TM41
+369	0171	招式学习器４２	わざマシン４２	TM42
+370	0172	招式学习器４３	わざマシン４３	TM43
+371	0173	招式学习器４４	わざマシン４４	TM44
+372	0174	招式学习器４５	わざマシン４５	TM45
+373	0175	招式学习器４６	わざマシン４６	TM46
+374	0176	招式学习器４７	わざマシン４７	TM47
+375	0177	招式学习器４８	わざマシン４８	TM48
+376	0178	招式学习器４９	わざマシン４９	TM49
+377	0179	招式学习器５０	わざマシン５０	TM50
+378	017A	招式学习器５１	わざマシン５１	TM51
+379	017B	招式学习器５２	わざマシン５２	TM52
+380	017C	招式学习器５３	わざマシン５３	TM53
+381	017D	招式学习器５４	わざマシン５４	TM54
+382	017E	招式学习器５５	わざマシン５５	TM55
+383	017F	招式学习器５６	わざマシン５６	TM56
+384	0180	招式学习器５７	わざマシン５７	TM57
+385	0181	招式学习器５８	わざマシン５８	TM58
+386	0182	招式学习器５９	わざマシン５９	TM59
+387	0183	招式学习器６０	わざマシン６０	TM60
+388	0184	招式学习器６１	わざマシン６１	TM61
+389	0185	招式学习器６２	わざマシン６２	TM62
+390	0186	招式学习器６３	わざマシン６３	TM63
+391	0187	招式学习器６４	わざマシン６４	TM64
+392	0188	招式学习器６５	わざマシン６５	TM65
+393	0189	招式学习器６６	わざマシン６６	TM66
+394	018A	招式学习器６７	わざマシン６７	TM67
+395	018B	招式学习器６８	わざマシン６８	TM68
+396	018C	招式学习器６９	わざマシン６９	TM69
+397	018D	招式学习器７０	わざマシン７０	TM70
+398	018E	招式学习器７１	わざマシン７１	TM71
+399	018F	招式学习器７２	わざマシン７２	TM72
+400	0190	招式学习器７３	わざマシン７３	TM73
+401	0191	招式学习器７４	わざマシン７４	TM74
+402	0192	招式学习器７５	わざマシン７５	TM75
+403	0193	招式学习器７６	わざマシン７６	TM76
+404	0194	招式学习器７７	わざマシン７７	TM77
+405	0195	招式学习器７８	わざマシン７８	TM78
+406	0196	招式学习器７９	わざマシン７９	TM79
+407	0197	招式学习器８０	わざマシン８０	TM80
+408	0198	招式学习器８１	わざマシン８１	TM81
+409	0199	招式学习器８２	わざマシン８２	TM82
+410	019A	招式学习器８３	わざマシン８３	TM83
+411	019B	招式学习器８４	わざマシン８４	TM84
+412	019C	招式学习器８５	わざマシン８５	TM85
+413	019D	招式学习器８６	わざマシン８６	TM86
+414	019E	招式学习器８７	わざマシン８７	TM87
+415	019F	招式学习器８８	わざマシン８８	TM88
+416	01A0	招式学习器８９	わざマシン８９	TM89
+417	01A1	招式学习器９０	わざマシン９０	TM90
+418	01A2	招式学习器９１	わざマシン９１	TM91
+419	01A3	招式学习器９２	わざマシン９２	TM92
+421	01A5	秘传学习器０２	ひでんマシン０２	HM02
+466	01D2	葛拉西蒂亚花	グラシデアのはな	Gracidea
+485	01E5	红球果	あかぼんぐり	Red Apricorn
+486	01E6	蓝球果	あおぼんぐり	Blue Apricorn
+487	01E7	黄球果	きぼんぐり	Yellow Apricorn
+488	01E8	绿球果	みどぼんぐり	Green Apricorn
+489	01E9	粉球果	ももぼんぐり	Pink Apricorn
+490	01EA	白球果	しろぼんぐり	White Apricorn
+491	01EB	黑球果	くろぼんぐり	Black Apricorn
+492	01EC	速度球	スピードボール	Fast Ball
+493	01ED	等级球	レベルボール	Level Ball
+494	01EE	诱饵球	ルアーボール	Lure Ball
+495	01EF	沉重球	ヘビーボール	Heavy Ball
+496	01F0	甜蜜球	ラブラブボール	Love Ball
+497	01F1	友友球	フレンドボール	Friend Ball
+498	01F2	月亮球	ムーンボール	Moon Ball
+499	01F3	竞赛球	コンペボール	Sport Ball
+500	01F4	公园球	パークボール	Park Ball
+538	021A	进化奇石	しんかのきせき	Eviolite
+539	021B	轻石	かるいし	Float Stone
+540	021C	凸凸头盔	ゴツゴツメット	Rocky Helmet
+541	021D	气球	ふうせん	Air Balloon
+542	021E	红牌	レッドカード	Red Card
+543	021F	标靶	ねらいのまと	Ring Target
+544	0220	紧绑束带	しめつけバンド	Binding Band
+545	0221	球根	きゅうこん	Absorb Bulb
+546	0222	充电电池	じゅうでんち	Cell Battery
+547	0223	逃脱按键	だっしゅつボタン	Eject Button
+564	0234	一般宝石	ノーマルジュエル	Normal Gem
+565	0235	体力之羽	たいりょくのハネ	Health Feather
+566	0236	肌力之羽	きんりょくのハネ	Muscle Feather
+567	0237	抵抗之羽	ていこうのハネ	Resist Feather
+568	0238	智力之羽	ちりょくのハネ	Genius Feather
+569	0239	精神之羽	せいしんのハネ	Clever Feather
+570	023A	瞬发之羽	しゅんぱつのハネ	Swift Feather
+571	023B	美丽之羽	きれいなハネ	Pretty Feather
+576	0240	梦境球	ドリームボール	Dream Ball
+580	0244	芳香蘑菇	かおるキノコ	Balm Mushroom
+581	0245	巨大金珠	でかいきんのたま	Big Nugget
+582	0246	丸子珍珠	おだんごしんじゅ	Pearl String
+583	0247	彗星碎片	すいせいのかけら	Comet Shard
+618	026A	招式学习器９３	わざマシン９３	TM93
+619	026B	招式学习器９４	わざマシン９４	TM94
+620	026C	招式学习器９５	わざマシン９５	TM95
+631	0277	圆形护符	まるいおまもり	Oval Charm
+632	0278	闪耀护符	ひかるおまもり	Shiny Charm
+638	027E	现形镜	うつしかがみ	Reveal Glass
+639	027F	弱点保险	じゃくてんほけん	Weakness Policy
+640	0280	突击背心	とつげきチョッキ	Assault Vest
+644	0284	妖精石板	せいれいプレート	Pixie Plate
+645	0285	特性胶囊	とくせいカプセル	Ability Capsule
+648	0288	光苔	ひかりごけ	Luminous Moss
+649	0289	雪球	ゆきだま	Snowball
+650	028A	防尘护目镜	ぼうじんゴーグル	Safety Goggles
+686	02AE	洛玫果	ロゼルのみ	Roseli Berry
+687	02AF	亚开果	アッキのみ	Kee Berry
+688	02B0	香罗果	タラプのみ	Maranga Berry
+690	02B2	招式学习器９６	わざマシン９６	TM96
+691	02B3	招式学习器９７	わざマシン９７	TM97
+692	02B4	招式学习器９８	わざマシン９８	TM98
+693	02B5	招式学习器９９	わざマシン９９	TM99
+703	02BF	探险心得	たんけんこころえ	Adventure Guide
+708	02C4	密阿雷格雷派饼	ミアレガレット	Lumiose Galette
+709	02C5	娑罗沙布蕾	シャラサブレ	Shalour Sable
+765	02FD	惩戒之壶	いましめのツボ	Prison Bottle
+795	031B	银色王冠	ぎんのおうかん	Bottle Cap
+796	031C	金色王冠	きんのおうかん	Gold Bottle Cap
+846	034E	胆怯球	ビビリだま	Adrenaline Orb
+849	0351	冰之石	こおりのいし	Ice Stone
+851	0353	究极球	ウルトラボール	Beast Ball
+853	0355	朱红色花蜜	くれないのミツ	Red Nectar
+854	0356	金黄色花蜜	やまぶきのミツ	Yellow Nectar
+855	0357	桃粉色花蜜	うすもものミツ	Pink Nectar
+856	0358	兰紫色花蜜	むらさきのミツ	Purple Nectar
+879	036F	大地膜	グランドコート	Terrain Extender
+880	0370	部位护具	ぼうごパット	Protective Pads
+881	0371	电气种子	エレキシード	Electric Seed
+882	0372	精神种子	サイコシード	Psychic Seed
+883	0373	薄雾种子	ミストシード	Misty Seed
+884	0374	青草种子	グラスシード	Grassy Seed
+1103	044F	腐朽的剑	くちたけん	Rusted Sword
+1104	0450	腐朽的盾	くちたたて	Rusted Shield
+1116	045C	甜甜苹果	あまーいりんご	Sweet Apple
+1117	045D	酸酸苹果	すっぱいりんご	Tart Apple
+1118	045E	爽喉喷雾	のどスプレー	Throat Spray
+1119	045F	避难背包	だっしゅつパック	Eject Pack
+1120	0460	厚底靴	あつぞこブーツ	Heavy-Duty Boots
+1121	0461	打空保险	からぶりほけん	Blunder Policy
+1122	0462	客房服务	ルームサービス	Room Service
+1123	0463	万能伞	ばんのうがさ	Utility Umbrella
+1124	0464	经验糖果ＸＳ	けいけんアメＸＳ	Exp. Candy XS
+1125	0465	经验糖果Ｓ	けいけんアメＳ	Exp. Candy S
+1126	0466	经验糖果Ｍ	けいけんアメＭ	Exp. Candy M
+1127	0467	经验糖果Ｌ	けいけんアメＬ	Exp. Candy L
+1128	0468	经验糖果ＸＬ	けいけんアメＸＬ	Exp. Candy XL
+1231	04CF	怕寂寞薄荷	さみしがりミント	Lonely Mint
+1232	04D0	固执薄荷	いじっぱりミント	Adamant Mint
+1233	04D1	顽皮薄荷	やんちゃミント	Naughty Mint
+1234	04D2	勇敢薄荷	ゆうかんミント	Brave Mint
+1235	04D3	大胆薄荷	ずぶといミント	Bold Mint
+1236	04D4	淘气薄荷	わんぱくミント	Impish Mint
+1237	04D5	乐天薄荷	のうてんきミント	Lax Mint
+1238	04D6	悠闲薄荷	のんきミント	Relaxed Mint
+1239	04D7	内敛薄荷	ひかえめミント	Modest Mint
+1240	04D8	慢吞吞薄荷	おっとりミント	Mild Mint
+1241	04D9	马虎薄荷	うっかりやミント	Rash Mint
+1242	04DA	冷静薄荷	れいせいミント	Quiet Mint
+1243	04DB	温和薄荷	おだやかミント	Calm Mint
+1244	04DC	温顺薄荷	おとなしいミント	Gentle Mint
+1245	04DD	慎重薄荷	しんちょうミント	Careful Mint
+1246	04DE	自大薄荷	なまいきミント	Sassy Mint
+1247	04DF	胆小薄荷	おくびょうミント	Timid Mint
+1248	04E0	急躁薄荷	せっかちミント	Hasty Mint
+1249	04E1	爽朗薄荷	ようきミント	Jolly Mint
+1250	04E2	天真薄荷	むじゃきミント	Naive Mint
+1251	04E3	认真薄荷	まじめミント	Serious Mint
+1253	04E5	破裂的茶壶	われたポット	Cracked Pot
+1254	04E6	缺损的茶壶	かけたポット	Chipped Pot
+1267	04F3	防晃护符	ゆれないおまもり	Catching Charm
+1278	04FE	洛托姆型录	ロトムのカタログ	Rotom Catalog
+1582	062E	伽勒豆蔻手环	ガラナツブレス	Galarica Cuff
+1587	0633	经验护符	けいけんおまもり	Exp. Charm
+1589	0635	证章护符	あかしのおまもり	Mark Charm
+1590	0636	牵绊缰绳	キズナのタヅナ	Reins of Unity
+1591	0637	牵绊缰绳	キズナのタヅナ	Reins of Unity
+1592	0638	伽勒豆蔻花圈	ガラナツリース	Galarica Wreath
+1606	0646	特性膏药	とくせいパッチ	Ability Patch
+1691	069B	黑奇石	くろのきせき	Black Augurite
+1692	069C	泥炭块	ピートブロック	Peat Block
+1777	06F1	大金刚宝玉	だいこんごうだま	Adamant Crystal
+1778	06F2	大白宝玉	だいしらたま	Lustrous Globe
+1779	06F3	大白金宝玉	だいはっきんだま	Griseous Core
+1780	06F4	净空石板	まっさらプレート	Blank Plate
+1785	06F9	奇异球	ストレンジボール	Strange Ball
+1828	0724	传说石板	レジェンドプレート	Legend Plate
+1829	0725	手机洛托姆	スマホロトム	Rotom Phone
+1830	0726	三明治		Sandwich
+1834	072A	朱之书	スカーレットブック	Scarlet Book
+1835	072B	紫之书	バイオレットブック	Violet Book
+1836	072C	海岱的钱包		Kofu’s Wallet
+1842	0732	小竹笋		Tiny Bamboo Shoot
+1843	0733	大竹笋		Big Bamboo Shoot
+1857	0741	恶之挂轴		Scroll of Darkness
+1858	0742	水之挂轴		Scroll of Waters
+1859	0743			
+1860	0744			
+1861	0745	咒术之铠		Malicious Armor
+1862	0746	一般太晶碎块		Normal Tera Shard
+1863	0747	火太晶碎块		Fire Tera Shard
+1864	0748	水太晶碎块		Water Tera Shard
+1865	0749	电太晶碎块		Electric Tera Shard
+1866	074A	草太晶碎块		Grass Tera Shard
+1867	074B	冰太晶碎块		Ice Tera Shard
+1868	074C	格斗太晶碎块		Fighting Tera Shard
+1869	074D	毒太晶碎块		Poison Tera Shard
+1870	074E	地面太晶碎块		Ground Tera Shard
+1871	074F	飞行太晶碎块		Flying Tera Shard
+1872	0750	超能力太晶碎块		Psychic Tera Shard
+1873	0751	虫太晶碎块		Bug Tera Shard
+1874	0752	岩石太晶碎块		Rock Tera Shard
+1875	0753	幽灵太晶碎块		Ghost Tera Shard
+1876	0754	龙太晶碎块		Dragon Tera Shard
+1877	0755	恶太晶碎块		Dark Tera Shard
+1878	0756	钢太晶碎块		Steel Tera Shard
+1879	0757	妖精太晶碎块		Fairy Tera Shard
+1880	0758	驱劲能量		Booster Energy
+1881	0759	特性护具		Ability Shield
+1882	075A	清净坠饰		Clear Amulet
+1883	075B	模仿香草		Mirror Herb
+1884	075C	拳击手套		Punching Glove
+1885	075D	密探斗篷		Covert Cloak
+1886	075E	机变骰子		Loaded Dice
+1888	0760	长棍面包		Baguette
+1889	0761	蛋黄酱		Mayonnaise
+1890	0762	番茄酱		Ketchup
+1891	0763	黄芥末酱		Mustard
+1892	0764	黄油		Butter
+1893	0765	花生酱		Peanut Butter
+1894	0766	辣酱		Chili Sauce
+1895	0767	盐		Salt
+1896	0768	胡椒		Pepper
+1897	0769	酸奶		Yogurt
+1898	076A	鲜奶油		Whipped Cream
+1899	076B	奶油芝士		Cream Cheese
+1900	076C	莓果酱		Jam
+1901	076D	橘子酱		Marmalade
+1902	076E	橄榄油		Olive Oil
+1903	076F	醋		Vinegar
+1904	0770	秘传：甜味料		Sweet Herba Mystica
+1905	0771	秘传：咸味料		Salty Herba Mystica
+1906	0772	秘传：酸味料		Sour Herba Mystica
+1907	0773	秘传：苦味料		Bitter Herba Mystica
+1908	0774	秘传：辣味料		Spicy Herba Mystica
+1909	0775	生菜		Lettuce
+1910	0776	番茄片		Tomato
+1911	0777	小番茄块		Cherry Tomatoes
+1912	0778	小黄瓜片		Cucumber
+1913	0779	酸黄瓜片		Pickle
+1914	077A	洋葱片		Onion
+1915	077B	红洋葱		Red Onion
+1916	077C	青椒片		Green Bell Pepper
+1917	077D	红椒片		Red Bell Pepper
+1918	077E	黄椒片		Yellow Bell Pepper
+1919	077F	牛油果		Avocado
+1920	0780	煎培根		Bacon
+1921	0781	火腿片		Ham
+1922	0782	生火腿		Prosciutto
+1923	0783	煎辣香肠		Chorizo
+1924	0784	香草香肠		Herbed Sausage
+1925	0785	汉堡排		Hamburger
+1926	0786	毛崖蟹棒		Klawf Stick
+1927	0787	烟熏鱼片		Smoked Fillet
+1928	0788	炸鱼片		Fried Fillet
+1929	0789	水煮蛋片		Egg
+1930	078A	烘蛋		Potato Tortilla
+1931	078B	豆腐		Tofu
+1932	078C	米饭		Rice
+1933	078D	面条		Noodles
+1934	078E	土豆沙拉		Potato Salad
+1935	078F	芝士片		Cheese
+1936	0790	香蕉片		Banana
+1937	0791	草莓片		Strawberry
+1938	0792	苹果片		Apple
+1939	0793	奇异果片		Kiwi
+1940	0794	凤梨片		Pineapple
+1941	0795	小辣椒		Jalapeño
+1942	0796	辣根		Horseradish
+1943	0797	咖喱粉		Curry Powder
+1944	0798	芥末酱		Wasabi
+1945	0799	豆瓣菜		Watercress
+1946	079A	罗勒		Basil
+1956	07A4	毛球的牙		Venonat Fang
+2160	0870	招式学习器１００		TM100
+2161	0871	招式学习器１０１		TM101
+2162	0872	招式学习器１０２		TM102
+2163	0873	招式学习器１０３		TM103
+2164	0874	招式学习器１０４		TM104
+2165	0875	招式学习器１０５		TM105
+2166	0876	招式学习器１０６		TM106
+2167	0877	招式学习器１０７		TM107
+2168	0878	招式学习器１０８		TM108
+2169	0879	招式学习器１０９		TM109
+2170	087A	招式学习器１１０		TM110
+2171	087B	招式学习器１１１		TM111
+2172	087C	招式学习器１１２		TM112
+2173	087D	招式学习器１１３		TM113
+2174	087E	招式学习器１１４		TM114
+2175	087F	招式学习器１１５		TM115
+2176	0880	招式学习器１１６		TM116
+2177	0881	招式学习器１１７		TM117
+2178	0882	招式学习器１１８		TM118
+2179	0883	招式学习器１１９		TM119
+2180	0884	招式学习器１２０		TM120
+2181	0885	招式学习器１２１		TM121
+2182	0886	招式学习器１２２		TM122
+2183	0887	招式学习器１２３		TM123
+2184	0888	招式学习器１２４		TM124
+2185	0889	招式学习器１２５		TM125
+2186	088A	招式学习器１２６		TM126
+2187	088B	招式学习器１２７		TM127
+2188	088C	招式学习器１２８		TM128
+2189	088D	招式学习器１２９		TM129
+2190	088E	招式学习器１３０		TM130
+2191	088F	招式学习器１３１		TM131
+2192	0890	招式学习器１３２		TM132
+2193	0891	招式学习器１３３		TM133
+2194	0892	招式学习器１３４		TM134
+2195	0893	招式学习器１３５		TM135
+2196	0894	招式学习器１３６		TM136
+2197	0895	招式学习器１３７		TM137
+2198	0896	招式学习器１３８		TM138
+2199	0897	招式学习器１３９		TM139
+2200	0898	招式学习器１４０		TM140
+2201	0899	招式学习器１４１		TM141
+2202	089A	招式学习器１４２		TM142
+2203	089B	招式学习器１４３		TM143
+2204	089C	招式学习器１４４		TM144
+2205	089D	招式学习器１４５		TM145
+2206	089E	招式学习器１４６		TM146
+2207	089F	招式学习器１４７		TM147
+2208	08A0	招式学习器１４８		TM148
+2209	08A1	招式学习器１４９		TM149
+2210	08A2	招式学习器１５０		TM150
+2211	08A3	招式学习器１５１		TM151
+2212	08A4	招式学习器１５２		TM152
+2213	08A5	招式学习器１５３		TM153
+2214	08A6	招式学习器１５４		TM154
+2215	08A7	招式学习器１５５		TM155
+2216	08A8	招式学习器１５６		TM156
+2217	08A9	招式学习器１５７		TM157
+2218	08AA	招式学习器１５８		TM158
+2219	08AB	招式学习器１５９		TM159
+2220	08AC	招式学习器１６０		TM160
+2221	08AD	招式学习器１６１		TM161
+2222	08AE	招式学习器１６２		TM162
+2223	08AF	招式学习器１６３		TM163
+2224	08B0	招式学习器１６４		TM164
+2225	08B1	招式学习器１６５		TM165
+2226	08B2	招式学习器１６６		TM166
+2227	08B3	招式学习器１６７		TM167
+2228	08B4	招式学习器１６８		TM168
+2229	08B5	招式学习器１６９		TM169
+2230	08B6	招式学习器１７０		TM170
+2231	08B7	招式学习器１７１		TM171
+2311	0907	野餐组合		Picnic Set
+2313	0909	校园水壶		Academy Bottle
+2314	090A	校园水壶		Academy Bottle
+2315	090B	圆点水壶		Polka-Dot Bottle
+2316	090C	条纹水壶		Striped Bottle
+2317	090D	菱纹水壶		Diamond Bottle
+2318	090E	校园水杯		Academy Cup
+2319	090F	校园水杯		Academy Cup
+2320	0910	直条纹水杯		Striped Cup
+2321	0911	圆点水杯		Polka-Dot Cup
+2322	0912	花朵水杯		Flower Pattern Cup
+2323	0913	校园桌巾		Academy Tablecloth
+2324	0914	校园桌巾		Academy Tablecloth
+2325	0915	幻彩桌巾		Whimsical Tablecloth
+2326	0916	大自然桌巾		Leafy Tablecloth
+2327	0917	鬼祟桌巾		Spooky Tablecloth
+2330	091A	校园球		Academy Ball
+2331	091B	玛力露球		Marill Ball
+2332	091C	毛线球		Yarn Ball
+2333	091D	电竞球		Cyber Ball
+2334	091E	金色三明治签		Gold Pick
+2335	091F	银色三明治签		Silver Pick
+2336	0920	红旗子三明治签		Red-Flag Pick
+2337	0921	蓝旗子三明治签		Blue-Flag Pick
+2338	0922	皮卡丘三明治签		Pika-Pika Pick
+2339	0923	眨眼皮卡丘三明治签		Winking Pika Pick
+2340	0924	伊布三明治签		Vee-Vee Pick
+2341	0925	笑脸伊布三明治签		Smiling Vee Pick
+2342	0926	蓝珠珠三明治签		Blue Poké Ball Pick
+2344	0928	庆祝之铠		Auspicious Armor
+2345	0929	头领凭证		Leader’s Crest
+2348	092C	粉红水壶		Pink Bottle
+2349	092D	蓝色水壶		Blue Bottle
+2350	092E	黄色水壶		Yellow Bottle
+2351	092F	红纹不锈钢水壶		Steel Bottle (R)
+2352	0930	黄纹不锈钢水壶		Steel Bottle (Y)
+2353	0931	蓝纹不锈钢水壶		Steel Bottle (B)
+2354	0932	银钛水壶		Silver Bottle
+2355	0933	横条纹水杯		Barred Cup
+2356	0934	菱纹水杯		Diamond Pattern Cup
+2357	0935	火焰水杯		Fire Pattern Cup
+2358	0936	粉红水杯		Pink Cup
+2359	0937	蓝色水杯		Blue Cup
+2360	0938	黄色水杯		Yellow Cup
+2361	0939	皮卡丘水杯		Pikachu Cup
+2362	093A	伊布水杯		Eevee Cup
+2363	093B	呆呆兽水杯		Slowpoke Cup
+2364	093C	银钛水杯		Silver Cup
+2365	093D	瑜珈球		Exercise Ball
+2366	093E	黄色格子桌巾		Plaid Tablecloth (Y)
+2367	093F	蓝色格子桌巾		Plaid Tablecloth (B)
+2368	0940	红色格子桌巾		Plaid Tablecloth (R)
+2369	0941	黑白草丛桌巾		B&W Grass Tablecloth
+2370	0942	对决桌巾		Battle Tablecloth
+2371	0943	怪兽桌巾		Monstrous Tablecloth
+2372	0944	条纹桌巾		Striped Tablecloth
+2373	0945	菱纹桌巾		Diamond Tablecloth
+2374	0946	圆点桌巾		Polka-Dot Tablecloth
+2375	0947	紫色桌巾		Lilac Tablecloth
+2376	0948	浅绿桌巾		Mint Tablecloth
+2377	0949	米色桌巾		Peach Tablecloth
+2378	094A	黄色桌巾		Yellow Tablecloth
+2379	094B	蓝色桌巾		Blue Tablecloth
+2380	094C	粉红桌巾		Pink Tablecloth
+2381	094D	金钛水壶		Gold Bottle
+2382	094E	铜钛水壶		Bronze Bottle
+2383	094F	金钛水杯		Gold Cup
+2384	0950	铜钛水杯		Bronze Cup
+2385	0951	绿珠珠三明治签		Green Poké Ball Pick
+2386	0952	红珠珠三明治签		Red Poké Ball Pick
+2387	0953	烟花祝庆三明治签		Party Sparkler Pick
+2388	0954	勇者之剑三明治签		Heroic Sword Pick
+2389	0955	魔法星星三明治签		Magical Star Pick
+2390	0956	魔法甜心三明治签		Magical Heart Pick
+2391	0957	阳伞三明治签		Parasol Pick
+2392	0958	晴空花三明治签		Blue-Sky Flower Pick
+2393	0959	夕阳花三明治签		Sunset Flower Pick
+2394	095A	朝霞花三明治签		Sunrise Flower Pick
+2395	095B	蓝色盘子		Blue Dish
+2396	095C	绿色盘子		Green Dish
+2397	095D	橘色盘子		Orange Dish
+2398	095E	红色盘子		Red Dish
+2399	095F	白色盘子		White Dish
+2400	0960	黄色盘子		Yellow Dish
