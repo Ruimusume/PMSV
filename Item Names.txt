@@ -1,4 +1,5 @@
 ID	HEX	名称	日文名称	英文名称
+0	0000	无	なし	None
 1	0001	大师球	マスターボール	Master Ball
 2	0002	高级球	ハイパーボール	Ultra Ball
 3	0003	超级球	スーパーボール	Great Ball
@@ -470,6 +471,9 @@ ID	HEX	名称	日文名称	英文名称
 1828	0724	传说石板	レジェンドプレート	Legend Plate
 1829	0725	手机洛托姆	スマホロトム	Rotom Phone
 1830	0726	三明治		Sandwich
+1831	0727	故勒顿的球		Koraidon’s Poké Ball
+1832	0728	密勒顿的球		Miraidon’s Poké Ball
+1833	0729	太晶珠	テラスタルオーブ	Tera Orb
 1834	072A	朱之书	スカーレットブック	Scarlet Book
 1835	072B	紫之书	バイオレットブック	Violet Book
 1836	072C	海岱的钱包		Kofu’s Wallet
@@ -565,78 +569,258 @@ ID	HEX	名称	日文名称	英文名称
 1945	0799	豆瓣菜		Watercress
 1946	079A	罗勒		Basil
 1956	07A4	毛球的牙		Venonat Fang
-2160	0870	招式学习器１００		TM100
-2161	0871	招式学习器１０１		TM101
-2162	0872	招式学习器１０２		TM102
-2163	0873	招式学习器１０３		TM103
-2164	0874	招式学习器１０４		TM104
-2165	0875	招式学习器１０５		TM105
-2166	0876	招式学习器１０６		TM106
-2167	0877	招式学习器１０７		TM107
-2168	0878	招式学习器１０８		TM108
-2169	0879	招式学习器１０９		TM109
-2170	087A	招式学习器１１０		TM110
-2171	087B	招式学习器１１１		TM111
-2172	087C	招式学习器１１２		TM112
-2173	087D	招式学习器１１３		TM113
-2174	087E	招式学习器１１４		TM114
-2175	087F	招式学习器１１５		TM115
-2176	0880	招式学习器１１６		TM116
-2177	0881	招式学习器１１７		TM117
-2178	0882	招式学习器１１８		TM118
-2179	0883	招式学习器１１９		TM119
-2180	0884	招式学习器１２０		TM120
-2181	0885	招式学习器１２１		TM121
-2182	0886	招式学习器１２２		TM122
-2183	0887	招式学习器１２３		TM123
-2184	0888	招式学习器１２４		TM124
-2185	0889	招式学习器１２５		TM125
-2186	088A	招式学习器１２６		TM126
-2187	088B	招式学习器１２７		TM127
-2188	088C	招式学习器１２８		TM128
-2189	088D	招式学习器１２９		TM129
-2190	088E	招式学习器１３０		TM130
-2191	088F	招式学习器１３１		TM131
-2192	0890	招式学习器１３２		TM132
-2193	0891	招式学习器１３３		TM133
-2194	0892	招式学习器１３４		TM134
-2195	0893	招式学习器１３５		TM135
-2196	0894	招式学习器１３６		TM136
-2197	0895	招式学习器１３７		TM137
-2198	0896	招式学习器１３８		TM138
-2199	0897	招式学习器１３９		TM139
-2200	0898	招式学习器１４０		TM140
-2201	0899	招式学习器１４１		TM141
-2202	089A	招式学习器１４２		TM142
-2203	089B	招式学习器１４３		TM143
-2204	089C	招式学习器１４４		TM144
-2205	089D	招式学习器１４５		TM145
-2206	089E	招式学习器１４６		TM146
-2207	089F	招式学习器１４７		TM147
-2208	08A0	招式学习器１４８		TM148
-2209	08A1	招式学习器１４９		TM149
-2210	08A2	招式学习器１５０		TM150
-2211	08A3	招式学习器１５１		TM151
-2212	08A4	招式学习器１５２		TM152
-2213	08A5	招式学习器１５３		TM153
-2214	08A6	招式学习器１５４		TM154
-2215	08A7	招式学习器１５５		TM155
-2216	08A8	招式学习器１５６		TM156
-2217	08A9	招式学习器１５７		TM157
-2218	08AA	招式学习器１５８		TM158
-2219	08AB	招式学习器１５９		TM159
-2220	08AC	招式学习器１６０		TM160
-2221	08AD	招式学习器１６１		TM161
-2222	08AE	招式学习器１６２		TM162
-2223	08AF	招式学习器１６３		TM163
-2224	08B0	招式学习器１６４		TM164
-2225	08B1	招式学习器１６５		TM165
-2226	08B2	招式学习器１６６		TM166
-2227	08B3	招式学习器１６７		TM167
-2228	08B4	招式学习器１６８		TM168
-2229	08B5	招式学习器１６９		TM169
-2230	08B6	招式学习器１７０		TM170
-2231	08B7	招式学习器１７１		TM171
+1957	07A5	地鼠的土		Diglett Dirt
+1958	07A6	喵喵的毛		Meowth Fur
+1959	07A7	可达鸭的羽绒		Psyduck Down
+1960	07A8	猴怪的毛		Mankey Fur
+1961	07A9	卡蒂狗的毛		Growlithe Fur
+1962	07AA	呆呆兽的爪子		Slowpoke Claw
+1963	07AB	小磁怪的螺丝		Magnemite Screw
+1964	07AC	臭泥的毒素		Grimer Toxin
+1965	07AD	大舌贝的珍珠		Shellder Pearl
+1966	07AE	鬼斯的气体		Gastly Gas
+1967	07AF	催眠貘的毛		Drowzee Fur
+1968	07B0	霹雳电球的电力		Voltorb Sparks
+1969	07B1	飞天螳螂的爪子		Scyther Claw
+1970	07B2	肯泰罗的毛		Tauros Hair
+1971	07B3	鲤鱼王的鳞片		Magikarp Scales
+1972	07B4	百变怪的黏糊		Ditto Goo
+1973	07B5	伊布的毛		Eevee Fur
+1974	07B6	迷你龙的鳞片		Dratini Scales
+1975	07B7	皮丘的毛		Pichu Fur
+1976	07B8	宝宝丁的毛		Igglybuff Fluff
+1977	07B9	咩利羊的毛球		Mareep Wool
+1978	07BA	毽子草的叶片		Hoppip Leaf
+1979	07BB	向日种子的叶片		Sunkern Leaf
+1980	07BC	黑暗鸦的宝物		Murkrow Bauble
+1981	07BD	梦妖的眼泪		Misdreavus Tears
+1982	07BE	麒麟奇的毛		Girafarig Fur
+1983	07BF	榛果球的壳		Pineco Husk
+1984	07C0	土龙弟弟的鳞片		Dunsparce Scales
+1985	07C1	千针鱼的刺		Qwilfish Spines
+1986	07C2	赫拉克罗斯的爪子		Heracross Claw
+1987	07C3	狃拉的爪子		Sneasel Claw
+1988	07C4	熊宝宝的爪子		Teddiursa Claw
+1989	07C5	信使鸟的行李		Delibird Parcel
+1990	07C6	戴鲁比的牙		Houndour Fang
+1991	07C7	小小象的爪子		Phanpy Nail
+1992	07C8	惊角鹿的毛		Stantler Hair
+1993	07C9	幼基拉斯的爪子		Larvitar Claw
+1994	07CA	长翅鸥的羽毛		Wingull Feather
+1995	07CB	拉鲁拉丝的掉落物		Ralts Dust
+1996	07CC	溜溜糖球的蜜		Surskit Syrup
+1997	07CD	蘑蘑菇的孢子		Shroomish Spores
+1998	07CE	懒人獭的毛		Slakoth Fur
+1999	07CF	幕下力士的汗		Makuhita Sweat
+2000	07D0	露力丽的毛		Azurill Fur
+2001	07D1	勾魂眼的宝石		Sableye Gem
+2002	07D2	玛沙那的汗		Meditite Sweat
+2003	07D3	溶食兽的黏液		Gulpin Mucus
+2004	07D4	呆火驼的熔岩		Numel Lava
+2005	07D5	煤炭龟的煤炭		Torkoal Coal
+2006	07D6	跳跳猪的珍珠		Spoink Pearl
+2007	07D7	刺球仙人掌的刺		Cacnea Needle
+2008	07D8	青绵鸟的羽毛		Swablu Fluff
+2009	07D9	猫鼬斩的爪子		Zangoose Claw
+2010	07DA	饭匙蛇的牙		Seviper Fang
+2011	07DB	泥泥鳅的黏液		Barboach Slime
+2012	07DC	怨影娃娃的残片		Shuppet Scrap
+2013	07DD	热带龙的叶片		Tropius Leaf
+2014	07DE	雪童子的毛		Snorunt Fur
+2015	07DF	爱心鱼的鳞片		Luvdisc Scales
+2016	07E0	宝贝龙的鳞片		Bagon Scales
+2017	07E1	姆克儿的羽毛		Starly Feather
+2018	07E2	圆法师的蜕壳		Kricketot Shell
+2019	07E3	小猫怪的牙		Shinx Fang
+2020	07E4	三蜜蜂的蜜		Combee Honey
+2021	07E5	帕奇利兹的毛		Pachirisu Fur
+2022	07E6	泳圈鼬的毛		Buizel Fur
+2023	07E7	无壳海兔的黏液		Shellos Mucus
+2024	07E8	飘飘球的气体		Drifloon Gas
+2025	07E9	臭鼬噗的毛		Stunky Fur
+2026	07EA	铜镜怪的碎片		Bronzor Fragment
+2027	07EB	盆才怪的眼泪		Bonsly Tears
+2028	07EC	小福蛋的掉落物		Happiny Dust
+2029	07ED	花岩怪的碎片		Spiritomb Fragment
+2030	07EE	圆陆鲨的鳞片		Gible Scales
+2031	07EF	利欧路的毛		Riolu Fur
+2032	07F0	沙河马的沙		Hippopotas Sand
+2033	07F1	不良蛙的毒素		Croagunk Poison
+2034	07F2	荧光鱼的鳞片		Finneon Scales
+2035	07F3	雪笠怪的果实		Snover Berries
+2036	07F4	洛托姆的电力		Rotom Sparks
+2037	07F5	百合根娃娃的叶片		Petilil Leaf
+2038	07F6	野蛮鲈鱼的牙		Basculin Fang
+2039	07F7	黑眼鳄的爪子		Sandile Claw
+2040	07F8	索罗亚的毛		Zorua Fur
+2041	07F9	哥德宝宝的睫毛		Gothita Eyelash
+2042	07FA	四季鹿的毛		Deerling Hair
+2043	07FB	哎呀球菇的孢子		Foongus Spores
+2044	07FC	保姆曼波的黏液		Alomomola Mucus
+2045	07FD	麻麻小鱼的黏液		Tynamo Slime
+2046	07FE	牙牙的鳞片		Axew Scales
+2047	07FF	喷嚏熊的毛		Cubchoo Fur
+2048	0800	几何雪花的冰		Cryogonal Ice
+2049	0801	驹刀小兵的刀		Pawniard Blade
+2050	0802	毛头小鹰的羽毛		Rufflet Feather
+2051	0803	单首龙的鳞片		Deino Scales
+2052	0804	燃烧虫的毛		Larvesta Fuzz
+2053	0805	小箭雀的羽毛		Fletchling Feather
+2054	0806	粉蝶虫的粉		Scatterbug Powder
+2055	0807	小狮狮的鬃毛		Litleo Tuft
+2056	0808	花蓓蓓的花粉		Flabébé Pollen
+2057	0809	坐骑小羊的叶片		Skiddo Leaf
+2058	080A	垃垃藻的碎藻		Skrelp Kelp
+2059	080B	铁臂枪虾的钳子		Clauncher Claw
+2060	080C	摔角鹰人的羽绒		Hawlucha Down
+2061	080D	咚咚鼠的毛		Dedenne Fur
+2062	080E	黏黏宝的黏液		Goomy Goo
+2063	080F	钥圈儿的钥匙		Klefki Key
+2064	0810	冰宝的冰		Bergmite Ice
+2065	0811	嗡蝠的毛		Noibat Fur
+2066	0812	猫鼬少的毛		Yungoos Fur
+2067	0813	好胜蟹的壳		Crabrawler Shell
+2068	0814	花舞鸟的羽毛		Oricorio Feather
+2069	0815	岩狗狗的岩石		Rockruff Rock
+2070	0816	好坏星的刺		Mareanie Spike
+2071	0817	泥驴仔的泥巴		Mudbray Mud
+2072	0818	伪螳草的叶片		Fomantis Leaf
+2073	0819	夜盗火蜥的气体		Salandit Gas
+2074	081A	甜竹竹的汗		Bounsweet Sweat
+2075	081B	智挥猩的毛		Oranguru Fur
+2076	081C	投掷猴的毛		Passimian Fur
+2077	081D	沙丘娃的沙		Sandygast Sand
+2078	081E	树枕尾熊的爪子		Komala Claw
+2079	081F	谜拟丘的残片		Mimikyu Scrap
+2080	0820	磨牙彩皮鱼的牙齿		Bruxish Tooth
+2081	0821	咬咬龟的爪子		Chewtle Claw
+2082	0822	贪心栗鼠的毛		Skwovet Fur
+2083	0823	刺梭鱼的鳞片		Arrokuda Scales
+2084	0824	稚山雀的羽毛		Rookidee Feather
+2085	0825	电音婴的电力		Toxel Sparks
+2086	0826	列阵兵的汗		Falinks Sweat
+2087	0827	铜象的锈		Cufant Tarnish
+2088	0828	小炭仔的煤炭		Rolycoly Coal
+2089	0829	沙包蛇的沙		Silicobra Sand
+2090	082A	爱管侍的毛		Indeedee Fur
+2091	082B	啪嚓海胆的针		Pincurchin Spines
+2092	082C	雪吞虫的丝		Snom Thread
+2093	082D	捣蛋小妖的毛		Impidimp Hair
+2094	082E	啃果虫的果汁		Applin Juice
+2095	082F	来悲茶的碎片		Sinistea Chip
+2096	0830	迷布莉姆的掉落物		Hatenna Dust
+2097	0831	巨石丁的岩石		Stonjourner Stone
+2098	0832	冰砌鹅的羽绒		Eiscue Down
+2099	0833	多龙梅西亚的粉		Dreepy Powder
+2103	0837	爱吃豚的毛		Lechonk Hair
+2104	0838	团珠蛛的丝		Tarountula Thread
+2105	0839	豆蟋蟀的爪子		Nymble Claw
+2106	083A	虫滚泥的泥巴		Rellor Mud
+2107	083B	墓仔狗的蜡		Greavard Wax
+2108	083C	飘飘雏的羽绒		Flittle Down
+2109	083D	海地鼠的沙		Wiglett Sand
+2110	083E	吃吼霸的胡须		Dondozo Whisker
+2111	083F	轻身鳕的鱼片		Veluza Fillet
+2112	0840	波普海豚的黏液		Finizen Mucus
+2113	0841	迷你芙的油		Smoliv Oil
+2114	0842	热辣娃的种子		Capsakid Seed
+2115	0843	光蚪仔的黏液		Tadbulb Mucus
+2116	0844	噗隆隆的气体		Varoom Fume
+2117	0845	拖拖蚓的锈		Orthworm Tarnish
+2118	0846	一对鼠的毛		Tandemaus Fur
+2119	0847	走鲸的油脂		Cetoddle Grease
+2120	0848	凉脊龙的鳞片		Frigibax Scales
+2121	0849	米立龙的鳞片		Tatsugiri Scales
+2122	084A	摩托蜥的鳞片		Cyclizar Scales
+2123	084B	布拨的毛		Pawmi Fur
+2126	084E	电海燕的羽毛		Wattrel Feather
+2127	084F	下石鸟的羽毛		Bombirdier Feather
+2128	0850	怒鹦哥的羽毛		Squawkabilly Feather
+2129	0851	缠红鹤的羽绒		Flamigo Down
+2130	0852	毛崖蟹的钳子		Klawf Claw
+2131	0853	盐石宝的盐		Nacli Salt
+2132	0854	晶光芽的结晶		Glimmet Crystal
+2133	0855	滋汁鼹的墨汁		Shroodle Ink
+2134	0856	狗仔包的毛		Fidough Fur
+2135	0857	偶叫獒的牙		Maschiff Fang
+2136	0858	纳噬草的枝条		Bramblin Twig
+2137	0859	索财灵的硬币		Gimmighoul Coin
+2156	086C	小锻匠的毛		Tinkatink Hair
+2157	086D	炭小侍的煤灰		Charcadet Soot
+2158	086E	原野水母的薄片		Toedscool Flaps
+2159	086F	乌波的黏液		Wooper Slime
+2160	0870	招式学习器１００	わざマシン１００	TM100
+2161	0871	招式学习器１０１	わざマシン１０１	TM101
+2162	0872	招式学习器１０２	わざマシン１０２	TM102
+2163	0873	招式学习器１０３	わざマシン１０３	TM103
+2164	0874	招式学习器１０４	わざマシン１０４	TM104
+2165	0875	招式学习器１０５	わざマシン１０５	TM105
+2166	0876	招式学习器１０６	わざマシン１０６	TM106
+2167	0877	招式学习器１０７	わざマシン１０７	TM107
+2168	0878	招式学习器１０８	わざマシン１０８	TM108
+2169	0879	招式学习器１０９	わざマシン１０９	TM109
+2170	087A	招式学习器１１０	わざマシン１１０	TM110
+2171	087B	招式学习器１１１	わざマシン１１１	TM111
+2172	087C	招式学习器１１２	わざマシン１１２	TM112
+2173	087D	招式学习器１１３	わざマシン１１３	TM113
+2174	087E	招式学习器１１４	わざマシン１１４	TM114
+2175	087F	招式学习器１１５	わざマシン１１５	TM115
+2176	0880	招式学习器１１６	わざマシン１１６	TM116
+2177	0881	招式学习器１１７	わざマシン１１７	TM117
+2178	0882	招式学习器１１８	わざマシン１１８	TM118
+2179	0883	招式学习器１１９	わざマシン１１９	TM119
+2180	0884	招式学习器１２０	わざマシン１２０	TM120
+2181	0885	招式学习器１２１	わざマシン１２１	TM121
+2182	0886	招式学习器１２２	わざマシン１２２	TM122
+2183	0887	招式学习器１２３	わざマシン１２３	TM123
+2184	0888	招式学习器１２４	わざマシン１２４	TM124
+2185	0889	招式学习器１２５	わざマシン１２５	TM125
+2186	088A	招式学习器１２６	わざマシン１２６	TM126
+2187	088B	招式学习器１２７	わざマシン１２７	TM127
+2188	088C	招式学习器１２８	わざマシン１２８	TM128
+2189	088D	招式学习器１２９	わざマシン１２９	TM129
+2190	088E	招式学习器１３０	わざマシン１３０	TM130
+2191	088F	招式学习器１３１	わざマシン１３１	TM131
+2192	0890	招式学习器１３２	わざマシン１３２	TM132
+2193	0891	招式学习器１３３	わざマシン１３３	TM133
+2194	0892	招式学习器１３４	わざマシン１３４	TM134
+2195	0893	招式学习器１３５	わざマシン１３５	TM135
+2196	0894	招式学习器１３６	わざマシン１３６	TM136
+2197	0895	招式学习器１３７	わざマシン１３７	TM137
+2198	0896	招式学习器１３８	わざマシン１３８	TM138
+2199	0897	招式学习器１３９	わざマシン１３９	TM139
+2200	0898	招式学习器１４０	わざマシン１４０	TM140
+2201	0899	招式学习器１４１	わざマシン１４１	TM141
+2202	089A	招式学习器１４２	わざマシン１４２	TM142
+2203	089B	招式学习器１４３	わざマシン１４３	TM143
+2204	089C	招式学习器１４４	わざマシン１４４	TM144
+2205	089D	招式学习器１４５	わざマシン１４５	TM145
+2206	089E	招式学习器１４６	わざマシン１４６	TM146
+2207	089F	招式学习器１４７	わざマシン１４７	TM147
+2208	08A0	招式学习器１４８	わざマシン１４８	TM148
+2209	08A1	招式学习器１４９	わざマシン１４９	TM149
+2210	08A2	招式学习器１５０	わざマシン１５０	TM150
+2211	08A3	招式学习器１５１	わざマシン１５１	TM151
+2212	08A4	招式学习器１５２	わざマシン１５２	TM152
+2213	08A5	招式学习器１５３	わざマシン１５３	TM153
+2214	08A6	招式学习器１５４	わざマシン１５４	TM154
+2215	08A7	招式学习器１５５	わざマシン１５５	TM155
+2216	08A8	招式学习器１５６	わざマシン１５６	TM156
+2217	08A9	招式学习器１５７	わざマシン１５７	TM157
+2218	08AA	招式学习器１５８	わざマシン１５８	TM158
+2219	08AB	招式学习器１５９	わざマシン１５９	TM159
+2220	08AC	招式学习器１６０	わざマシン１６０	TM160
+2221	08AD	招式学习器１６１	わざマシン１６１	TM161
+2222	08AE	招式学习器１６２	わざマシン１６２	TM162
+2223	08AF	招式学习器１６３	わざマシン１６３	TM163
+2224	08B0	招式学习器１６４	わざマシン１６４	TM164
+2225	08B1	招式学习器１６５	わざマシン１６５	TM165
+2226	08B2	招式学习器１６６	わざマシン１６６	TM166
+2227	08B3	招式学习器１６７	わざマシン１６７	TM167
+2228	08B4	招式学习器１６８	わざマシン１６８	TM168
+2229	08B5	招式学习器１６９	わざマシン１６９	TM169
+2230	08B6	招式学习器１７０	わざマシン１７０	TM170
+2231	08B7	招式学习器１７１	わざマシン１７１	TM171
 2311	0907	野餐组合		Picnic Set
 2313	0909	校园水壶		Academy Bottle
 2314	090A	校园水壶		Academy Bottle
@@ -653,6 +837,7 @@ ID	HEX	名称	日文名称	英文名称
 2325	0915	幻彩桌巾		Whimsical Tablecloth
 2326	0916	大自然桌巾		Leafy Tablecloth
 2327	0917	鬼祟桌巾		Spooky Tablecloth
+2329	0919	校园球		Academy Ball
 2330	091A	校园球		Academy Ball
 2331	091B	玛力露球		Marill Ball
 2332	091C	毛线球		Yarn Ball
