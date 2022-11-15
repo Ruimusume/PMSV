@@ -1,4 +1,3 @@
-ID	HEX	名称	日文名称	英文名称
 0	0000	无	なし	None
 1	0001	大师球	マスターボール	Master Ball
 2	0002	高级球	ハイパーボール	Ultra Ball
@@ -470,104 +469,104 @@ ID	HEX	名称	日文名称	英文名称
 1785	06F9	奇异球	ストレンジボール	Strange Ball
 1828	0724	传说石板	レジェンドプレート	Legend Plate
 1829	0725	手机洛托姆	スマホロトム	Rotom Phone
-1830	0726	三明治		Sandwich
-1831	0727	故勒顿的球		Koraidon’s Poké Ball
-1832	0728	密勒顿的球		Miraidon’s Poké Ball
+1830	0726	三明治	サンドウェッチ	Sandwich
+1831	0727	故勒顿的球	コライドンのボール	Koraidon’s Poké Ball
+1832	0728	密勒顿的球	ミライドンのボール	Miraidon’s Poké Ball
 1833	0729	太晶珠	テラスタルオーブ	Tera Orb
 1834	072A	朱之书	スカーレットブック	Scarlet Book
 1835	072B	紫之书	バイオレットブック	Violet Book
-1836	072C	海岱的钱包		Kofu’s Wallet
-1842	0732	小竹笋		Tiny Bamboo Shoot
-1843	0733	大竹笋		Big Bamboo Shoot
-1857	0741	恶之挂轴		Scroll of Darkness
-1858	0742	水之挂轴		Scroll of Waters
+1836	072C	海岱的钱包	ハイダイのサイフ	Kofu’s Wallet
+1842	0732	小竹笋	ちさいなダケノコ	Tiny Bamboo Shoot
+1843	0733	大竹笋	おおきなダケノコ	Big Bamboo Shoot
+1857	0741	恶之挂轴	あくのかけじく	Scroll of Darkness
+1858	0742	水之挂轴	みずのかけじく	Scroll of Waters
 1859	0743			
 1860	0744			
-1861	0745	咒术之铠		Malicious Armor
-1862	0746	一般太晶碎块		Normal Tera Shard
-1863	0747	火太晶碎块		Fire Tera Shard
-1864	0748	水太晶碎块		Water Tera Shard
-1865	0749	电太晶碎块		Electric Tera Shard
-1866	074A	草太晶碎块		Grass Tera Shard
-1867	074B	冰太晶碎块		Ice Tera Shard
-1868	074C	格斗太晶碎块		Fighting Tera Shard
-1869	074D	毒太晶碎块		Poison Tera Shard
-1870	074E	地面太晶碎块		Ground Tera Shard
-1871	074F	飞行太晶碎块		Flying Tera Shard
-1872	0750	超能力太晶碎块		Psychic Tera Shard
-1873	0751	虫太晶碎块		Bug Tera Shard
-1874	0752	岩石太晶碎块		Rock Tera Shard
-1875	0753	幽灵太晶碎块		Ghost Tera Shard
-1876	0754	龙太晶碎块		Dragon Tera Shard
-1877	0755	恶太晶碎块		Dark Tera Shard
-1878	0756	钢太晶碎块		Steel Tera Shard
-1879	0757	妖精太晶碎块		Fairy Tera Shard
-1880	0758	驱劲能量		Booster Energy
-1881	0759	特性护具		Ability Shield
-1882	075A	清净坠饰		Clear Amulet
-1883	075B	模仿香草		Mirror Herb
-1884	075C	拳击手套		Punching Glove
-1885	075D	密探斗篷		Covert Cloak
-1886	075E	机变骰子		Loaded Dice
-1888	0760	长棍面包		Baguette
-1889	0761	蛋黄酱		Mayonnaise
-1890	0762	番茄酱		Ketchup
-1891	0763	黄芥末酱		Mustard
-1892	0764	黄油		Butter
-1893	0765	花生酱		Peanut Butter
-1894	0766	辣酱		Chili Sauce
-1895	0767	盐		Salt
-1896	0768	胡椒		Pepper
-1897	0769	酸奶		Yogurt
-1898	076A	鲜奶油		Whipped Cream
-1899	076B	奶油芝士		Cream Cheese
-1900	076C	莓果酱		Jam
-1901	076D	橘子酱		Marmalade
-1902	076E	橄榄油		Olive Oil
-1903	076F	醋		Vinegar
-1904	0770	秘传：甜味料		Sweet Herba Mystica
-1905	0771	秘传：咸味料		Salty Herba Mystica
-1906	0772	秘传：酸味料		Sour Herba Mystica
-1907	0773	秘传：苦味料		Bitter Herba Mystica
-1908	0774	秘传：辣味料		Spicy Herba Mystica
-1909	0775	生菜		Lettuce
-1910	0776	番茄片		Tomato
-1911	0777	小番茄块		Cherry Tomatoes
-1912	0778	小黄瓜片		Cucumber
-1913	0779	酸黄瓜片		Pickle
-1914	077A	洋葱片		Onion
-1915	077B	红洋葱		Red Onion
-1916	077C	青椒片		Green Bell Pepper
-1917	077D	红椒片		Red Bell Pepper
-1918	077E	黄椒片		Yellow Bell Pepper
-1919	077F	牛油果		Avocado
-1920	0780	煎培根		Bacon
-1921	0781	火腿片		Ham
-1922	0782	生火腿		Prosciutto
-1923	0783	煎辣香肠		Chorizo
-1924	0784	香草香肠		Herbed Sausage
-1925	0785	汉堡排		Hamburger
-1926	0786	毛崖蟹棒		Klawf Stick
-1927	0787	烟熏鱼片		Smoked Fillet
-1928	0788	炸鱼片		Fried Fillet
-1929	0789	水煮蛋片		Egg
-1930	078A	烘蛋		Potato Tortilla
-1931	078B	豆腐		Tofu
-1932	078C	米饭		Rice
-1933	078D	面条		Noodles
-1934	078E	土豆沙拉		Potato Salad
-1935	078F	芝士片		Cheese
-1936	0790	香蕉片		Banana
-1937	0791	草莓片		Strawberry
-1938	0792	苹果片		Apple
-1939	0793	奇异果片		Kiwi
-1940	0794	凤梨片		Pineapple
-1941	0795	小辣椒		Jalapeño
-1942	0796	辣根		Horseradish
-1943	0797	咖喱粉		Curry Powder
-1944	0798	芥末酱		Wasabi
-1945	0799	豆瓣菜		Watercress
-1946	079A	罗勒		Basil
+1861	0745	咒术之铠	ノロイノヨロイ	Malicious Armor
+1862	0746	一般太晶碎块	テラピースノーマル	Normal Tera Shard
+1863	0747	火太晶碎块	テラピースほのお	Fire Tera Shard
+1864	0748	水太晶碎块	テラピースみず	Water Tera Shard
+1865	0749	电太晶碎块	テラピースでんき	Electric Tera Shard
+1866	074A	草太晶碎块	テラピースくさ	Grass Tera Shard
+1867	074B	冰太晶碎块	テラピースこおり	Ice Tera Shard
+1868	074C	格斗太晶碎块	テラピースかくとう	Fighting Tera Shard
+1869	074D	毒太晶碎块	テラピースどく	Poison Tera Shard
+1870	074E	地面太晶碎块	テラピースじめん	Ground Tera Shard
+1871	074F	飞行太晶碎块	テラピースひこう	Flying Tera Shard
+1872	0750	超能力太晶碎块	テラピースエスパー	Psychic Tera Shard
+1873	0751	虫太晶碎块	テラピースむし	Bug Tera Shard
+1874	0752	岩石太晶碎块	テラピースいわ	Rock Tera Shard
+1875	0753	幽灵太晶碎块	テラピースゴースト	Ghost Tera Shard
+1876	0754	龙太晶碎块	テラピースドラゴン	Dragon Tera Shard
+1877	0755	恶太晶碎块	テラピースあく	Dark Tera Shard
+1878	0756	钢太晶碎块	テラピースはがね	Steel Tera Shard
+1879	0757	妖精太晶碎块	テラピースフェアリー	Fairy Tera Shard
+1880	0758	驱劲能量	ブースとエナジー	Booster Energy
+1881	0759	特性护具	とくせいガード	Ability Shield
+1882	075A	清净坠饰	クリアチャーム	Clear Amulet
+1883	075B	模仿香草	ものまねハーブ	Mirror Herb
+1884	075C	拳击手套	パンチグローブ	Punching Glove
+1885	075D	密探斗篷	おんみつマント	Covert Cloak
+1886	075E	机变骰子	いかさまダイス	Loaded Dice
+1888	0760	长棍面包	バケット	Baguette
+1889	0761	蛋黄酱	マヨネーズ	Mayonnaise
+1890	0762	番茄酱	ケチャップ	Ketchup
+1891	0763	黄芥末酱	マスタード	Mustard
+1892	0764	黄油	バター	Butter
+1893	0765	花生酱	ピーナッツバター	Peanut Butter
+1894	0766	辣酱	チリソース	Chili Sauce
+1895	0767	盐	ソルト	Salt
+1896	0768	胡椒	ペッパー	Pepper
+1897	0769	酸奶	ヨーグルト	Yogurt
+1898	076A	鲜奶油	ホリップクリーム	Whipped Cream
+1899	076B	奶油芝士	クリームチーズ	Cream Cheese
+1900	076C	莓果酱	ベリージャム	Jam
+1901	076D	橘子酱	マーマレード	Marmalade
+1902	076E	橄榄油	オリーブオリル	Olive Oil
+1903	076F	醋	ビネガー	Vinegar
+1904	0770	秘传：甜味料	ひてん：アマスパイス	Sweet Herba Mystica
+1905	0771	秘传：咸味料	ひてん：しおスパイス	Salty Herba Mystica
+1906	0772	秘传：酸味料	ひてん：すぱスパイス	Sour Herba Mystica
+1907	0773	秘传：苦味料	ひてん：にがスパイス	Bitter Herba Mystica
+1908	0774	秘传：辣味料	ひてん：からスパイス	Spicy Herba Mystica
+1909	0775	生菜	レタス	Lettuce
+1910	0776	西红柿片	トマトスライス	Tomato
+1911	0777	小西红柿块	カットミニトマト	Cherry Tomatoes
+1912	0778	小黄瓜片	キュウリスライス	Cucumber
+1913	0779	酸黄瓜片	ピグルススライス	Pickle
+1914	077A	洋葱片	たまねぎスライス	Onion
+1915	077B	红洋葱	アーリーレッド	Red Onion
+1916	077C	青椒片	ピーマンスライス	Green Bell Pepper
+1917	077D	红椒片	あかパプリカスライス	Red Bell Pepper
+1918	077E	黄椒片	きパプリカスライス	Yellow Bell Pepper
+1919	077F	牛油果	アボカド	Avocado
+1920	0780	煎培根	やきベーコン	Bacon
+1921	0781	火腿片	ハムスライス	Ham
+1922	0782	生火腿	なまハム	Prosciutto
+1923	0783	煎辣香肠	やきチョリソー	Chorizo
+1924	0784	香草香肠	ハーブソーセージ	Herbed Sausage
+1925	0785	汉堡排	ハンバーグ	Hamburger
+1926	0786	毛崖蟹棒	ガケガニスティック	Klawf Stick
+1927	0787	烟熏鱼片	スモークきりみ	Smoked Fillet
+1928	0788	炸鱼片	きりみフライ	Fried Fillet
+1929	0789	水煮蛋片	スライスエッグ	Egg
+1930	078A	烘蛋	トルティージャ	Potato Tortilla
+1931	078B	豆腐	トーフ	Tofu
+1932	078C	米饭	ライス	Rice
+1933	078D	面条	ヌードル	Noodles
+1934	078E	土豆色拉	ポテトサラダ	Potato Salad
+1935	078F	芝士片	スライスチーズ	Cheese
+1936	0790	香蕉片	バナナスライス	Banana
+1937	0791	草莓片	いちごスライス	Strawberry
+1938	0792	苹果片	わぎりリンゴ	Apple
+1939	0793	奇异果片	わぎりキウイ	Kiwi
+1940	0794	凤梨片	カットパイン	Pineapple
+1941	0795	小辣椒	バラペーニョ	Jalapeño
+1942	0796	辣根	ホースラディッシュ	Horseradish
+1943	0797	咖喱粉	カレーパウダー	Curry Powder
+1944	0798	芥末酱	ワサビソース	Wasabi
+1945	0799	豆瓣菜	クレソン	Watercress
+1946	079A	罗勒	バジル	Basil
 1956	07A4	毛球的牙		Venonat Fang
 1957	07A5	地鼠的土		Diglett Dirt
 1958	07A6	喵喵的毛		Meowth Fur
