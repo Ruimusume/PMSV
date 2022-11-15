@@ -4,4 +4,3 @@ This includes all Chinese,English and Japanese data of Pokemon Scarlet & Violet
 # Pokemon Scarlet & Violet Encounter Cheats Builder
 ### 宝可梦 朱紫 数据 遭遇代码生成
 <img src="https://livedoor.blogimg.jp/ruimusume/imgs/9/d/9df9f7c7.png"/>
-https://ruisan.blog.jp/archives/17500648.html
