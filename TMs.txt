@@ -18,8 +18,8 @@ TM17	Confuse Ray	奇异之光	あやしいひかり
 TM18	Thief	小偷	どろぼう
 TM19	Disarming Voice	魅惑之声	チャームボイス
 TM20	Trailblaze	起草	くさわけ
-TM21	Pounce	虫扑	#N/A
-TM22	Chilling Water	泼冷水	#N/A
+TM21	Pounce	虫扑	とびつく
+TM22	Chilling Water	泼冷水	ひやみず
 TM23	Charge Beam	充电光束	チャージビーム
 TM24	Fire Spin	火焰旋涡	ほのおのうず
 TM25	Facade	硬撑	からげんき
@@ -49,7 +49,7 @@ TM48	Volt Switch	伏特替换	ボルトチェンジ
 TM49	Sunny Day	大晴天	にほんばれ
 TM50	Rain Dance	求雨	あまごい
 TM51	Sandstorm	沙暴	すなあらし
-TM52	Snowscape	雪景	#N/A
+TM52	Snowscape	雪景	ゆきげしき
 TM53	Smart Strike	修长之角	スマートホーン
 TM54	Psyshock	精神冲击	サイコショック
 TM55	Dig	挖洞	あなをほる
@@ -121,7 +121,7 @@ TM120	Psychic	精神强念	サイコキネシス
 TM121	Heavy Slam	重磅冲撞	ヘビーボンバー
 TM122	Encore	再来一次	アンコール
 TM123	Surf	冲浪	なみのり
-TM124	Ice Spinner	冰旋	#N/A
+TM124	Ice Spinner	冰旋	アイススピナー
 TM125	Flamethrower	喷射火焰	かえんほうしゃ
 TM126	Thunderbolt	十万伏特	１０まんボルト
 TM127	Play Rough	嬉闹	じゃれつく
