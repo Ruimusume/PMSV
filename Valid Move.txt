@@ -587,53 +587,53 @@ ID	HEX	EN_NAME	CN_NAME	JP_NMAE	Valid
 847	034F	Wildbolt Storm	鸣雷风暴	かみなりあらし	1
 848	0350	Sandsear Storm	热沙风暴	ねっさのあらし	1
 849	0351	Lunar Blessing	新月祈祷	みかづきのいのり	1
-851	0353	Tera Blast	太晶爆发	#N/A	1
-852	0354	Silk Trap	线阱	#N/A	1
-853	0355	Axe Kick	下压踢	#N/A	1
-854	0356	Last Respects	扫墓	#N/A	1
-855	0357	Lumina Crash	琉光冲激	#N/A	1
-856	0358	Order Up	上菜	#N/A	1
-857	0359	Jet Punch	喷射拳	#N/A	1
-858	035A	Spicy Extract	辣椒精华	#N/A	1
-859	035B	Spin Out	疾速转轮	#N/A	1
-860	035C	Population Bomb	鼠数儿	#N/A	1
-861	035D	Ice Spinner	冰旋	#N/A	1
-862	035E	Glaive Rush	巨剑突击	#N/A	1
-863	035F	Revival Blessing	复生祈祷	#N/A	1
-864	0360	Salt Cure	盐腌	#N/A	1
-865	0361	Triple Dive	三连钻	#N/A	1
-866	0362	Mortal Spin	晶光转转	#N/A	1
-867	0363	Doodle	描绘	#N/A	1
-868	0364	Fillet Away	甩肉	#N/A	1
-869	0365	Kowtow Cleave	仆刀	#N/A	1
-870	0366	Flower Trick	千变万花	#N/A	1
-871	0367	Torch Song	闪焰高歌	#N/A	1
-872	0368	Aqua Step	流水旋舞	#N/A	1
-873	0369	Raging Bull	怒牛	#N/A	1
-874	036A	Make It Rain	淘金潮	#N/A	1
+851	0353	Tera Blast	太晶爆发	テラバースト	1
+852	0354	Silk Trap	线阱	スレッドトラップ	1
+853	0355	Axe Kick	下压踢	カかとおとし	1
+854	0356	Last Respects	扫墓	おはがまいり	1
+855	0357	Lumina Crash	琉光冲激	ルミナコリジョン	1
+856	0358	Order Up	上菜	いっちょうあがり	1
+857	0359	Jet Punch	喷射拳	ジェットパンチ	1
+858	035A	Spicy Extract	辣椒精华	ハバネロエキス	1
+859	035B	Spin Out	疾速转轮	ホイールスピン	1
+860	035C	Population Bomb	鼠数儿	ネズミざん	1
+861	035D	Ice Spinner	冰旋	アイススピナー	1
+862	035E	Glaive Rush	巨剑突击	きょけんとつげき	1
+863	035F	Revival Blessing	复生祈祷	さいきのいのり	1
+864	0360	Salt Cure	盐腌	しおづけ	1
+865	0361	Triple Dive	三连钻	とリプルダイブ	1
+866	0362	Mortal Spin	晶光转转	キラースピン	1
+867	0363	Doodle	描绘	うつしえ	1
+868	0364	Fillet Away	甩肉	みおけずる	1
+869	0365	Kowtow Cleave	仆刀	ドゲザン	1
+870	0366	Flower Trick	千变万花	トリックフラウー	1
+871	0367	Torch Song	闪焰高歌	フレアソング	1
+872	0368	Aqua Step	流水旋舞	アクアステップ	1
+873	0369	Raging Bull	怒牛	レイジングブル	1
+874	036A	Make It Rain	淘金潮	ゴールドラッシュ	1
 875	036B	Pound	拍击	はたく	1
 876	036C	Pound	拍击	はたく	1
-877	036D	Ruination	大灾难	#N/A	1
-878	036E	Collision Course	全开猛撞	#N/A	1
-879	036F	Electro Drift	闪电猛冲	#N/A	1
-880	0370	Shed Tail	断尾	#N/A	1
-881	0371	Chilly Reception	冷笑话	#N/A	1
-882	0372	Tidy Up	大扫除	#N/A	1
-883	0373	Snowscape	雪景	#N/A	1
-884	0374	Pounce	虫扑	#N/A	1
-885	0375	Trailblaze	起草	#N/A	1
-886	0376	Chilling Water	泼冷水	#N/A	1
-887	0377	Hyper Drill	强力钻	#N/A	1
-888	0378	Twin Beam	双光束	#N/A	1
-889	0379	Rage Fist	愤怒之拳	#N/A	1
-890	037A	Armor Cannon	铠农炮	#N/A	1
-891	037B	Bitter Blade	悔念剑	#N/A	1
-892	037C	Double Shock	电光双击	#N/A	1
-893	037D	Gigaton Hammer	巨力锤	#N/A	1
-894	037E	Comeuppance	复仇	#N/A	1
-895	037F	Aqua Cutter	水波刀	#N/A	1
-896	0380	Blazing Torque	灼热暴冲	#N/A	1
-897	0381	Wicked Torque	黑暗暴冲	#N/A	1
-898	0382	Noxious Torque	剧毒暴冲	#N/A	1
-899	0383	Combat Torque	格斗暴冲	#N/A	1
-900	0384	Magical Torque	魔法暴冲	#N/A	1
+877	036D	Ruination	大灾难	カタストロフィ	1
+878	036E	Collision Course	全开猛撞	アクセルブレイク	1
+879	036F	Electro Drift	闪电猛冲	イナズマドライブ	1
+880	0370	Shed Tail	断尾	しっぽきり	1
+881	0371	Chilly Reception	冷笑话	さむいギャグ	1
+882	0372	Tidy Up	大扫除	おかたづけ	1
+883	0373	Snowscape	雪景	ゆきげしき	1
+884	0374	Pounce	虫扑	とびつく	1
+885	0375	Trailblaze	起草	くさわけ	1
+886	0376	Chilling Water	泼冷水	ひやみず	1
+887	0377	Hyper Drill	强力钻	ハイパードリル	1
+888	0378	Twin Beam	双光束	ツインビーム	1
+889	0379	Rage Fist	愤怒之拳	ふんどのこぶし	1
+890	037A	Armor Cannon	铠农炮	アーマーキャノン	1
+891	037B	Bitter Blade	悔念剑	むねんのつるぎ	1
+892	037C	Double Shock	电光双击	てんこうそうげき	1
+893	037D	Gigaton Hammer	巨力锤	デカバンマー	1
+894	037E	Comeuppance	复仇	ほうふく	1
+895	037F	Aqua Cutter	水波刀	アクアカッター	1
+896	0380	Blazing Torque	灼热暴冲	バーンアクセル	1
+897	0381	Wicked Torque	黑暗暴冲	ダークアクセル	1
+898	0382	Noxious Torque	剧毒暴冲	ポイズンアクセル	1
+899	0383	Combat Torque	格斗暴冲	ファイトアクセル	1
+900	0384	Magical Torque	魔法暴冲	マジカルアクセル	1
