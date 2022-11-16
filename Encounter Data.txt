@@ -1,6 +1,3 @@
-// This list only contains encounters that have a set "area" or "location" field. More encounters exist, but they are handled differently.
-// There are still some unknown areas, such as the one used by Surskit, which may be a sub-area of "South Province (Area Two)".
-
 Pikachu:
     Encounter Rate: 60%
     Minimum Level: 10
