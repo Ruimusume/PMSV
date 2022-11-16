@@ -1,3 +1,4 @@
+English ⇆ Japanese dictionary
 0000: NULL
 0001: HUSIGIDANE
 0002: HUSIGISOU
