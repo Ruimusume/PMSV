@@ -1,3 +1,4 @@
+ID	HEX	名称	日文名称	英文名称
 0	0000	无	なし	None
 1	0001	大师球	マスターボール	Master Ball
 2	0002	高级球	ハイパーボール	Ultra Ball
@@ -567,187 +568,187 @@
 1944	0798	芥末酱	ワサビソース	Wasabi
 1945	0799	豆瓣菜	クレソン	Watercress
 1946	079A	罗勒	バジル	Basil
-1956	07A4	毛球的牙		Venonat Fang
-1957	07A5	地鼠的土		Diglett Dirt
-1958	07A6	喵喵的毛		Meowth Fur
-1959	07A7	可达鸭的羽绒		Psyduck Down
-1960	07A8	猴怪的毛		Mankey Fur
-1961	07A9	卡蒂狗的毛		Growlithe Fur
-1962	07AA	呆呆兽的爪子		Slowpoke Claw
-1963	07AB	小磁怪的螺丝		Magnemite Screw
-1964	07AC	臭泥的毒素		Grimer Toxin
-1965	07AD	大舌贝的珍珠		Shellder Pearl
-1966	07AE	鬼斯的气体		Gastly Gas
-1967	07AF	催眠貘的毛		Drowzee Fur
-1968	07B0	霹雳电球的电力		Voltorb Sparks
-1969	07B1	飞天螳螂的爪子		Scyther Claw
-1970	07B2	肯泰罗的毛		Tauros Hair
-1971	07B3	鲤鱼王的鳞片		Magikarp Scales
-1972	07B4	百变怪的黏糊		Ditto Goo
-1973	07B5	伊布的毛		Eevee Fur
-1974	07B6	迷你龙的鳞片		Dratini Scales
-1975	07B7	皮丘的毛		Pichu Fur
-1976	07B8	宝宝丁的毛		Igglybuff Fluff
-1977	07B9	咩利羊的毛球		Mareep Wool
-1978	07BA	毽子草的叶片		Hoppip Leaf
-1979	07BB	向日种子的叶片		Sunkern Leaf
-1980	07BC	黑暗鸦的宝物		Murkrow Bauble
-1981	07BD	梦妖的眼泪		Misdreavus Tears
-1982	07BE	麒麟奇的毛		Girafarig Fur
-1983	07BF	榛果球的壳		Pineco Husk
-1984	07C0	土龙弟弟的鳞片		Dunsparce Scales
-1985	07C1	千针鱼的刺		Qwilfish Spines
-1986	07C2	赫拉克罗斯的爪子		Heracross Claw
-1987	07C3	狃拉的爪子		Sneasel Claw
-1988	07C4	熊宝宝的爪子		Teddiursa Claw
-1989	07C5	信使鸟的行李		Delibird Parcel
-1990	07C6	戴鲁比的牙		Houndour Fang
-1991	07C7	小小象的爪子		Phanpy Nail
-1992	07C8	惊角鹿的毛		Stantler Hair
-1993	07C9	幼基拉斯的爪子		Larvitar Claw
-1994	07CA	长翅鸥的羽毛		Wingull Feather
-1995	07CB	拉鲁拉丝的掉落物		Ralts Dust
-1996	07CC	溜溜糖球的蜜		Surskit Syrup
-1997	07CD	蘑蘑菇的孢子		Shroomish Spores
-1998	07CE	懒人獭的毛		Slakoth Fur
-1999	07CF	幕下力士的汗		Makuhita Sweat
-2000	07D0	露力丽的毛		Azurill Fur
-2001	07D1	勾魂眼的宝石		Sableye Gem
-2002	07D2	玛沙那的汗		Meditite Sweat
-2003	07D3	溶食兽的黏液		Gulpin Mucus
-2004	07D4	呆火驼的熔岩		Numel Lava
-2005	07D5	煤炭龟的煤炭		Torkoal Coal
-2006	07D6	跳跳猪的珍珠		Spoink Pearl
-2007	07D7	刺球仙人掌的刺		Cacnea Needle
-2008	07D8	青绵鸟的羽毛		Swablu Fluff
-2009	07D9	猫鼬斩的爪子		Zangoose Claw
-2010	07DA	饭匙蛇的牙		Seviper Fang
-2011	07DB	泥泥鳅的黏液		Barboach Slime
-2012	07DC	怨影娃娃的残片		Shuppet Scrap
-2013	07DD	热带龙的叶片		Tropius Leaf
-2014	07DE	雪童子的毛		Snorunt Fur
-2015	07DF	爱心鱼的鳞片		Luvdisc Scales
-2016	07E0	宝贝龙的鳞片		Bagon Scales
-2017	07E1	姆克儿的羽毛		Starly Feather
-2018	07E2	圆法师的蜕壳		Kricketot Shell
-2019	07E3	小猫怪的牙		Shinx Fang
-2020	07E4	三蜜蜂的蜜		Combee Honey
-2021	07E5	帕奇利兹的毛		Pachirisu Fur
-2022	07E6	泳圈鼬的毛		Buizel Fur
-2023	07E7	无壳海兔的黏液		Shellos Mucus
-2024	07E8	飘飘球的气体		Drifloon Gas
-2025	07E9	臭鼬噗的毛		Stunky Fur
-2026	07EA	铜镜怪的碎片		Bronzor Fragment
-2027	07EB	盆才怪的眼泪		Bonsly Tears
-2028	07EC	小福蛋的掉落物		Happiny Dust
-2029	07ED	花岩怪的碎片		Spiritomb Fragment
-2030	07EE	圆陆鲨的鳞片		Gible Scales
-2031	07EF	利欧路的毛		Riolu Fur
-2032	07F0	沙河马的沙		Hippopotas Sand
-2033	07F1	不良蛙的毒素		Croagunk Poison
-2034	07F2	荧光鱼的鳞片		Finneon Scales
-2035	07F3	雪笠怪的果实		Snover Berries
-2036	07F4	洛托姆的电力		Rotom Sparks
-2037	07F5	百合根娃娃的叶片		Petilil Leaf
-2038	07F6	野蛮鲈鱼的牙		Basculin Fang
-2039	07F7	黑眼鳄的爪子		Sandile Claw
-2040	07F8	索罗亚的毛		Zorua Fur
-2041	07F9	哥德宝宝的睫毛		Gothita Eyelash
-2042	07FA	四季鹿的毛		Deerling Hair
-2043	07FB	哎呀球菇的孢子		Foongus Spores
-2044	07FC	保姆曼波的黏液		Alomomola Mucus
-2045	07FD	麻麻小鱼的黏液		Tynamo Slime
-2046	07FE	牙牙的鳞片		Axew Scales
-2047	07FF	喷嚏熊的毛		Cubchoo Fur
-2048	0800	几何雪花的冰		Cryogonal Ice
-2049	0801	驹刀小兵的刀		Pawniard Blade
-2050	0802	毛头小鹰的羽毛		Rufflet Feather
-2051	0803	单首龙的鳞片		Deino Scales
-2052	0804	燃烧虫的毛		Larvesta Fuzz
-2053	0805	小箭雀的羽毛		Fletchling Feather
-2054	0806	粉蝶虫的粉		Scatterbug Powder
-2055	0807	小狮狮的鬃毛		Litleo Tuft
-2056	0808	花蓓蓓的花粉		Flabébé Pollen
-2057	0809	坐骑小羊的叶片		Skiddo Leaf
-2058	080A	垃垃藻的碎藻		Skrelp Kelp
-2059	080B	铁臂枪虾的钳子		Clauncher Claw
-2060	080C	摔角鹰人的羽绒		Hawlucha Down
-2061	080D	咚咚鼠的毛		Dedenne Fur
-2062	080E	黏黏宝的黏液		Goomy Goo
-2063	080F	钥圈儿的钥匙		Klefki Key
-2064	0810	冰宝的冰		Bergmite Ice
-2065	0811	嗡蝠的毛		Noibat Fur
-2066	0812	猫鼬少的毛		Yungoos Fur
-2067	0813	好胜蟹的壳		Crabrawler Shell
-2068	0814	花舞鸟的羽毛		Oricorio Feather
-2069	0815	岩狗狗的岩石		Rockruff Rock
-2070	0816	好坏星的刺		Mareanie Spike
-2071	0817	泥驴仔的泥巴		Mudbray Mud
-2072	0818	伪螳草的叶片		Fomantis Leaf
-2073	0819	夜盗火蜥的气体		Salandit Gas
-2074	081A	甜竹竹的汗		Bounsweet Sweat
-2075	081B	智挥猩的毛		Oranguru Fur
-2076	081C	投掷猴的毛		Passimian Fur
-2077	081D	沙丘娃的沙		Sandygast Sand
-2078	081E	树枕尾熊的爪子		Komala Claw
-2079	081F	谜拟丘的残片		Mimikyu Scrap
-2080	0820	磨牙彩皮鱼的牙齿		Bruxish Tooth
-2081	0821	咬咬龟的爪子		Chewtle Claw
-2082	0822	贪心栗鼠的毛		Skwovet Fur
-2083	0823	刺梭鱼的鳞片		Arrokuda Scales
-2084	0824	稚山雀的羽毛		Rookidee Feather
-2085	0825	电音婴的电力		Toxel Sparks
-2086	0826	列阵兵的汗		Falinks Sweat
-2087	0827	铜象的锈		Cufant Tarnish
-2088	0828	小炭仔的煤炭		Rolycoly Coal
-2089	0829	沙包蛇的沙		Silicobra Sand
-2090	082A	爱管侍的毛		Indeedee Fur
-2091	082B	啪嚓海胆的针		Pincurchin Spines
-2092	082C	雪吞虫的丝		Snom Thread
-2093	082D	捣蛋小妖的毛		Impidimp Hair
-2094	082E	啃果虫的果汁		Applin Juice
-2095	082F	来悲茶的碎片		Sinistea Chip
-2096	0830	迷布莉姆的掉落物		Hatenna Dust
-2097	0831	巨石丁的岩石		Stonjourner Stone
-2098	0832	冰砌鹅的羽绒		Eiscue Down
-2099	0833	多龙梅西亚的粉		Dreepy Powder
-2103	0837	爱吃豚的毛		Lechonk Hair
-2104	0838	团珠蛛的丝		Tarountula Thread
-2105	0839	豆蟋蟀的爪子		Nymble Claw
-2106	083A	虫滚泥的泥巴		Rellor Mud
-2107	083B	墓仔狗的蜡		Greavard Wax
-2108	083C	飘飘雏的羽绒		Flittle Down
-2109	083D	海地鼠的沙		Wiglett Sand
-2110	083E	吃吼霸的胡须		Dondozo Whisker
-2111	083F	轻身鳕的鱼片		Veluza Fillet
-2112	0840	波普海豚的黏液		Finizen Mucus
-2113	0841	迷你芙的油		Smoliv Oil
-2114	0842	热辣娃的种子		Capsakid Seed
-2115	0843	光蚪仔的黏液		Tadbulb Mucus
-2116	0844	噗隆隆的气体		Varoom Fume
-2117	0845	拖拖蚓的锈		Orthworm Tarnish
-2118	0846	一对鼠的毛		Tandemaus Fur
-2119	0847	走鲸的油脂		Cetoddle Grease
-2120	0848	凉脊龙的鳞片		Frigibax Scales
-2121	0849	米立龙的鳞片		Tatsugiri Scales
-2122	084A	摩托蜥的鳞片		Cyclizar Scales
-2123	084B	布拨的毛		Pawmi Fur
-2126	084E	电海燕的羽毛		Wattrel Feather
-2127	084F	下石鸟的羽毛		Bombirdier Feather
-2128	0850	怒鹦哥的羽毛		Squawkabilly Feather
-2129	0851	缠红鹤的羽绒		Flamigo Down
-2130	0852	毛崖蟹的钳子		Klawf Claw
-2131	0853	盐石宝的盐		Nacli Salt
-2132	0854	晶光芽的结晶		Glimmet Crystal
-2133	0855	滋汁鼹的墨汁		Shroodle Ink
-2134	0856	狗仔包的毛		Fidough Fur
-2135	0857	偶叫獒的牙		Maschiff Fang
-2136	0858	纳噬草的枝条		Bramblin Twig
-2137	0859	索财灵的硬币		Gimmighoul Coin
-2156	086C	小锻匠的毛		Tinkatink Hair
-2157	086D	炭小侍的煤灰		Charcadet Soot
-2158	086E	原野水母的薄片		Toedscool Flaps
-2159	086F	乌波的黏液		Wooper Slime
+1956	07A4	毛球的牙	コンパンのキバ	Venonat Fang
+1957	07A5	地鼠的土	ディグダのつち	Diglett Dirt
+1958	07A6	喵喵的毛	ニャースのけ	Meowth Fur
+1959	07A7	可达鸭的羽绒	コダックのうもう	Psyduck Down
+1960	07A8	猴怪的毛	マンキーのけ	Mankey Fur
+1961	07A9	卡蒂狗的毛	ガーディのけ	Growlithe Fur
+1962	07AA	呆呆兽的爪子	ヤドンのツメ	Slowpoke Claw
+1963	07AB	小磁怪的螺丝	コイルのねじ	Magnemite Screw
+1964	07AC	臭泥的毒素	ベトベターのどくそ	Grimer Toxin
+1965	07AD	大舌贝的珍珠	シェルダーのしんじゅ	Shellder Pearl
+1966	07AE	鬼斯的气体	ゴースのガス	Gastly Gas
+1967	07AF	催眠貘的毛	スリープのけ	Drowzee Fur
+1968	07B0	霹雳电球的电力	ビリリダマのでんき	Voltorb Sparks
+1969	07B1	飞天螳螂的爪子	ストライクのツメ	Scyther Claw
+1970	07B2	肯泰罗的毛	ケンタロスのけ	Tauros Hair
+1971	07B3	鲤鱼王的鳞片	コイキングのウロコ	Magikarp Scales
+1972	07B4	百变怪的黏糊	メタモンのべたべた	Ditto Goo
+1973	07B5	伊布的毛	イーブイのけ	Eevee Fur
+1974	07B6	迷你龙的鳞片	ミニリュウのウロコ	Dratini Scales
+1975	07B7	皮丘的毛	ピチューのけ	Pichu Fur
+1976	07B8	宝宝丁的毛	ププリンのけ	Igglybuff Fluff
+1977	07B9	咩利羊的毛球	メリープのけだま	Mareep Wool
+1978	07BA	毽子草的叶片	ハネッコのはっぱ	Hoppip Leaf
+1979	07BB	向日种子的叶片	ヒマナッツのはっぱ	Sunkern Leaf
+1980	07BC	黑暗鸦的宝物	ヤミカラスのおたから	Murkrow Bauble
+1981	07BD	梦妖的眼泪	ムウマのなみだ	Misdreavus Tears
+1982	07BE	麒麟奇的毛	キリンリキのけ	Girafarig Fur
+1983	07BF	榛果球的壳	クヌギダマのから	Pineco Husk
+1984	07C0	土龙弟弟的鳞片	ノコッチのウロコ	Dunsparce Scales
+1985	07C1	千针鱼的刺	ハリーセンのトゲ	Qwilfish Spines
+1986	07C2	赫拉克罗斯的爪子	ヘラクロスのツメ	Heracross Claw
+1987	07C3	狃拉的爪子	ニューラのツメ	Sneasel Claw
+1988	07C4	熊宝宝的爪子	ヒメグマのツメ	Teddiursa Claw
+1989	07C5	信使鸟的行李	デリバードのにもつ	Delibird Parcel
+1990	07C6	戴鲁比的牙	デルビルのキバ	Houndour Fang
+1991	07C7	小小象的爪子	ゴマゾウのツメ	Phanpy Nail
+1992	07C8	惊角鹿的毛	オドシシのけ	Stantler Hair
+1993	07C9	幼基拉斯的爪子	ヨーギラスのツメ	Larvitar Claw
+1994	07CA	长翅鸥的羽毛	キャモメのはね	Wingull Feather
+1995	07CB	拉鲁拉丝的掉落物	ラルトスのおとしもの	Ralts Dust
+1996	07CC	溜溜糖球的蜜	アメタマのミツ	Surskit Syrup
+1997	07CD	蘑蘑菇的孢子	キノココのほうし	Shroomish Spores
+1998	07CE	懒人獭的毛	ナマケロのけ	Slakoth Fur
+1999	07CF	幕下力士的汗	マクノシタのあせ	Makuhita Sweat
+2000	07D0	露力丽的毛	ルリリのけ	Azurill Fur
+2001	07D1	勾魂眼的宝石	ヤミラミのほうせき	Sableye Gem
+2002	07D2	玛沙那的汗	アサナンのあせ	Meditite Sweat
+2003	07D3	溶食兽的黏液	ゴクリンのねんえき	Gulpin Mucus
+2004	07D4	呆火驼的熔岩	ドンメルのようがん	Numel Lava
+2005	07D5	煤炭龟的煤炭	コータスのせきたん	Torkoal Coal
+2006	07D6	跳跳猪的珍珠	バネブーのしんじゅ	Spoink Pearl
+2007	07D7	刺球仙人掌的刺	サボネアのトゲ	Cacnea Needle
+2008	07D8	青绵鸟的羽毛	チルットのはね	Swablu Fluff
+2009	07D9	猫鼬斩的爪子	ザングースのツメ	Zangoose Claw
+2010	07DA	饭匙蛇的牙	ハブネークのキバ	Seviper Fang
+2011	07DB	泥泥鳅的黏液	ドジョッチのねんえき	Barboach Slime
+2012	07DC	怨影娃娃的残片	カゲボウズのきれはし	Shuppet Scrap
+2013	07DD	热带龙的叶片	トロピウスのはっぱ	Tropius Leaf
+2014	07DE	雪童子的毛	ユキワラシのけ	Snorunt Fur
+2015	07DF	爱心鱼的鳞片	ラブカスのウロコ	Luvdisc Scales
+2016	07E0	宝贝龙的鳞片	タツベイのウロコ	Bagon Scales
+2017	07E1	姆克儿的羽毛	ムックルのはね	Starly Feather
+2018	07E2	圆法师的蜕壳	コロボーシのぬけがら	Kricketot Shell
+2019	07E3	小猫怪的牙	コリンクのキバ	Shinx Fang
+2020	07E4	三蜜蜂的蜜	ミツハニーのミツ	Combee Honey
+2021	07E5	帕奇利兹的毛	パチリスのけ	Pachirisu Fur
+2022	07E6	泳圈鼬的毛	ブイゼルのけ	Buizel Fur
+2023	07E7	无壳海兔的黏液	カラナクシのねんえき	Shellos Mucus
+2024	07E8	飘飘球的气体	フワンテのガス	Drifloon Gas
+2025	07E9	臭鼬噗的毛	スカンプーのけ	Stunky Fur
+2026	07EA	铜镜怪的碎片	ドーミラーのかけら	Bronzor Fragment
+2027	07EB	盆才怪的眼泪	ウソハチのなみだ	Bonsly Tears
+2028	07EC	小福蛋的掉落物	ピンプクのおとしもの	Happiny Dust
+2029	07ED	花岩怪的碎片	ミカルゲのかけら	Spiritomb Fragment
+2030	07EE	圆陆鲨的鳞片	フカマルのウロコ	Gible Scales
+2031	07EF	利欧路的毛	リオルのけ	Riolu Fur
+2032	07F0	沙河马的沙	ヒポポタスのすな	Hippopotas Sand
+2033	07F1	不良蛙的毒素	グレッグルのどくそ	Croagunk Poison
+2034	07F2	荧光鱼的鳞片	ケイコウオのウロコ	Finneon Scales
+2035	07F3	雪笠怪的果实	ユキカブリのみ	Snover Berries
+2036	07F4	洛托姆的电力	ロトムのでんき	Rotom Sparks
+2037	07F5	百合根娃娃的叶片	チュリネのはっぱ	Petilil Leaf
+2038	07F6	野蛮鲈鱼的牙	バスラオのキバ	Basculin Fang
+2039	07F7	黑眼鳄的爪子	メグロコのツメ	Sandile Claw
+2040	07F8	索罗亚的毛	ゾロアのけ	Zorua Fur
+2041	07F9	哥德宝宝的睫毛	ゴチムのまつげ	Gothita Eyelash
+2042	07FA	四季鹿的毛	シキジカのけ	Deerling Hair
+2043	07FB	哎呀球菇的孢子	タマゲタケのほうし	Foongus Spores
+2044	07FC	保姆曼波的黏液	ママンボウのねんえき	Alomomola Mucus
+2045	07FD	麻麻小鱼的黏液	シビシラスのねんえき	Tynamo Slime
+2046	07FE	牙牙的鳞片	キバゴのウロコ	Axew Scales
+2047	07FF	喷嚏熊的毛	クマシュンのけ	Cubchoo Fur
+2048	0800	几何雪花的冰	フリージオのこおり	Cryogonal Ice
+2049	0801	驹刀小兵的刀	コマタナのやいば	Pawniard Blade
+2050	0802	毛头小鹰的羽毛	ワシボンのはね	Rufflet Feather
+2051	0803	单首龙的鳞片	モノズのウロコ	Deino Scales
+2052	0804	燃烧虫的毛	メラルバのけ	Larvesta Fuzz
+2053	0805	小箭雀的羽毛	ヤヤコマのはね	Fletchling Feather
+2054	0806	粉蝶虫的粉	コフキムシのこな	Scatterbug Powder
+2055	0807	小狮狮的鬃毛	シシコのたてがみ	Litleo Tuft
+2056	0808	花蓓蓓的花粉	フラベベのかふん	Flabébé Pollen
+2057	0809	坐骑小羊的叶片	メェークルのはっぱ	Skiddo Leaf
+2058	080A	垃垃藻的碎藻	クズモーのもくず	Skrelp Kelp
+2059	080B	铁臂枪虾的钳子	ウデッポウのハサミ	Clauncher Claw
+2060	080C	摔角鹰人的羽绒	ルチャブルのうもう	Hawlucha Down
+2061	080D	咚咚鼠的毛	デデンネのけ	Dedenne Fur
+2062	080E	黏黏宝的黏液	ヌメラのねんえき	Goomy Goo
+2063	080F	钥圈儿的钥匙	クレッフィのかぎ	Klefki Key
+2064	0810	冰宝的冰	カチコールのこおり	Bergmite Ice
+2065	0811	嗡蝠的毛	オンバットのけ	Noibat Fur
+2066	0812	猫鼬少的毛	ヤングースのけ	Yungoos Fur
+2067	0813	好胜蟹的壳	マケンカニのから	Crabrawler Shell
+2068	0814	花舞鸟的羽毛	オドリドリのはね	Oricorio Feather
+2069	0815	岩狗狗的岩石	イワンコのいわ	Rockruff Rock
+2070	0816	好坏星的刺	ヒドイデのトゲ	Mareanie Spike
+2071	0817	泥驴仔的泥巴	ドロバンコのどろ	Mudbray Mud
+2072	0818	伪螳草的叶片	カリキリのはっぱ	Fomantis Leaf
+2073	0819	夜盗火蜥的气体	ヤトウモリのガス	Salandit Gas
+2074	081A	甜竹竹的汗	アマカジのあせ	Bounsweet Sweat
+2075	081B	智挥猩的毛	ヤレユータンのけ	Oranguru Fur
+2076	081C	投掷猴的毛	ナゲツケサルのけ	Passimian Fur
+2077	081D	沙丘娃的沙	スナバァのすな	Sandygast Sand
+2078	081E	树枕尾熊的爪子	ネッコアラのツメ	Komala Claw
+2079	081F	谜拟丘的残片	ミミッキュのきれはし	Mimikyu Scrap
+2080	0820	磨牙彩皮鱼的牙齿	ハギギシリのは	Bruxish Tooth
+2081	0821	咬咬龟的爪子	カムカメのツメ	Chewtle Claw
+2082	0822	贪心栗鼠的毛	ホシガリスのけ	Skwovet Fur
+2083	0823	刺梭鱼的鳞片	サシカマスのウロコ	Arrokuda Scales
+2084	0824	稚山雀的羽毛	ココガラのはね	Rookidee Feather
+2085	0825	电音婴的电力	エレズンのでんき	Toxel Sparks
+2086	0826	列阵兵的汗	タイレーツのあせ	Falinks Sweat
+2087	0827	铜象的锈	ゾウドウのさび	Cufant Tarnish
+2088	0828	小炭仔的煤炭	タンドンのせきたん	Rolycoly Coal
+2089	0829	沙包蛇的沙	スナヘビのすな	Silicobra Sand
+2090	082A	爱管侍的毛	イエッサンのけ	Indeedee Fur
+2091	082B	啪嚓海胆的针	バチンウニのはり	Pincurchin Spines
+2092	082C	雪吞虫的丝	ユキハミのいと	Snom Thread
+2093	082D	捣蛋小妖的毛	ベロバーのけ	Impidimp Hair
+2094	082E	啃果虫的果汁	カジッチュのかじゅう	Applin Juice
+2095	082F	来悲茶的碎片	ヤバチャのかけら	Sinistea Chip
+2096	0830	迷布莉姆的掉落物	ミブリムのおとしもの	Hatenna Dust
+2097	0831	巨石丁的岩石	イシヘンジンのいわ	Stonjourner Stone
+2098	0832	冰砌鹅的羽绒	コオリッポのうもう	Eiscue Down
+2099	0833	多龙梅西亚的粉	ドラメシヤのこな	Dreepy Powder
+2103	0837	爱吃豚的毛	グルトンのけ	Lechonk Hair
+2104	0838	团珠蛛的丝	タマンチュラのいと	Tarountula Thread
+2105	0839	豆蟋蟀的爪子	マメバッタのツメ	Nymble Claw
+2106	083A	虫滚泥的泥巴	シガロコのどろ	Rellor Mud
+2107	083B	墓仔狗的蜡	ボチのろう	Greavard Wax
+2108	083C	飘飘雏的羽绒	ヒラヒナのうもう	Flittle Down
+2109	083D	海地鼠的沙	ウミディグダのすな	Wiglett Sand
+2110	083E	吃吼霸的胡须	ヘイラッシャのヒゲ	Dondozo Whisker
+2111	083F	轻身鳕的鱼片	ミガルーサのきりみ	Veluza Fillet
+2112	0840	波普海豚的黏液	ナミイルカのねんえき	Finizen Mucus
+2113	0841	迷你芙的油	ミニーブのオイル	Smoliv Oil
+2114	0842	热辣娃的种子	カプサイジのたね	Capsakid Seed
+2115	0843	光蚪仔的黏液	ズピカのねんえき	Tadbulb Mucus
+2116	0844	噗隆隆的气体	ブロロンのガス	Varoom Fume
+2117	0845	拖拖蚓的锈	ミミズズのさび	Orthworm Tarnish
+2118	0846	一对鼠的毛	ワッカネズミのけ	Tandemaus Fur
+2119	0847	走鲸的油脂	アルクジラのあぶら	Cetoddle Grease
+2120	0848	凉脊龙的鳞片	セビエのウロコ	Frigibax Scales
+2121	0849	米立龙的鳞片	シャリタツのウロコ	Tatsugiri Scales
+2122	084A	摩托蜥的鳞片	モトトカゲのウロコ	Cyclizar Scales
+2123	084B	布拨的毛	パモのけ	Pawmi Fur
+2126	084E	电海燕的羽毛	カイデンのはね	Wattrel Feather
+2127	084F	下石鸟的羽毛	オトシドリのはね	Bombirdier Feather
+2128	0850	怒鹦哥的羽毛	イキリンコのはね	Squawkabilly Feather
+2129	0851	缠红鹤的羽绒	カラミンゴのうもう	Flamigo Down
+2130	0852	毛崖蟹的钳子	ガケガニのハサミ	Klawf Claw
+2131	0853	盐石宝的盐	コジオのしお	Nacli Salt
+2132	0854	晶光芽的结晶	キラーメのけっしょう	Glimmet Crystal
+2133	0855	滋汁鼹的墨汁	シルシュルーのインク	Shroodle Ink
+2134	0856	狗仔包的毛	パピモッチのけ	Fidough Fur
+2135	0857	偶叫獒的牙	オラチフのキバ	Maschiff Fang
+2136	0858	纳噬草的枝条	アノクサのえだ	Bramblin Twig
+2137	0859	索财灵的硬币	コレクレーのコイン	Gimmighoul Coin
+2156	086C	小锻匠的毛	カヌチャンのけ	Tinkatink Hair
+2157	086D	炭小侍的煤灰	カルボウのすす	Charcadet Soot
+2158	086E	原野水母的薄片	ノノクラゲのヒラヒラ	Toedscool Flaps
+2159	086F	乌波的黏液	ウパーのねんえき	Wooper Slime
 2160	0870	招式学习器１００	わざマシン１００	TM100
 2161	0871	招式学习器１０１	わざマシン１０１	TM101
 2162	0872	招式学习器１０２	わざマシン１０２	TM102
@@ -820,88 +821,88 @@
 2229	08B5	招式学习器１６９	わざマシン１６９	TM169
 2230	08B6	招式学习器１７０	わざマシン１７０	TM170
 2231	08B7	招式学习器１７１	わざマシン１７１	TM171
-2311	0907	野餐组合		Picnic Set
-2313	0909	校园水壶		Academy Bottle
-2314	090A	校园水壶		Academy Bottle
-2315	090B	圆点水壶		Polka-Dot Bottle
-2316	090C	条纹水壶		Striped Bottle
-2317	090D	菱纹水壶		Diamond Bottle
-2318	090E	校园水杯		Academy Cup
-2319	090F	校园水杯		Academy Cup
-2320	0910	直条纹水杯		Striped Cup
-2321	0911	圆点水杯		Polka-Dot Cup
-2322	0912	花朵水杯		Flower Pattern Cup
-2323	0913	校园桌巾		Academy Tablecloth
-2324	0914	校园桌巾		Academy Tablecloth
-2325	0915	幻彩桌巾		Whimsical Tablecloth
-2326	0916	大自然桌巾		Leafy Tablecloth
-2327	0917	鬼祟桌巾		Spooky Tablecloth
-2329	0919	校园球		Academy Ball
-2330	091A	校园球		Academy Ball
-2331	091B	玛力露球		Marill Ball
-2332	091C	毛线球		Yarn Ball
-2333	091D	电竞球		Cyber Ball
-2334	091E	金色三明治签		Gold Pick
-2335	091F	银色三明治签		Silver Pick
-2336	0920	红旗子三明治签		Red-Flag Pick
-2337	0921	蓝旗子三明治签		Blue-Flag Pick
-2338	0922	皮卡丘三明治签		Pika-Pika Pick
-2339	0923	眨眼皮卡丘三明治签		Winking Pika Pick
-2340	0924	伊布三明治签		Vee-Vee Pick
-2341	0925	笑脸伊布三明治签		Smiling Vee Pick
-2342	0926	蓝珠珠三明治签		Blue Poké Ball Pick
-2344	0928	庆祝之铠		Auspicious Armor
-2345	0929	头领凭证		Leader’s Crest
-2348	092C	粉红水壶		Pink Bottle
-2349	092D	蓝色水壶		Blue Bottle
-2350	092E	黄色水壶		Yellow Bottle
-2351	092F	红纹不锈钢水壶		Steel Bottle (R)
-2352	0930	黄纹不锈钢水壶		Steel Bottle (Y)
-2353	0931	蓝纹不锈钢水壶		Steel Bottle (B)
-2354	0932	银钛水壶		Silver Bottle
-2355	0933	横条纹水杯		Barred Cup
-2356	0934	菱纹水杯		Diamond Pattern Cup
-2357	0935	火焰水杯		Fire Pattern Cup
-2358	0936	粉红水杯		Pink Cup
-2359	0937	蓝色水杯		Blue Cup
-2360	0938	黄色水杯		Yellow Cup
-2361	0939	皮卡丘水杯		Pikachu Cup
-2362	093A	伊布水杯		Eevee Cup
-2363	093B	呆呆兽水杯		Slowpoke Cup
-2364	093C	银钛水杯		Silver Cup
-2365	093D	瑜珈球		Exercise Ball
-2366	093E	黄色格子桌巾		Plaid Tablecloth (Y)
-2367	093F	蓝色格子桌巾		Plaid Tablecloth (B)
-2368	0940	红色格子桌巾		Plaid Tablecloth (R)
-2369	0941	黑白草丛桌巾		B&W Grass Tablecloth
-2370	0942	对决桌巾		Battle Tablecloth
-2371	0943	怪兽桌巾		Monstrous Tablecloth
-2372	0944	条纹桌巾		Striped Tablecloth
-2373	0945	菱纹桌巾		Diamond Tablecloth
-2374	0946	圆点桌巾		Polka-Dot Tablecloth
-2375	0947	紫色桌巾		Lilac Tablecloth
-2376	0948	浅绿桌巾		Mint Tablecloth
-2377	0949	米色桌巾		Peach Tablecloth
-2378	094A	黄色桌巾		Yellow Tablecloth
-2379	094B	蓝色桌巾		Blue Tablecloth
-2380	094C	粉红桌巾		Pink Tablecloth
-2381	094D	金钛水壶		Gold Bottle
-2382	094E	铜钛水壶		Bronze Bottle
-2383	094F	金钛水杯		Gold Cup
-2384	0950	铜钛水杯		Bronze Cup
-2385	0951	绿珠珠三明治签		Green Poké Ball Pick
-2386	0952	红珠珠三明治签		Red Poké Ball Pick
-2387	0953	烟花祝庆三明治签		Party Sparkler Pick
-2388	0954	勇者之剑三明治签		Heroic Sword Pick
-2389	0955	魔法星星三明治签		Magical Star Pick
-2390	0956	魔法甜心三明治签		Magical Heart Pick
-2391	0957	阳伞三明治签		Parasol Pick
-2392	0958	晴空花三明治签		Blue-Sky Flower Pick
-2393	0959	夕阳花三明治签		Sunset Flower Pick
-2394	095A	朝霞花三明治签		Sunrise Flower Pick
-2395	095B	蓝色盘子		Blue Dish
-2396	095C	绿色盘子		Green Dish
-2397	095D	橘色盘子		Orange Dish
-2398	095E	红色盘子		Red Dish
-2399	095F	白色盘子		White Dish
-2400	0960	黄色盘子		Yellow Dish
+2311	0907	野餐组合	ピクニックセット	Picnic Set
+2313	0909	校园水壶	スクールボトル	Academy Bottle
+2314	090A	校园水壶	スクールボトル	Academy Bottle
+2315	090B	圆点水壶	みずたまボトル	Polka-Dot Bottle
+2316	090C	条纹水壶	ストライプボトル	Striped Bottle
+2317	090D	菱纹水壶	ダイヤボトル	Diamond Bottle
+2318	090E	校园水杯	スクールカップ	Academy Cup
+2319	090F	校园水杯	スクールカップ	Academy Cup
+2320	0910	直条纹水杯	たてストライプカップ	Striped Cup
+2321	0911	圆点水杯	みずたまカップ	Polka-Dot Cup
+2322	0912	花朵水杯	フラワーカップ	Flower Pattern Cup
+2323	0913	校园桌巾	スクールクロス	Academy Tablecloth
+2324	0914	校园桌巾	スクールクロス	Academy Tablecloth
+2325	0915	幻彩桌巾	ファンシークロス	Whimsical Tablecloth
+2326	0916	大自然桌巾	ネイチャークロス	Leafy Tablecloth
+2327	0917	鬼祟桌巾	うらめしクロス	Spooky Tablecloth
+2329	0919	校园球	スクールボール	Academy Ball
+2330	091A	校园球	スクールボール	Academy Ball
+2331	091B	玛力露球	マリルボール	Marill Ball
+2332	091C	毛线球	けいとボール	Yarn Ball
+2333	091D	电竞球	ゲーミングボール	Cyber Ball
+2334	091E	金色三明治签	ゴールドピック	Gold Pick
+2335	091F	银色三明治签	シルバーピック	Silver Pick
+2336	0920	红旗子三明治签	あかいはたピック	Red-Flag Pick
+2337	0921	蓝旗子三明治签	あおいはたピック	Blue-Flag Pick
+2338	0922	皮卡丘三明治签	ピカピカピック	Pika-Pika Pick
+2339	0923	眨眼皮卡丘三明治签	パチピカピック	Winking Pika Pick
+2340	0924	伊布三明治签	ブイブイピック	Vee-Vee Pick
+2341	0925	笑脸伊布三明治签	ニコブイピック	Smiling Vee Pick
+2342	0926	蓝珠珠三明治签	あおボールピック	Blue Poké Ball Pick
+2344	0928	庆祝之铠	イワイノヨロイ	Auspicious Armor
+2345	0929	头领凭证	かしらのしるし	Leader’s Crest
+2348	092C	粉红水壶	ピンクボトル	Pink Bottle
+2349	092D	蓝色水壶	ブルーボトル	Blue Bottle
+2350	092E	黄色水壶	イエローボトル	Yellow Bottle
+2351	092F	红纹不锈钢水壶	Rステンレスボトル	Steel Bottle (R)
+2352	0930	黄纹不锈钢水壶	Yステンレスボトル	Steel Bottle (Y)
+2353	0931	蓝纹不锈钢水壶	Bステンレスボトル	Steel Bottle (B)
+2354	0932	银钛水壶	シルバーチタンボトル	Silver Bottle
+2355	0933	横条纹水杯	よこストライプカップ	Barred Cup
+2356	0934	菱纹水杯	ダイヤカップ	Diamond Pattern Cup
+2357	0935	火焰水杯	ファイヤーカップ	Fire Pattern Cup
+2358	0936	粉红水杯	ピンクカップ	Pink Cup
+2359	0937	蓝色水杯	ブルーカップ	Blue Cup
+2360	0938	黄色水杯	イエローカップ	Yellow Cup
+2361	0939	皮卡丘水杯	ピカチュウカップ	Pikachu Cup
+2362	093A	伊布水杯	イーブイカップ	Eevee Cup
+2363	093B	呆呆兽水杯	ヤドンカップ	Slowpoke Cup
+2364	093C	银钛水杯	シルバーチタンカップ	Silver Cup
+2365	093D	瑜珈球	バランスボール	Exercise Ball
+2366	093E	黄色格子桌巾	きいろチェッククロス	Plaid Tablecloth (Y)
+2367	093F	蓝色格子桌巾	あおチェッククロス	Plaid Tablecloth (B)
+2368	0940	红色格子桌巾	あかチェッククロス	Plaid Tablecloth (R)
+2369	0941	黑白草丛桌巾	くさむらモノクロス	B&W Grass Tablecloth
+2370	0942	对决桌巾	しょうぶクロス	Battle Tablecloth
+2371	0943	怪兽桌巾	かいじゅうクロス	Monstrous Tablecloth
+2372	0944	条纹桌巾	ストライプクロス	Striped Tablecloth
+2373	0945	菱纹桌巾	ダイヤクロス	Diamond Tablecloth
+2374	0946	圆点桌巾	みずたまクロス	Polka-Dot Tablecloth
+2375	0947	紫色桌巾	パープルクロス	Lilac Tablecloth
+2376	0948	浅绿桌巾	ミントクロス	Mint Tablecloth
+2377	0949	米色桌巾	ベージュクロス	Peach Tablecloth
+2378	094A	黄色桌巾	イエロークロス	Yellow Tablecloth
+2379	094B	蓝色桌巾	ブルークロス	Blue Tablecloth
+2380	094C	粉红桌巾	ピンククロス	Pink Tablecloth
+2381	094D	金钛水壶	ゴールドチタンボトル	Gold Bottle
+2382	094E	铜钛水壶	ブロンズチタンボトル	Bronze Bottle
+2383	094F	金钛水杯	ゴールドチタンカップ	Gold Cup
+2384	0950	铜钛水杯	ブロンズチタンカップ	Bronze Cup
+2385	0951	绿珠珠三明治签	みどりボールピック	Green Poké Ball Pick
+2386	0952	红珠珠三明治签	あかボールピック	Red Poké Ball Pick
+2387	0953	烟花祝庆三明治签	おいわいはなびピック	Party Sparkler Pick
+2388	0954	勇者之剑三明治签	ゆうしゃのけんピック	Heroic Sword Pick
+2389	0955	魔法星星三明治签	マジカルスターピック	Magical Star Pick
+2390	0956	魔法甜心三明治签	マジカルハートピック	Magical Heart Pick
+2391	0957	阳伞三明治签	パラソルピック	Parasol Pick
+2392	0958	晴空花三明治签	あおぞらおはなピック	Blue-Sky Flower Pick
+2393	0959	夕阳花三明治签	ゆうやけおはなピック	Sunset Flower Pick
+2394	095A	朝霞花三明治签	あさやけおはなピック	Sunrise Flower Pick
+2395	095B	蓝色盘子	ブループレート	Blue Dish
+2396	095C	绿色盘子	グリーンプレート	Green Dish
+2397	095D	橘色盘子	オレンジプレート	Orange Dish
+2398	095E	红色盘子	レッドプレート	Red Dish
+2399	095F	白色盘子	ホワイトプレート	White Dish
+2400	0960	黄色盘子	イエロープレート	Yellow Dish
