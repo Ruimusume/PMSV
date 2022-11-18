@@ -266,34 +266,34 @@
 265	Grim Neigh	漆黑嘶鸣	くろのいななき
 266	As One	人马一体	じんばいったい
 267	As One	人马一体	じんばいったい
-268	Lingering Aroma	甩不掉的气味	#N/A
-269	Seed Sower	掉出种子	#N/A
-270	Thermal Exchange	热交换	#N/A
-271	Anger Shell	愤怒甲壳	#N/A
-272	Purifying Salt	洁净之盐	#N/A
-273	Well-Baked Body	焦香之躯	#N/A
-274	Wind Rider	乘风	#N/A
-275	Guard Dog	看门犬	#N/A
-276	Rocky Payload	搬岩	#N/A
-277	Wind Power	风力发电	#N/A
-278	Zero to Hero	全能变身	#N/A
-279	Commander	发号施令	#N/A
-280	Electromorphosis	电力转换	#N/A
-281	Protosynthesis	古代活性	#N/A
-282	Quark Drive	夸克充能	#N/A
-283	Good as Gold	黄金之躯	#N/A
-284	Vessel of Ruin	灾厄之鼎	#N/A
-285	Sword of Ruin	灾厄之剑	#N/A
-286	Tablets of Ruin	灾厄之简	#N/A
-287	Beads of Ruin	灾厄之玉	#N/A
-288	Orichalcum Pulse	绯红脉动	#N/A
-289	Hadron Engine	强子引擎	#N/A
-290	Opportunist	跟风	#N/A
-291	Cud Chew	反刍	#N/A
-292	Sharpness	锋锐	#N/A
-293	Supreme Overlord	大将	#N/A
-294	Costar	同台共演	#N/A
-295	Toxic Debris	毒满地	#N/A
-296	Armor Tail	尾甲	#N/A
-297	Earth Eater	食土	#N/A
-298	Mycelium Might	菌丝之力	#N/A
+268	Lingering Aroma	甩不掉的气味	とれないにおい
+269	Seed Sower	掉出种子	こぼれダネ
+270	Thermal Exchange	热交换	ねつこうかん
+271	Anger Shell	愤怒甲壳	いかりのこうら
+272	Purifying Salt	洁净之盐	きよめのしお
+273	Well-Baked Body	焦香之躯	こんがりボディ
+274	Wind Rider	乘风	かぜのり
+275	Guard Dog	看门犬	ばんけん
+276	Rocky Payload	搬岩	いわはこび
+277	Wind Power	风力发电	ふうりょくでんき
+278	Zero to Hero	全能变身	マイティチェンジ
+279	Commander	发号施令	しれいとう
+280	Electromorphosis	电力转换	でんきにかえる
+281	Protosynthesis	古代活性	こだいかっせい
+282	Quark Drive	夸克充能	クォークチャージ
+283	Good as Gold	黄金之躯	おうごんのからだ
+284	Vessel of Ruin	灾祸之鼎	わざわいのうつわ
+285	Sword of Ruin	灾祸之剑	わざわいのつるぎ
+286	Tablets of Ruin	灾祸之简	わざわいのおふだ
+287	Beads of Ruin	灾祸之玉	わざわいのたま
+288	Orichalcum Pulse	绯红脉动	ひひいろのこどう
+289	Hadron Engine	强子引擎	ハドロンエンジン
+290	Opportunist	跟风	びんじょう
+291	Cud Chew	反刍	はんすう
+292	Sharpness	锋锐	きれあじ
+293	Supreme Overlord	大将	そうだいしょう
+294	Costar	同台共演	きょうえん
+295	Toxic Debris	毒满地	どくげしょう
+296	Armor Tail	尾甲	テイルアーマー
+297	Earth Eater	食土	どしょく
+298	Mycelium Might	菌丝之力	きんしのちから
