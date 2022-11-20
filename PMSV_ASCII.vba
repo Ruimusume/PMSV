@@ -1,4 +1,4 @@
-Attribute VB_Name = "ģ��1"
+Attribute VB_Name = "Ä£¿é1"
 Function ConvertUnicodeArrary(str As String, digit As Integer) As String
     Dim arr() As Byte
     Dim i
