@@ -29,4 +29,3 @@ Function ConvertUnicodeArrary(str As String, digit As Integer) As String
     ConvertUnicodeArrary = char(digit - 1)
     
 End Function
-
