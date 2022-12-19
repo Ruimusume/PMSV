@@ -1,6 +1,8 @@
 # Pokemon Scarlet & Violet database EN JP CN
 This includes all Chinese,English and Japanese data of Pokemon Scarlet & Violet
 
+![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/PMSV/total.svg)
+
 <a href="https://docs.google.com/spreadsheets/d/16XSoEjfAyWhvqUV8t2TZR_RD8Qceb4RVYbR5njS8aHk/edit#gid=0" target="_blank" title="">Trainer Data source</a><br>
 <a href="https://github.com/Ruimusume/PMSV/blob/main/Trainer%20Data.txt" target="_blank" title="">Trainer Data (CSV)</a>
 
