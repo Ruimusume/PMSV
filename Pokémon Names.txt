@@ -979,14 +979,14 @@ DEX	EN_NAME	CN_NAME	JP_NAME
 #0977	Gholdengo	褰富豪	サーフゴー
 #0978	Great Tusk	雄伟牙	イダイナキバ
 #0979	Brute Bonnet	猛恶菇	アラブルタケ
-#0980	----	----	----
+#0980	Walking Wake	波荡水	ウネルミナモ
 #0981	Sandy Shocks	沙铁皮	スナノケガワ
 #0982	Scream Tail	吼叫尾	サケブシッポ
 #0983	Flutter Mane	振翼发	ハバタクカミ
 #0984	Slither Wing	爬地翅	チヲハウハネ
 #0985	Roaring Moon	轰鸣月	トドロクツキ
 #0986	Iron Treads	铁辙迹	テツノウダチ
-#0987	----	----	----
+#0987	Iron Leaves	铁斑叶	テツノイサハ
 #0988	Iron Moth	铁毒蛾	テツノドクが
 #0989	Iron Hands	铁臂膀	テツノカイナ
 #0990	Iron Jugulis	铁脖颈	テツノコウベ
