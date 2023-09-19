@@ -1,7 +1,9 @@
-Charmander	0	小火龙	
-Charmeleon	0	火恐龙	
-Charizard	0	喷火龙	
-Pikachu	0	皮卡丘	
+Charmander	0	小火龙	无
+Charmeleon	0	火恐龙	无
+Charizard	0	喷火龙	无
+Ekans	0	阿柏蛇	无
+Arbok	0	阿柏怪	无
+Pikachu	0	皮卡丘	无
 Pikachu	1	皮卡丘	初始帽子
 Pikachu	2	皮卡丘	丰缘帽子
 Pikachu	3	皮卡丘	神奥帽子
@@ -10,232 +12,314 @@ Pikachu	5	皮卡丘	卡洛斯帽子
 Pikachu	6	皮卡丘	阿罗拉帽子
 Pikachu	7	皮卡丘	就决定是你了之帽子
 Pikachu	9	皮卡丘	世界帽子
-Raichu	0	雷丘	
+Raichu	0	雷丘	无
 Raichu	1	雷丘	阿罗拉的样子
-Jigglypuff	0	胖丁	
-Wigglytuff	0	胖可丁	
-Venonat	0	毛球	
-Venomoth	0	摩鲁蛾	
-Diglett	0	地鼠	
-Diglett	1	地鼠	阿拉罗的样子
-Dugtrio	0	三地鼠	
-Dugtrio	1	三地鼠	阿拉罗的样子
-Meowth	0	喵喵	
+Sandshrew	0	穿山鼠	无
+Sandshrew	1	穿山鼠	阿罗拉的样子
+Sandslash	0	穿山王	无
+Sandslash	1	穿山王	阿罗拉的样子
+Clefairy	0	皮皮	无
+Clefable	0	皮可西	无
+Vulpix	0	六尾	无
+Vulpix	1	六尾	阿拉罗的样子
+Ninetales	0	九尾	无
+Ninetales	1	九尾	阿罗拉的样子
+Jigglypuff	0	胖丁	无
+Wigglytuff	0	胖可丁	无
+Venonat	0	毛球	无
+Venomoth	0	摩鲁蛾	无
+Diglett	0	地鼠	无
+Diglett	1	地鼠	阿罗拉的样子
+Dugtrio	0	三地鼠	无
+Dugtrio	1	三地鼠	阿罗拉的样子
+Meowth	0	喵喵	无
 Meowth	1	喵喵	阿罗拉的样子
 Meowth	2	喵喵	伽勒尔的样子
-Persian	0	猫老大	
-Persian	1	猫老大	伽勒尔的样子
-Psyduck	0	可达鸭	
-Golduck	0	哥达鸭	
-Mankey	0	猴怪	
-Primeape	0	火暴猴	
-Growlithe	0	卡蒂狗	
+Persian	0	猫老大	无
+Persian	1	猫老大	阿罗拉的样子
+Psyduck	0	可达鸭	无
+Golduck	0	哥达鸭	无
+Mankey	0	猴怪	无
+Primeape	0	火暴猴	无
+Growlithe	0	卡蒂狗	无
 Growlithe	1	卡蒂狗	洗翠的样子
-Arcanine	0	风速狗	
+Arcanine	0	风速狗	无
 Arcanine	1	风速狗	洗翠的样子
-Slowpoke	0	呆呆兽	
+Poliwag	0	蚊香蝌蚪	无
+Poliwhirl	0	蚊香君	无
+Poliwrath	0	蚊香泳士	无
+Bellsprout	0	喇叭芽	无
+Weepinbell	0	口呆花	无
+Victreebel	0	大食花	无
+Geodude	0	小拳石	无
+Geodude	1	小拳石	阿罗拉的样子
+Graveler	0	隆隆石	无
+Graveler	1	隆隆石	阿罗拉的样子
+Golem	0	隆隆岩	无
+Golem	1	隆隆岩	阿罗拉的样子
+Slowpoke	0	呆呆兽	无
 Slowpoke	1	呆呆兽	伽勒尔的样子
-Slowbro	0	呆壳兽	
+Slowbro	0	呆壳兽	无
 Slowbro	2	呆壳兽	伽勒尔的样子
-Magnemite	0	小磁怪	
-Magneton	0	三合一磁怪	
-Grimer	0	臭泥	
+Magnemite	0	小磁怪	无
+Magneton	0	三合一磁怪	无
+Grimer	0	臭泥	无
 Grimer	1	臭泥	阿罗拉的样子
-Muk	0	臭臭泥	
+Muk	0	臭臭泥	无
 Muk	1	臭臭泥	阿罗拉的样子
-Shellder	0	大舌贝	
-Cloyster	0	刺甲贝	
-Gastly	0	鬼斯	
-Haunter	0	鬼斯通	
-Gengar	0	耿鬼	
-Drowzee	0	催眠貘	
-Hypno	0	引梦貘人	
-Voltorb	0	霹雳电球	
+Shellder	0	大舌贝	无
+Cloyster	0	刺甲贝	无
+Gastly	0	鬼斯	无
+Haunter	0	鬼斯通	无
+Gengar	0	耿鬼	无
+Drowzee	0	催眠貘	无
+Hypno	0	引梦貘人	无
+Voltorb	0	霹雳电球	无
 Voltorb	1	霹雳电球	洗翠的样子
-Electrode	0	顽皮雷弹	
+Electrode	0	顽皮雷弹	无
 Electrode	1	顽皮雷弹	洗翠的样子
-Chansey	0	吉利蛋	
-Scyther	0	飞天螳螂	
-Tauros	0	肯泰罗	
+Koffing	0	瓦斯弹	无
+Weezing	0	双弹瓦斯	无
+Weezing	1	双弹瓦斯	伽勒尔的样子
+Chansey	0	吉利蛋	无
+Scyther	0	飞天螳螂	无
+Tauros	0	肯泰罗	无
 Tauros	1	肯泰罗	帕底亚的样子
 Tauros	2	肯泰罗	帕底亚的样子-火
 Tauros	3	肯泰罗	帕底亚的样子-水
-Magikarp	0	鲤鱼王	
-Gyarados	0	暴鲤龙	
-Ditto	0	百变怪	
-Eevee	0	伊布	
-Vaporeon	0	水伊布	
-Jolteon	0	雷伊布	
-Flareon	0	火伊布	
-Articuno	0	急冻鸟	
-Articuno	1	急冻鸟	阿罗拉的样子
-Zapdos	0	闪电鸟	
-Zapdos	1	闪电鸟	阿罗拉的样子
-Moltres	0	火焰鸟	
-Moltres	1	火焰鸟	阿罗拉的样子
-Dratini	0	迷你龙	
-Dragonair	0	哈克龙	
-Dragonite	0	快龙	
-Mewtwo	0	超梦	
-Mew	0	梦幻	
-Cyndaquil	0	火球鼠	
-Quilava	0	火岩鼠	
-Typhlosion	0	火暴兽	
+Magikarp	0	鲤鱼王	无
+Gyarados	0	暴鲤龙	无
+Ditto	0	百变怪	无
+Eevee	0	伊布	无
+Vaporeon	0	水伊布	无
+Jolteon	0	雷伊布	无
+Flareon	0	火伊布	无
+Snorlax	0	卡比兽	无
+Articuno	0	急冻鸟	无
+Articuno	1	急冻鸟	伽勒尔的样子
+Zapdos	0	闪电鸟	无
+Zapdos	1	闪电鸟	伽勒尔的样子
+Moltres	0	火焰鸟	无
+Moltres	1	火焰鸟	伽勒尔的样子
+Dratini	0	迷你龙	无
+Dragonair	0	哈克龙	无
+Dragonite	0	快龙	无
+Mewtwo	0	超梦	无
+Mew	0	梦幻	无
+Cyndaquil	0	火球鼠	无
+Quilava	0	火岩鼠	无
+Typhlosion	0	火暴兽	无
 Typhlosion	1	火暴兽	洗翠的样子
-Pichu	0	皮丘	
-Igglybuff	0	宝宝丁	
-Mareep	0	咩利羊	
-Flaaffy	0	茸茸羊	
-Ampharos	0	电龙	
-Marill	0	玛力露	
-Azumarill	0	玛力露丽	
-Sudowoodo	0	树才怪	
-Hoppip	0	毽子草	
-Skiploom	0	毽子花	
-Jumpluff	0	毽子棉	
-Sunkern	0	向日种子	
-Sunflora	0	向日花怪	
-Wooper	0	乌波	
+Sentret	0	尾立	无
+Furret	0	大尾立	无
+Hoothoot	0	咕咕	无
+Noctowl	0	猫头夜鹰	无
+Spinarak	0	圆丝蛛	无
+Ariados	0	阿利多斯	无
+Pichu	0	皮丘	无
+Cleffa	0	皮宝宝	无
+Igglybuff	0	宝宝丁	无
+Mareep	0	咩利羊	无
+Flaaffy	0	茸茸羊	无
+Ampharos	0	电龙	无
+Marill	0	玛力露	无
+Azumarill	0	玛力露丽	无
+Sudowoodo	0	树才怪	无
+Politoed	0	蚊香蛙皇	无
+Hoppip	0	毽子草	无
+Skiploom	0	毽子花	无
+Jumpluff	0	毽子棉	无
+Aipom	0	长尾怪手	无
+Sunkern	0	向日种子	无
+Sunflora	0	向日花怪	无
+Yanma	0	蜻蜻蜓	无
+Wooper	0	乌波	无
 Wooper	1	乌波	帕底亚的样子
-Quagsire	0	沼王	
-Espeon	0	太阳伊布	
-Umbreon	0	月亮伊布	
-Murkrow	0	黑暗鸦	
-Slowking	0	呆呆王	
+Quagsire	0	沼王	无
+Espeon	0	太阳伊布	无
+Umbreon	0	月亮伊布	无
+Murkrow	0	黑暗鸦	无
+Slowking	0	呆呆王	无
 Slowking	1	呆呆王	伽勒尔的样子
-Misdreavus	0	梦妖	
-Girafarig	0	麒麟奇	
-Pineco	0	榛果球	
-Forretress	0	佛烈托斯	
-Dunsparce	0	土龙弟弟	
-Qwilfish	0	千针鱼	
+Misdreavus	0	梦妖	无
+Girafarig	0	麒麟奇	无
+Pineco	0	榛果球	无
+Forretress	0	佛烈托斯	无
+Dunsparce	0	土龙弟弟	无
+Gligar	0	天蝎	无
+Qwilfish	0	千针鱼	无
 Qwilfish	1	千针鱼	洗翠的样子
-Scizor	0	巨钳螳螂	
-Heracross	0	赫拉克罗斯	
-Sneasel	0	狃拉	
+Scizor	0	巨钳螳螂	无
+Heracross	0	赫拉克罗斯	无
+Sneasel	0	狃拉	无
 Sneasel	1	狃拉	洗翠的样子
-Teddiursa	0	熊宝宝	
-Ursaring	0	圈圈熊	
-Delibird	0	信使鸟	
-Houndour	0	戴鲁比	
-Houndoom	0	黑鲁加	
-Phanpy	0	小小象	
-Donphan	0	顿甲	
-Stantler	0	惊角鹿	
-Blissey	0	幸福蛋	
-Larvitar	0	幼基拉斯	
-Pupitar	0	沙基拉斯	
-Tyranitar	0	班基拉斯	
-Wingull	0	长翅鸥	
-Pelipper	0	大嘴鸥	
-Ralts	0	拉鲁拉丝	
-Kirlia	0	奇鲁莉安	
-Gardevoir	0	沙奈朵	
-Surskit	0	溜溜糖球	
-Masquerain	0	雨翅蛾	
-Shroomish	0	蘑蘑菇	
-Breloom	0	斗笠菇	
-Slakoth	0	懒人獭	
-Vigoroth	0	过动猿	
-Slaking	0	请假王	
-Makuhita	0	幕下力士	
-Hariyama	0	铁掌力士	
-Azurill	0	露力丽	
-Sableye	0	勾魂眼	
-Meditite	0	玛沙那	
-Medicham	0	恰雷姆	
-Gulpin	0	溶食兽	
-Swalot	0	吞食兽	
-Numel	0	呆火驼	
-Camerupt	0	喷火驼	
-Torkoal	0	煤炭龟	
-Spoink	0	跳跳猪	
-Grumpig	0	噗噗猪	
-Cacnea	0	刺球仙人掌	
-Cacturne	0	梦歌仙人掌	
-Swablu	0	青绵鸟	
-Altaria	0	七夕青鸟	
-Zangoose	0	猫鼬斩	
-Seviper	0	饭匙蛇	
-Barboach	0	泥泥鳅	
-Whiscash	0	鲶鱼王	
-Shuppet	0	怨影娃娃	
-Banette	0	诅咒娃娃	
-Tropius	0	热带龙	
-Snorunt	0	雪童子	
-Glalie	0	冰鬼护	
-Luvdisc	0	爱心鱼	
-Bagon	0	宝贝龙	
-Shelgon	0	甲壳龙	
-Salamence	0	暴飞龙	
-Kyogre	0	盖欧卡	
-Groudon	0	固拉多	
-Rayquaza	0	烈空坐	
-Starly	0	姆克儿	
-Staravia	0	姆克鸟	
-Staraptor	0	姆克鹰	
-Kricketot	0	圆法师	
-Kricketune	0	音箱蟀	
-Shinx	0	小猫怪	
-Luxio	0	勒克猫	
-Luxray	0	伦琴猫	
-Combee	0	三蜜蜂	
-Vespiquen	0	蜂女王	
-Pachirisu	0	帕奇利兹	
-Buizel	0	泳圈鼬	
-Floatzel	0	浮潜鼬	
-Shellos	0	壳海兔	西海
-Shellos	1	壳海兔	东海
+Teddiursa	0	熊宝宝	无
+Ursaring	0	圈圈熊	无
+Slugma	0	熔岩虫	无
+Magcargo	0	熔岩蜗牛	无
+Swinub	0	小山猪	无
+Piloswine	0	长毛猪	无
+Delibird	0	信使鸟	无
+Houndour	0	戴鲁比	无
+Houndoom	0	黑鲁加	无
+Phanpy	0	小小象	无
+Donphan	0	顿甲	无
+Stantler	0	惊角鹿	无
+Blissey	0	幸福蛋	无
+Larvitar	0	幼基拉斯	无
+Pupitar	0	沙基拉斯	无
+Tyranitar	0	班基拉斯	无
+Poochyena	0	土狼犬	无
+Mightyena	0	大狼犬	无
+Lotad	0	莲叶童子	无
+Lombre	0	莲帽小童	无
+Ludicolo	0	乐天河童	无
+Seedot	0	橡实果	无
+Nuzleaf	0	长鼻叶	无
+Shiftry	0	狡猾天狗	无
+Wingull	0	长翅鸥	无
+Pelipper	0	大嘴鸥	无
+Ralts	0	拉鲁拉丝	无
+Kirlia	0	奇鲁莉安	无
+Gardevoir	0	沙奈朵	无
+Surskit	0	溜溜糖球	无
+Masquerain	0	雨翅蛾	无
+Shroomish	0	蘑蘑菇	无
+Breloom	0	斗笠菇	无
+Slakoth	0	懒人獭	无
+Vigoroth	0	过动猿	无
+Slaking	0	请假王	无
+Makuhita	0	幕下力士	无
+Hariyama	0	铁掌力士	无
+Azurill	0	露力丽	无
+Nosepass	0	朝北鼻	无
+Sableye	0	勾魂眼	无
+Meditite	0	玛沙那	无
+Medicham	0	恰雷姆	无
+Volbeat	0	电萤虫	无
+Illumise	0	甜甜萤	无
+Gulpin	0	溶食兽	无
+Swalot	0	吞食兽	无
+Numel	0	呆火驼	无
+Camerupt	0	喷火驼	无
+Torkoal	0	煤炭龟	无
+Spoink	0	跳跳猪	无
+Grumpig	0	噗噗猪	无
+Cacnea	0	刺球仙人掌	无
+Cacturne	0	梦歌仙人掌	无
+Swablu	0	青绵鸟	无
+Altaria	0	七夕青鸟	无
+Zangoose	0	猫鼬斩	无
+Seviper	0	饭匙蛇	无
+Barboach	0	泥泥鳅	无
+Whiscash	0	鲶鱼王	无
+Corphish	0	龙虾小兵	无
+Crawdaunt	0	铁螯龙虾	无
+Feebas	0	丑丑鱼	无
+Milotic	0	美纳斯	无
+Shuppet	0	怨影娃娃	无
+Banette	0	诅咒娃娃	无
+Duskull	0	夜巡灵	无
+Dusclops	0	彷徨夜灵	无
+Tropius	0	热带龙	无
+Chimecho	0	风铃铃	无
+Snorunt	0	雪童子	无
+Glalie	0	冰鬼护	无
+Luvdisc	0	爱心鱼	无
+Bagon	0	宝贝龙	无
+Shelgon	0	甲壳龙	无
+Salamence	0	暴飞龙	无
+Kyogre	0	盖欧卡	无
+Groudon	0	固拉多	无
+Rayquaza	0	烈空坐	无
+Jirachi	0	基拉祈	无
+Turtwig	0	草苗龟	无
+Grotle	0	树林龟	无
+Torterra	0	土台龟	无
+Chimchar	0	小火焰猴	无
+Monferno	0	猛火猴	无
+Infernape	0	烈焰猴	无
+Piplup	0	波加曼	无
+Prinplup	0	波皇子	无
+Empoleon	0	帝王拿波	无
+Starly	0	姆克儿	无
+Staravia	0	姆克鸟	无
+Staraptor	0	姆克鹰	无
+Kricketot	0	圆法师	无
+Kricketune	0	音箱蟀	无
+Shinx	0	小猫怪	无
+Luxio	0	勒克猫	无
+Luxray	0	伦琴猫	无
+Combee	0	三蜜蜂	无
+Vespiquen	0	蜂女王	无
+Pachirisu	0	帕奇利兹	无
+Buizel	0	泳圈鼬	无
+Floatzel	0	浮潜鼬	无
+Shellos	0	无壳海兔	西海
+Shellos	1	无壳海兔	东海
 Gastrodon	0	海兔兽	西海
 Gastrodon	1	海兔兽	东海
-Drifloon	0	飘飘球	
-Drifblim	0	随风球	
-Mismagius	0	梦妖魔	
-Honchkrow	0	乌鸦头头	
-Stunky	0	臭鼬噗	
-Skuntank	0	坦克臭鼬	
-Bronzor	0	铜镜怪	
-Bronzong	0	青铜钟	
-Bonsly	0	盆才怪	
-Happiny	0	小福蛋	
-Spiritomb	0	花岩怪	
-Gible	0	圆陆鲨	
-Gabite	0	尖牙陆鲨	
-Garchomp	0	烈咬陆鲨	
-Riolu	0	利欧路	
-Lucario	0	路卡利欧	
-Hippopotas	0	沙河马	
-Hippowdon	0	河马兽	
-Croagunk	0	不良蛙	
-Toxicroak	0	毒骷蛙	
-Finneon	0	荧光鱼	
-Lumineon	0	霓虹鱼	
-Snover	0	雪笠怪	
-Abomasnow	0	暴雪王	
-Weavile	0	玛狃拉	
-Magnezone	0	自爆磁怪	
-Leafeon	0	叶伊布	
-Glaceon	0	冰伊布	
-Gallade	0	艾路雷朵	
-Froslass	0	雪妖女	
-Rotom	0	洛托姆	
+Ambipom	0	双尾怪手	无
+Drifloon	0	飘飘球	无
+Drifblim	0	随风球	无
+Mismagius	0	梦妖魔	无
+Honchkrow	0	乌鸦头头	无
+Chingling	0	铃铛响	无
+Stunky	0	臭鼬噗	无
+Skuntank	0	坦克臭鼬	无
+Bronzor	0	铜镜怪	无
+Bronzong	0	青铜钟	无
+Bonsly	0	盆才怪	无
+Happiny	0	小福蛋	无
+Spiritomb	0	花岩怪	无
+Gible	0	圆陆鲨	无
+Gabite	0	尖牙陆鲨	无
+Garchomp	0	烈咬陆鲨	无
+Munchlax	0	小卡比兽	无
+Riolu	0	利欧路	无
+Lucario	0	路卡利欧	无
+Hippopotas	0	沙河马	无
+Hippowdon	0	河马兽	无
+Croagunk	0	不良蛙	无
+Toxicroak	0	毒骷蛙	无
+Finneon	0	荧光鱼	无
+Lumineon	0	霓虹鱼	无
+Snover	0	雪笠怪	无
+Abomasnow	0	暴雪王	无
+Weavile	0	玛狃拉	无
+Magnezone	0	自爆磁怪	无
+Yanmega	0	远古巨蜓	无
+Leafeon	0	叶伊布	无
+Glaceon	0	冰伊布	无
+Gliscor	0	天蝎王	无
+Mamoswine	0	象牙猪	无
+Gallade	0	艾路雷朵	无
+Probopass	0	大朝北鼻	无
+Dusknoir	0	黑夜魔灵	无
+Froslass	0	雪妖女	无
+Rotom	0	洛托姆	无
 Rotom	1	洛托姆	加热洛托姆
 Rotom	2	洛托姆	清洗洛托姆
 Rotom	3	洛托姆	结冰洛托姆
 Rotom	4	洛托姆	旋转洛托姆
 Rotom	5	洛托姆	切割洛托姆
-Uxie	0	由克希	
-Mesprit	0	艾姆利多	
-Azelf	0	亚克诺姆	
-Dialga	0	帝牙卢卡	
+Uxie	0	由克希	无
+Mesprit	0	艾姆利多	无
+Azelf	0	亚克诺姆	无
+Dialga	0	帝牙卢卡	无
 Dialga	1	帝牙卢卡	起源形态
-Palkia	0	帕路奇亚	
+Palkia	0	帕路奇亚	无
 Palkia	1	帕路奇亚	起源形态
-Heatran	0	席多蓝恩	
-Giratina	0	骑拉帝纳	别种形态
+Heatran	0	席多蓝恩	无
+Giratina	0	骑拉帝纳	无
 Giratina	1	骑拉帝纳	起源形态
-Cresselia	0	克雷色利亚	
-Arceus	0	阿尔宙斯	
+Cresselia	0	克雷色利亚	无
+Phione	0	霏欧纳	无
+Manaphy	0	玛纳霏	无
+Darkrai	0	达克莱伊	无
+Shaymin	0	谢米	无
+Shaymin	1	谢米	天空形态
+Arceus	0	阿尔宙斯	无
 Arceus	1	阿尔宙斯	格斗
 Arceus	2	阿尔宙斯	飞行
 Arceus	3	阿尔宙斯	毒
@@ -253,26 +337,34 @@ Arceus	14	阿尔宙斯	冰
 Arceus	15	阿尔宙斯	龙
 Arceus	16	阿尔宙斯	恶
 Arceus	17	阿尔宙斯	妖精
-Oshawott	0	水水獭	
-Dewott	0	双刃丸	
-Samurott	0	大剑鬼	
+Oshawott	0	水水獭	无
+Dewott	0	双刃丸	无
+Samurott	0	大剑鬼	无
 Samurott	1	大剑鬼	洗翠的样子
-Petilil	0	百合根娃娃	
-Lilligant	0	裙儿小姐	
+Timburr	0	搬运小匠	无
+Gurdurr	0	铁骨土人	无
+Conkeldurr	0	修建老匠	无
+Sewaddle	0	虫宝包	无
+Swadloon	0	宝包茧	无
+Leavanny	0	保姆虫	无
+Petilil	0	百合根娃娃	无
+Lilligant	0	裙儿小姐	无
 Lilligant	1	裙儿小姐	洗翠的样子
 Basculin	0	野蛮鲈鱼	红条纹的样子
 Basculin	1	野蛮鲈鱼	蓝条纹的样子
 Basculin	2	野蛮鲈鱼	白条纹的样子
-Sandile	0	黑眼鳄	
-Krokorok	0	混混鳄	
-Krookodile	0	流氓鳄	
-Zorua	0	索罗亚	
+Sandile	0	黑眼鳄	无
+Krokorok	0	混混鳄	无
+Krookodile	0	流氓鳄	无
+Zorua	0	索罗亚	无
 Zorua	1	索罗亚	洗翠的样子
-Zoroark	0	索罗亚克	
+Zoroark	0	索罗亚克	无
 Zoroark	1	索罗亚克	洗翠的样子
-Gothita	0	哥德宝宝	
-Gothorita	0	哥德小童	
-Gothitelle	0	哥德小姐	
+Gothita	0	哥德宝宝	无
+Gothorita	0	哥德小童	无
+Gothitelle	0	哥德小姐	无
+Ducklett	0	鸭宝宝	无
+Swanna	0	舞天鹅	无
 Deerling	0	四季鹿	春天的样子
 Deerling	1	四季鹿	夏天的样子
 Deerling	2	四季鹿	秋天的样子
@@ -281,28 +373,35 @@ Sawsbuck	0	萌芽鹿	春天的样子
 Sawsbuck	1	萌芽鹿	夏天的样子
 Sawsbuck	2	萌芽鹿	秋天的样子
 Sawsbuck	3	萌芽鹿	冬天的样子
-Foongus	0	哎呀球菇	
-Amoonguss	0	败露球菇	
-Alomomola	0	保姆曼波	
-Tynamo	0	麻麻小鱼	
-Eelektrik	0	麻麻鳗	
-Eelektross	0	麻麻鳗鱼王	
-Axew	0	牙牙	
-Fraxure	0	斧牙龙	
-Haxorus	0	双斧战龙	
-Cubchoo	0	喷嚏熊	
-Beartic	0	冻原熊	
-Cryogonal	0	几何雪花	
-Pawniard	0	驹刀小兵	
-Bisharp	0	劈斩司令	
-Rufflet	0	毛头小鹰	
-Braviary	0	勇士雄鹰	
+Foongus	0	哎呀球菇	无
+Amoonguss	0	败露球菇	无
+Alomomola	0	保姆曼波	无
+Tynamo	0	麻麻小鱼	无
+Eelektrik	0	麻麻鳗	无
+Eelektross	0	麻麻鳗鱼王	无
+Litwick	0	烛光灵	无
+Lampent	0	灯火幽灵	无
+Chandelure	0	水晶灯火灵	无
+Axew	0	牙牙	无
+Fraxure	0	斧牙龙	无
+Haxorus	0	双斧战龙	无
+Cubchoo	0	喷嚏熊	无
+Beartic	0	冻原熊	无
+Cryogonal	0	几何雪花	无
+Mienfoo	0	功夫鼬	无
+Mienshao	0	师父鼬	无
+Pawniard	0	驹刀小兵	无
+Bisharp	0	劈斩司令	无
+Rufflet	0	毛头小鹰	无
+Braviary	0	勇士雄鹰	无
 Braviary	1	勇士雄鹰	洗翠的样子
-Deino	0	单首龙	
-Zweilous	0	双首暴龙	
-Hydreigon	0	三首恶龙	
-Larvesta	0	燃烧虫	
-Volcarona	0	火神蛾	
+Vullaby	0	秃鹰丫头	无
+Mandibuzz	0	秃鹰娜	无
+Deino	0	单首龙	无
+Zweilous	0	双首暴龙	无
+Hydreigon	0	三首恶龙	无
+Larvesta	0	燃烧虫	无
+Volcarona	0	火神蛾	无
 Tornadus	0	龙卷云	化身形态
 Tornadus	1	龙卷云	灵兽形态
 Thundurus	0	雷电云	化身形态
@@ -311,19 +410,19 @@ Landorus	0	土地云	化身形态
 Landorus	1	土地云	灵兽形态
 Meloetta	0	美洛耶塔	歌声形态
 Meloetta	1	美洛耶塔	舞步形态
-Chespin	0	哈力栗	
-Quilladin	0	胖胖哈力	
-Chesnaught	0	布里卡隆	
-Fennekin	0	火狐狸	
-Braixen	0	长尾火狐	
-Delphox	0	妖火红狐	
-Froakie	0	呱呱泡蛙	
-Frogadier	0	呱头蛙	
-Greninja	0	甲贺忍蛙	
-Greninja	1	甲贺忍蛙	小智版甲贺忍蛙
-Fletchling	0	小箭雀	
-Fletchinder	0	火箭雀	
-Talonflame	0	烈箭鹰	
+Chespin	0	哈力栗	无
+Quilladin	0	胖胖哈力	无
+Chesnaught	0	布里卡隆	无
+Fennekin	0	火狐狸	无
+Braixen	0	长尾火狐	无
+Delphox	0	妖火红狐	无
+Froakie	0	呱呱泡蛙	无
+Frogadier	0	呱头蛙	无
+Greninja	0	甲贺忍蛙	无
+Greninja	1	甲贺忍蛙	小智版甲贺忍蛙？
+Fletchling	0	小箭雀	无
+Fletchinder	0	火箭雀	无
+Talonflame	0	烈箭鹰	无
 Scatterbug	0	粉蝶虫	冰雪花纹
 Scatterbug	1	粉蝶虫	雪国花纹
 Scatterbug	2	粉蝶虫	雪原花纹
@@ -384,8 +483,8 @@ Vivillon	16	彩粉蝶	大洋花纹
 Vivillon	17	彩粉蝶	热带雨林花纹
 Vivillon	18	彩粉蝶	幻彩花纹
 Vivillon	19	彩粉蝶	球球花纹
-Litleo	0	小狮狮	
-Pyroar	0	火炎狮	
+Litleo	0	小狮狮	无
+Pyroar	0	火炎狮	无
 Flabébé	0	花蓓蓓	红花
 Flabébé	1	花蓓蓓	黄花
 Flabébé	2	花蓓蓓	橙花
@@ -401,249 +500,276 @@ Florges	1	花洁夫人	黄花
 Florges	2	花洁夫人	橙花
 Florges	3	花洁夫人	蓝花
 Florges	4	花洁夫人	白花
-Skiddo	0	坐骑小羊	
-Gogoat	0	坐骑山羊	
-Skrelp	0	垃垃藻	
-Dragalge	0	毒藻龙	
-Clauncher	0	铁臂枪虾	
-Clawitzer	0	钢炮臂虾	
-Sylveon	0	仙子伊布	
-Hawlucha	0	摔角鹰人	
-Dedenne	0	咚咚鼠	
-Carbink	0	小碎钻	
-Goomy	0	黏黏宝	
-Sliggoo	0	黏美儿	
+Skiddo	0	坐骑小羊	无
+Gogoat	0	坐骑山羊	无
+Skrelp	0	垃垃藻	无
+Dragalge	0	毒藻龙	无
+Clauncher	0	铁臂枪虾	无
+Clawitzer	0	钢炮臂虾	无
+Sylveon	0	仙子伊布	无
+Hawlucha	0	摔角鹰人	无
+Dedenne	0	咚咚鼠	无
+Carbink	0	小碎钻	无
+Goomy	0	黏黏宝	无
+Sliggoo	0	黏美儿	无
 Sliggoo	1	黏美儿	洗翠的样子
-Goodra	0	黏美龙	
+Goodra	0	黏美龙	无
 Goodra	1	黏美龙	洗翠的样子
-Klefki	0	钥圈儿	
-Bergmite	0	冰宝	
-Avalugg	0	冰岩怪	
+Klefki	0	钥圈儿	无
+Phantump	0	小木灵	无
+Trevenant	0	朽木妖	无
+Bergmite	0	冰宝	无
+Avalugg	0	冰岩怪	无
 Avalugg	1	冰岩怪	洗翠的样子
-Noibat	0	嗡蝠	
-Noivern	0	音波龙	
-Diancie	0	蒂安希	
+Noibat	0	嗡蝠	无
+Noivern	0	音波龙	无
+Diancie	0	蒂安希	无
 Hoopa	0	胡帕	惩戒胡帕
 Hoopa	1	胡帕	解放胡帕
-Volcanion	0	波尔凯尼恩	
-Rowlet	0	木木枭	
-Dartrix	0	投羽枭	
-Decidueye	0	狙射树枭	
+Volcanion	0	波尔凯尼恩	无
+Rowlet	0	木木枭	无
+Dartrix	0	投羽枭	无
+Decidueye	0	狙射树枭	无
 Decidueye	1	狙射树枭	洗翠的样子
-Yungoos	0	猫鼬少	
-Gumshoos	0	猫鼬探长	
-Crabrawler	0	好胜蟹	
-Crabominable	0	好胜毛蟹	
+Yungoos	0	猫鼬少	无
+Gumshoos	0	猫鼬探长	无
+Grubbin	0	强颚鸡母虫	无
+Charjabug	0	虫电宝	无
+Vikavolt	0	锹农炮虫	无
+Crabrawler	0	好胜蟹	无
+Crabominable	0	好胜毛蟹	无
 Oricorio	0	花舞鸟	热辣热辣风格
 Oricorio	1	花舞鸟	啪滋啪滋风格
 Oricorio	2	花舞鸟	呼拉呼拉风格
 Oricorio	3	花舞鸟	轻盈轻盈风格
-Rockruff	0	岩狗狗	
-Rockruff	1	岩狗狗	特殊
+Cutiefly	0	萌虻	无
+Ribombee	0	蝶结萌虻	无
+Rockruff	0	岩狗狗	无
+Rockruff	1	岩狗狗	我行我素
 Lycanroc	0	鬃岩狼人	白昼的样子
 Lycanroc	1	鬃岩狼人	黑夜的样子
 Lycanroc	2	鬃岩狼人	黄昏的样子
-Mareanie	0	好坏星	
-Toxapex	0	超坏星	
-Mudbray	0	泥驴仔	
-Mudsdale	0	重泥挽马	
-Fomantis	0	伪螳草	
-Lurantis	0	兰螳花	
-Salandit	0	夜盗火蜥	
-Salazzle	0	焰后蜥	
-Bounsweet	0	甜竹竹	
-Steenee	0	甜舞妮	
-Tsareena	0	甜冷美后	
-Oranguru	0	智挥猩	
-Passimian	0	投掷猴	
-Sandygast	0	沙丘娃	
-Palossand	0	噬沙堡爷	
-Komala	0	树枕尾熊	
+Mareanie	0	好坏星	无
+Toxapex	0	超坏星	无
+Mudbray	0	泥驴仔	无
+Mudsdale	0	重泥挽马	无
+Fomantis	0	伪螳草	无
+Lurantis	0	兰螳花	无
+Salandit	0	夜盗火蜥	无
+Salazzle	0	焰后蜥	无
+Bounsweet	0	甜竹竹	无
+Steenee	0	甜舞妮	无
+Tsareena	0	甜冷美后	无
+Oranguru	0	智挥猩	无
+Passimian	0	投掷猴	无
+Sandygast	0	沙丘娃	无
+Palossand	0	噬沙堡爷	无
+Komala	0	树枕尾熊	无
 Mimikyu	0	谜拟丘	化形的样子
 Mimikyu	1	谜拟丘	现形的样子
-Bruxish	0	磨牙彩皮鱼	
+Bruxish	0	磨牙彩皮鱼	无
+Jangmo-o	0	心鳞宝	无
+Hakamo-o	0	鳞甲龙	无
+Kommo-o	0	杖尾鳞甲龙	无
 Magearna	0	玛机雅娜	现在的颜色
 Magearna	1	玛机雅娜	５００年前的颜色
-Grookey	0	敲音猴	
-Thwackey	0	啪咚猴	
-Rillaboom	0	轰擂金刚猩	
-Scorbunny	0	炎兔儿	
-Raboot	0	腾蹴小将	
-Cinderace	0	闪焰王牌	
-Sobble	0	泪眼蜥	
-Drizzile	0	变涩蜥	
-Inteleon	0	千面避役	
-Skwovet	0	贪心栗鼠	
-Greedent	0	藏饱栗鼠	
-Rookidee	0	稚山雀	
-Corvisquire	0	蓝鸦	
-Corviknight	0	钢铠鸦	
-Chewtle	0	咬咬龟	
-Drednaw	0	暴噬龟	
-Rolycoly	0	小炭仔	
-Carkol	0	大炭车	
-Coalossal	0	巨炭山	
-Applin	0	啃果虫	
-Flapple	0	苹裹龙	
-Appletun	0	丰蜜龙	
-Silicobra	0	沙包蛇	
-Sandaconda	0	沙螺蟒	
-Arrokuda	0	刺梭鱼	
-Barraskewda	0	戽斗尖梭	
-Toxel	0	电音婴	
+Grookey	0	敲音猴	无
+Thwackey	0	啪咚猴	无
+Rillaboom	0	轰擂金刚猩	无
+Scorbunny	0	炎兔儿	无
+Raboot	0	腾蹴小将	无
+Cinderace	0	闪焰王牌	无
+Sobble	0	泪眼蜥	无
+Drizzile	0	变涩蜥	无
+Inteleon	0	千面避役	无
+Skwovet	0	贪心栗鼠	无
+Greedent	0	藏饱栗鼠	无
+Rookidee	0	稚山雀	无
+Corvisquire	0	蓝鸦	无
+Corviknight	0	钢铠鸦	无
+Chewtle	0	咬咬龟	无
+Drednaw	0	暴噬龟	无
+Rolycoly	0	小炭仔	无
+Carkol	0	大炭车	无
+Coalossal	0	巨炭山	无
+Applin	0	啃果虫	无
+Flapple	0	苹裹龙	无
+Appletun	0	丰蜜龙	无
+Silicobra	0	沙包蛇	无
+Sandaconda	0	沙螺蟒	无
+Cramorant	0	古月鸟	无
+Cramorant	1	古月鸟	一口吞的样子
+Cramorant	2	古月鸟	大口吞的样子
+Arrokuda	0	刺梭鱼	无
+Barraskewda	0	戽斗尖梭	无
+Toxel	0	电音婴	无
 Toxtricity	0	颤弦蝾螈	高调的样子
 Toxtricity	1	颤弦蝾螈	低调的样子
 Sinistea	0	来悲茶	赝品形态
 Sinistea	1	来悲茶	真品形态
 Polteageist	0	怖思壶	赝品形态
 Polteageist	1	怖思壶	真品形态
-Hatenna	0	迷布莉姆	
-Hattrem	0	提布莉姆	
-Hatterene	0	布莉姆温	
-Impidimp	0	捣蛋小妖	
-Morgrem	0	诈唬魔	
-Grimmsnarl	0	长毛巨魔	
-Perrserker	0	喵头目	
-Falinks	0	列阵兵	
-Pincurchin	0	啪嚓海胆	
-Snom	0	雪吞虫	
-Frosmoth	0	雪绒蛾	
-Stonjourner	0	巨石丁	
+Hatenna	0	迷布莉姆	无
+Hattrem	0	提布莉姆	无
+Hatterene	0	布莉姆温	无
+Impidimp	0	捣蛋小妖	无
+Morgrem	0	诈唬魔	无
+Grimmsnarl	0	长毛巨魔	无
+Perrserker	0	喵头目	无
+Falinks	0	列阵兵	无
+Pincurchin	0	啪嚓海胆	无
+Snom	0	雪吞虫	无
+Frosmoth	0	雪绒蛾	无
+Stonjourner	0	巨石丁	无
 Eiscue	0	冰砌鹅	结冻头
 Eiscue	1	冰砌鹅	解冻头
 Indeedee	0	爱管侍	雄性的样子
 Indeedee	1	爱管侍	雌性的样子
-Cufant	0	铜象	
-Copperajah	0	大王铜象	
-Dreepy	0	多龙梅西亚	
-Drakloak	0	多龙奇	
-Dragapult	0	多龙巴鲁托	
+Morpeko	0	莫鲁贝可	满腹花纹
+Morpeko	1	莫鲁贝可	空腹花纹
+Cufant	0	铜象	无
+Copperajah	0	大王铜象	无
+Dreepy	0	多龙梅西亚	无
+Drakloak	0	多龙奇	无
+Dragapult	0	多龙巴鲁托	无
 Zacian	0	苍响	百战勇者
 Zacian	1	苍响	剑之王
 Zamazenta	0	藏玛然特	百战勇者
 Zamazenta	1	藏玛然特	盾之王
-Eternatus	0	极汰那	
-Kubfu	0	熊徒弟	
+Eternatus	0	无极汰那	无
+Kubfu	0	熊徒弟	无
 Urshifu	0	武道熊师	一击流
 Urshifu	1	武道熊师	连击流
-Zarude	0	萨戮德	
+Zarude	0	萨戮德	无
 Zarude	1	萨戮德	阿爸
-Regieleki	0	雷吉艾勒奇	
-Regidrago	0	雷吉铎拉戈	
-Glastrier	0	雪暴马	
-Spectrier	0	灵幽马	
-Calyrex	0	蕾冠王	
+Regieleki	0	雷吉艾勒奇	无
+Regidrago	0	雷吉铎拉戈	无
+Glastrier	0	雪暴马	无
+Spectrier	0	灵幽马	无
+Calyrex	0	蕾冠王	无
 Calyrex	1	蕾冠王	骑白马的样子
 Calyrex	2	蕾冠王	骑黑马的样子
-Wyrdeer	0	诡角鹿	
-Kleavor	0	劈斧螳螂	
-Ursaluna	0	月月熊	
+Wyrdeer	0	诡角鹿	无
+Kleavor	0	劈斧螳螂	无
+Ursaluna	0	月月熊	无
+Ursaluna	1	月月熊	无
 Basculegion	0	幽尾玄鱼	雄性的样子
 Basculegion	1	幽尾玄鱼	雌性的样子
-Sneasler	0	大狃拉	
-Overqwil	0	万针鱼	
+Sneasler	0	大狃拉	无
+Overqwil	0	万针鱼	无
 Enamorus	0	眷恋云	化身形态
 Enamorus	1	眷恋云	灵兽形态
-Sprigatito	0	新叶喵	
-Floragato	0	蒂莆喵	
-Meowscarada	0	魔幻假面喵	
-Fuecoco	0	呆火鳄	
-Crocalor	0	炙烫鳄	
-Skeledirge	0	骨纹巨声鳄	
-Quaxly	0	润水鸭	
-Quaxwell	0	涌跃鸭	
-Quaquaval	0	狂欢浪舞鸭	
+Sprigatito	0	新叶喵	无
+Floragato	0	蒂莆喵	无
+Meowscarada	0	魔幻假面喵	无
+Fuecoco	0	呆火鳄	无
+Crocalor	0	炙烫鳄	无
+Skeledirge	0	骨纹巨声鳄	无
+Quaxly	0	润水鸭	无
+Quaxwell	0	涌跃鸭	无
+Quaquaval	0	狂欢浪舞鸭	无
 Lechonk	0	爱吃豚	
 Oinkologne	0	飘香豚	雄性的样子
 Oinkologne	1	飘香豚	雌性的样子
-Dudunsparce	0	土龙节节	二节形态
-Dudunsparce	1	土龙节节	三节形态
-Tarountula	0	团珠蛛	
-Spidops	0	操陷蛛	
-Nymble	0	豆蟋蟀	
-Lokix	0	烈腿蝗	
-Rellor	0	虫滚泥	
-Rabsca	0	虫甲圣	
-Greavard	0	墓仔狗	
-Houndstone	0	墓扬犬	
-Flittle	0	飘飘雏	
-Espathra	0	超能艳鸵	
-Farigiraf	0	奇麒麟	
-Wiglett	0	海地鼠	
-Wugtrio	0	三海地鼠	
-Dondozo	0	吃吼霸	
-Veluza	0	轻身鳕	
-Finizen	0	波普海豚	
-Palafin	0	海豚侠	平凡形态
-Palafin	1	海豚侠	全能形态
-Smoliv	0	迷你芙	
-Dolliv	0	奥利纽	
-Arboliva	0	奥利瓦	
-Capsakid	0	热辣娃	
-Scovillain	0	狠辣椒	
-Tadbulb	0	光蚪仔	
-Bellibolt	0	电肚蛙	
-Varoom	0	噗隆隆	
-Revavroom	0	普隆隆姆	
-Orthworm	0	拖拖蚓	
-Tandemaus	0	一对鼠	
+Tarountula	0	团珠蛛	无
+Spidops	0	操陷蛛	无
+Nymble	0	豆蟋蟀	无
+Lokix	0	烈腿蝗	无
+Pawmi	0	布拨	无
+Pawmo	0	布土拨	无
+Pawmot	0	巴布土拨	无
+Tandemaus	0	一对鼠	无
 Maushold	0	一家鼠	三只家庭
 Maushold	1	一家鼠	四只家庭
-Cetoddle	0	走鲸	
-Cetitan	0	浩大鲸	
-Frigibax	0	凉脊龙	
-Arctibax	0	冻脊龙	
-Baxcalibur	0	戟棘龙	
-Tatsugiri	0	米粒龙	上弓姿势
-Tatsugiri	1	米粒龙	下垂姿势
-Tatsugiri	2	米粒龙	平挺姿势
-Cyclizar	0	摩托蜥	
-Pawmi	0	布拨	
-Pawmo	0	布土拨	
-Pawmot	0	巴布土拨	
-Wattrel	0	电海燕	
-Kilowattrel	0	大电海燕	
-Bombirdier	0	下石鸟	
+Fidough	0	狗仔包	无
+Dachsbun	0	麻花犬	无
+Smoliv	0	迷你芙	无
+Dolliv	0	奥利纽	无
+Arboliva	0	奥利瓦	无
 Squawkabilly	0	怒鹦哥	绿羽毛
 Squawkabilly	1	怒鹦哥	蓝羽毛
 Squawkabilly	2	怒鹦哥	黄羽毛
 Squawkabilly	3	怒鹦哥	白羽毛
-Flamigo	0	缠红鹤	
-Klawf	0	毛媸蟹	
-Nacli	0	盐石宝	
-Naclstack	0	盐石垒	
-Garganacl	0	盐石巨灵	
-Glimmet	0	晶光芽	
-Glimmora	0	晶光花	
-Shroodle	0	滋汁鼹	
-Grafaiai	0	涂标客	
-Fidough	0	狗仔包	
-Dachsbun	0	麻花犬	
-Maschiff	0	偶叫獒	
-Mabosstiff	0	獒教父	
-Bramblin	0	纳噬草	
-Brambleghast	0	怖纳噬草	
+Nacli	0	盐石宝	无
+Naclstack	0	盐石垒	无
+Garganacl	0	盐石巨灵	无
+Charcadet	0	炭小侍	无
+Armarouge	0	红莲铠骑	无
+Ceruledge	0	苍炎刃鬼	无
+Tadbulb	0	光蚪仔	无
+Bellibolt	0	电肚蛙	无
+Wattrel	0	电海燕	无
+Kilowattrel	0	大电海燕	无
+Maschiff	0	偶叫獒	无
+Mabosstiff	0	獒教父	无
+Shroodle	0	滋汁鼹	无
+Grafaiai	0	涂标客	无
+Bramblin	0	纳噬草	无
+Brambleghast	0	怖纳噬草	无
+Toedscool	0	原野水母	无
+Toedscruel	0	陆地水母	无
+Klawf	0	毛媸蟹	无
+Capsakid	0	热辣娃	无
+Scovillain	0	狠辣椒	无
+Rellor	0	虫滚泥	无
+Rabsca	0	虫甲圣	无
+Flittle	0	飘飘雏	无
+Espathra	0	超能艳鸵	无
+Tinkatink	0	小锻匠	无
+Tinkatuff	0	巧锻匠	无
+Tinkaton	0	巨锻匠	无
+Wiglett	0	海地鼠	无
+Wugtrio	0	三海地鼠	无
+Bombirdier	0	下石鸟	无
+Finizen	0	波普海豚	无
+Palafin	0	海豚侠	平凡形态
+Palafin	1	海豚侠	全能形态
+Varoom	0	噗隆隆	无
+Revavroom	0	普隆隆姆	无
+Cyclizar	0	摩托蜥	无
+Orthworm	0	拖拖蚓	无
+Glimmet	0	晶光芽	无
+Glimmora	0	晶光花	无
+Greavard	0	墓仔狗	无
+Houndstone	0	墓扬犬	无
+Flamigo	0	缠红鹤	无
+Cetoddle	0	走鲸	无
+Cetitan	0	浩大鲸	无
+Veluza	0	轻身鳕	无
+Dondozo	0	吃吼霸	无
+Tatsugiri	0	米粒龙	上弓姿势
+Tatsugiri	1	米粒龙	下垂姿势
+Tatsugiri	2	米粒龙	平挺姿势
+Annihilape	0	弃世猴	无
+Clodsire	0	土王	无
+Farigiraf	0	奇麒麟	无
+Dudunsparce	0	土龙节节	二节形态
+Dudunsparce	1	土龙节节	三节形态
+Kingambit	0	仆刀将军	无
+Great Tusk	0	雄伟牙	无
+Scream Tail	0	吼叫尾	无
+Brute Bonnet	0	猛恶菇	无
+Flutter Mane	0	振翼发	无
+Slither Wing	0	爬地翅	无
+Sandy Shocks	0	沙铁皮	无
+Iron Treads	0	铁辙迹	无
+Iron Bundle	0	铁包袱	无
+Iron Hands	0	铁臂膀	无
+Iron Jugulis	0	铁脖颈	无
+Iron Moth	0	铁毒蛾	无
+Iron Thorns	0	铁荆棘	无
+Frigibax	0	凉脊龙	无
+Arctibax	0	冻脊龙	无
+Baxcalibur	0	戟棘龙	无
 Gimmighoul	0	索财灵	宝箱形态
 Gimmighoul	1	索财灵	徒步形态
-Gholdengo	0	褰富豪	
-Great Tusk	0	雄伟牙	
-Brute Bonnet	0	猛恶菇	
-Sandy Shocks	0	沙铁皮	
-Scream Tail	0	吼叫尾	
-Flutter Mane	0	振翼发	
-Slither Wing	0	爬地翅	
-Roaring Moon	0	轰鸣月	
-Iron Treads	0	铁辙迹	
-Iron Moth	0	铁毒蛾	
-Iron Hands	0	铁臂膀	
-Iron Jugulis	0	铁脖颈	
-Iron Thorns	0	铁荆棘	
-Iron Bundle	0	铁包袱	
-Iron Valiant	0	铁武者	
-Ting-Lu	0	古鼎鹿	
-Chien-Pao	0	古剑豹	
-Wo-Chien	0	古简蜗	
-Chi-Yu	0	古玉鱼	
+Gholdengo	0	褰富豪	无
+Wo-Chien	0	古简蜗	无
+Chien-Pao	0	古剑豹	无
+Ting-Lu	0	古鼎鹿	无
+Chi-Yu	0	古玉鱼	无
+Roaring Moon	0	轰鸣月	无
+Iron Valiant	0	铁武者	无
 Koraidon	0	故勒顿	完全形态
 Koraidon	1	故勒顿	制限形态
 Koraidon	2	故勒顿	疾驰形态
@@ -654,14 +780,21 @@ Miraidon	1	密勒顿	受限模式
 Miraidon	2	密勒顿	行驶模式
 Miraidon	3	密勒顿	浮水模式
 Miraidon	4	密勒顿	滑翔模式
-Tinkatink	0	小锻匠	
-Tinkatuff	0	巧锻匠	
-Tinkaton	0	巨锻匠	
-Charcadet	0	炭小侍	
-Armarouge	0	红莲铠骑	
-Ceruledge	0	苍炎刃鬼	
-Toedscool	0	原野水母	
-Toedscruel	0	陆地水母	
-Kingambit	0	仆刀将军	
-Clodsire	0	土王	
-Annihilape	0	弃世猴	
+Walking Wake	0	波荡水	无
+Iron Leaves	0	铁斑叶	无
+Dipplin	0	裹蜜虫	无
+Poltchageist	0	斯魔茶	无
+Poltchageist	1	斯魔茶	无
+Sinistcha	0	来悲粗茶	无
+Sinistcha	1	来悲粗茶	无
+Okidogi	0	够赞狗	无
+Munkidori	0	愿增猿	无
+Fezandipiti	0	吉雉鸡	无
+Ogerpon	0	厄诡桠	无
+Ogerpon	1	厄诡桠	无
+Ogerpon	2	厄诡桠	无
+Ogerpon	3	厄诡桠	无
+Ogerpon	4	厄诡桠	无
+Ogerpon	5	厄诡桠	无
+Ogerpon	6	厄诡桠	无
+Ogerpon	7	厄诡桠	无
