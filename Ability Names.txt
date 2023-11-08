@@ -1,4 +1,4 @@
-0	—	—	—
+0	—	―	―
 1	Stench	恶臭	あくしゅう
 2	Drizzle	降雨	あめふらし
 3	Speed Boost	加速	かそく
@@ -104,7 +104,7 @@
 103	Klutz	笨拙	ぶきよう
 104	Mold Breaker	破格	かたやぶり
 105	Super Luck	超幸运	きょううん
-106	Aftermath	引爆	ゆうばく
+106	Aftermath	诱爆	ゆうばく
 107	Anticipation	危险预知	きけんよち
 108	Forewarn	预知梦	よちむ
 109	Unaware	纯朴	てんねん
@@ -128,7 +128,7 @@
 127	Unnerve	紧张感	きんちょうかん
 128	Defiant	不服输	まけんき
 129	Defeatist	软弱	よわき
-130	Cursed Body	诅咒之躯	のろわれボディ
+130	Cursed Body	咒术之躯	のろわれボディ
 131	Healer	治愈之心	いやしのこころ
 132	Friend Guard	友情防守	フレンドガード
 133	Weak Armor	碎裂铠甲	くだけるよろい
@@ -261,7 +261,7 @@
 260	Unseen Fist	无形拳	ふかしのこぶし
 261	Curious Medicine	怪药	きみょうなくすり
 262	Transistor	电晶体	トランジスタ
-263	Dragon's Maw	龙颚	りゅうのあぎと
+263	Dragon’s Maw	龙颚	りゅうのあぎと
 264	Chilling Neigh	苍白嘶鸣	しろのいななき
 265	Grim Neigh	漆黑嘶鸣	くろのいななき
 266	As One	人马一体	じんばいったい
@@ -297,3 +297,11 @@
 296	Armor Tail	尾甲	テイルアーマー
 297	Earth Eater	食土	どしょく
 298	Mycelium Might	菌丝之力	きんしのちから
+299	Hospitality	款待	おもてなし
+300	Mind’s Eye	心眼	しんがん
+301	Embody Aspect	面影辉映	おもかげやどし
+302	Embody Aspect	面影辉映	おもかげやどし
+303	Embody Aspect	面影辉映	おもかげやどし
+304	Embody Aspect	面影辉映	おもかげやどし
+305	Toxic Chain	毒锁链	どくのくさり
+306	Supersweet Syrup	甘露之蜜	かんろなミツ
