@@ -1,5 +1,5 @@
 ID	HEX	EN_NAME	CN_NAME	JP_NAME
-0	0000	———	———	———
+0	0000	———	―――――	―――――
 1	0001	Pound	拍击	はたく
 2	0002	Karate Chop	空手劈	からてチョップ
 3	0003	Double Slap	连环巴掌	おうふくビンタ
@@ -11,10 +11,10 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 9	0009	Thunder Punch	雷电拳	かみなりパンチ
 10	000A	Scratch	抓	ひっかく
 11	000B	Vise Grip	夹住	はさむ
-12	000C	Guillotine	断头钳	ハサミギロチン
+12	000C	Guillotine	极落钳	ハサミギロチン
 13	000D	Razor Wind	旋风刀	かまいたち
 14	000E	Swords Dance	剑舞	つるぎのまい
-15	000F	Cut	居合斩	いあいぎり
+15	000F	Cut	居合劈	いあいぎり
 16	0010	Gust	起风	かぜおこし
 17	0011	Wing Attack	翅膀攻击	つばさでうつ
 18	0012	Whirlwind	吹飞	ふきとばし
@@ -65,7 +65,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 63	003F	Hyper Beam	破坏光线	はかいこうせん
 64	0040	Peck	啄	つつく
 65	0041	Drill Peck	啄钻	ドリルくちばし
-66	0042	Submission	地狱翻滚	じごくぐるま
+66	0042	Submission	深渊翻滚	じごくぐるま
 67	0043	Low Kick	踢倒	けたぐり
 68	0044	Counter	双倍奉还	カウンター
 69	0045	Seismic Toss	地球上投	ちきゅうなげ
@@ -119,7 +119,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 117	0075	Bide	忍耐	がまん
 118	0076	Metronome	挥指	ゆびをふる
 119	0077	Mirror Move	鹦鹉学舌	オウムがえし
-120	0078	Self-Destruct	自爆	じばく
+120	0078	Self-Destruct	玉石俱碎	じばく
 121	0079	Egg Bomb	炸蛋	タマゴばくだん
 122	007A	Lick	舌舔	したでなめる
 123	007B	Smog	浊雾	スモッグ
@@ -140,7 +140,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 138	008A	Dream Eater	食梦	ゆめくい
 139	008B	Poison Gas	毒瓦斯	どくガス
 140	008C	Barrage	投球	たまなげ
-141	008D	Leech Life	吸血	きゅうけつ
+141	008D	Leech Life	汲取	きゅうけつ
 142	008E	Lovely Kiss	恶魔之吻	あくまのキッス
 143	008F	Sky Attack	神鸟猛击	ゴッドバード
 144	0090	Transform	变身	へんしん
@@ -157,7 +157,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 155	009B	Bonemerang	骨头回力镖	ホネブーメラン
 156	009C	Rest	睡觉	ねむる
 157	009D	Rock Slide	岩崩	いわなだれ
-158	009E	Hyper Fang	必杀门牙	ひっさつまえば
+158	009E	Hyper Fang	终结门牙	ひっさつまえば
 159	009F	Sharpen	棱角化	かくばる
 160	00A0	Conversion	纹理	テクスチャー
 161	00A1	Tri Attack	三重攻击	トライアタック
@@ -173,17 +173,17 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 171	00AB	Nightmare	恶梦	あくむ
 172	00AC	Flame Wheel	火焰轮	かえんぐるま
 173	00AD	Snore	打鼾	いびき
-174	00AE	Curse	诅咒	のろい
+174	00AE	Curse	咒术	のろい
 175	00AF	Flail	抓狂	じたばた
 176	00B0	Conversion 2	纹理２	テクスチャー２
 177	00B1	Aeroblast	气旋攻击	エアロブラスト
 178	00B2	Cotton Spore	棉孢子	わたほうし
-179	00B3	Reversal	起死回生	きしかいせい
+179	00B3	Reversal	绝处逢生	きしかいせい
 180	00B4	Spite	怨恨	うらみ
 181	00B5	Powder Snow	细雪	こなゆき
 182	00B6	Protect	守住	まもる
 183	00B7	Mach Punch	音速拳	マッハパンチ
-184	00B8	Scary Face	鬼面	こわいかお
+184	00B8	Scary Face	可怕面孔	こわいかお
 185	00B9	Feint Attack	出奇一击	だましうち
 186	00BA	Sweet Kiss	天使之吻	てんしのキッス
 187	00BB	Belly Drum	腹鼓	はらだいこ
@@ -194,7 +194,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 192	00C0	Zap Cannon	电磁炮	でんじほう
 193	00C1	Foresight	识破	みやぶる
 194	00C2	Destiny Bond	同命	みちづれ
-195	00C3	Perish Song	灭亡之歌	ほろびのうた
+195	00C3	Perish Song	终焉之歌	ほろびのうた
 196	00C4	Icy Wind	冰冻之风	こごえるかぜ
 197	00C5	Detect	看穿	みきり
 198	00C6	Bone Rush	骨棒乱打	ボーンラッシュ
@@ -260,7 +260,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 258	0102	Hail	冰雹	あられ
 259	0103	Torment	无理取闹	いちゃもん
 260	0104	Flatter	吹捧	おだてる
-261	0105	Will-O-Wisp	鬼火	おにび
+261	0105	Will-O-Wisp	磷火	おにび
 262	0106	Memento	临别礼物	おきみやげ
 263	0107	Facade	硬撑	からげんき
 264	0108	Focus Punch	真气拳	きあいパンチ
@@ -288,7 +288,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 286	011E	Imprison	封印	ふういん
 287	011F	Refresh	焕然一新	リフレッシュ
 288	0120	Grudge	怨念	おんねん
-289	0121	Snatch	抢夺	よこどり
+289	0121	Snatch	化为己用	よこどり
 290	0122	Secret Power	秘密之力	ひみつのちから
 291	0123	Dive	潜水	ダイビング
 292	0124	Arm Thrust	猛推	つっぱり
@@ -327,7 +327,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 325	0145	Shadow Punch	暗影拳	シャドーパンチ
 326	0146	Extrasensory	神通力	じんつうりき
 327	0147	Sky Uppercut	冲天拳	スカイアッパー
-328	0148	Sand Tomb	流沙地狱	すなじごく
+328	0148	Sand Tomb	流沙深渊	すなじごく
 329	0149	Sheer Cold	绝对零度	ぜったいれいど
 330	014A	Muddy Water	浊流	だくりゅう
 331	014B	Bullet Seed	种子机关枪	タネマシンガン
@@ -402,7 +402,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 400	0190	Night Slash	暗袭要害	つじぎり
 401	0191	Aqua Tail	水流尾	アクアテール
 402	0192	Seed Bomb	种子炸弹	タネばくだん
-403	0193	Air Slash	空气斩	エアスラッシュ
+403	0193	Air Slash	空气之刃	エアスラッシュ
 404	0194	X-Scissor	十字剪	シザークロス
 405	0195	Bug Buzz	虫鸣	むしのさざめき
 406	0196	Dragon Pulse	龙之波动	りゅうのはどう
@@ -491,7 +491,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 489	01E9	Coil	盘蜷	とぐろをまく
 490	01EA	Low Sweep	下盘踢	ローキック
 491	01EB	Acid Spray	酸液炸弹	アシッドボム
-492	01EC	Foul Play	欺诈	イカサマ
+492	01EC	Foul Play	移花接木	イカサマ
 493	01ED	Simple Beam	单纯光束	シンプルビーム
 494	01EE	Entrainment	找伙伴	なかまづくり
 495	01EF	After You	您先请	おさきにどうぞ
@@ -507,16 +507,16 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 505	01F9	Heal Pulse	治愈波动	いやしのはどう
 506	01FA	Hex	祸不单行	たたりめ
 507	01FB	Sky Drop	自由落体	フリーフォール
-508	01FC	Shift Gear	换挡	ギアチェンジ
+508	01FC	Shift Gear	换档	ギアチェンジ
 509	01FD	Circle Throw	巴投	ともえなげ
-510	01FE	Incinerate	烧尽	やきつくす
+510	01FE	Incinerate	烧净	やきつくす
 511	01FF	Quash	延后	さきおくり
 512	0200	Acrobatics	杂技	アクロバット
 513	0201	Reflect Type	镜面属性	ミラータイプ
 514	0202	Retaliate	报仇	かたきうち
 515	0203	Final Gambit	搏命	いのちがけ
 516	0204	Bestow	传递礼物	ギフトパス
-517	0205	Inferno	炼狱	れんごく
+517	0205	Inferno	烈火深渊	れんごく
 518	0206	Water Pledge	水之誓约	みずのちかい
 519	0207	Fire Pledge	火之誓约	ほのおのちかい
 520	0208	Grass Pledge	草之誓约	くさのちかい
@@ -570,7 +570,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 568	0238	Noble Roar	战吼	おたけび
 569	0239	Ion Deluge	等离子浴	プラズマシャワー
 570	023A	Parabolic Charge	抛物面充电	パラボラチャージ
-571	023B	Forest’s Curse	#N/A	#N/A
+571	023B	Forest’s Curse	森林咒术	もりののろい
 572	023C	Petal Blizzard	落英缤纷	はなふぶき
 573	023D	Freeze-Dry	冷冻干燥	フリーズドライ
 574	023E	Disarming Voice	魅惑之声	チャームボイス
@@ -587,7 +587,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 585	0249	Moonblast	月亮之力	ムーンフォース
 586	024A	Boomburst	爆音波	ばくおんぱ
 587	024B	Fairy Lock	妖精之锁	フェアリーロック
-588	024C	King’s Shield	#N/A	#N/A
+588	024C	King’s Shield	王者盾牌	キングシールド
 589	024D	Play Nice	和睦相处	なかよくする
 590	024E	Confide	密语	ないしょばなし
 591	024F	Diamond Storm	钻石风暴	ダイヤストーム
@@ -610,54 +610,54 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 608	0260	Baby-Doll Eyes	圆瞳	つぶらなひとみ
 609	0261	Nuzzle	蹭蹭脸颊	ほっぺすりすり
 610	0262	Hold Back	手下留情	てかげん
-611	0263	Infestation	死缠烂打	まとわりつく
+611	0263	Infestation	纠缠不休	まとわりつく
 612	0264	Power-Up Punch	增强拳	グロウパンチ
-613	0265	Oblivion Wing	死亡之翼	デスウイング
+613	0265	Oblivion Wing	归天之翼	デスウイング
 614	0266	Thousand Arrows	千箭齐发	サウザンアロー
 615	0267	Thousand Waves	千波激荡	サウザンウェーブ
-616	0268	Land’s Wrath	#N/A	#N/A
+616	0268	Land’s Wrath	大地神力	グランドフォース
 617	0269	Light of Ruin	破灭之光	はめつのひかり
 618	026A	Origin Pulse	根源波动	こんげんのはどう
 619	026B	Precipice Blades	断崖之剑	だんがいのつるぎ
 620	026C	Dragon Ascent	画龙点睛	ガリョウテンセイ
 621	026D	Hyperspace Fury	异次元猛攻	いじげんラッシュ
-622	026E	Breakneck Blitz	一般Ｚ究极无敌大冲撞	ウルトラダッシュアタック
-623	026F	Breakneck Blitz	一般Ｚ究极无敌大冲撞	ウルトラダッシュアタック
-624	0270	All-Out Pummeling	格斗Ｚ全力无双激烈拳	ぜんりょくむそうげきれつけん
-625	0271	All-Out Pummeling	格斗Ｚ全力无双激烈拳	ぜんりょくむそうげきれつけん
-626	0272	Supersonic Skystrike	飞行Ｚ极速俯冲轰烈撞	ファイナルダイブクラッシュ
-627	0273	Supersonic Skystrike	飞行Ｚ极速俯冲轰烈撞	ファイナルダイブクラッシュ
-628	0274	Acid Downpour	毒Ｚ强酸剧毒灭绝雨	アシッドポイズンデリート
-629	0275	Acid Downpour	毒Ｚ强酸剧毒灭绝雨	アシッドポイズンデリート
-630	0276	Tectonic Rage	地面Ｚ地隆啸天大终结	ライジングランドオーバー
-631	0277	Tectonic Rage	地面Ｚ地隆啸天大终结	ライジングランドオーバー
-632	0278	Continental Crush	岩石Ｚ毁天灭地巨岩坠	ワールズエンドフォール
-633	0279	Continental Crush	岩石Ｚ毁天灭地巨岩坠	ワールズエンドフォール
-634	027A	Savage Spin-Out	虫Ｚ绝对捕食回旋斩	ぜったいほしょくかいてんざん
-635	027B	Savage Spin-Out	虫Ｚ绝对捕食回旋斩	ぜったいほしょくかいてんざん
-636	027C	Never-Ending Nightmare	幽灵Ｚ无尽暗夜之诱惑	むげんあんやへのいざない
-637	027D	Never-Ending Nightmare	幽灵Ｚ无尽暗夜之诱惑	むげんあんやへのいざない
-638	027E	Corkscrew Crash	钢Ｚ超绝螺旋连击	ちょうぜつらせんれんげき
-639	027F	Corkscrew Crash	钢Ｚ超绝螺旋连击	ちょうぜつらせんれんげき
-640	0280	Inferno Overdrive	火Ｚ超强极限爆焰弹	ダイナミックフルフレイム
-641	0281	Inferno Overdrive	火Ｚ超强极限爆焰弹	ダイナミックフルフレイム
-642	0282	Hydro Vortex	水Ｚ超级水流大漩涡	スーパーアクアトルネード
-643	0283	Hydro Vortex	水Ｚ超级水流大漩涡	スーパーアクアトルネード
-644	0284	Bloom Doom	草Ｚ绚烂缤纷花怒放	ブルームシャインエクストラ
-645	0285	Bloom Doom	草Ｚ绚烂缤纷花怒放	ブルームシャインエクストラ
-646	0286	Gigavolt Havoc	电Ｚ终极伏特狂雷闪	スパーキングギガボルト
-647	0287	Gigavolt Havoc	电Ｚ终极伏特狂雷闪	スパーキングギガボルト
-648	0288	Shattered Psyche	超能力Ｚ至高精神破坏波	マキシマムサイブレイカー
-649	0289	Shattered Psyche	超能力Ｚ至高精神破坏波	マキシマムサイブレイカー
-650	028A	Subzero Slammer	冰Ｚ激狂大地万里冰	レイジングジオフリーズ
-651	028B	Subzero Slammer	冰Ｚ激狂大地万里冰	レイジングジオフリーズ
-652	028C	Devastating Drake	龙Ｚ究极巨龙震天地	アルティメットドラゴンバーン
-653	028D	Devastating Drake	龙Ｚ究极巨龙震天地	アルティメットドラゴンバーン
-654	028E	Black Hole Eclipse	恶Ｚ黑洞吞噬万物灭	ブラックホールイクリプス
-655	028F	Black Hole Eclipse	恶Ｚ黑洞吞噬万物灭	ブラックホールイクリプス
-656	0290	Twinkle Tackle	妖精Ｚ可爱星星飞天撞	ラブリースターインパクト
-657	0291	Twinkle Tackle	妖精Ｚ可爱星星飞天撞	ラブリースターインパクト
-658	0292	Catastropika	皮卡丘Ｚ皮卡皮卡必杀击	ひっさつのピカチュート
+622	026E	Breakneck Blitz	究极无敌大冲撞	ウルトラダッシュアタック
+623	026F	Breakneck Blitz	究极无敌大冲撞	ウルトラダッシュアタック
+624	0270	All-Out Pummeling	全力无双激烈拳	ぜんりょくむそうげきれつけん
+625	0271	All-Out Pummeling	全力无双激烈拳	ぜんりょくむそうげきれつけん
+626	0272	Supersonic Skystrike	极速俯冲轰烈撞	ファイナルダイブクラッシュ
+627	0273	Supersonic Skystrike	极速俯冲轰烈撞	ファイナルダイブクラッシュ
+628	0274	Acid Downpour	强酸剧毒灭绝雨	アシッドポイズンデリート
+629	0275	Acid Downpour	强酸剧毒灭绝雨	アシッドポイズンデリート
+630	0276	Tectonic Rage	地隆啸天大终结	ライジングランドオーバー
+631	0277	Tectonic Rage	地隆啸天大终结	ライジングランドオーバー
+632	0278	Continental Crush	毁天灭地巨岩坠	ワールズエンドフォール
+633	0279	Continental Crush	毁天灭地巨岩坠	ワールズエンドフォール
+634	027A	Savage Spin-Out	绝对捕食回旋斩	ぜったいほしょくかいてんざん
+635	027B	Savage Spin-Out	绝对捕食回旋斩	ぜったいほしょくかいてんざん
+636	027C	Never-Ending Nightmare	无尽暗夜之诱惑	むげんあんやへのいざない
+637	027D	Never-Ending Nightmare	无尽暗夜之诱惑	むげんあんやへのいざない
+638	027E	Corkscrew Crash	超绝螺旋连击	ちょうぜつらせんれんげき
+639	027F	Corkscrew Crash	超绝螺旋连击	ちょうぜつらせんれんげき
+640	0280	Inferno Overdrive	超强极限爆焰弹	ダイナミックフルフレイム
+641	0281	Inferno Overdrive	超强极限爆焰弹	ダイナミックフルフレイム
+642	0282	Hydro Vortex	超级水流大漩涡	スーパーアクアトルネード
+643	0283	Hydro Vortex	超级水流大漩涡	スーパーアクアトルネード
+644	0284	Bloom Doom	绚烂缤纷花怒放	ブルームシャインエクストラ
+645	0285	Bloom Doom	绚烂缤纷花怒放	ブルームシャインエクストラ
+646	0286	Gigavolt Havoc	终极伏特狂雷闪	スパーキングギガボルト
+647	0287	Gigavolt Havoc	终极伏特狂雷闪	スパーキングギガボルト
+648	0288	Shattered Psyche	至高精神破坏波	マキシマムサイブレイカー
+649	0289	Shattered Psyche	至高精神破坏波	マキシマムサイブレイカー
+650	028A	Subzero Slammer	激狂大地万里冰	レイジングジオフリーズ
+651	028B	Subzero Slammer	激狂大地万里冰	レイジングジオフリーズ
+652	028C	Devastating Drake	究极巨龙震天地	アルティメットドラゴンバーン
+653	028D	Devastating Drake	究极巨龙震天地	アルティメットドラゴンバーン
+654	028E	Black Hole Eclipse	黑洞吞噬万物灭	ブラックホールイクリプス
+655	028F	Black Hole Eclipse	黑洞吞噬万物灭	ブラックホールイクリプス
+656	0290	Twinkle Tackle	可爱星星飞天撞	ラブリースターインパクト
+657	0291	Twinkle Tackle	可爱星星飞天撞	ラブリースターインパクト
+658	0292	Catastropika	皮卡皮卡必杀击	ひっさつのピカチュート
 659	0293	Shore Up	集沙	すなあつめ
 660	0294	First Impression	迎头一击	であいがしら
 661	0295	Baneful Bunker	碉堡	トーチカ
@@ -674,7 +674,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 672	02A0	Toxic Thread	毒丝	どくのいと
 673	02A1	Laser Focus	磨砺	とぎすます
 674	02A2	Gear Up	辅助齿轮	アシストギア
-675	02A3	Throat Chop	地狱突刺	じごくづき
+675	02A3	Throat Chop	深渊突刺	じごくづき
 676	02A4	Pollen Puff	花粉团	かふんだんご
 677	02A5	Anchor Shot	掷锚	アンカーショット
 678	02A6	Psychic Terrain	精神场地	サイコフィールド
@@ -694,15 +694,15 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 692	02B4	Dragon Hammer	龙锤	ドラゴンハンマー
 693	02B5	Brutal Swing	狂舞挥打	ぶんまわす
 694	02B6	Aurora Veil	极光幕	オーロラベール
-695	02B7	Sinister Arrow Raid	狙射树枭Ｚ遮天蔽日暗影箭	シャドーアローズストライク
-696	02B8	Malicious Moonsault	炽焰咆哮虎Ｚ极恶飞跃粉碎击	ハイパーダーククラッシャー
-697	02B9	Oceanic Operetta	西狮海壬Ｚ海神庄严交响乐	わだつみのシンフォニア
-698	02BA	Guardian of Alola	卡璞Ｚ巨人卫士・阿罗拉	ガーディアン・デ・アローラ
-699	02BB	Soul-Stealing 7-Star Strike	玛夏多Ｚ七星夺魂腿	しちせいだっこんたい
-700	02BC	Stoked Sparksurfer	阿罗雷Ｚ驾雷驭电戏冲浪	ライトニングサーフライド
-701	02BD	Pulverizing Pancake	卡比兽Ｚ认真起来大爆击	ほんきをだす　こうげき
-702	02BE	Extreme Evoboost	伊布Ｚ九彩昇华齐聚顶	ナインエボルブースト
-703	02BF	Genesis Supernova	梦幻Ｚ起源超新星大爆炸	オリジンズスーパーノヴァ
+695	02B7	Sinister Arrow Raid	遮天蔽日暗影箭	シャドーアローズストライク
+696	02B8	Malicious Moonsault	极恶飞跃粉碎击	ハイパーダーククラッシャー
+697	02B9	Oceanic Operetta	海神庄严交响乐	わだつみのシンフォニア
+698	02BA	Guardian of Alola	巨人卫士・阿罗拉	ガーディアン・デ・アローラ
+699	02BB	Soul-Stealing 7-Star Strike	七星夺魂腿	しちせいだっこんたい
+700	02BC	Stoked Sparksurfer	驾雷驭电戏冲浪	ライトニングサーフライド
+701	02BD	Pulverizing Pancake	认真起来大爆击	ほんきをだす　こうげき
+702	02BE	Extreme Evoboost	九彩升华齐聚顶	ナインエボルブースト
+703	02BF	Genesis Supernova	起源超新星大爆炸	オリジンズスーパーノヴァ
 704	02C0	Shell Trap	陷阱甲壳	トラップシェル
 705	02C1	Fleur Cannon	花朵加农炮	フルールカノン
 706	02C2	Psychic Fangs	精神之牙	サイコファング
@@ -716,18 +716,18 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 714	02CA	Moongeist Beam	暗影之光	シャドーレイ
 715	02CB	Tearful Look	泪眼汪汪	なみだめ
 716	02CC	Zing Zap	麻麻刺刺	びりびりちくちく
-717	02CD	Nature’s Madness	#N/A	#N/A
+717	02CD	Nature’s Madness	自然之怒	しぜんのいかり
 718	02CE	Multi-Attack	多属性攻击	マルチアタック
-719	02CF	10,000,000 Volt Thunderbolt	智皮卡Ｚ千万伏特	１０００まんボルト
+719	02CF	10,000,000 Volt Thunderbolt	千万伏特	１０００まんボルト
 720	02D0	Mind Blown	惊爆大头	ビックリヘッド
 721	02D1	Plasma Fists	等离子闪电拳	プラズマフィスト
 722	02D2	Photon Geyser	光子喷涌	フォトンゲイザー
-723	02D3	Light That Burns the Sky	究极奈克洛Ｚ焚天灭世炽光爆	てんこがすめつぼうのひかり
-724	02D4	Searing Sunraze Smash	索尔迦雷欧Ｚ日光回旋下苍穹	サンシャインスマッシャー
-725	02D5	Menacing Moonraze Maelstrom	露奈雅拉Ｚ月华飞溅落灵霄	ムーンライトブラスター
-726	02D6	Let’s Snuggle Forever	#N/A	#N/A
-727	02D7	Splintered Stormshards	鬃岩狼人Ｚ狼啸石牙飓风暴	ラジアルエッジストーム
-728	02D8	Clangorous Soulblaze	杖尾鳞甲龙Ｚ炽魂热舞烈音爆	ブレイジングソウルビート
+723	02D3	Light That Burns the Sky	焚天灭世炽光爆	てんこがすめつぼうのひかり
+724	02D4	Searing Sunraze Smash	日光回旋下苍穹	サンシャインスマッシャー
+725	02D5	Menacing Moonraze Maelstrom	月华飞溅落灵霄	ムーンライトブラスター
+726	02D6	Let’s Snuggle Forever	亲密无间大乱揍	ぽかぼかフレンドタイム
+727	02D7	Splintered Stormshards	狼啸石牙飓风暴	ラジアルエッジストーム
+728	02D8	Clangorous Soulblaze	炽魂热舞烈音爆	ブレイジングソウルビート
 729	02D9	Zippy Zap	电电加速	ばちばちアクセル
 730	02DA	Splishy Splash	滔滔冲浪	ざぶざぶサーフ
 731	02DB	Floaty Fall	飘飘坠落	ふわふわフォール
@@ -737,7 +737,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 735	02DF	Sizzly Slide	熊熊火爆	めらめらバーン
 736	02E0	Glitzy Glow	哗哗气场	どばどばオーラ
 737	02E1	Baddy Bad	坏坏领域	わるわるゾーン
-738	02E2	Sappy Seed	茁茁轰炸	すくすくボンバー
+738	02E2	Sappy Seed	茁茁炸弹	すくすくボンバー
 739	02E3	Freezy Frost	冰冰霜冻	こちこちフロスト
 740	02E4	Sparkly Swirl	亮亮风暴	きらきらストーム
 741	02E5	Veevee Volley	砰砰击破	ブイブイブレイク
@@ -852,8 +852,8 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 850	0352	Take Heart	勇气填充	ブレイブチャージ
 851	0353	Tera Blast	太晶爆发	テラバースト
 852	0354	Silk Trap	线阱	スレッドトラップ
-853	0355	Axe Kick	下压踢	カかとおとし
-854	0356	Last Respects	扫墓	おはがまいり
+853	0355	Axe Kick	下压踢	かかとおとし
+854	0356	Last Respects	扫墓	おはかまいり
 855	0357	Lumina Crash	琉光冲激	ルミナコリジョン
 856	0358	Order Up	上菜	いっちょうあがり
 857	0359	Jet Punch	喷射拳	ジェットパンチ
@@ -864,18 +864,18 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 862	035E	Glaive Rush	巨剑突击	きょけんとつげき
 863	035F	Revival Blessing	复生祈祷	さいきのいのり
 864	0360	Salt Cure	盐腌	しおづけ
-865	0361	Triple Dive	三连钻	とリプルダイブ
+865	0361	Triple Dive	三连钻	トリプルダイブ
 866	0362	Mortal Spin	晶光转转	キラースピン
 867	0363	Doodle	描绘	うつしえ
-868	0364	Fillet Away	甩肉	みおけずる
+868	0364	Fillet Away	甩肉	みをけずる
 869	0365	Kowtow Cleave	仆刀	ドゲザン
-870	0366	Flower Trick	千变万花	トリックフラウー
+870	0366	Flower Trick	千变万花	トリックフラワー
 871	0367	Torch Song	闪焰高歌	フレアソング
 872	0368	Aqua Step	流水旋舞	アクアステップ
 873	0369	Raging Bull	怒牛	レイジングブル
 874	036A	Make It Rain	淘金潮	ゴールドラッシュ
-875	036B	Pound	拍击	はたく
-876	036C	Pound	拍击	はたく
+875	036B	Psyblade	精神剑	サイコブレイド
+876	036C	Hydro Steam	水蒸气	ハイドロスチーム
 877	036D	Ruination	大灾难	カタストロフィ
 878	036E	Collision Course	全开猛撞	アクセルブレイク
 879	036F	Electro Drift	闪电猛冲	イナズマドライブ
@@ -891,8 +891,8 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 889	0379	Rage Fist	愤怒之拳	ふんどのこぶし
 890	037A	Armor Cannon	铠农炮	アーマーキャノン
 891	037B	Bitter Blade	悔念剑	むねんのつるぎ
-892	037C	Double Shock	电光双击	てんこうそうげき
-893	037D	Gigaton Hammer	巨力锤	デカバンマー
+892	037C	Double Shock	电光双击	でんこうそうげき
+893	037D	Gigaton Hammer	巨力锤	デカハンマー
 894	037E	Comeuppance	复仇	ほうふく
 895	037F	Aqua Cutter	水波刀	アクアカッター
 896	0380	Blazing Torque	灼热暴冲	バーンアクセル
@@ -900,3 +900,7 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 898	0382	Noxious Torque	剧毒暴冲	ポイズンアクセル
 899	0383	Combat Torque	格斗暴冲	ファイトアクセル
 900	0384	Magical Torque	魔法暴冲	マジカルアクセル
+901	0385	Blood Moon	血月	ブラッドムーン
+902	0386	Matcha Gotcha	刷刷茶炮	シャカシャカほう
+903	0387	Syrup Bomb	糖浆炸弹	みずあめボム
+904	0388	Ivy Cudgel	棘藤棒	ツタこんぼう
