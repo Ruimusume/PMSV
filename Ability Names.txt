@@ -305,3 +305,7 @@
 304	Embody Aspect	面影辉映	おもかげやどし
 305	Toxic Chain	毒锁链	どくのくさり
 306	Supersweet Syrup	甘露之蜜	かんろなミツ
+307	Tera Shift	太晶变形	テラスチェンジ
+308	Tera Shell	太晶甲壳	テラスシェル
+309	Teraform Zero	归零化境	ゼロフォーミング
+310	Poison Puppeteer	毒傀儡	どくくぐつ
