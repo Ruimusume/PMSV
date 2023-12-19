@@ -904,3 +904,18 @@ ID	HEX	EN_NAME	CN_NAME	JP_NAME
 902	0386	Matcha Gotcha	刷刷茶炮	シャカシャカほう
 903	0387	Syrup Bomb	糖浆炸弹	みずあめボム
 904	0388	Ivy Cudgel	棘藤棒	ツタこんぼう
+905	0389	Electro Shot	电光束	エレクトロビーム
+906	038A	Tera Starstorm	晶光星群	テラクラスター
+907	038B	Fickle Beam	随机光	きまぐレーザー
+908	038C	Burning Bulwark	火焰守护	かえんのまもり
+909	038D	Thunderclap	迅雷	じんらい
+910	038E	Mighty Cleave	强刃攻击	パワフルエッジ
+911	038F	Tachyon Cutter	迅子利刃	タキオンカッター
+912	0390	Hard Press	硬压	ハードプレス
+913	0391	Dragon Cheer	龙声鼓舞	ドラゴンエール
+914	0392	Alluring Voice	魅诱之声	みわくのボイス
+915	0393	Temper Flare	豁出去	やけっぱち
+916	0394	Supercell Slam	闪电强袭	サンダーダイブ
+917	0395	Psychic Noise	精神噪音	サイコノイズ
+918	0396	Upper Hand	快手还击	はやてがえし
+919	0397	Malignant Chain	邪毒锁链	じゃどくのくさり
