@@ -199,3 +199,31 @@ TM198	Poltergeist	ポルターガイスト	灵骚
 TM199	Lash Out	うっぷんばらし	泄愤
 TM200	Scale Shot	スケイルショット	鳞射
 TM201	Misty Explosion	ミストバースト	薄雾炸裂
+TM202	Pain Split	いたみわけ	分担痛楚
+TM203	Psych Up	じこあんじ	自我暗示
+TM204	Double-Edge	すてみタックル	舍身冲撞
+TM205	Endeavor	がむしゃら	蛮干
+TM206	Petal Blizzard	はなふぶき	落英缤纷
+TM207	Temper Flare	やけっぱち	豁出去
+TM208	Whirlpool	うずしお	潮旋
+TM209	Muddy Water	だくりゅう	浊流
+TM210	Supercell Slam	サンダーダイブ	闪电强袭
+TM211	Electroweb	エレキネット	电网
+TM212	Triple Axel	トリプルアクセル	三旋击
+TM213	Coaching	コーチング	指导
+TM214	Sludge Wave	ヘドロウェーブ	污泥波
+TM215	Scorching Sands	ねっさのだいち	热沙大地
+TM216	Feather Dance	フェザーダンス	羽毛舞
+TM217	Future Sight	みらいよち	预知未来
+TM218	Expanding Force	ワイドフォース	广域战力
+TM219	Skitter Smack	はいよるいちげき	爬击
+TM220	Meteor Beam	メテオビーム	流星光束
+TM221	Throat Chop	じごくづき	深渊突刺
+TM222	Breaking Swipe	ワイドブレイカー	广域破坏
+TM223	Metal Sound	きんぞくおん	金属音
+TM224	Curse	のろい	咒术
+TM225	Hard Press	ハードプレス	硬压
+TM226	Dragon Cheer	ドラゴンエール	龙声鼓舞
+TM227	Alluring Voice	みわくのボイス	魅诱之声
+TM228	Psychic Noise	サイコノイズ	精神噪音
+TM229	Upper Hand	はやてがえし	快手还击
