@@ -789,7 +789,7 @@ Calyrex	2	蕾冠王	骑黑马的样子
 Wyrdeer	0	诡角鹿	无
 Kleavor	0	劈斧螳螂	无
 Ursaluna	0	月月熊	无
-Ursaluna	1	月月熊	无
+Ursaluna	1	月月熊	赫月
 Basculegion	0	幽尾玄鱼	雄性的样子
 Basculegion	1	幽尾玄鱼	雌性的样子
 Sneasler	0	大狃拉	无
