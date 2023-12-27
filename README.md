@@ -10,5 +10,5 @@ You must use <a  href="https://projectpokemon.org/home/files/file/1-pkhex/">PKHe
 </div>
 
 # Pokemon Scarlet & Violet Encounter Cheats Builder
-### 宝可梦 朱紫 数据 遭遇代码生成
-<img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/d/3d9c9fe7.png"/>
+### 宝可梦 朱紫 遭遇代码生成器
+<img src="https://livedoor.blogimg.jp/ruimusume/imgs/3/1/3166dbe2.png"/>
